@@ -1,0 +1,60 @@
+# Repository configuration for GitHub statistics collection
+# Add new repositories here organized by technology category
+
+repositories:
+  AI/ML:
+    # Top AI/ML Repositories (Testing with small batch)
+    - tensorflow/tensorflow                   # 191k stars - Google's ML framework
+    - pytorch/pytorch                        # 92k stars - Facebook's ML framework
+    - scikit-learn/scikit-learn              # 63k stars - Classical ML
+
+  TypeScript:
+    - nestjs/nest
+    - prisma/prisma
+    - adonisjs/core
+    - typeorm/typeorm
+    - sequelize/sequelize
+    - trpc/trpc
+    - fastify/fastify
+    - taskforcesh/bullmq
+    - mikro-orm/mikro-orm
+    - drizzle-team/drizzle-orm
+    - kysely-org/kysely
+    - colinhacks/zod
+    - winstonjs/winston
+    - pinojs/pino
+    - helmetjs/helmet
+    - moleculerjs/moleculer
+    - typestack/routing-controllers
+    - lukeautry/tsoa
+    - tsedio/tsed
+    - lobehub/lobe-chat
+    - vercel/ai
+
+  "C# ASP.NET":
+    - dotnet/aspnetcore
+    - aspnetrun/run-aspnetcore-microservices
+    - DapperLib/Dapper
+    - jasontaylordev/CleanArchitecture
+    - dotnet/efcore
+    - App-vNext/Polly
+    - dotnet/orleans
+    - HangfireIO/Hangfire
+    - nopSolutions/nopCommerce
+    - ThreeMammals/Ocelot
+    - OrchardCMS/OrchardCore
+    - dotnetcore/CAP
+    - gothinkster/aspnetcore-realworld-example-app
+
+  Developer_Tools:
+    - karpathy/nn-zero-to-hero
+
+  # Future categories to expand research:
+  # B2B_Solutions:
+  #   - example/repo
+  # 
+  # Frontend_Frameworks:
+  #   - example/repo
+  # 
+  # Backend_Infrastructure:
+  #   - example/repo
