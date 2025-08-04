@@ -3,10 +3,27 @@
 
 repositories:
   AI/ML:
-    # Top AI/ML Repositories (Testing with small batch)
+    # Top AI/ML Repositories - Comprehensive List
     - tensorflow/tensorflow                   # 191k stars - Google's ML framework
     - pytorch/pytorch                        # 92k stars - Facebook's ML framework
+    - huggingface/transformers               # 146k stars - State-of-the-art NLP models
     - scikit-learn/scikit-learn              # 63k stars - Classical ML
+    - ollama/ollama                          # 146k stars - Run LLMs locally
+    - microsoft/ML-For-Beginners             # 69k stars - ML course by Microsoft
+    - facebookresearch/detectron2            # 30k stars - Object detection platform
+    - openai/whisper                         # 70k stars - Speech recognition
+    - CompVis/stable-diffusion               # 68k stars - Text-to-image generation
+    - ageitgey/face_recognition              # 53k stars - Face recognition library
+    - keras-team/keras                       # 62k stars - High-level neural networks API
+    - deepfakes/faceswap                     # 52k stars - Deepfakes software
+    - fastai/fastai                          # 26k stars - Deep learning library
+    - facebookresearch/faiss                 # 31k stars - Similarity search library
+    - microsoft/DeepSpeed                    # 35k stars - Deep learning optimization
+    - ray-project/ray                        # 33k stars - Distributed computing
+    - dmlc/xgboost                           # 26k stars - Gradient boosting
+    - streamlit/streamlit                    # 35k stars - ML app framework
+    - gradio-app/gradio                      # 33k stars - ML model interfaces
+    - explosion/spaCy                        # 30k stars - Industrial NLP
 
   TypeScript:
     - nestjs/nest
