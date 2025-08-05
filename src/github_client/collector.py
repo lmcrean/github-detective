@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 
 from .client import GitHubClient
 from .models import RepositoryStats, CollectionMetadata
+from .markdown_generator import MarkdownGenerator
 
 
 class RepositoryCollector:
@@ -109,8 +110,15 @@ def main():
     print(f"Total time: {end_time - start_time:.2f} seconds")
     
     # Save results
-    collector.save_to_csv('data/output/github_repository_stats.csv')
+    csv_path = 'data/output/github_repository_stats.csv'
+    collector.save_to_csv(csv_path)
     collector.save_metadata('data/output/github_stats_metadata.json', end_time - start_time)
+    
+    # Generate markdown documentation
+    print("\nGenerating markdown documentation...")
+    markdown_gen = MarkdownGenerator(csv_path)
+    markdown_gen.generate_markdown_files()
+    print("Markdown documentation generated in docs/ directory")
 
 
 if __name__ == '__main__':
