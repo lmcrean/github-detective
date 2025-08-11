@@ -52,3 +52,35 @@ class CollectionMetadata:
             total_stars=total_stars,
             collection_time_seconds=round(collection_time, 2)
         )
+
+
+@dataclass
+class IssueData:
+    """GitHub issue data model."""
+    number: int
+    title: str
+    state: str
+    labels: List[str]
+    comments: int
+    created_at: str
+    updated_at: str
+    body: Optional[str] = None
+    author: Optional[str] = None
+    
+    def to_markdown_entry(self) -> str:
+        """Convert issue to markdown list entry."""
+        labels_str = ", ".join(self.labels) if self.labels else "No labels"
+        body_preview = ""
+        if self.body:
+            preview = self.body[:200].replace('\n', ' ').strip()
+            if len(self.body) > 200:
+                preview += "..."
+            body_preview = f"\n  > {preview}"
+        
+        return (
+            f"- **#{self.number}: {self.title}**\n"
+            f"  - Labels: {labels_str}\n"
+            f"  - Comments: {self.comments}\n"
+            f"  - Last updated: {self.updated_at[:10]}"
+            f"{body_preview}"
+        )

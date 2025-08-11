@@ -3,8 +3,8 @@
 import requests
 import time
 import re
-from typing import Optional, Dict, Any
-from .models import RepositoryStats
+from typing import Optional, Dict, Any, List
+from .models import RepositoryStats, IssueData
 
 
 class GitHubClient:
@@ -163,3 +163,66 @@ class GitHubClient:
         except Exception as e:
             print(f"Error fetching languages for {owner}/{repo}: {str(e)}")
             return ""
+    
+    def get_issues(self, owner: str, repo: str, max_issues: int = 500) -> List[IssueData]:
+        """Fetch repository issues (up to max_issues most recent)."""
+        issues = []
+        per_page = 100
+        max_pages = (max_issues + per_page - 1) // per_page
+        
+        for page in range(1, max_pages + 1):
+            issues_url = f'{self.base_url}/repos/{owner}/{repo}/issues'
+            params = {
+                'state': 'all',
+                'sort': 'updated',
+                'direction': 'desc',
+                'per_page': per_page,
+                'page': page
+            }
+            
+            try:
+                response = requests.get(issues_url, headers=self.headers, params=params)
+                
+                if response.status_code == 429:
+                    print(f"Rate limit exceeded. Waiting 60 seconds...")
+                    time.sleep(60)
+                    response = requests.get(issues_url, headers=self.headers, params=params)
+                
+                if response.status_code != 200:
+                    print(f"Error fetching issues for {owner}/{repo}: Status {response.status_code}")
+                    break
+                
+                page_issues = response.json()
+                
+                if not page_issues:
+                    break
+                
+                for issue_data in page_issues:
+                    if 'pull_request' in issue_data:
+                        continue
+                    
+                    labels = [label['name'] for label in issue_data.get('labels', [])]
+                    
+                    issue = IssueData(
+                        number=issue_data['number'],
+                        title=issue_data['title'],
+                        state=issue_data['state'],
+                        labels=labels,
+                        comments=issue_data.get('comments', 0),
+                        created_at=issue_data['created_at'],
+                        updated_at=issue_data['updated_at'],
+                        body=issue_data.get('body', ''),
+                        author=issue_data['user']['login'] if issue_data.get('user') else None
+                    )
+                    issues.append(issue)
+                    
+                    if len(issues) >= max_issues:
+                        return issues[:max_issues]
+                
+                time.sleep(0.5)
+                
+            except Exception as e:
+                print(f"Error fetching issues page {page} for {owner}/{repo}: {str(e)}")
+                break
+        
+        return issues
