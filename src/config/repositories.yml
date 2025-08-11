@@ -72,6 +72,9 @@ repositories:
     
   Java_Libraries:
     - mastercard/flow                        # Mastercard Flow testing framework
+    
+  Testing_Frameworks:
+    - microsoft/playwright                   # Cross-browser end-to-end testing
 
   # Future categories to expand research:
   # B2B_Solutions:

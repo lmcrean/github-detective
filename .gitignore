@@ -47,12 +47,8 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
-
-*.md
+I
 !README.md
 !docs/*
 
 */settings.local.json
-
-# Notes and analysis
-.notes/
