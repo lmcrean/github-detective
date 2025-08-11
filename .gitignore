@@ -53,3 +53,6 @@ Thumbs.db
 !docs/*
 
 */settings.local.json
+
+# Notes and analysis
+.notes/
