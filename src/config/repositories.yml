@@ -66,6 +66,13 @@ repositories:
   Developer_Tools:
     - karpathy/nn-zero-to-hero
 
+  # Round 2 Issue Nominations for Analysis
+  Payment_Processing:
+    - stripe/stripe-go                       # Go SDK for Stripe API
+    
+  Java_Libraries:
+    - mastercard/flow                        # Mastercard Flow testing framework
+
   # Future categories to expand research:
   # B2B_Solutions:
   #   - example/repo
