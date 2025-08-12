@@ -40,3 +40,18 @@ Fork this repo
 empty .notes dir and data (they are examples of how to use)
 
 Interact with Claude Code as your research partner to find issues
+
+
+## process overview
+
+1. User chooses Organisation(s) e.g. Shopify, Stripe, Playwright
+
+2.  extract repositories, sort by PR velocity highest first with `30d_PR_merge_count`. Higher counts are a green flag.
+
+3. select % of PR Velocity and filter out any repos (e.g. I don't want to work with Ruby on Rails)
+
+4. extract open issues list, sort by recently opened
+
+5. Define engagement criteria
+
+6. Manually crawl through 50 most recent issues against engagement criteria (User deletes irrelevant files)

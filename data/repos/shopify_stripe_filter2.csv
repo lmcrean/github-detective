@@ -554,14 +554,4 @@ shopify,react-native-skia,HLS Support for Video,4,enhancement,2025-05-17,https:/
 shopify,roast,Implement Iteration Mechanisms for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/48
 shopify,roast,Implement Early Exit and Skip Controls for Workflows,2,enhancement,2025-05-17,https://github.com/shopify/roast/issues/49
 stripe,stripe-js,[BUG]: confirmAcssDebitSetup seems ignore the passed in mandate_data,1,"bug, stale",2025-05-17,https://github.com/stripe/stripe-js/issues/758
-shopify,tapioca,ActiveModel::Attribute generates non nilable attribute that should be nilable,2,question,2025-05-16,https://github.com/shopify/tapioca/issues/2277
-shopify,cli,Shopify CLI: Command auth login not found,1,,2025-05-16,https://github.com/shopify/cli/issues/5812
-shopify,cli,graphql endpoint for `shopify theme push` intermittently unavailable,7,Area: @shopify/theme,2025-05-16,https://github.com/shopify/cli/issues/5819
-shopify,roast,Hot reload of prompts,2,enhancement,2025-05-15,https://github.com/shopify/roast/issues/33
-shopify,react-native-skia,Support loading 16-bit PNGs,1,enhancement,2025-05-15,https://github.com/shopify/react-native-skia/issues/3145
-shopify,roast,Add version command,0,,2025-05-15,https://github.com/shopify/roast/issues/34
-shopify,roast,Grep and Search tools should not have unbound result sets,0,enhancement,2025-05-15,https://github.com/shopify/roast/issues/32
-shopify,flash-list,Footer lags behind when the last item height changes,0,bug,2025-05-15,https://github.com/shopify/flash-list/issues/1663
-shopify,cli,Change proxy server port  when run in localhost,1,,2025-05-15,https://github.com/shopify/cli/issues/5937
-shopify,dev-mcp,MCP Framework,2,Stale,2025-05-15,https://github.com/shopify/dev-mcp/issues/28
-shopify,yjit-metrics,Use rustup to get 1.85+ and rebuild servers,0,,2025-05-15,https://github.com/shopify/yjit-metrics/issues/405
+shopify,tapioca,ActiveModel::Attribute generates non nilable attr1

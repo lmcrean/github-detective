@@ -1,0 +1,270 @@
+org_name,repo_name,issue_title,comments_count,labels,opened_date,hyperlink
+shopify,flash-list,V2: Invalid attribute disableRecycling,0.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1831
+shopify,flash-list,still have blank cells in V2，RN 0.79.2,0.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1833
+shopify,flash-list,Jest mock returns `undefined`,1.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1834
+stripe,stripe-go,.Metadata field for InvoiceVoidInvoiceParams and SubscriptionCancelParams,1.0,bug,2025-08-11,https://github.com/stripe/stripe-go/issues/2105
+shopify,cli,[Bug]: shopify app dev --reset HTTP 500 error,0.0,Type: Bug,2025-08-11,https://github.com/shopify/cli/issues/6238
+stripe,pg-schema-diff,Bump everything to golang 1.24,0.0,,2025-08-11,https://github.com/stripe/pg-schema-diff/issues/227
+shopify,cli,[Bug]: Codespaces `app dev` CSP error,0.0,Type: Bug,2025-08-09,https://github.com/shopify/cli/issues/6235
+stripe,stripe-react-native,Stripe SDK confirmPayment must not be null,4.0,,2025-08-08,https://github.com/stripe/stripe-react-native/issues/2048
+stripe,stripe-go,Add Opentelemetry support,2.0,feature-request,2025-08-08,https://github.com/stripe/stripe-go/issues/2104
+shopify,react-native-skia,"[Expo 53] """"useColorBuffer"""" throwing """" Value is undefined, expected an Object, js engine: hermes""""",0.0,bug,2025-08-08,https://github.com/shopify/react-native-skia/issues/3275
+shopify,flash-list,FlashList Small Gap Sometimes Between Items with Fractional Heights,0.0,bug,2025-08-07,https://github.com/shopify/flash-list/issues/1827
+shopify,flash-list,Loading another Flashlist causes a horizontal scroll bar to appear - IOS,0.0,bug,2025-08-07,https://github.com/shopify/flash-list/issues/1828
+shopify,dev-mcp,How to use MCP Server with newer versions of the Admin GraphQL API?,0.0,,2025-08-06,https://github.com/shopify/dev-mcp/issues/89
+shopify,cli,[Bug]: Logged in customer session issues while developing theme app blocks,0.0,"Type: Bug, Area: @shopify/theme",2025-08-06,https://github.com/shopify/cli/issues/6218
+stripe,stripe-react-native,Support TWINT as a payment method,4.0,,2025-08-06,https://github.com/stripe/stripe-react-native/issues/2039
+shopify,tapioca,ActiveRecordColumnTypes - Create a 'Mixed' option,1.0,enhancement,2025-08-06,https://github.com/shopify/tapioca/issues/2369
+shopify,roast,Token usage counts don't include agent calls,0.0,enhancement,2025-08-05,https://github.com/shopify/roast/issues/343
+shopify,cli,[Bug]: Version couldn't be created,2.0,"Type: Bug, Area: @shopify/app",2025-08-05,https://github.com/shopify/cli/issues/6210
+shopify,flash-list,v2: Horizontal list overflow clipped,2.0,bug,2025-08-04,https://github.com/shopify/flash-list/issues/1822
+shopify,flash-list,V2: MVCP not adjusting position when item above changes layout,1.0,bug,2025-08-04,https://github.com/shopify/flash-list/issues/1823
+shopify,flash-list,v2: maintainVisibleContentPosition doesn't work in horizontal,2.0,bug,2025-08-02,https://github.com/shopify/flash-list/issues/1817
+shopify,flash-list,Scroll position changes when navigating back to a list in react navigation stack,1.0,bug,2025-08-02,https://github.com/shopify/flash-list/issues/1816
+shopify,react-native-skia,Using alpha mask over a group of radialgradient shaders leads to some weird compositing,0.0,bug,2025-08-02,https://github.com/shopify/react-native-skia/issues/3254
+shopify,cli,[Bug]: Theme builds error when uploaded to the theme store,0.0,"Type: Bug, Area: @shopify/theme",2025-08-02,https://github.com/shopify/cli/issues/6205
+stripe,stripe-terminal-react-native,Add ability to simulate terminal error codes,3.0,feature-request,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1007
+shopify,roast,Accept STDIN input in place of a file.,0.0,,2025-08-01,https://github.com/shopify/roast/issues/342
+shopify,shopify-app-js,App proxy doesn't work with multiple query parameters,0.0,,2025-08-01,https://github.com/shopify/shopify-app-js/issues/2692
+stripe,stripe-terminal-react-native,Bluetooth reader connection and dis-connection issue,0.0,,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1008
+stripe,stripe-dotnet,STJUnixDateTimeConverter does not handle nullable DateTime properties correctly,5.0,bug,2025-07-31,https://github.com/stripe/stripe-dotnet/issues/3157
+shopify,cli,[Feature]: Feedback for shopify app build & shopify app deploy --no-build,1.0,"Type: Enhancement, Area: @shopify/app",2025-07-31,https://github.com/shopify/cli/issues/6195
+shopify,cli,[Bug]: App deployment animation broken in CI,2.0,"Type: Bug, Area: @shopify/app",2025-07-31,https://github.com/shopify/cli/issues/6194
+shopify,flash-list,ItemSeparatorComponent is rendered on second to last item when numColumns={2},0.0,bug,2025-07-30,https://github.com/shopify/flash-list/issues/1809
+shopify,roast,Cleanup child processes on SIGINT,0.0,"Bug, deficiency",2025-07-30,https://github.com/shopify/roast/issues/340
+shopify,theme-tools,[Bug]: Theme check in CLI does not report cross-file LiquidDoc errors,0.0,"Severity: 3, Windows",2025-07-30,https://github.com/shopify/theme-tools/issues/1022
+shopify,cli,[Feature]: Add `SHOPIFY_CLI_WASM_OPT_PATH` environment variable,0.0,Type: Enhancement,2025-07-29,https://github.com/shopify/cli/issues/6180
+shopify,cli,"[Bug]: Cannot create unscoped, app-specific webhooks with legacy install flow",0.0,Area: @shopify/app,2025-07-28,https://github.com/shopify/cli/issues/6171
+stripe,stripe-terminal-react-native,Reader update failed due to lack of internet connection,3.0,,2025-07-27,https://github.com/stripe/stripe-terminal-react-native/issues/1003
+shopify,flash-list,Items overlap in FlashList v2,7.0,bug,2025-07-27,https://github.com/shopify/flash-list/issues/1797
+shopify,cli,[Bug]: `theme profile` returns error when authenticating with Theme Access Token,0.0,"Type: Bug, Area: @shopify/theme",2025-07-27,https://github.com/shopify/cli/issues/6168
+shopify,flash-list,onEndReached calls infinitilly in v2,2.0,bug,2025-07-26,https://github.com/shopify/flash-list/issues/1795
+stripe,pg-schema-diff,[FEATURE] option to write out migration files,1.0,enhancement,2025-07-26,https://github.com/stripe/pg-schema-diff/issues/221
+shopify,cli,[Bug]:  JavaScript Shopify Functions deployment fails with canonical_abi_realloc runtime version mismatch,2.0,"Type: Bug, Area: Functions",2025-07-26,https://github.com/shopify/cli/issues/6167
+shopify,cli,[Bug]: CLI attempts to match with removed extension,1.0,Type: Bug,2025-07-24,https://github.com/shopify/cli/issues/6155
+shopify,roast,"""""Argument list too long"""" from ShellScriptStep on large `workflow.output`",0.0,"Bug, deficiency",2025-07-24,https://github.com/shopify/roast/issues/337
+shopify,cli,[Bug]: Extension Metafield Config has Higher Minimum Length For Key String Than Admin API or UI - Blocks Extension Access To Metafield,0.0,Type: Bug,2025-07-24,https://github.com/shopify/cli/issues/6159
+shopify,cli,"[Feature]: Add support for """"Automatic Workspace Folders""""",0.0,"Type: Enhancement, Area: @shopify/theme",2025-07-23,https://github.com/shopify/cli/issues/6151
+shopify,roast,"Named shell steps appear in output and notification payload as their command, not name.",0.0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/336
+shopify,roast,Plain ruby step de-pluralizes to get constant,0.0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/335
+shopify,roast,Rigid naming convention for plain ruby steps,0.0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/334
+shopify,roast,Step events are missing workflow name in payload,0.0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/333
+shopify,flash-list,WebView injectedJavaScript won't run in v2,0.0,bug,2025-07-22,https://github.com/shopify/flash-list/issues/1794
+stripe,stripe-terminal-react-native,Trouble with locally testing reader updates,2.0,,2025-07-22,https://github.com/stripe/stripe-terminal-react-native/issues/997
+shopify,roast,Feature: support responses API,0.0,,2025-07-21,https://github.com/shopify/roast/issues/331
+shopify,cli,New template install issues shopify issues,7.0,,2025-07-20,https://github.com/shopify/cli/issues/6162
+shopify,toxiproxy,Latency toxic is not bidirectional (and this is undocumented),0.0,,2025-07-20,https://github.com/shopify/toxiproxy/issues/655
+shopify,flash-list,onEndReached fires on mount in FlashList and never fires again if INITIAL_ITEM_COUNT is low...,0.0,bug,2025-07-20,https://github.com/shopify/flash-list/issues/1789
+shopify,tapioca,Tapioca::Dsl::Compilers::ActiveJob missing Exception as a possible return type in perform_now type compiled signature,3.0,,2025-07-19,https://github.com/shopify/tapioca/issues/2353
+shopify,react-native-skia,"ReanimatedError: Exception in HostFunction: bad_optional_access, js engine: reanimated",1.0,bug,2025-07-18,https://github.com/shopify/react-native-skia/issues/3242
+shopify,cli,[Bug]: shopify app generate extension with a Typescript flavor fails on the graphql-code-generator command,5.0,Type: Bug,2025-07-18,https://github.com/shopify/cli/issues/6132
+shopify,theme-tools,Check for deprecated fonts,0.0,"enhancement, good first issue, area:theme-check",2025-07-18,https://github.com/shopify/theme-tools/issues/1008
+stripe,stripe-go,Seq2 and LastResponse,6.0,bug,2025-07-18,https://github.com/stripe/stripe-go/issues/2087
+stripe,stripe-js,Visual label names are not descriptive for Expiration combo box in windows.,2.0,bug,2025-07-17,https://github.com/stripe/stripe-js/issues/786
+shopify,react-native-skia,Image after zoom is pixelated on Android Emulator,0.0,,2025-07-17,https://github.com/shopify/react-native-skia/issues/3240
+stripe,stripe-js,Screen reader does not announce the name for info (i) button in windows.,2.0,bug,2025-07-17,https://github.com/stripe/stripe-js/issues/785
+shopify,shopify-app-js,Update shopify app remix tutorial to recommend custom introspection,0.0,,2025-07-17,https://github.com/shopify/shopify-app-js/issues/2685
+shopify,theme-tools,.shopify/metafields.json is showing up everywhere,1.0,,2025-07-16,https://github.com/shopify/theme-tools/issues/1005
+shopify,theme-tools,When I format Liquid code with Shopify Liquid then it is replaced with empty code,1.0,,2025-07-16,https://github.com/shopify/theme-tools/issues/1004
+shopify,flash-list,Blank items after setting scroll position with a `scrollTo...` method during a fling scroll (regression in v2),0.0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1784
+shopify,shopify-app-js,"Bug: GraphQL codegen failing, `callbackUrl` missing from `WebhookSubscriptionInput`",2.0,,2025-07-16,https://github.com/shopify/shopify-app-js/issues/2682
+shopify,flash-list,Crash on web with Next.js,0.0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1783
+shopify,cli,[Bug]: shopify app dev does not update theme preview in version 38.2.1,0.0,"Type: Bug, Area: @shopify/theme",2025-07-16,https://github.com/shopify/cli/issues/6116
+shopify,flash-list,[BUG] FlashList inside Stack of expo-router overlapping content,1.0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1787
+shopify,roast,Streaming output from steps,0.0,enhancement,2025-07-16,https://github.com/shopify/roast/issues/330
+shopify,flash-list,onStartReached isn't always called on reaching the start of the list,0.0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1785
+shopify,flash-list,Scrolling jumps when removing data for invisible items,0.0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1786
+stripe,stripe-js,"There is no visual label for the form elements (like email, country combo box, mobile number, First and last name) under the 'Pay' tab.",2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/781
+stripe,stripe-js,Luminosity ratio of the focus indicator on 'x' button is less than required 3:1 ratio on the 'scan ....' popup.,2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/779
+stripe,stripe-js,Screen reader is not announcing accessible name for 'Country' combo box available on pay tab.,2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/780
+stripe,stripe-js,Luminosity ratio of the focus indicator on 'country' is less than required ratio of 3:1.,2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/782
+stripe,stripe-js,"Error identification message is not provided at """"Credit card number"""", CVC/CVN"""" and """"Expiration date"""" form fields.",2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/784
+shopify,roast,Feature Request: Parallel Execution for Iterated Steps,0.0,,2025-07-15,https://github.com/shopify/roast/issues/325
+stripe,stripe-js,Luminosity ratio of the text is less than required 4.5:1 under the scan 'cash app pay' popup.,2.0,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/783
+shopify,shopify-app-js,Shopify Session Storage For Mongo - Intermittent Errors,1.0,,2025-07-14,https://github.com/shopify/shopify-app-js/issues/2680
+shopify,shopify-app-js,Add `shopify-app-next` package,1.0,,2025-07-14,https://github.com/shopify/shopify-app-js/issues/2681
+shopify,roast,Roast does not give more details about 500 errors,1.0,,2025-07-14,https://github.com/shopify/roast/issues/323
+shopify,roast,Timeout leaves zombie processes,0.0,,2025-07-14,https://github.com/shopify/roast/issues/324
+stripe,stripe-react-native,Android - Cannot read property 'StripeProvider' of undefined,1.0,,2025-07-14,https://github.com/stripe/stripe-react-native/issues/2000
+shopify,flash-list,🐛 Bug Report: Infinite Render Loop in FlashList v2 (setRenderId),20.0,bug,2025-07-14,https://github.com/shopify/flash-list/issues/1773
+stripe,stripe-react-native,[Feature Request/Bug] Enable Dynamic Cart Updates in Apple Pay via onShippingAddressChange,2.0,enhancement,2025-07-14,https://github.com/stripe/stripe-react-native/issues/2001
+stripe,stripe-react-native,"CardForm - """"Card details not complete"""" error when coming back to the screen",2.0,,2025-07-12,https://github.com/stripe/stripe-react-native/issues/1999
+shopify,react-native-skia,Blend is not working,0.0,bug,2025-07-11,https://github.com/shopify/react-native-skia/issues/3237
+shopify,flash-list,React Native 0.80.1 in new Arch - lost items when scrolling,8.0,bug,2025-07-11,https://github.com/shopify/flash-list/issues/1771
+shopify,dev-mcp,Bug: introspect_admin_schema tool missing or inaccessible schema file,0.0,,2025-07-10,https://github.com/shopify/dev-mcp/issues/65
+shopify,tapioca,Different behaviour between CLI and add-on,0.0,bug,2025-07-09,https://github.com/shopify/tapioca/issues/2349
+shopify,tapioca,Trying to generate DSLs with add-on for a non-processable constant errors,1.0,bug,2025-07-09,https://github.com/shopify/tapioca/issues/2348
+shopify,theme-tools,Not respecting `ignore` list on checks,1.0,"Bug, area:theme-check",2025-07-09,https://github.com/shopify/theme-tools/issues/1012
+shopify,cli,[Bug]: Incorrectly getting total size error on theme push,2.0,"Severity: 3, Type: Bug, Area: @shopify/theme",2025-07-09,https://github.com/shopify/cli/issues/6082
+shopify,cli,[Bug]: app init is not usable in non-interactive environment,1.0,Type: Enhancement,2025-07-09,https://github.com/shopify/cli/issues/6081
+shopify,dev-mcp,[Request] Add remotely hosted MCP server,0.0,,2025-07-08,https://github.com/shopify/dev-mcp/issues/59
+shopify,cli,[Feature]: The ability to develop a theme locally and preview it for a specific market,0.0,"Severity: 3, Type: Enhancement, Area: @shopify/theme",2025-07-07,https://github.com/shopify/cli/issues/6074
+shopify,roast,Circuit Breakers (instead of hand-rolled retry),0.0,,2025-07-07,https://github.com/shopify/roast/issues/309
+shopify,dev-mcp,"dev-mcp search_dev_docs response exceeds maximum allowed tokens, making it unusable for large queries",6.0,,2025-07-06,https://github.com/shopify/dev-mcp/issues/58
+shopify,cli,"[Bug]: shopify app deploy fails with """"Version couldn't be created"""" with theme and web pixel extension.",6.0,Type: Bug,2025-07-04,https://github.com/shopify/cli/issues/6069
+shopify,cli,[Bug]: Theme commands hitting network issues,27.0,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-07-03,https://github.com/shopify/cli/issues/6062
+shopify,cli,[Bug]: POS UI Extension,1.0,"Type: Bug, State: Waiting for feedback",2025-07-03,https://github.com/shopify/cli/issues/6068
+shopify,cli,[Bug]: Missing wasm-opt.cjs and shopify-function-trampoline files after upgrading CLI ≥ 3.73 causing build/deploy failures,1.0,"Type: Bug, Area: Functions",2025-07-01,https://github.com/shopify/cli/issues/6044
+shopify,shopify-app-js,A new release of the Shopify API occurred,0.0,automated,2025-07-01,https://github.com/shopify/shopify-app-js/issues/2639
+shopify,theme-tools,RemoteAsset shouldn't throw for video_source.url,0.0,Bug,2025-07-01,https://github.com/shopify/theme-tools/issues/995
+shopify,react-native-skia,[iOS] Canvas is cut off from the bottom,1.0,bug,2025-07-01,https://github.com/shopify/react-native-skia/issues/3220
+shopify,dev-mcp,Instructions for absolute idiots?,0.0,,2025-07-01,https://github.com/shopify/dev-mcp/issues/55
+stripe,stripe-terminal-react-native,Changing Terminal Tokens,5.0,,2025-06-29,https://github.com/stripe/stripe-terminal-react-native/issues/982
+shopify,roast,Infinite loop if project root is not under home,0.0,,2025-06-27,https://github.com/shopify/roast/issues/300
+shopify,roast,Morph-powered File Edit tool,0.0,,2025-06-27,https://github.com/shopify/roast/issues/301
+shopify,cli,[Bug]: Deploying app succeeds but does not update the web pixel,1.0,Type: Bug,2025-06-27,https://github.com/shopify/cli/issues/6034
+stripe,stripe-react-native,BACS not supported in Android Payment Sheet,0.0,,2025-06-26,https://github.com/stripe/stripe-react-native/issues/1982
+stripe,stripe-terminal-react-native,PaymentIntent `sdkUuid` is blank after `confirmPaymentIntent` failed,0.0,bug,2025-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/978
+shopify,tapioca,Tapioca v0.17.5 doesn't handle typing of output of custom GraphQL Scalars correctly,1.0,"bug, help-wanted",2025-06-26,https://github.com/shopify/tapioca/issues/2337
+stripe,stripe-node,Export current api version string,0.0,"future, feature-request",2025-06-26,https://github.com/stripe/stripe-node/issues/2357
+stripe,stripe-terminal-react-native,com.stripeterminalreactnative.TokenProvider.setConnectionToken Android Crash,3.0,,2025-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/979
+stripe,stripe-react-native,Android app crashes on - ActivityTaskManager timeout and StripeKeepJsAwakeTask error `presentPaymentSheet()`,3.0,,2025-06-25,https://github.com/stripe/stripe-react-native/issues/1981
+shopify,flash-list,New arch RN v0.79.4 performance issues,11.0,"bug, v2.0",2025-06-24,https://github.com/shopify/flash-list/issues/1751
+shopify,roast,Noisy output when running tests :(,0.0,,2025-06-24,https://github.com/shopify/roast/issues/297
+shopify,tapioca,Tapioca v0.17.2 fails to generate signature for `AbstractController::Collector#turbo_stream`,3.0,help-wanted,2025-06-24,https://github.com/shopify/tapioca/issues/2334
+stripe,stripe-react-native,Subscription trial manages the same way Checkout does,4.0,,2025-06-23,https://github.com/stripe/stripe-react-native/issues/1975
+shopify,roast,Default to filestorage instead of sqlite ?,0.0,,2025-06-21,https://github.com/shopify/roast/issues/296
+shopify,roast,Feature Request: Add Ollama LLM Support via `ollama-ai` Gem,0.0,,2025-06-20,https://github.com/shopify/roast/issues/288
+shopify,flash-list,Simultaneous Gestures (RNGH) .Pan() + .Native() not working together w/ FlashList,0.0,bug,2025-06-20,https://github.com/shopify/flash-list/issues/1744
+shopify,roast,"429 error - unable to run """"Try it"""" workflow",0.0,,2025-06-19,https://github.com/shopify/roast/issues/286
+stripe,stripe-terminal-react-native,Missing tapZoneIndicator option for NFC readers located to the right of the screen,5.0,"enhancement, Tap to Pay",2025-06-18,https://github.com/stripe/stripe-terminal-react-native/issues/970
+shopify,roast,Rails Database Session Storage Adapter,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/281
+stripe,pg-schema-diff,[BUG] Constraint triggers generate invalid plans,1.0,bug,2025-06-18,https://github.com/stripe/pg-schema-diff/issues/213
+shopify,roast,Rails Cache Store Integration,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/279
+shopify,roast,Rails Workflow Generator,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/278
+shopify,roast,Rails Database Migration Analysis Workflow Example,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/277
+shopify,roast,ActiveSupport::Notifications Integration for APM,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/276
+shopify,roast,Rails Autoloading Support for Workflows,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/280
+shopify,roast,Rails Initializer for Roast Configuration,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/274
+shopify,roast,Rails Generator for Roast Installation,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/268
+stripe,stripe-node,Zod schemas,3.0,"future, feature-request",2025-06-18,https://github.com/stripe/stripe-node/issues/2350
+shopify,roast,Rails Model Integration for Triggering Workflows,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/273
+shopify,roast,Sessions file name too long,0.0,,2025-06-18,https://github.com/shopify/roast/issues/267
+shopify,roast,Rails Conventions for Workflow Organization,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/269
+shopify,roast,Rails Encrypted Credentials Support,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/270
+shopify,roast,ActiveJob Integration for Background Workflow Processing,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/271
+shopify,roast,ApplicationWorkflow Base Class Pattern,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/272
+shopify,roast,RSpec and Minitest Integration for Testing Workflows,0.0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/275
+shopify,cli,[Bug]: Shopify Theme Console keeps logging me out,3.0,"Type: Bug, Area: @shopify/theme",2025-06-17,https://github.com/shopify/cli/issues/5995
+shopify,cli,[Feature]: metafieldNamespaces (or metafields) doesn't seem to be supported in toml webhook subscriptions,3.0,Type: Enhancement,2025-06-16,https://github.com/shopify/cli/issues/5987
+shopify,roast,Use Argot for native YAML validation instead of JSON Schema?,0.0,question,2025-06-16,https://github.com/shopify/roast/issues/265
+shopify,theme-tools,RemoteAsset shouldn't throw for hash URLs,0.0,,2025-06-13,https://github.com/shopify/theme-tools/issues/982
+shopify,roast,Establish consistent test folder structure and naming conventions,0.0,"enhancement, developer-experience",2025-06-13,https://github.com/shopify/roast/issues/262
+shopify,roast,Proposal: Streamlined Git Worktree Workflow Integration,0.0,,2025-06-13,https://github.com/shopify/roast/issues/258
+shopify,tapioca,Feature request: DSL compiler for RuboCop's `def_node_matcher`,1.0,help-wanted,2025-06-13,https://github.com/shopify/tapioca/issues/2321
+stripe,stripe-react-native,"confirmPlatformPayPayment returns """"Canceled"""" error even when payment is not canceled",4.0,,2025-06-13,https://github.com/stripe/stripe-react-native/issues/1970
+shopify,roast,Improve user experience when API key is missing or invalid,0.0,,2025-06-12,https://github.com/shopify/roast/issues/249
+shopify,roast,Add wait_for_event step type for external event synchronization,0.0,"enhancement, epic/developer-experience",2025-06-12,https://github.com/shopify/roast/issues/251
+shopify,roast,Migrate from .roast directory to XDG Base Directory Specification,0.0,,2025-06-12,https://github.com/shopify/roast/issues/247
+shopify,roast,Add `roast diagram` command to generate workflow diagrams (MVP),0.0,,2025-06-12,https://github.com/shopify/roast/issues/253
+shopify,flash-list,Waterfall Layout with Severe Jumping Issues,1.0,"bug, v2.0",2025-06-12,https://github.com/shopify/flash-list/issues/1719
+shopify,roast,Data pipeline examples,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/205
+shopify,roast,Collaboration Features for Workflow Development,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/170
+shopify,roast,Workflow Sharing and Template Gallery,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/169
+shopify,roast,Visual Workflow Builder with Drag-and-Drop Interface,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/167
+shopify,roast,Session Replay and History Management,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/166
+shopify,roast,Real-time Execution Monitoring and Metrics,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/165
+shopify,roast,DAG Rendering and Workflow Visualization,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/164
+shopify,roast,Exponential backoff for failures,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/224
+shopify,roast,Natural language to YAML workflow generation,0.0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/158
+shopify,roast,Circuit breaker pattern for external services,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/225
+shopify,roast,Event-Driven Workflow Triggers,0.0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/172
+shopify,roast,Implement metrics collection and export system,0.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/162
+shopify,roast,"Add observability platform integrations (Datadog, CloudWatch, OpenTelemetry)",0.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/161
+shopify,roast,Step execution middleware system,0.0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/157
+shopify,theme-tools,Rework `DocumentLinks` to use `@shopify/theme-graph`,0.0,"enhancement, good first issue, tech debt, area:language-server",2025-06-11,https://github.com/shopify/theme-tools/issues/968
+shopify,roast,Container & Orchestration Support,0.0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/171
+shopify,roast,Automatic step merging,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/216
+shopify,roast,Secret Management Integration,0.0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/173
+shopify,roast,Rails generator for workflows,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/208
+shopify,roast,Generate self-contained HTML run reports with cloud storage upload,0.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/236
+shopify,roast,Common issue detection,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/223
+shopify,roast,Dependency checking,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/221
+shopify,roast,Step isolation and mocking,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/213
+shopify,roast,Auto-recovery and error diagnosis,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/183
+shopify,roast,Add real-time cost tracking and budget management,0.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/159
+shopify,roast,Model resilience and fallback configuration,0.0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/155
+shopify,roast,Enhanced CLI feedback and progress indicators,0.0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/154
+shopify,roast,Community step marketplace,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/199
+shopify,roast,Add email integration for input steps,0.0,"enhancement, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/238
+shopify,roast,Standard workflow library,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/198
+shopify,roast,Multi-Environment & Multi-Tenancy Support,0.0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/174
+shopify,roast,Session migration support,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/231
+shopify,roast,State persistence across restarts,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/230
+shopify,roast,Long-running workflow management,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/228
+shopify,roast,Python step execution,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/192
+shopify,roast,Embedding management,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/191
+shopify,roast,Document retrieval steps,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/190
+shopify,roast,Add Slack integration for input steps,0.0,"enhancement, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/237
+shopify,roast,Add web UI for input steps,0.0,"enhancement, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/239
+shopify,roast,DevOps automation patterns,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/207
+stripe,stripe-react-native,"Why is """"card scanning"""" iOS only?",2.0,enhancement,2025-06-11,https://github.com/stripe/stripe-react-native/issues/1968
+shopify,dev-mcp,"Bug: `@shopify/dev-mcp@latest` fails to run due to `import ... with { type: """"json"""" }` — works with `1.0.2`",1.0,Stale,2025-06-11,https://github.com/shopify/dev-mcp/issues/47
+shopify,job-iteration,ban_perform_definition should be removed,0.0,,2025-06-11,https://github.com/shopify/job-iteration/issues/587
+shopify,theme-tools,Theme check to notify when files are orphaned,0.0,"enhancement, good first issue, area:theme-check",2025-06-11,https://github.com/shopify/theme-tools/issues/969
+shopify,roast,roast execute workflow.yml --step step_name,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/212
+shopify,roast,Advanced input types for input steps,0.0,"enhancement, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/240
+shopify,roast,Implement structured logging with separate output streams,2.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/160
+shopify,roast,Checkpoint and resume capability,1.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/229
+shopify,roast,Human-in-the-loop manual review steps,0.0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/156
+shopify,roast,Performance recommendations,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/222
+shopify,roast,Detect missing tests workflow,0.0,brainstorm,2025-06-11,https://github.com/shopify/roast/issues/243
+shopify,roast,Advanced input features and patterns,0.0,"enhancement, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/242
+shopify,roast,Remote input channel orchestration,0.0,"enhancement, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/241
+shopify,roast,Built-in RAG tooling,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/189
+shopify,theme-tools,VSCode prompt to remove dead code with an alert,0.0,"enhancement, good first issue, area:theme-check-vscode",2025-06-11,https://github.com/shopify/theme-tools/issues/970
+shopify,roast,Error pattern learning,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/187
+shopify,roast,Failure prediction models,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/233
+shopify,roast,Version pinning and dependency management,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/197
+shopify,roast,Gem-based step distribution,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/196
+shopify,roast,Polyglot workflow capabilities,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/195
+shopify,roast,Language detection and auto-runtime selection,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/194
+shopify,roast,Node.js/JavaScript support,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/193
+shopify,roast,Testing workflow templates,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/206
+shopify,roast,Self-healing workflows,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/186
+shopify,roast,Automatic fix suggestions,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/185
+shopify,roast,AI-powered error analysis,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/184
+shopify,roast,Implement agent tree visualization and built-in swarm patterns,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/181
+shopify,roast,Create coordinator and specialist step types,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/180
+shopify,roast,Add working directory isolation and vibe mode toggle,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/179
+shopify,roast,Pluggable vector database support,0.0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/188
+shopify,roast,Add Claude Swarm gem dependency and enable hierarchical agent organization,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/175
+shopify,roast,Implement per-agent model selection and MCP support,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/176
+shopify,roast,Implement per-step tool access control and restrictions,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/178
+shopify,roast,Support agent handoffs with context and session management,0.0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/177
+shopify,roast,Step-level reflection and analysis,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/232
+shopify,roast,Advanced Code Editor with Roast Intelligence,0.0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/168
+shopify,roast,Performance optimization suggestions,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/234
+shopify,roast,Rails-specific step types,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/210
+shopify,roast,Configurable retry policies,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/227
+shopify,roast,Dead letter queue for failed steps,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/226
+shopify,roast,Workflow performance analysis,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/219
+shopify,roast,Token usage optimization,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/218
+shopify,roast,Parallel execution detection,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/217
+shopify,roast,Step unit testing framework,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/215
+shopify,roast,Automatic workflow improvement,0.0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/235
+shopify,roast,Create KPI dashboard generation capability,0.0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/163
+shopify,roast,Convention over configuration,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/211
+shopify,roast,Debug mode with breakpoints,0.0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/214
+shopify,roast,Docusaurus-based documentation,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/200
+shopify,roast,PR review automation templates,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/204
+shopify,roast,API reference generation,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/203
+shopify,roast,Live code examples,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/202
+shopify,roast,ActiveJob integration,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/209
+shopify,roast,Interactive CLI tutorials,0.0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/201
+stripe,pg-schema-diff,[BUG] Wrong statement when using `generated always as`,0.0,bug,2025-06-10,https://github.com/stripe/pg-schema-diff/issues/212
+shopify,tapioca,Lengthy CI times,0.0,,2025-06-10,https://github.com/shopify/tapioca/issues/2313
+shopify,flash-list,"Unlike FlatList, which resizes properly when the screen dimensions change, the FlashList container does not adjust its size correctly.",6.0,"bug, v2.0",2025-06-10,https://github.com/shopify/flash-list/issues/1717
+shopify,toxiproxy,Add docker compose sample,0.0,,2025-06-09,https://github.com/shopify/toxiproxy/issues/647
+shopify,flash-list,focus jumping and list disappears when scrolling in AndroidTV/FireTV/AppleTV,2.0,bug,2025-06-09,https://github.com/shopify/flash-list/issues/1716
+shopify,roast,Define permissions for CodingAgent in tool config,0.0,enhancement,2025-06-06,https://github.com/shopify/roast/issues/145
+shopify,theme-tools,Section blocks are not validated in `presets` or `default`,0.0,"Bug, SEV-3",2025-06-05,https://github.com/shopify/theme-tools/issues/965
+shopify,checkout-sheet-kit-swift,Does not show store credit payment option,12.0,Bug,2025-06-05,https://github.com/shopify/checkout-sheet-kit-swift/issues/302
+shopify,roast,[Epic] Improve workflow resiliency for transient failures,0.0,enhancement,2025-06-05,https://github.com/shopify/roast/issues/143
+shopify,flash-list,[v2] maintainVisibleContentPosition - there is no way to disable scroll animation,2.0,"bug, v2.0",2025-06-05,https://github.com/shopify/flash-list/issues/1698
+shopify,toxiproxy,Ignore certificate errors when creating proxy over a https url,0.0,,2025-06-04,https://github.com/shopify/toxiproxy/issues/646
+shopify,flash-list,Flashlist crashes expo web,4.0,"bug, v2.0",2025-06-04,https://github.com/shopify/flash-list/issues/1697
+shopify,roast,Inconsistent `.roast` usage,2.0,Bug,2025-06-03,https://github.com/shopify/roast/issues/135
+shopify,tapioca,"ActiveModelAttributes compiler does not allow calling """"super"""" from attribute method overrides.",1.0,,2025-06-03,https://github.com/shopify/tapioca/issues/2307
+shopify,tapioca,Add-on crashes if `sorbet/rbi/gems` doesn't exist,0.0,bug,2025-06-03,https://github.com/shopify/tapioca/issues/2308
+shopify,cli,[Bug]: The script file generated for the `javascript` Liquid tags has a syntax error. It is missing a closing brace and parentheses,0.0,"Severity: 3, Type: Bug, Area: @shopify/theme",2025-06-02,https://github.com/shopify/cli/issues/5921
