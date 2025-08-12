@@ -1,0 +1,179 @@
+org_name,repo_name,open_issue_count,stars_count,forks_count,last_pushed_date,pull_requests_open_count,about_description,merged_prs_30d,hyperlink
+stripe,stripe-android,128,1407,677,2025-08-12,76,Stripe Android SDK    ,126,https://github.com/stripe/stripe-android
+stripe,stripe-ios,158,2426,1015,2025-08-12,91,Stripe iOS SDK    ,119,https://github.com/stripe/stripe-ios
+shopify,cli,92,543,197,2025-08-12,-1,"Build apps, themes, and hydrogen storefronts for Shopify",75,https://github.com/shopify/cli
+stripe,stripe-mock,4,1495,120,2025-08-11,0,stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.,64,https://github.com/stripe/stripe-mock
+shopify,checkout-sheet-kit-swift,14,52,23,2025-08-12,-1,Shopify’s Checkout Sheet Kit makes it simple to perform a checkout inside your Swift native app.,44,https://github.com/shopify/checkout-sheet-kit-swift
+shopify,ruby-lsp,117,1849,213,2025-08-11,-1,An opinionated language server for Ruby,35,https://github.com/shopify/ruby-lsp
+stripe,stripe-react-native,161,1353,291,2025-08-11,24,React Native library for Stripe.,34,https://github.com/stripe/stripe-react-native
+shopify,react-native-skia,88,7748,527,2025-08-12,20,High-performance React Native Graphics using Skia,22,https://github.com/shopify/react-native-skia
+shopify,hydrogen,164,1715,352,2025-08-11,-1,"Hydrogen lets you build faster headless storefronts in less time, on Shopify.",19,https://github.com/shopify/hydrogen
+shopify,dev-mcp,28,464,52,2025-08-12,17,Shopify.dev MCP server,19,https://github.com/shopify/dev-mcp
+stripe,stripe-terminal-react-native,31,138,58,2025-08-12,6,React Native SDK for Stripe Terminal,18,https://github.com/stripe/stripe-terminal-react-native
+shopify,roast,168,799,38,2025-08-11,12,Structured AI workflows made easy,12,https://github.com/shopify/roast
+shopify,tapioca,115,794,149,2025-08-12,-1,The swiss army knife of RBI generation,12,https://github.com/shopify/tapioca
+shopify,theme-tools,133,145,52,2025-08-05,-1,Everything developer experience for Shopify themes,11,https://github.com/shopify/theme-tools
+shopify,yjit-metrics,14,16,11,2025-08-04,-1,"""Tasks for benchmarking, building and collecting stats for YJIT""",11,https://github.com/shopify/yjit-metrics
+stripe,stripe-js,12,700,172,2025-08-01,2,Loading wrapper for Stripe.js,11,https://github.com/stripe/stripe-js
+shopify,shopify-app-js,111,435,166,2025-08-11,-1,,10,https://github.com/shopify/shopify-app-js
+stripe,pg-schema-diff,55,558,39,2025-08-11,0,Go library for diffing Postgres schemas and generating SQL migrations,10,https://github.com/stripe/pg-schema-diff
+shopify,job-iteration,49,1245,53,2025-08-11,20,Makes your background jobs interruptible and resumable by design.,9,https://github.com/shopify/job-iteration
+shopify,ruby-lsp-rails,41,639,33,2025-08-12,-1,A Ruby LSP add-on for Rails,9,https://github.com/shopify/ruby-lsp-rails
+shopify,vscode-shopify-ruby,2,190,16,2025-08-11,-1,An opinionated and auto-configured set of extensions for Ruby development,9,https://github.com/shopify/vscode-shopify-ruby
+stripe,stripe-node,49,4152,805,2025-08-11,10,Node.js library for the Stripe API.    ,8,https://github.com/stripe/stripe-node
+stripe,stripe-dotnet,19,1432,578,2025-08-11,4,"Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com.",8,https://github.com/stripe/stripe-dotnet
+shopify,flash-list,214,6497,322,2025-08-11,33,A better list for React Native,7,https://github.com/shopify/flash-list
+shopify,toxiproxy,92,11412,471,2025-08-11,-1,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing,7,https://github.com/shopify/toxiproxy
+stripe,stripe-go,13,2372,487,2025-08-11,2,Go library for the Stripe API.    ,7,https://github.com/stripe/stripe-go
+shopify,semian,51,1423,81,2025-08-12,-1,:monkey: Resiliency toolkit for Ruby for failing fast,6,https://github.com/shopify/semian
+stripe,stripe-ruby,19,2037,578,2025-08-11,3,Ruby library for the Stripe API.    ,6,https://github.com/stripe/stripe-ruby
+shopify,cli-ui,14,1090,57,2025-08-04,-1,CLI tooling framework with simple interactive widgets,5,https://github.com/shopify/cli-ui
+shopify,tophat,1,784,29,2025-08-11,-1,Easily install and test mobile applications with a single click.,5,https://github.com/shopify/tophat
+shopify,extensions-templates,23,90,15,2025-07-30,20,,5,https://github.com/shopify/extensions-templates
+shopify,function-runner,9,79,14,2025-08-11,8,,5,https://github.com/shopify/function-runner
+shopify,checkout-sheet-kit-react-native,25,56,11,2025-08-12,-1,Shopify's Checkout Sheet Kit for React Native - simplifying the process of adding checkout to your native apps.,5,https://github.com/shopify/checkout-sheet-kit-react-native
+shopify,ghostferry,74,810,78,2025-08-04,28,The swiss army knife of live data migrations,4,https://github.com/shopify/ghostferry
+shopify,dawn,11,2781,3959,2025-08-06,-1,"Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",4,https://github.com/shopify/dawn
+shopify,shopify-function-wasm-api,10,6,0,2025-08-12,10,A WebAssembly programming interface for Shopify Functions,4,https://github.com/shopify/shopify-function-wasm-api
+shopify,rbi-central,21,62,45,2025-08-05,-1,,4,https://github.com/shopify/rbi-central
+shopify,homebrew-shopify,21,49,28,2025-08-06,-1,,4,https://github.com/shopify/homebrew-shopify
+shopify,asset_cloud,6,27,8,2025-08-04,2,An abstraction layer around arbitrary and diverse asset stores,4,https://github.com/shopify/asset_cloud
+stripe,stripe-cli,183,1750,405,2025-08-04,11,A command-line tool for Stripe,4,https://github.com/stripe/stripe-cli
+stripe,stripe-python,21,1848,454,2025-08-11,5,Python library for the Stripe API.    ,4,https://github.com/stripe/stripe-python
+stripe,smokescreen,25,1179,81,2025-08-11,8,A simple HTTP proxy that fogs over naughty URLs    ,4,https://github.com/stripe/smokescreen
+stripe,stripe-java,25,885,371,2025-08-11,3,Java library for the Stripe API.    ,4,https://github.com/stripe/stripe-java
+stripe,stripe-php,13,3912,880,2025-08-11,2,PHP library for the Stripe API.    ,4,https://github.com/stripe/stripe-php
+stripe,react-stripe-js,6,1927,294,2025-08-04,2,React components for Stripe.js and Stripe Elements,4,https://github.com/stripe/react-stripe-js
+shopify,identity_cache,41,1940,173,2025-08-04,-1,"IdentityCache is a blob level caching solution to plug into Active Record. Don't #find, #fetch!",3,https://github.com/shopify/identity_cache
+shopify,ejson,5,1433,65,2025-08-11,-1,EJSON is a small library to manage encrypted secrets using asymmetric encryption.,3,https://github.com/shopify/ejson
+shopify,ruby-style-guide,10,557,51,2025-08-11,-1,Shopify’s Ruby Style Guide,3,https://github.com/shopify/ruby-style-guide
+shopify,worldwide,16,83,7,2025-08-12,-1,A gem to assist with the internationalization and localization of ruby code,3,https://github.com/shopify/worldwide
+shopify,cli-kit,3,155,16,2025-08-04,-1,Framework/Engine for command line interfaces,3,https://github.com/shopify/cli-kit
+stripe,stripe-terminal-ios,21,120,71,2025-08-07,0,Stripe Terminal iOS SDK,3,https://github.com/stripe/stripe-terminal-ios
+shopify,polaris,182,6018,1228,2025-08-11,-1,Shopify’s design system to help us work together to build a great experience for all of our merchants.,2,https://github.com/shopify/polaris
+shopify,graphql-batch,17,1429,105,2025-08-12,-1,A query batching executor for the graphql gem,2,https://github.com/shopify/graphql-batch
+shopify,pitchfork,8,795,33,2025-07-28,-1,,2,https://github.com/shopify/pitchfork
+shopify,autotuner,7,569,15,2025-08-11,6,Get suggestions to tune Ruby's garbage collector,2,https://github.com/shopify/autotuner
+shopify,deprecation_toolkit,10,509,35,2025-08-08,-1,⚒Eliminate deprecations from your codebase ⚒,2,https://github.com/shopify/deprecation_toolkit
+shopify,ci-queue,17,179,34,2025-08-11,2,Distribute tests over many workers using a queue,2,https://github.com/shopify/ci-queue
+shopify,liquid-spec,17,0,0,2025-08-12,-1,liquid-spec is a test suite for the Liquid language.,2,https://github.com/shopify/liquid-spec
+stripe,subprocess,6,210,18,2025-07-24,1,A port of Python's subprocess module to Ruby    ,2,https://github.com/stripe/subprocess
+stripe,stripe-terminal-android,20,113,53,2025-08-01,0,Stripe Terminal Android SDK,2,https://github.com/stripe/stripe-terminal-android
+shopify,krane,67,1397,119,2025-07-16,-1,A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result,1,https://github.com/shopify/krane
+shopify,js-buy-sdk,21,1005,267,2025-07-28,-1,"The JS Buy SDK is a lightweight library that allows you to build ecommerce into any website. It is based on Shopify's API and provides the ability to retrieve products and collections from your shop, add products to a cart, and checkout.",1,https://github.com/shopify/js-buy-sdk
+shopify,money,32,343,44,2025-08-11,14,Manage money in Shopify with a class that won't lose pennies during division,1,https://github.com/shopify/money
+shopify,statsd-instrument,13,586,100,2025-08-01,7,A StatsD client for Ruby apps. Provides metaprogramming methods to inject StatsD instrumentation into your code.,1,https://github.com/shopify/statsd-instrument
+shopify,shadowenv,23,427,20,2025-08-08,-1,reversible directory-local environment variable manipulations,1,https://github.com/shopify/shadowenv
+shopify,measured,13,376,30,2025-08-12,6,Encapsulate measurements and their units in Ruby and Ruby on Rails.,1,https://github.com/shopify/measured
+shopify,better-html,12,456,27,2025-07-15,-1,Better HTML for Rails,1,https://github.com/shopify/better-html
+shopify,limiter,1,423,23,2025-07-14,1,Simple Ruby rate limiting mechanism.,1,https://github.com/shopify/limiter
+shopify,gltf-compressor,0,297,9,2025-08-08,0,The easiest way to compress glTF files!,1,https://github.com/shopify/gltf-compressor
+shopify,ruby_memcheck,2,252,16,2025-08-11,1,Use Valgrind memcheck on your native gem without going crazy,1,https://github.com/shopify/ruby_memcheck
+shopify,ruvy,0,307,7,2025-08-01,-1,,1,https://github.com/shopify/ruvy
+shopify,i18next-shopify,27,30,5,2025-08-12,-1,,1,https://github.com/shopify/i18next-shopify
+shopify,smart_todo,4,160,10,2025-07-17,-1,Enhance TODO comment in your Ruby code,1,https://github.com/shopify/smart_todo
+stripe,stripe-apps,330,161,78,2025-08-08,104,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.,1,https://github.com/stripe/stripe-apps
+stripe,agent-toolkit,12,925,131,2025-08-11,0,Python and TypeScript library for integrating the Stripe API into agentic workflows,1,https://github.com/stripe/agent-toolkit
+shopify,liquid,399,11446,1468,2025-08-12,77,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",0,https://github.com/shopify/liquid
+shopify,hydrogen-v1,193,3745,326,2025-03-19,33,"React-based framework for building dynamic, Shopify-powered custom storefronts.",0,https://github.com/shopify/hydrogen-v1
+shopify,ui-extensions,429,301,47,2025-08-11,71,Repo for the public definition of Shopify's UI extension APIs. Please use the community forum to ask questions or report issues: https://community.shopify.dev/c/extensions/5,0,https://github.com/shopify/ui-extensions
+shopify,sorbet,200,10,6,2025-08-11,52,"A fast, powerful type checker designed for Ruby",0,https://github.com/shopify/sorbet
+shopify,opentelemetry-collector-contrib,184,5,4,2025-08-04,184,Contrib repository for the OpenTelemetry Collector,0,https://github.com/shopify/opentelemetry-collector-contrib
+shopify,draggable,163,18329,1109,2025-06-24,-1,The JavaScript Drag & Drop library your grandparents warned you about.,0,https://github.com/shopify/draggable
+shopify,themekit,99,1249,406,2025-06-24,-1,Shopify theme development command line tool.,0,https://github.com/shopify/themekit
+shopify,shipit-engine,71,1451,150,2025-07-22,-1,Deployment coordination,0,https://github.com/shopify/shipit-engine
+shopify,mobile-buy-sdk-ios,99,473,202,2025-08-11,5,"Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using Apple Pay or their credit card.",0,https://github.com/shopify/mobile-buy-sdk-ios
+shopify,shopify_app,32,1834,711,2025-08-11,11,A Rails Engine for building Shopify Apps,0,https://github.com/shopify/shopify_app
+shopify,erb_lint,83,727,134,2025-08-11,-1,Lint your ERB or HTML files,0,https://github.com/shopify/erb_lint
+shopify,shopify_python_api,27,1370,379,2025-06-16,11,ShopifyAPI library allows Python developers to programmatically access the admin section of stores,0,https://github.com/shopify/shopify_python_api
+shopify,go-lua,50,3321,204,2025-07-18,-1,A Lua VM in Go,0,https://github.com/shopify/go-lua
+shopify,shopify-app-template-node,47,963,417,2025-08-11,-1,,0,https://github.com/shopify/shopify-app-template-node
+shopify,shopify-api-ruby,26,1077,478,2025-08-12,6,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.,0,https://github.com/shopify/shopify-api-ruby
+shopify,packwerk,37,1745,119,2025-07-31,-1,Good things come in small packages.,0,https://github.com/shopify/packwerk
+shopify,polaris-viz,100,361,36,2025-06-05,-1,A collection of React and React native components that compose Shopify's data visualization system,0,https://github.com/shopify/polaris-viz
+shopify,restyle,32,3237,146,2025-08-04,-1,A type-enforced system for building UI components in React Native with TypeScript.,0,https://github.com/shopify/restyle
+shopify,remote-dom,29,1126,70,2025-07-30,-1,,0,https://github.com/shopify/remote-dom
+shopify,buy-button-js,149,251,122,2025-08-12,-1,BuyButton.js is a highly customizable UI library for adding ecommerce functionality to any website.,0,https://github.com/shopify/buy-button-js
+shopify,shopify-app-template-remix,73,503,229,2025-08-12,-1,,0,https://github.com/shopify/shopify-app-template-remix
+shopify,mobile-buy-sdk-android,106,228,141,2025-08-11,-1,"Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using their credit card.",0,https://github.com/shopify/mobile-buy-sdk-android
+shopify,react-native-performance,24,966,51,2025-08-12,-1,Performance monitoring for React Native apps,0,https://github.com/shopify/react-native-performance
+shopify,maintenance_tasks,7,1168,93,2025-08-12,-1,A Rails engine for queueing and managing data migrations.,0,https://github.com/shopify/maintenance_tasks
+shopify,eng-internship-challenge,311,15,351,2025-08-12,-1,A Technical Challenge for Engineering Internship applicants,0,https://github.com/shopify/eng-internship-challenge
+shopify,eng-intern-assessment-react,272,18,385,2025-07-18,-1,A Starter repo for Shopify React Intern assessments,0,https://github.com/shopify/eng-intern-assessment-react
+shopify,eng-intern-assessment-rails,241,12,399,2025-08-04,-1,A Starter repo for Shopify Rails Intern assessments,0,https://github.com/shopify/eng-intern-assessment-rails
+shopify,eng-intern-assessment-data,168,11,230,2025-08-11,-1,A Starter repo for Shopify Data Eng Intern Assessments,0,https://github.com/shopify/eng-intern-assessment-data
+shopify,infra-intern-assessment,115,5,151,2025-08-12,-1,A Starter repo for Shopify Infrastructure Intern assessments,0,https://github.com/shopify/infra-intern-assessment
+shopify,shopify-api-php,45,440,189,2025-08-11,-1,,0,https://github.com/shopify/shopify-api-php
+shopify,product-taxonomy,65,186,48,2025-08-11,-1,Shopify's standardized product taxonomy.,0,https://github.com/shopify/product-taxonomy
+shopify,ruby,69,43,14,2025-08-12,-1,The Ruby Programming Language [mirror],0,https://github.com/shopify/ruby
+shopify,shopify_django_app,15,502,167,2025-05-13,4,Get a Shopify app up and running with Django and Python Shopify API,0,https://github.com/shopify/shopify_django_app
+shopify,eng-intern-assessment-react-native,69,5,89,2025-08-07,-1,A Starter repo for Shopify React Native intern assessments,0,https://github.com/shopify/eng-intern-assessment-react-native
+shopify,web-configs,17,481,58,2025-07-29,-1,Common configurations for building web apps at Shopify,0,https://github.com/shopify/web-configs
+shopify,skeleton-theme,7,473,222,2025-06-02,3,"A minimal, carefully structured Shopify theme designed to help you quickly get started. Designed with modularity, maintainability, and Shopify's best practices in mind.",0,https://github.com/shopify/skeleton-theme
+shopify,app_profiler,14,253,12,2025-08-11,8,Collect performance profiles for your Rails application.,0,https://github.com/shopify/app_profiler
+shopify,shopify.github.com,4,520,117,2025-05-23,-1,A collection of the open source projects by Shopify,0,https://github.com/shopify/shopify.github.com
+shopify,storefront-api-learning-kit,12,408,84,2025-08-12,-1,,0,https://github.com/shopify/storefront-api-learning-kit
+shopify,product-reviews-sample-app,16,366,164,2025-07-29,-1,"A sample Shopify application that creates and stores product reviews for a store, written in Node.js",0,https://github.com/shopify/product-reviews-sample-app
+shopify,tracky,15,380,29,2025-05-13,-1,The easiest way to do motion tracking! ,0,https://github.com/shopify/tracky
+shopify,function-examples,30,223,66,2025-07-18,-1,,0,https://github.com/shopify/function-examples
+shopify,hydrogen-demo-store,30,189,86,2025-08-11,-1,"This template contains a full-featured setup of components, queries and tooling to get started with Hydrogen. It is deployed to https://hydrogen.shop",0,https://github.com/shopify/hydrogen-demo-store
+shopify,rubygems,16,2,3,2025-06-09,16,Library packaging and distribution for Ruby.,0,https://github.com/shopify/rubygems
+shopify,FunctionalTableData,12,369,28,2025-08-07,-1,Declarative UITableViewDataSource implementation,0,https://github.com/shopify/FunctionalTableData
+shopify,git-chain,23,237,15,2025-08-11,-1,Tool to rebase multiple Git branches based on the previous one.,0,https://github.com/shopify/git-chain
+shopify,screenshot-glb,32,140,32,2025-07-21,-1,A command line utility for taking screenshots of glTF 2.0 Binary 3D model files,0,https://github.com/shopify/screenshot-glb
+shopify,grpc,40,2,3,2025-08-05,-1,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",0,https://github.com/shopify/grpc
+shopify,shopify-frontend-template-react,26,153,76,2025-08-08,-1,,0,https://github.com/shopify/shopify-frontend-template-react
+shopify,syrup,14,111,9,2025-08-12,5,"A type-safe GraphQL model generator for Kotlin, Swift, and TypeScript.",0,https://github.com/shopify/syrup
+shopify,shop-chat-agent,16,44,35,2025-07-22,8,A reference app for storefront chat agent,0,https://github.com/shopify/shop-chat-agent
+shopify,omniauth-shopify-oauth2,17,92,70,2025-08-04,5,Shopify OAuth2 Strategy for OmniAuth 1.0,0,https://github.com/shopify/omniauth-shopify-oauth2
+shopify,opentelemetry-ruby-contrib,38,0,0,2025-05-01,-1,Contrib Packages for the OpenTelemetry Ruby API and SDK implementation.,0,https://github.com/shopify/opentelemetry-ruby-contrib
+shopify,lighthouse-ci-action,21,117,55,2025-08-12,-1,,0,https://github.com/shopify/lighthouse-ci-action
+shopify,theme-extension-getting-started,20,117,49,2025-05-13,-1,A theme app extension boilerplate that highlights the basic structure and features that are available to developers who want to integrate their apps with Shopify Online Stores.,0,https://github.com/shopify/theme-extension-getting-started
+shopify,active_utils,8,93,84,2025-08-11,6,"Active Utils extracts commonly used modules and classes used by Active Merchant, Active Shipping, and Active Fulfillment",0,https://github.com/shopify/active_utils
+shopify,node-themekit,22,112,28,2025-07-21,-1,Theme asset interaction library and management tools written in Node.js,0,https://github.com/shopify/node-themekit
+shopify,spoom,6,245,25,2025-08-12,-1,Useful tools for Sorbet enthusiasts,0,https://github.com/shopify/spoom
+shopify,torch-grammar,8,67,5,2025-08-11,7,,0,https://github.com/shopify/torch-grammar
+shopify,pyactiveresource,20,102,46,2025-08-12,-1,,0,https://github.com/shopify/pyactiveresource
+shopify,rubocop-sorbet,11,186,31,2025-06-25,-1,A collection of RuboCop rules for Sorbet,0,https://github.com/shopify/rubocop-sorbet
+shopify,discount-app-components,21,85,27,2025-07-22,-1,A library of discounts-focused React components to help in building Shopify apps.,0,https://github.com/shopify/discount-app-components
+shopify,twine,17,117,9,2025-05-29,-1,Twine is a minimalistic two-way binding system,0,https://github.com/shopify/twine
+shopify,oktakit,21,72,64,2025-08-11,-1,Ruby toolkit for working with the Okta API,0,https://github.com/shopify/oktakit
+shopify,condense-number,9,43,6,2025-08-11,6,Locale-aware number condensing,0,https://github.com/shopify/condense-number
+shopify,lhm,7,199,27,2025-07-08,-1,Online MySQL schema migrations,0,https://github.com/shopify/lhm
+shopify,graphql-metrics,3,172,11,2025-08-04,2,"Extract as much much detail as you want from GraphQL queries, served up from your Ruby app and the graphql gem. ",0,https://github.com/shopify/graphql-metrics
+shopify,argo-cd-1,8,1,2,2025-08-06,8,Declarative Continuous Deployment for Kubernetes,0,https://github.com/shopify/argo-cd-1
+shopify,protoboeuf,19,46,8,2025-08-04,-1,A pure Ruby implementation of Protobuf designed to optimize well with JIT compilers.,0,https://github.com/shopify/protoboeuf
+shopify,goose,16,85,14,2025-08-11,-1,Curated collection of Go packages that integrate well together,0,https://github.com/shopify/goose
+shopify,fixture_factory,4,85,5,2025-08-12,4,,0,https://github.com/shopify/fixture_factory
+shopify,seafoam,8,137,23,2025-08-04,-1,A tool for working with compiler graphs dumped by the GraalVM compiler,0,https://github.com/shopify/seafoam
+shopify,memcached,7,3,6,2025-07-25,7,A Ruby interface to the libmemcached C client,0,https://github.com/shopify/memcached
+shopify,example-app--qr-code--remix,6,75,55,2025-07-22,3,,0,https://github.com/shopify/example-app--qr-code--remix
+shopify,shopify-app-template-ruby,7,141,49,2025-08-05,-1,,0,https://github.com/shopify/shopify-app-template-ruby
+shopify,preact-testing,11,17,4,2025-08-11,2,,0,https://github.com/shopify/preact-testing
+shopify,customer-account-tutorials,20,7,2,2025-07-23,-1,Coding tutorials related to customer accounts,0,https://github.com/shopify/customer-account-tutorials
+shopify,shopify-theme-inspector,2,166,22,2025-05-13,-1,A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!,0,https://github.com/shopify/shopify-theme-inspector
+shopify,toml-patch,6,3,1,2025-08-11,6,"A JS library using WebAssembly to patch TOML files, preserving formatting",0,https://github.com/shopify/toml-patch
+shopify,zincsearch-1,6,1,1,2025-03-12,6,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",0,https://github.com/shopify/zincsearch-1
+shopify,kubernetes-sample-apps,6,1,1,2025-03-21,6,Example DigitalOcean Kubernetes workload with service exposed through a DO load-balancer.,0,https://github.com/shopify/kubernetes-sample-apps
+shopify,response_bank,2,136,18,2025-06-05,0,Simple response caching for Ruby applications,0,https://github.com/shopify/response_bank
+shopify,yjit-bench,8,96,28,2025-08-11,-1,Set of benchmarks for the YJIT CRuby JIT compiler and other Ruby implementations.,0,https://github.com/shopify/yjit-bench
+shopify,nixpkgs,19,4,5,2025-06-25,-1,Nix Packages collection,0,https://github.com/shopify/nixpkgs
+shopify,horizon,1,173,32,2025-08-06,-1,Shopify's Horizon theme source code,0,https://github.com/shopify/horizon
+shopify,liquid-tm-grammar,6,18,7,2025-05-22,4,The official syntax highlighting grammar for Shopify Liquid,0,https://github.com/shopify/liquid-tm-grammar
+shopify,argo-admin-template,5,27,15,2025-08-11,3,Template repository for App Extensions build with Shopify/shopify-app-cli,0,https://github.com/shopify/argo-admin-template
+shopify,custom-property-analyzer,5,3,3,2025-08-11,4,,0,https://github.com/shopify/custom-property-analyzer
+shopify,graphql_java_gen,9,82,40,2025-05-13,-1,GraphQL java client code generator,0,https://github.com/shopify/graphql_java_gen
+shopify,zjit,7,2,0,2025-05-14,4,"Next-gen Ruby JIT, now in upstream CRuby",0,https://github.com/shopify/zjit
+shopify,zincsearch,5,1,2,2025-03-12,5,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",0,https://github.com/shopify/zincsearch
+shopify,yugabyte-db,5,0,2,2025-07-14,5,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,0,https://github.com/shopify/yugabyte-db
+shopify,reference-theme,0,149,58,2025-04-30,-1,A developer reference theme for Shopify online store themes,0,https://github.com/shopify/reference-theme
+shopify,handy,2,147,13,2025-05-13,-1,The easiest way to mocap your hands!,0,https://github.com/shopify/handy
+shopify,hydrogen-redirect-theme,5,56,28,2025-08-04,2,,0,https://github.com/shopify/hydrogen-redirect-theme
+shopify,schmooze,9,75,14,2025-08-11,-1,Schmooze lets Ruby and Node.js work together intimately.,0,https://github.com/shopify/schmooze
+shopify,app-cli-node-generator-helper,14,4,5,2025-07-21,-1,,0,https://github.com/shopify/app-cli-node-generator-helper
+shopify,salesforce_chunker,6,3,4,2025-08-04,4,,0,https://github.com/shopify/salesforce_chunker
+shopify,activerecord-rescue_from_duplicate,7,91,9,2025-08-04,-1,"Ruby gem to rescue from MySQL, PostgreSQL and Sqlite duplicate errors",0,https://github.com/shopify/activerecord-rescue_from_duplicate
+shopify,gvltools,3,131,10,2025-05-20,-1,Set of GVL instrumentation tools,0,https://github.com/shopify/gvltools
+stripe,vscode-stripe,69,131,38,2025-03-20,23,Stripe for Visual Studio Code,0,https://github.com/stripe/vscode-stripe
+stripe,skycfg,10,664,57,2025-06-29,0,Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.,0,https://github.com/stripe/skycfg
+stripe,openapi,15,431,130,2025-08-11,0,An OpenAPI specification for the Stripe API.        ,0,https://github.com/stripe/openapi
