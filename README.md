@@ -1,61 +1,15 @@
-# github-library
-A library of Major Players on Github, with a focus on Artificial Intelligence sectors with KPI statistics
+# DOGGG -- Bounty Hunter of Good Open Issues on Github
 
-A standalone tool for collecting and analyzing GitHub repository statistics.
+<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/e86ef0ad-fca5-492f-9259-6d146edbb68c" />
 
-## Features
+Locates high-impact issues on github using a combination of Github API; Python scripts and Dialogue with Claude Code CLI.
 
-- Collect repository statistics (stars, forks, contributors, issues, PRs)
-- Support for rate limiting and authentication
-- Export data to CSV format
-- Language breakdown analysis
-- Automated data collection via GitHub Actions
 
-## Setup
+## Workflow
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Configure repositories in `src/config/repositories.yml`
-
-3. Set GitHub token (optional but recommended):
-   ```bash
-   export GITHUB_TOKEN=your_token_here
-   ```
-
-## Usage
-
-### Manual Collection
-```bash
-python scripts/run_collection.py
 ```
-
-### Running Tests
-```bash
-python -m pytest tests/ -v
+.notes/ # 1. Design Prompts with Claude Code in .notes/
+scripts/ # 2. Run the python scripts in scripts
+data/ # 3. data will output here
+.env # recommended: use API_GITHUB_TOKEN for more tool calls
 ```
-
-## Data Output
-
-- CSV data: `data/output/github_repository_stats.csv`
-- Metadata: `data/output/github_stats_metadata.json`
-
-## Configuration
-
-Edit `src/config/repositories.yml` to specify which repositories to track:
-
-```yaml
-repositories:
-  AI/ML:
-    - tensorflow/tensorflow
-    - pytorch/pytorch
-  TypeScript:
-    - nestjs/nest
-    - prisma/prisma
-```
-
-## Automated Collection
-
-GitHub Actions workflow runs weekly and on pushes to collect fresh data automatically.
