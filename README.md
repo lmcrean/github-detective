@@ -1,5 +1,8 @@
-# GBH-Claude -- Github Bounty Hunter and Research Partner of Good Open Issues on Github
+# Grace -- Github Bounty Hunter and Research Partner of Good Open Issues on Github
 
+```
+
+```
 
 Locates high-impact issues on github using a combination of Github API; Python scripts and Dialogue with Claude Code CLI.
 
