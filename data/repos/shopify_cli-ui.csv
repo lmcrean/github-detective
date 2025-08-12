@@ -1,0 +1,41 @@
+# Issues Total: 36
+# Repository: https://github.com/shopify/cli-ui
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Links to documentation are broken (again),0,,2025-05-08,https://github.com/shopify/cli-ui/issues/592
+[formatter] How to escape end expressions to handle JSON braces?,0,,2025-03-20,https://github.com/shopify/cli-ui/issues/586
+Spin group wait causes ClosedQueueError,0,,2024-12-15,https://github.com/shopify/cli-ui/issues/575
+SpinGroup hangs when used inside Prompt.ask,3,,2024-03-06,https://github.com/shopify/cli-ui/issues/500
+`is_file` option not working for `ask`,1,,2024-06-17,https://github.com/shopify/cli-ui/issues/531
+CLI::UI.ask multi-line input,0,,2024-03-05,https://github.com/shopify/cli-ui/issues/499
+Ability to fail the whole process if spinner fails,0,,2024-02-13,https://github.com/shopify/cli-ui/issues/491
+Radio buttons / checkboxes,4,,2023-07-28,https://github.com/shopify/cli-ui/issues/455
+Spinners outside the screen can't update,3,,2020-03-08,https://github.com/shopify/cli-ui/issues/117
+Intermittent prompt_test failure,0,,2023-06-19,https://github.com/shopify/cli-ui/issues/443
+Weak guarantees for `IO#write` override,0,,2023-06-02,https://github.com/shopify/cli-ui/issues/434
+Progress bar broken in 2.2?,3,,2023-04-24,https://github.com/shopify/cli-ui/issues/423
+Cannot load such file - cli-ui-2.2.0/vendor/reentrant_mutex,2,,2023-04-18,https://github.com/shopify/cli-ui/issues/418
+Questions get duplicated when the message is too long,6,,2022-03-21,https://github.com/shopify/cli-ui/issues/253
+Error interactive_options.rb:337:in `wait_for_user_input': Interrupt (Interrupt),2,,2023-03-01,https://github.com/shopify/cli-ui/issues/398
+Can't prompt in a spinner,0,,2022-05-30,https://github.com/shopify/cli-ui/issues/281
+Add option to allow configuration of ask prompt instructions colour,2,,2023-01-26,https://github.com/shopify/cli-ui/issues/376
+[Feature Request] Allow to debrief successful SpinGroups,0,,2022-11-23,https://github.com/shopify/cli-ui/issues/355
+Circular dependency warnings,0,,2022-08-22,https://github.com/shopify/cli-ui/issues/321
+Links to documentation are broken,2,,2022-07-21,https://github.com/shopify/cli-ui/issues/308
+Cant use gray color option for frame,2,,2022-06-16,https://github.com/shopify/cli-ui/issues/289
+Add grey (and gray) as a defined colour for formatting,3,,2021-07-27,https://github.com/shopify/cli-ui/issues/200
+Should gracefully fail when an invalid colour formatter is specified,6,,2021-07-27,https://github.com/shopify/cli-ui/issues/199
+The ask color change my frame color.,0,,2022-05-12,https://github.com/shopify/cli-ui/issues/271
+Add example showing how to run a shell command with stdout redirected,2,,2022-03-10,https://github.com/shopify/cli-ui/issues/250
+"ANSI color code escaping for """"ask"""" broken in Debian",2,,2022-01-17,https://github.com/shopify/cli-ui/issues/222
+Spinner does not reset terminal fast enough when there's a lot of output,2,,2021-12-14,https://github.com/shopify/cli-ui/issues/216
+Should not `ask` when it is not interactive,2,,2021-11-15,https://github.com/shopify/cli-ui/issues/214
+in the terminal of vscode,1,,2021-11-20,https://github.com/shopify/cli-ui/issues/215
+Have a new gem version published.,1,,2020-10-23,https://github.com/shopify/cli-ui/issues/156
+Make OS detection compatible with JRuby.,0,,2020-11-08,https://github.com/shopify/cli-ui/issues/159
+Why does :options conflict with :default? Would love to see it fixed.,1,,2021-10-18,https://github.com/shopify/cli-ui/issues/210
+Why CLI::UI::Frame::UnnestedFrameException was raised?,1,"question, low priority",2020-10-06,https://github.com/shopify/cli-ui/issues/154
+Cut new release?,0,,2019-12-11,https://github.com/shopify/cli-ui/issues/103
+Password prompt with CLI::UI.ask,6,,2020-01-08,https://github.com/shopify/cli-ui/issues/111
+Questions about the Progress Bar widget ,5,,2019-12-31,https://github.com/shopify/cli-ui/issues/106

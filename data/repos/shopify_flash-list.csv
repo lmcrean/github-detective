@@ -1,0 +1,238 @@
+# Issues Total: 232
+# Repository: https://github.com/shopify/flash-list
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Jest mock returns `undefined`,1,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1834
+still have blank cells in V2，RN 0.79.2,0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1833
+v2: maintainVisibleContentPosition doesn't work in horizontal,2,bug,2025-08-02,https://github.com/shopify/flash-list/issues/1817
+V2: Invalid attribute disableRecycling,0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1831
+FlashList broken when numColumns is 2 and App is in RTL,4,bug,2024-05-22,https://github.com/shopify/flash-list/issues/1207
+onEndReached calls infinitilly in v2,2,bug,2025-07-26,https://github.com/shopify/flash-list/issues/1795
+Items overlap in FlashList v2,7,bug,2025-07-27,https://github.com/shopify/flash-list/issues/1797
+Scroll position changes when navigating back to a list in react navigation stack,1,bug,2025-08-02,https://github.com/shopify/flash-list/issues/1816
+🐛 Bug Report: Infinite Render Loop in FlashList v2 (setRenderId),20,bug,2025-07-14,https://github.com/shopify/flash-list/issues/1773
+'Maximum update depth exceeded' issue,7,bug,2025-07-21,https://github.com/shopify/flash-list/issues/1792
+Loading another Flashlist causes a horizontal scroll bar to appear - IOS,0,bug,2025-08-07,https://github.com/shopify/flash-list/issues/1828
+FlashList Small Gap Sometimes Between Items with Fractional Heights,0,bug,2025-08-07,https://github.com/shopify/flash-list/issues/1827
+Blank space still exists,21,bug,2023-07-04,https://github.com/shopify/flash-list/issues/868
+v2: Horizontal list overflow clipped,2,bug,2025-08-04,https://github.com/shopify/flash-list/issues/1822
+V2: MVCP not adjusting position when item above changes layout,1,bug,2025-08-04,https://github.com/shopify/flash-list/issues/1823
+Impossible to have list with overflow visible,1,bug,2023-11-09,https://github.com/shopify/flash-list/issues/945
+Getting 'StickyContainer' error,1,bug,2025-07-27,https://github.com/shopify/flash-list/issues/1796
+"[v2.0.0, v2.0.0-rc] inverted={true} not working on both iOS and Android",1,bug,2025-08-01,https://github.com/shopify/flash-list/issues/1814
+Missing `tslib` package,1,bug,2025-08-01,https://github.com/shopify/flash-list/issues/1812
+Incorrect scroll direction on web with `inverted` prop,6,bug,2024-09-11,https://github.com/shopify/flash-list/issues/1351
+[BUG] FlashList inside Stack of expo-router overlapping content,1,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1787
+"Unlike FlatList, which resizes properly when the screen dimensions change, the FlashList container does not adjust its size correctly.",6,"bug, v2.0",2025-06-10,https://github.com/shopify/flash-list/issues/1717
+ItemSeparatorComponent is rendered on second to last item when numColumns={2},0,bug,2025-07-30,https://github.com/shopify/flash-list/issues/1809
+React Native 0.80.1 in new Arch - lost items when scrolling,8,bug,2025-07-11,https://github.com/shopify/flash-list/issues/1771
+New arch RN v0.79.4 performance issues,11,"bug, v2.0",2025-06-24,https://github.com/shopify/flash-list/issues/1751
+[Bug] [v2] Visible content position is not maintained when items are added and removed at the same time,5,"bug, P1, v2.0",2025-05-20,https://github.com/shopify/flash-list/issues/1667
+"Android error with using react-native-reanimated, """"The specified child already has a parent. You must call removeView() on the child's parent first""""",2,bug,2025-03-17,https://github.com/shopify/flash-list/issues/1571
+WebView injectedJavaScript won't run in v2,0,bug,2025-07-22,https://github.com/shopify/flash-list/issues/1794
+numColumns stopped working after RN 0.77 on iOS,6,bug,2025-02-06,https://github.com/shopify/flash-list/issues/1508
+"For Android with Float screen width, snapToOffset, snapToInterval is incorrect in the flash list",9,bug,2024-04-14,https://github.com/shopify/flash-list/issues/1153
+"If dataSource is empty, an error will be reported stating 'index out of bounds, not enough layouts'",4,"bug, v2.0",2025-06-06,https://github.com/shopify/flash-list/issues/1707
+Incorrect item height when using horizontal scroll.,1,bug,2025-03-20,https://github.com/shopify/flash-list/issues/1575
+"""""Invariant Violation: requireNativeComponent: """"AutoLayoutView"""" was not found in the UIManager",9,bug,2024-06-04,https://github.com/shopify/flash-list/issues/1221
+onEndReached fires on mount in FlashList and never fires again if INITIAL_ITEM_COUNT is low...,0,bug,2025-07-20,https://github.com/shopify/flash-list/issues/1789
+Crash with CellRendererComponent and Visual Glitches on Zoomable Items,2,bug,2025-07-14,https://github.com/shopify/flash-list/issues/1778
+"maintainVisibleContentPosition set to bottom ,the bottom can become invisible when flashList height changed",6,"bug, v2.0",2025-06-14,https://github.com/shopify/flash-list/issues/1726
+Spaces between items,6,bug,2024-09-05,https://github.com/shopify/flash-list/issues/1347
+Weird gap occasionally appears in my list,4,"bug, v2.0",2025-06-18,https://github.com/shopify/flash-list/issues/1742
+Scrolling jumps when removing data for invisible items,0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1786
+onStartReached isn't always called on reaching the start of the list,0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1785
+Blank items after setting scroll position with a `scrollTo...` method during a fling scroll (regression in v2),0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1784
+Crash on web with Next.js,0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1783
+FlashList scrolls to top on re-render with useInfiniteQuery data,0,bug,2025-07-16,https://github.com/shopify/flash-list/issues/1782
+Expo 53 Flashlist v2 error,2,"bug, v2.0",2025-06-25,https://github.com/shopify/flash-list/issues/1752
+[v2] ListFooterComponent blinks after scrollToEnd,0,"bug, v2.0",2025-07-12,https://github.com/shopify/flash-list/issues/1772
+"`onEndReached` section-list mode sometimes not called as expected, resulting our pagination not running well.",5,bug,2025-03-18,https://github.com/shopify/flash-list/issues/1572
+"When loading new, Can not show RefreshControl",1,bug,2025-05-28,https://github.com/shopify/flash-list/issues/1678
+refactor: allow disable list item animation,2,,2025-06-28,https://github.com/shopify/flash-list/issues/1753
+MansoryFlashList cut off last item,0,bug,2025-04-18,https://github.com/shopify/flash-list/issues/1619
+scrollToEnd throws an error when called after a list goes from >0 to 0 items,1,bug,2024-07-31,https://github.com/shopify/flash-list/issues/1295
+[Bug] [v2] Autoscroll to bottom doesn't work when items are changing its size,6,"bug, P1, v2.0",2025-05-20,https://github.com/shopify/flash-list/issues/1666
+RTL mode MasonryFlashList page cannot scroll,2,bug,2024-11-05,https://github.com/shopify/flash-list/issues/1414
+"[Bug] [v2] When list items doesn't occupy its full height, last item is hidden",7,"bug, P1, v2.0",2025-05-23,https://github.com/shopify/flash-list/issues/1670
+Please update react native to v0.78.0 and provide New Arch Support.,14,bug,2025-03-24,https://github.com/shopify/flash-list/issues/1576
+"[V2][web] list crashes on window resize """"Maximum update depth exceeded.""""!",7,"bug, v2.0",2025-05-10,https://github.com/shopify/flash-list/issues/1655
+"TypeError: _b.call is not a function (it is undefined), js engine: hermes",6,bug,2025-06-12,https://github.com/shopify/flash-list/issues/1720
+`CellContainer` app crash,8,bug,2024-03-05,https://github.com/shopify/flash-list/issues/1085
+Simultaneous Gestures (RNGH) .Pan() + .Native() not working together w/ FlashList,0,bug,2025-06-20,https://github.com/shopify/flash-list/issues/1744
+[v2] maintainVisibleContentPosition - there is no way to disable scroll animation,2,"bug, v2.0",2025-06-05,https://github.com/shopify/flash-list/issues/1698
+Flashlist crashes expo web,4,"bug, v2.0",2025-06-04,https://github.com/shopify/flash-list/issues/1697
+Unresolved reference 'eventData'.,2,bug,2025-06-17,https://github.com/shopify/flash-list/issues/1739
+scrollToIndex stops working,2,"bug, v2.0",2025-06-06,https://github.com/shopify/flash-list/issues/1709
+List auto scrolls with autoscrollToBottomThreshold: undefined or -1,0,bug,2025-06-16,https://github.com/shopify/flash-list/issues/1736
+First Sticky header gets duplicated if ListHeaderComponent is set,5,bug,2025-02-21,https://github.com/shopify/flash-list/issues/1527
+focus jumping and list disappears when scrolling in AndroidTV/FireTV/AppleTV,2,bug,2025-06-09,https://github.com/shopify/flash-list/issues/1716
+don't auto scroll to bottom when use maintainVisibleContentPosition,1,bug,2025-06-14,https://github.com/shopify/flash-list/issues/1727
+[Bug] [V2] scrollToTop when reaching the bottom of list,3,bug,2025-06-13,https://github.com/shopify/flash-list/issues/1723
+Waterfall Layout with Severe Jumping Issues,1,"bug, v2.0",2025-06-12,https://github.com/shopify/flash-list/issues/1719
+"Masonry Layout Renders as Rows, Not Columns",2,bug,2025-06-12,https://github.com/shopify/flash-list/issues/1721
+Animation does not work when useNativeDriver: true in FlashList,5,bug,2023-12-14,https://github.com/shopify/flash-list/issues/998
+Tslib issue after upgrading react-native,12,bug,2023-08-10,https://github.com/shopify/flash-list/issues/896
+[Bug] [v2] `startRenderingFromBottom` conflicts with `ListEmptyComponent `,0,"bug, v2.0",2025-06-06,https://github.com/shopify/flash-list/issues/1711
+[v2] `CellRendererComponent` is not working on FlashList 2.0.0-rc.4,4,"bug, v2.0",2025-06-07,https://github.com/shopify/flash-list/issues/1712
+[V2] List items not rendering when using React.StrictMode,4,"bug, P1, v2.0",2025-05-20,https://github.com/shopify/flash-list/issues/1669
+React Native Reanimated Layout Transitions not working,3,bug,2024-07-28,https://github.com/shopify/flash-list/issues/1284
+"[bug] [v2] scrollToIndex causes visual blink before scroll on iOS (Expo SDK 53, iOS 17.7.2)",7,"bug, v2.0",2025-06-03,https://github.com/shopify/flash-list/issues/1696
+"[Bug] [v2] """"contentContainerStyle"""" prop shows error when passing a """"ViewStyle"""" value",1,"bug, v2.0",2025-05-31,https://github.com/shopify/flash-list/issues/1683
+False postive error: stickyHeaderIndices out of bounds,3,"bug, P0, v2.0",2025-05-29,https://github.com/shopify/flash-list/issues/1682
+Fix scrollToTop blanking,13,,2022-01-31,https://github.com/shopify/flash-list/issues/76
+(NOBRIDGE) ERROR  Warning: TypeError: Cannot read property 'bubblingEventTypes' of null | Getting in new architecture,36,bug,2024-09-12,https://github.com/shopify/flash-list/issues/1352
+"Android:When i am using stickyHeaderIndices and pull to refresh functionality , the loading spinner is displaying backside of stickyElementContent not above of stickyIndexElement in FlashList",8,bug,2023-07-26,https://github.com/shopify/flash-list/issues/885
+FlashList errs when rotating the device with dynamic `numColumns` and `ListEmptyComponent`,8,bug,2024-01-19,https://github.com/shopify/flash-list/issues/1032
+[Bug] [v2] Changing item span does not work correctly when updating data,4,"bug, P0, v2.0",2025-05-29,https://github.com/shopify/flash-list/issues/1681
+Scroll Jumpings in v2,26,"bug, P0, v2.0",2025-04-25,https://github.com/shopify/flash-list/issues/1631
+Update to new architectue,3,bug,2025-01-25,https://github.com/shopify/flash-list/issues/1488
+"[Bug] [v2] When pagination is triggered in both directions, autoscroll to bottom doesn't work",0,"bug, P1, v2.0",2025-05-23,https://github.com/shopify/flash-list/issues/1671
+"[Bug] [v2] Only the first 8 items are showing in the list, the rest never show...",5,"bug, v2.0",2025-05-28,https://github.com/shopify/flash-list/issues/1680
+Any change in stickyHeaderIndices causes a bug.,3,"bug, v2.0",2025-05-28,https://github.com/shopify/flash-list/issues/1677
+[v2] Error tomany update exeed on first render on refresh with press r buttton,3,bug,2025-05-25,https://github.com/shopify/flash-list/issues/1674
+[Bug] Android Release - New Architecture: MasonryFlashList render wrong ( may cause blank space or not render fully list ),3,bug,2025-05-26,https://github.com/shopify/flash-list/issues/1675
+scrollview nested multi flashlist scroll abnormal,1,bug,2024-12-04,https://github.com/shopify/flash-list/issues/1436
+[v2] item not rendered latest alpha,2,bug,2025-05-24,https://github.com/shopify/flash-list/issues/1673
+ERROR  Warning: TypeError: Cannot read property 'bubblingEventTypes' of null,0,bug,2025-05-20,https://github.com/shopify/flash-list/issues/1668
+"Broken Tweet Link on FlashList Public Page
+",0,bug,2025-05-11,https://github.com/shopify/flash-list/issues/1657
+White space in android,8,"bug, v2.0",2025-04-24,https://github.com/shopify/flash-list/issues/1630
+Inverted FlashList doesn't respect keyboard insets,4,bug,2025-02-24,https://github.com/shopify/flash-list/issues/1538
+Footer lags behind when the last item height changes,0,bug,2025-05-15,https://github.com/shopify/flash-list/issues/1663
+Title: Performance Issues with Large Datasets in Flash List,4,bug,2025-04-27,https://github.com/shopify/flash-list/issues/1633
+Error installing FlashList,0,bug,2025-05-14,https://github.com/shopify/flash-list/issues/1661
+[V2]The issue with maintainVisibleContentPosition,8,"bug, v2.0",2025-05-11,https://github.com/shopify/flash-list/issues/1656
+`CellRendererComponent` is not working on FlashList 2.0.0-alpha.2,3,"bug, v2.0",2025-04-11,https://github.com/shopify/flash-list/issues/1608
+`index` property is not present for `CellRendererComponent` on v2.0.0-alpha.3,2,"bug, v2.0",2025-04-12,https://github.com/shopify/flash-list/issues/1609
+"[V2] RTL layout doesn't render all items, it renders blank spaces at the end.",5,"bug, v2.0",2025-04-18,https://github.com/shopify/flash-list/issues/1620
+Flashlist scroll Stutter,2,"bug, v2.0",2025-04-21,https://github.com/shopify/flash-list/issues/1629
+v2 alpha : images are overlapping and optimizeItemArrangement not satisfying,4,"bug, v2.0",2025-04-27,https://github.com/shopify/flash-list/issues/1632
+AnimatedFlashList onScroll error,6,bug,2023-05-11,https://github.com/shopify/flash-list/issues/841
+"Expo Run Web, numColumns BUG",9,bug,2023-04-26,https://github.com/shopify/flash-list/issues/829
+[Bug] Jarring layout shifts for each item using LayoutAnimation w/ inverted list,5,bug,2025-04-02,https://github.com/shopify/flash-list/issues/1596
+"When displaying the list, it will appear item by item, rather than all on one page",8,bug,2023-09-15,https://github.com/shopify/flash-list/issues/916
+element.ref React 19,13,bug,2025-03-01,https://github.com/shopify/flash-list/issues/1543
+Tapping status bar scrolls to bottom of inverted list,0,bug,2025-04-16,https://github.com/shopify/flash-list/issues/1618
+FlashList not optimizing virtualization when nested,5,bug,2024-11-26,https://github.com/shopify/flash-list/issues/1432
+Can't apply overflow visible to the list header / content,6,bug,2022-12-26,https://github.com/shopify/flash-list/issues/723
+React Native FlashList Flickering,6,bug,2023-10-18,https://github.com/shopify/flash-list/issues/934
+Changing numColumns for empty list causes crash (Cannot read properties of undefined (reading 'y')),3,bug,2024-05-31,https://github.com/shopify/flash-list/issues/1219
+Cannot press some content rendered outside of list item,0,bug,2025-03-24,https://github.com/shopify/flash-list/issues/1584
+The item does not appear in the updated list after scrolling for Android ver. < 8,6,bug,2024-02-29,https://github.com/shopify/flash-list/issues/1078
+ProgressiveListView: `ref` is not a prop. Trying to access it will result in `undefined` being returned,6,bug,2025-03-14,https://github.com/shopify/flash-list/issues/1559
+Focus changes when updating data,2,bug,2024-08-28,https://github.com/shopify/flash-list/issues/1337
+Import cost issue,0,bug,2025-03-17,https://github.com/shopify/flash-list/issues/1561
+Build error with RN 0.74.7,1,bug,2025-01-31,https://github.com/shopify/flash-list/issues/1503
+"`inverted` option causing sticky headers, ListEmptyComponent to appear inverted, and causing scroll direction to be inverted on web",2,bug,2025-02-10,https://github.com/shopify/flash-list/issues/1511
+Scroll Multiple Items at Once in FlashList on Long Scroll,2,bug,2025-02-27,https://github.com/shopify/flash-list/issues/1542
+FlashList TextInput: Focus/Text Duplication on Scroll,0,bug,2025-03-04,https://github.com/shopify/flash-list/issues/1547
+Data Duplication issue using react-hook-form,3,bug,2024-12-13,https://github.com/shopify/flash-list/issues/1449
+Tint color changing when scrolling in flashlist,0,bug,2025-02-26,https://github.com/shopify/flash-list/issues/1541
+white space for large list in new architecture,0,bug,2025-02-24,https://github.com/shopify/flash-list/issues/1529
+ScrollToIndex doesn't seem to work when screen is out of focus.,0,bug,2025-02-07,https://github.com/shopify/flash-list/issues/1509
+Handle scaling/translating item component,1,bug,2024-10-31,https://github.com/shopify/flash-list/issues/1407
+MasonryFlashList doesn't always add new columns when data is added,9,bug,2023-09-29,https://github.com/shopify/flash-list/issues/927
+Impossible to set specific height of a FlashList to maintain scroll in case of few items,1,bug,2025-02-03,https://github.com/shopify/flash-list/issues/1504
+Flashlist isn't functioning properly with pagingEnabled in Android; it jumps to the last index with just a small gesture,6,bug,2024-05-16,https://github.com/shopify/flash-list/issues/1200
+Using Percentage Value in Horizontal Padding of ContentContainerStyle with infiniteQuery crashes the list,0,bug,2025-01-30,https://github.com/shopify/flash-list/issues/1501
+Nested scrolling of Flashlist is not working,9,bug,2023-02-24,https://github.com/shopify/flash-list/issues/771
+ListFooterComponent moves down an extra row every time underlying list data is updated,2,bug,2024-04-21,https://github.com/shopify/flash-list/issues/1160
+[action needed] support RN 0.77,8,bug,2025-01-07,https://github.com/shopify/flash-list/issues/1466
+Android RTL: Large horizontal list issue,2,bug,2024-11-01,https://github.com/shopify/flash-list/issues/1408
+Stateid collisions \ RecyclerListView animation render during pagination,1,bug,2024-08-29,https://github.com/shopify/flash-list/issues/1341
+New list items are not rendered after scrolling in unit test,0,bug,2025-01-23,https://github.com/shopify/flash-list/issues/1486
+App crashes when trying to use scrollToEnd with empty data props passed,0,bug,2025-01-22,https://github.com/shopify/flash-list/issues/1485
+layout offset,1,bug,2025-01-05,https://github.com/shopify/flash-list/issues/1463
+ list is not refreshed,6,bug,2024-07-17,https://github.com/shopify/flash-list/issues/1276
+Sticky headers don't work with content insets,0,bug,2025-01-05,https://github.com/shopify/flash-list/issues/1464
+* What went wrong: Execution failed for task ':shopify_flash-list:compileReleaseKotlin'. > 'compileReleaseJavaWithJavac' task (current target is 11) and 'compileReleaseKotlin' task (current target is 17) jvm target compatibility should be set to the same Java version.   Consider using JVM toolchain: https://kotl.in/gradle/jvm/toolchain,7,bug,2023-10-17,https://github.com/shopify/flash-list/issues/933
+Multiple `onPress` invocations on scroll,3,bug,2025-01-03,https://github.com/shopify/flash-list/issues/1461
+Virtualization on web is incorrect,0,bug,2025-01-03,https://github.com/shopify/flash-list/issues/1462
+This is how I solved the white spaces / blank problem.,7,bug,2023-06-02,https://github.com/shopify/flash-list/issues/854
+Not able to set gap with multiple columns contentContainerStyle and columnWrapperStyle,0,bug,2024-12-27,https://github.com/shopify/flash-list/issues/1456
+Stutter when scrolling,19,bug,2023-03-25,https://github.com/shopify/flash-list/issues/802
+scrollview nested multi flashlist scroll abnormal,0,bug,2024-12-04,https://github.com/shopify/flash-list/issues/1437
+scrollview nested multi flashlist scroll abnormal,0,bug,2024-12-04,https://github.com/shopify/flash-list/issues/1438
+Sticky Header Re-renders and Flickers When Becoming Sticky,4,bug,2024-06-20,https://github.com/shopify/flash-list/issues/1242
+"iOS: First Sticky Header component renders on top of ListHeaderComponent on mount, disappears on scroll",7,bug,2023-01-04,https://github.com/shopify/flash-list/issues/727
+Android app crashes with: IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first.,5,bug,2024-06-20,https://github.com/shopify/flash-list/issues/1241
+The FlashList is affected by the display size,0,bug,2024-11-13,https://github.com/shopify/flash-list/issues/1416
+style prop seems to be ignored,2,bug,2024-06-28,https://github.com/shopify/flash-list/issues/1251
+TouchableHighlight object inside a FlashList Losing Focus on fast key navigation with React Native TVOS,2,bug,2023-08-09,https://github.com/shopify/flash-list/issues/895
+"In React Native's FlatList, setting a height of 500px allows it to shrink to the content size if smaller or take the full 500px if larger. However, in Shopify's FlashList, setting the same height doesn't shrink when content is smaller, causing UI issues.",2,bug,2024-09-30,https://github.com/shopify/flash-list/issues/1368
+"When the device width changes, the container width does not change",0,bug,2024-11-02,https://github.com/shopify/flash-list/issues/1409
+The FlashList items jerk when scrolling through them.,1,bug,2023-12-05,https://github.com/shopify/flash-list/issues/989
+Canvas type missmatch in Android SDK 34,6,bug,2023-06-27,https://github.com/shopify/flash-list/issues/864
+Flashlist buggy rendering single item on horizontal lists [iOS only],1,bug,2024-08-22,https://github.com/shopify/flash-list/issues/1327
+Setting onEndReachedThreshold on MasonryFlashList not trigger onEndReached event.,4,bug,2023-04-23,https://github.com/shopify/flash-list/issues/821
+ListEmptyComponent is upside down when inverted is true,4,bug,2024-05-04,https://github.com/shopify/flash-list/issues/1177
+FlashList with TextInput,3,bug,2023-04-15,https://github.com/shopify/flash-list/issues/816
+FlashList multi-column layout broken in RTL mode on Android,0,bug,2024-10-09,https://github.com/shopify/flash-list/issues/1377
+scrollToIndex() not accounting for padding in horizontal FlashList and initialScrollIndex not accurate,1,bug,2024-08-08,https://github.com/shopify/flash-list/issues/1311
+"Hey, I'm having some troubles when i need to change styles for an item inside on flashlist",5,bug,2023-12-15,https://github.com/shopify/flash-list/issues/1000
+Masonry items stack in the first column to lengths far beyond that of the second column without apparent reason,9,bug,2024-04-24,https://github.com/shopify/flash-list/issues/1169
+The Swift pod `RNFlashList` depends upon `RCT-Folly.common`,3,bug,2024-08-06,https://github.com/shopify/flash-list/issues/1303
+auto-linked framework 'CoreAudioTypes': framework 'CoreAudioTypes' not found,1,bug,2024-09-18,https://github.com/shopify/flash-list/issues/1360
+Inconsistent contentSize/contentOffset between renders,5,bug,2023-11-07,https://github.com/shopify/flash-list/issues/943
+MasonryFlashList numColumns > 1 items only render in first column.,2,"bug, P0",2023-07-13,https://github.com/shopify/flash-list/issues/876
+Layout is sometimes broken after data is updated,2,bug,2024-08-13,https://github.com/shopify/flash-list/issues/1318
+Extra re-renders when added item at the top of the list,1,bug,2024-07-23,https://github.com/shopify/flash-list/issues/1281
+iOS only: DropDown buttons placed in list items cannot be pressed on if they leave the bounds of parent item,3,bug,2024-07-27,https://github.com/shopify/flash-list/issues/1283
+Got error loading when using moti/skeleton with FlashList,0,bug,2024-08-26,https://github.com/shopify/flash-list/issues/1330
+Layout Animation on Animated/Reanimated when trying to add to first element of list,4,"bug, needs-reproduction",2022-09-27,https://github.com/shopify/flash-list/issues/617
+Item occlusion/Render order,1,bug,2024-06-26,https://github.com/shopify/flash-list/issues/1250
+FlashList taking more space than necessary ,0,bug,2024-08-14,https://github.com/shopify/flash-list/issues/1319
+iOS: installation issue : Flashlist not getting installed,4,bug,2023-02-23,https://github.com/shopify/flash-list/issues/769
+Wrong video frame loaded when scrolling (need to wait a little for the correct video to load),5,bug,2023-05-18,https://github.com/shopify/flash-list/issues/847
+Task :shopify_flash-list:packageDebugResources FAILED,8,bug,2023-09-28,https://github.com/shopify/flash-list/issues/926
+onViewableItemsChanged in MasonryFlashList only returns items from the first column,3,bug,2023-08-08,https://github.com/shopify/flash-list/issues/894
+Load a modal on it then leaves blank space over this,0,bug,2024-07-12,https://github.com/shopify/flash-list/issues/1270
+ListEmptyComponent not centered,3,bug,2023-06-14,https://github.com/shopify/flash-list/issues/858
+Masonry List cut-off bottom of cards,0,bug,2024-07-01,https://github.com/shopify/flash-list/issues/1255
+Flashlist not working with reanimated useAnimatedProps,2,bug,2024-04-15,https://github.com/shopify/flash-list/issues/1158
+Expo app does not compile after upgrading gradle to 8.x,0,bug,2024-06-24,https://github.com/shopify/flash-list/issues/1249
+Sticky Headers Performance,0,bug,2024-06-07,https://github.com/shopify/flash-list/issues/1222
+Video is Rendering at the wrong place,1,bug,2024-05-27,https://github.com/shopify/flash-list/issues/1215
+adding a new item at the beginning of the list casuse wierd reordering,4,bug,2023-11-08,https://github.com/shopify/flash-list/issues/944
+Flash-List does not work right when using RN 0.72.3 Fabric/RN New Architecture,1,bug,2023-07-27,https://github.com/shopify/flash-list/issues/886
+scrollToOffset doesn't work when the list is scrolling,5,bug,2023-01-24,https://github.com/shopify/flash-list/issues/742
+Performance Optimization Doc Error,0,,2024-05-03,https://github.com/shopify/flash-list/issues/1176
+Android Build Error Encountered Using Expo EAS,0,bug,2024-04-22,https://github.com/shopify/flash-list/issues/1167
+Unnecessary items rendering when list item size changes,1,bug,2024-04-10,https://github.com/shopify/flash-list/issues/1148
+"Blank area value for FlashList always shows as """"0"""" despite the presence of blank area on the screen during fast scrolling",0,bug,2023-06-12,https://github.com/shopify/flash-list/issues/1151
+Changing numColumns can cause crashes and inconsistent item rendering.,2,bug,2023-09-15,https://github.com/shopify/flash-list/issues/917
+Items are ignored when scrolling,1,bug,2023-11-25,https://github.com/shopify/flash-list/issues/955
+Section List implementation issues,0,bug,2024-02-26,https://github.com/shopify/flash-list/issues/1075
+Previous items re-appearing while scrolling in RN 0.72.1,7,bug,2023-06-30,https://github.com/shopify/flash-list/issues/866
+Not possible to use onRefresh with horizontal FlashList,1,bug,2023-11-28,https://github.com/shopify/flash-list/issues/956
+Adding element to middle of the scrolled down list results in wierd animation,0,bug,2024-01-16,https://github.com/shopify/flash-list/issues/1027
+The expected type comes from property 'data' which is declared here on type 'IntrinsicAttributes & IntrinsicClassAttributes<FlashList<Block>> & Pick<Readonly<FlashListProps<Block>>,0,bug,2024-01-16,https://github.com/shopify/flash-list/issues/1025
+onEndReached and viewabilityConfigCallbackPairs with FlashList in FlashList,1,bug,2023-09-05,https://github.com/shopify/flash-list/issues/904
+How can i render kind of skeleton placeholder items instead of whitespaces/blank?,9,bug,2023-06-02,https://github.com/shopify/flash-list/issues/853
+Horizontal List flickeres after orientation change,0,bug,2023-12-14,https://github.com/shopify/flash-list/issues/997
+Reproducable bug / crash: Cannot read property 'length' of null,1,bug,2023-11-22,https://github.com/shopify/flash-list/issues/954
+Weird behaviour with sticky Header,0,bug,2023-10-23,https://github.com/shopify/flash-list/issues/936
+Horizontal list with single item with text inside doesn't layout properly,5,bug,2023-01-31,https://github.com/shopify/flash-list/issues/750
+Android build does not work after installing FlashList.,2,bug,2023-08-18,https://github.com/shopify/flash-list/issues/900
+update the fixture example from react-native 0.68.5 to 0.72,0,bug,2023-08-28,https://github.com/shopify/flash-list/issues/902
+com.facebook.react.views.view.reactviewgroup cannot be cast to com.facebook.react.views.view.reactscrollview,0,bug,2023-08-11,https://github.com/shopify/flash-list/issues/897
+Negative contentOffset not working on android,0,bug,2023-07-31,https://github.com/shopify/flash-list/issues/889
+Scroll on Demand FlashList - (Fullscreen),1,bug,2023-07-12,https://github.com/shopify/flash-list/issues/873
+Flashiest using use_framework! on Fabric/New Arch has issues with text fields,0,bug,2023-07-29,https://github.com/shopify/flash-list/issues/888
+FlashList + Animatable ,0,bug,2023-07-25,https://github.com/shopify/flash-list/issues/884
+Why Flashlist is not scrolling in the end in react native?,1,bug,2023-07-16,https://github.com/shopify/flash-list/issues/877
+Layout issue in horizontal lists with incorrect estimatedListSize,1,bug,2023-07-07,https://github.com/shopify/flash-list/issues/869
+Got glitch layout when scroll very fast,5,bug,2023-05-08,https://github.com/shopify/flash-list/issues/838
+Not updating number of showed items when adding value to Realm DB using @realm/react,2,bug,2023-04-22,https://github.com/shopify/flash-list/issues/820
+scrollEnabled don't remove ScrollViews component,1,bug,2023-04-23,https://github.com/shopify/flash-list/issues/822
+"Web: paddingHorizontal in contentContainerStyle does not appear to add left and right padding, but changes the width of the content.",0,bug,2023-05-23,https://github.com/shopify/flash-list/issues/849
+TextInput as sticky header looses focus,2,bug,2023-01-19,https://github.com/shopify/flash-list/issues/739
+Unexpected blank screen behind notch,1,bug,2023-04-29,https://github.com/shopify/flash-list/issues/833
+Android app freeze in between scrolling while using RTL mode.,0,bug,2023-04-27,https://github.com/shopify/flash-list/issues/831
+Mocks unavailable for AnimatedFlashList,0,bug,2023-04-25,https://github.com/shopify/flash-list/issues/825
+Reanimated's onMomentumBegin/End event handler not getting called on Android,2,bug,2022-11-11,https://github.com/shopify/flash-list/issues/672
+Layout animation bug when add new item to the list,3,bug,2023-02-17,https://github.com/shopify/flash-list/issues/767
+Jumps in animation when adding and removing items to a list,0,bug,2023-02-28,https://github.com/shopify/flash-list/issues/774
+ItemSeparatorComponent not working correctly + not working with multiple columns,0,bug,2022-12-23,https://github.com/shopify/flash-list/issues/720

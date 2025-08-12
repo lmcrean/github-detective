@@ -1,0 +1,85 @@
+# Issues Total: 80
+# Repository: https://github.com/shopify/shopify-app-js
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+How to deactivate default webhooks console logs?,1,,2025-08-07,https://github.com/shopify/shopify-app-js/issues/2694
+Add `shopify-app-next` package,1,,2025-07-14,https://github.com/shopify/shopify-app-js/issues/2681
+"shopify app remix: how to hook into """"install"""" event",8,Stale,2025-02-08,https://github.com/shopify/shopify-app-js/issues/2081
+[shopify-api] GraphQL request with custom shop domain is not working,13,,2024-12-15,https://github.com/shopify/shopify-app-js/issues/1868
+Nuxt 3.16 - Missing adapter implementation for 'abstractRuntimeString' - make sure to import the appropriate adapter for your platform,7,,2025-03-29,https://github.com/shopify/shopify-app-js/issues/2289
+App proxy doesn't work with multiple query parameters,0,,2025-08-01,https://github.com/shopify/shopify-app-js/issues/2692
+Broken link in shopify-app-remix/README.md,5,"documentation, good first issue",2025-03-14,https://github.com/shopify/shopify-app-js/issues/2217
+"Bug: GraphQL codegen failing, `callbackUrl` missing from `WebhookSubscriptionInput`",2,,2025-07-16,https://github.com/shopify/shopify-app-js/issues/2682
+Support Next.js caching options in the GraphQL client,1,Stale,2025-05-21,https://github.com/shopify/shopify-app-js/issues/2489
+A new release of the Shopify API is due soon,0,automated,2025-06-01,https://github.com/shopify/shopify-app-js/issues/2516
+RestClient is not exported like GraphqlClient,0,,2025-07-08,https://github.com/shopify/shopify-app-js/issues/2665
+Shopify Graphql Api does not leverage AbortSignal as described,2,,2025-07-01,https://github.com/shopify/shopify-app-js/issues/2643
+Update shopify app remix tutorial to recommend custom introspection,0,,2025-07-17,https://github.com/shopify/shopify-app-js/issues/2685
+Admin API GraphQL Codegen does not generate types for scalars,11,Stale,2024-07-04,https://github.com/shopify/shopify-app-js/issues/1154
+Shopify Session Storage For Mongo - Intermittent Errors,1,,2025-07-14,https://github.com/shopify/shopify-app-js/issues/2680
+Support webhook subscriptions from multiple consumers of the same App,5,Stale,2025-04-24,https://github.com/shopify/shopify-app-js/issues/2376
+A new release of the Shopify API occurred,0,automated,2025-07-01,https://github.com/shopify/shopify-app-js/issues/2639
+BillingConfigItem for v3 still requires future flags to use lineItemBilling,2,,2025-01-22,https://github.com/shopify/shopify-app-js/issues/2000
+afterAuth not run when installing in Remix App,12,Stale,2024-02-28,https://github.com/shopify/shopify-app-js/issues/674
+GraphQL Codegen does not work with ES Modules,7,,2024-11-07,https://github.com/shopify/shopify-app-js/issues/1738
+Allow access token overridding via Graphql client options,2,Stale,2025-04-16,https://github.com/shopify/shopify-app-js/issues/2355
+"App Proxy authenticate.public.appProxy Fails Signature Validation with Specific Query Parameter Names (e.g., consented, consentGiven)",2,Stale,2025-04-23,https://github.com/shopify/shopify-app-js/issues/2374
+[shopify-app-remix] Allow to add dynamic webhooks in `afterAuth()`,12,,2024-06-09,https://github.com/shopify/shopify-app-js/issues/1030
+Shopify Remix app installation returns 500 Internal Server error during the oauth process.,4,Waiting for response,2025-06-03,https://github.com/shopify/shopify-app-js/issues/2520
+Store additional session metadata,2,,2025-04-13,https://github.com/shopify/shopify-app-js/issues/2333
+How to redirect to a resource in Shopify Admin,13,Stale,2025-02-28,https://github.com/shopify/shopify-app-js/issues/2166
+Public shopify-app-session-storage-test-utils npm,4,"SEV-4, Stale",2024-12-09,https://github.com/shopify/shopify-app-js/issues/1837
+Export the GraphQL client,2,,2025-04-29,https://github.com/shopify/shopify-app-js/issues/2399
+Royal Liquor,0,,2025-05-13,https://github.com/shopify/shopify-app-js/issues/2449
+ROYAL LIQUOR,0,,2025-05-13,https://github.com/shopify/shopify-app-js/issues/2450
+Missing expires field in Session object and no Set-Cookie with unstable_newEmbeddedAuthStrategy using @shopify/shopify-app-remix@3.8.2 and @shopify/shopify-api@^11.12.0,4,,2025-05-30,https://github.com/shopify/shopify-app-js/issues/2509
+Simplify creation of a Storefront API client,4,Stale,2025-03-26,https://github.com/shopify/shopify-app-js/issues/2273
+Interoperability for test helpers,5,Stale,2025-01-07,https://github.com/shopify/shopify-app-js/issues/1939
+@shopify/shopify-app-session-storage-drizzle,1,Stale,2025-03-21,https://github.com/shopify/shopify-app-js/issues/2259
+Shopify removes duplicate query parameters in embedded apps,3,Stale,2025-03-20,https://github.com/shopify/shopify-app-js/issues/2243
+"Options extends Record<string, never>",2,Stale,2025-03-19,https://github.com/shopify/shopify-app-js/issues/2240
+Limit the possibilities of open redirects,2,Stale,2025-03-05,https://github.com/shopify/shopify-app-js/issues/2180
+Feature Request: Example for Usage-Based Billing in Shopify Remix App,2,Stale,2025-03-17,https://github.com/shopify/shopify-app-js/issues/2218
+npm warn deprecated @shopify/network@3.3.0: Package no longer supported.,2,Stale,2025-03-12,https://github.com/shopify/shopify-app-js/issues/2201
+redirectToBouncePage looses query params when clicking NavMenu Link,9,,2025-05-02,https://github.com/shopify/shopify-app-js/issues/2417
+Update Drizzle Adapter to Store User Info for Online Tokens,2,Stale,2025-02-16,https://github.com/shopify/shopify-app-js/issues/2111
+Codegen doesn't work out of the box with direct access graphql client,2,Stale,2025-01-17,https://github.com/shopify/shopify-app-js/issues/1981
+Add support for `enumsAsConst` to api-codegen-preset,2,Stale,2025-02-03,https://github.com/shopify/shopify-app-js/issues/2056
+Support React Router v7!,1,,2025-04-08,https://github.com/shopify/shopify-app-js/issues/2317
+Add a redirect helper to AppProxy context,2,Stale,2024-12-03,https://github.com/shopify/shopify-app-js/issues/1823
+A new release of the Shopify API is due soon,0,automated,2025-03-01,https://github.com/shopify/shopify-app-js/issues/2167
+A new release of the Shopify API occurred,0,automated,2025-04-01,https://github.com/shopify/shopify-app-js/issues/2292
+Add `repository.directory` to each `package.json`,1,,2025-03-24,https://github.com/shopify/shopify-app-js/issues/2260
+Add support for managed pricing in @shopify/shopify-app-express,3,,2025-03-27,https://github.com/shopify/shopify-app-js/issues/2277
+trialDays Not Returned in Billing Check API Response,1,,2025-03-10,https://github.com/shopify/shopify-app-js/issues/2189
+@shopify/shopify-app-session-storage-postgresql : error: no pg_hba.conf entry for host,9,Stale,2023-11-19,https://github.com/shopify/shopify-app-js/issues/493
+[api-codegen-preset] Types for anonymous operations are not generated / anonymous operations are ignored,3,"documentation, Stale",2025-01-21,https://github.com/shopify/shopify-app-js/issues/1997
+"[api-codegen] Project isn't """"consuming"""" output from storefront generated graphql types",4,Stale,2024-12-23,https://github.com/shopify/shopify-app-js/issues/1901
+Add and/or document TypeScript type usage for the storefront-api-client,1,,2025-03-13,https://github.com/shopify/shopify-app-js/issues/2211
+graphql-codegen: Missing API VERSION in provided config,0,,2025-03-13,https://github.com/shopify/shopify-app-js/issues/2209
+Add app session storage for firestore,1,,2025-03-10,https://github.com/shopify/shopify-app-js/issues/2194
+Cookie expiration and re-auth dead end.,2,Stale,2024-12-18,https://github.com/shopify/shopify-app-js/issues/1883
+Shopify 503 errors in validateAuthenticatedSession crash server,2,Stale,2024-12-11,https://github.com/shopify/shopify-app-js/issues/1860
+Bug/question: E2E testing with GraphQL gives a 401 error,6,Stale,2024-11-12,https://github.com/shopify/shopify-app-js/issues/1756
+admin-api-client + node-fetch erroring since a few days: Client network socket disconnected before secure TLS connection was established,2,Stale,2024-12-10,https://github.com/shopify/shopify-app-js/issues/1851
+Suggestion: Enhance Type Definitions for GQLExtensions and FetchResponseBody,2,"good first issue, Stale",2024-12-01,https://github.com/shopify/shopify-app-js/issues/1813
+Enable setting the app billing discount field or make shopifyApp idempotent - if it isn't already,2,Stale,2024-10-28,https://github.com/shopify/shopify-app-js/issues/1698
+`ensureInstalledOnShop` did not receive a shop query argument,57,Stale,2023-03-13,https://github.com/shopify/shopify-app-js/issues/161
+Being able to disable webhook handling,6,Stale,2024-04-11,https://github.com/shopify/shopify-app-js/issues/748
+Shopify-app-remix doesn't handle authentication in custom callback (redirect-uri),7,Stale,2024-09-23,https://github.com/shopify/shopify-app-js/issues/1554
+" """"rollup"""": """"^4.21.3"""",",1,Stale,2024-10-10,https://github.com/shopify/shopify-app-js/issues/1622
+AppProxyForm does not handle ref attribute,2,Stale,2024-10-07,https://github.com/shopify/shopify-app-js/issues/1605
+Session cookie race condition with multiple shops,9,Stale,2023-09-20,https://github.com/shopify/shopify-app-js/issues/451
+Admin extensions preflight authentication,2,"good first issue, Stale",2024-08-25,https://github.com/shopify/shopify-app-js/issues/1420
+Ajax API with new 2000-variant limit,5,Stale,2024-07-14,https://github.com/shopify/shopify-app-js/issues/1209
+403 Forbidden SSL required from standard config in express library docs,4,Stale,2024-03-23,https://github.com/shopify/shopify-app-js/issues/711
+TypeError: Cannot read properties of null (reading 'accessToken'),5,Stale,2023-08-26,https://github.com/shopify/shopify-app-js/issues/771
+Build Failure when upgrading to Latest Shopify API,5,Stale,2024-04-15,https://github.com/shopify/shopify-app-js/issues/793
+Enhancement Express middleware default options on processWebhooks,1,Stale,2023-02-21,https://github.com/shopify/shopify-app-js/issues/776
+It would be great if @shopify/admin-api-client works with Subrequest Profiler out of the box.,1,Stale,2024-02-25,https://github.com/shopify/shopify-app-js/issues/762
+Request: Conditional registration of webhooks for paid users only,4,Stale,2024-03-18,https://github.com/shopify/shopify-app-js/issues/703
+Add support for token exchanger in Express,2,Stale,2024-02-05,https://github.com/shopify/shopify-app-js/issues/630
+[shopify-app-express]: After adding logger configuration exception is occured.,3,Stale,2023-11-22,https://github.com/shopify/shopify-app-js/issues/497
+it gets 500 error when installing the app on development store,4,Stale,2024-01-09,https://github.com/shopify/shopify-app-js/issues/562
+Out of the box installation not working + Auth Admin API issues,4,Stale,2023-10-30,https://github.com/shopify/shopify-app-js/issues/484

@@ -1,0 +1,35 @@
+# Issues Total: 30
+# Repository: https://github.com/shopify/semian
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Semian incompatible with redis-rb 5.0.7,0,,2023-08-10,https://github.com/shopify/semian/issues/500
+Failed to compile ext with multiple definition errors,7,,2020-03-06,https://github.com/shopify/semian/issues/261
+Support per-request HTTP Resource naming,4,,2023-02-16,https://github.com/shopify/semian/issues/480
+Release 0.19.0,0,,2023-02-15,https://github.com/shopify/semian/issues/477
+Release 0.18.0,0,Semian,2023-02-06,https://github.com/shopify/semian/issues/470
+Investigate in Segmetation fault for AR Trilogy,1,,2023-02-08,https://github.com/shopify/semian/issues/471
+Semian does not open circuit immediately and waits for redis pool's reconnection attempts which uses exponential backoff timeout,2,"question, Semian",2022-11-24,https://github.com/shopify/semian/issues/448
+Release 0.17.0,3,Semian,2022-12-13,https://github.com/shopify/semian/issues/458
+Postgresql Adapter,4,,2019-04-05,https://github.com/shopify/semian/issues/218
+How do I use Semian (for dummies),1,question,2022-04-22,https://github.com/shopify/semian/issues/312
+Bulkhead resource count produces error,1,,2022-09-25,https://github.com/shopify/semian/issues/414
+Semian sysv semaphores are not supported on x86_64-darwin21 ,2,,2022-04-26,https://github.com/shopify/semian/issues/313
+Ruby type RBS vs Sorbet RBI,0,Semian,2022-09-14,https://github.com/shopify/semian/issues/407
+Release v0.14.0,1,Semian,2022-09-06,https://github.com/shopify/semian/issues/394
+Update all development / test gems ,2,Semian,2022-09-01,https://github.com/shopify/semian/issues/383
+Compatibility issues with Redis 5.X,1,Semian,2022-09-01,https://github.com/shopify/semian/issues/385
+Circuit not open for GRPC::ActiveCall::Operation failures,0,Semian,2022-06-19,https://github.com/shopify/semian/issues/349
+Slow GRPC tests,0,Semian,2022-04-28,https://github.com/shopify/semian/issues/315
+Update instrumentation docs,0,,2021-04-08,https://github.com/shopify/semian/issues/290
+Test against ruby 3.1,0,ci/cd,2022-06-09,https://github.com/shopify/semian/issues/343
+"Semian for MySQL ignores error `Query execution was interrupted, maximum statement execution time exceeded`",1,,2022-05-17,https://github.com/shopify/semian/issues/316
+Net::ResourceBusyError Permission denied,5,,2018-10-17,https://github.com/shopify/semian/issues/201
+Ruby deprecation warning: rb_tainted_str_new_cstr,2,,2022-01-05,https://github.com/shopify/semian/issues/305
+Adapter to gem httprb,0,,2019-06-27,https://github.com/shopify/semian/issues/241
+Ruby 2.7 Warnings,0,,2020-05-11,https://github.com/shopify/semian/issues/265
+Updating the docs to specifically call out some common error messages,3,,2021-02-02,https://github.com/shopify/semian/issues/287
+Broken subscribe interface,1,,2019-09-04,https://github.com/shopify/semian/issues/253
+"mysql2: Exceptions are """"wrapped"""" infinitely",1,,2018-12-07,https://github.com/shopify/semian/issues/211
+Adapters should be loaded automatically,2,question,2019-05-31,https://github.com/shopify/semian/issues/226
+"When using the quota option, how is the total tickets available count calculated?",1,,2018-03-06,https://github.com/shopify/semian/issues/178

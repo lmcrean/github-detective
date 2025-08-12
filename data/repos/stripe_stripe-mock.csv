@@ -1,0 +1,16 @@
+# Issues Total: 11
+# Repository: https://github.com/stripe/stripe-mock
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Should I use it?,1,,2025-07-22,https://github.com/stripe/stripe-mock/issues/1387
+returned ids are the same for every request for sub objects,1,,2025-04-29,https://github.com/stripe/stripe-mock/issues/1274
+Latest docker image has changed responses on the `current_period_end`,2,,2025-05-02,https://github.com/stripe/stripe-mock/issues/1275
+Clearing all test data that is originally in the 'database',1,,2025-03-30,https://github.com/stripe/stripe-mock/issues/1271
+New release?,2,,2025-03-06,https://github.com/stripe/stripe-mock/issues/1182
+Is it possible to use stripe-mock with uber-go/mock?,1,,2024-11-30,https://github.com/stripe/stripe-mock/issues/1029
+Stripe,1,,2024-12-01,https://github.com/stripe/stripe-mock/issues/1030
+additional properties are not allowed: automatic_payment_methods,10,,2024-07-19,https://github.com/stripe/stripe-mock/issues/926
+`GET /subscriptions/:id` not returning the param ID in the whole response,2,future,2024-07-06,https://github.com/stripe/stripe-mock/issues/902
+Missing secret on customer ephemeral key,2,future,2023-05-24,https://github.com/stripe/stripe-mock/issues/422
+Unable to retrieve Price.currency_options,4,future,2023-05-24,https://github.com/stripe/stripe-mock/issues/420

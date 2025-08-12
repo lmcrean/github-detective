@@ -1,0 +1,173 @@
+# Issues Total: 168
+# Repository: https://github.com/shopify/tapioca
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+ActiveRecordColumnTypes - Create a 'Mixed' option,1,enhancement,2025-08-06,https://github.com/shopify/tapioca/issues/2369
+`bundle exec tapioca init` fails with `No such file or directory @ rb_sysopen - Gemfile.lock ` when using `gems.rb`,1,,2025-07-21,https://github.com/shopify/tapioca/issues/2355
+Tapioca::Dsl::Compilers::ActiveJob missing Exception as a possible return type in perform_now type compiled signature,3,,2025-07-19,https://github.com/shopify/tapioca/issues/2353
+Ruby LSP Tapioca addon generates incomplete RBI files,5,,2025-04-15,https://github.com/shopify/tapioca/issues/2253
+Comment parsing errors in generating gem rbis,2,,2025-07-22,https://github.com/shopify/tapioca/issues/2361
+private constant `MyModel::ActiveRecord_Relation` referenced,1,,2025-07-23,https://github.com/shopify/tapioca/issues/2362
+Create Tapioca exceptions rather than relying on `Thor::Error`,6,good-first-issue,2025-02-20,https://github.com/shopify/tapioca/issues/2208
+Show a warning for skipped gems?,3,"enhancement, good-first-issue",2023-01-05,https://github.com/shopify/tapioca/issues/1347
+MethodDefinition tracker crashes if caller_locations is overridden and calls new method,1,,2025-07-09,https://github.com/shopify/tapioca/issues/2346
+Trying to generate DSLs with add-on for a non-processable constant errors,1,bug,2025-07-09,https://github.com/shopify/tapioca/issues/2348
+Different behaviour between CLI and add-on,0,bug,2025-07-09,https://github.com/shopify/tapioca/issues/2349
+Tapioca v0.17.5 doesn't handle typing of output of custom GraphQL Scalars correctly,1,"bug, help-wanted",2025-06-26,https://github.com/shopify/tapioca/issues/2337
+Dependency conflict when upgrading tapioca to ~> 0.17.6 due to rbs version constraints,1,,2025-07-07,https://github.com/shopify/tapioca/issues/2344
+tapioca init failing with Rails 8.0.2 - Generating RBI files of gems that are added or updated,1,,2025-06-30,https://github.com/shopify/tapioca/issues/2339
+Tapioca `v0.17.5` generates invalid RBI for `shopify_errors` gem `v0.3.2`,1,,2025-07-02,https://github.com/shopify/tapioca/issues/2341
+User-defined routes missing from generated path/URL helper RBI files after upgrading to Rails 8,2,help-wanted,2025-05-29,https://github.com/shopify/tapioca/issues/2295
+Feature request: DSL compiler for RuboCop's `def_node_matcher`,1,help-wanted,2025-06-13,https://github.com/shopify/tapioca/issues/2321
+`bin/tapioca gems` fails to run against Zeitwerk 2.7.3,1,,2025-06-25,https://github.com/shopify/tapioca/issues/2336
+Tapioca v0.17.2 fails to generate signature for `AbstractController::Collector#turbo_stream`,3,help-wanted,2025-06-24,https://github.com/shopify/tapioca/issues/2334
+`find_in_batches` return type is wrong,3,help-wanted,2025-03-19,https://github.com/shopify/tapioca/issues/2239
+Internal error – RBI methods must not have code (3010),1,,2025-06-24,https://github.com/shopify/tapioca/issues/2333
+`bin/tapioca dsl --only` should not purge existing directory,2,"enhancement, good-first-issue",2023-08-17,https://github.com/shopify/tapioca/issues/1612
+"ActiveModelAttributes compiler does not allow calling """"super"""" from attribute method overrides.",1,,2025-06-03,https://github.com/shopify/tapioca/issues/2307
+Locally running test suite results in  Google::ProtoBuf::DescriptorPool.build - NoMethodError,1,,2025-06-17,https://github.com/shopify/tapioca/issues/2327
+Tapioca-generated rbi for `set` allows type errors,2,,2025-05-27,https://github.com/shopify/tapioca/issues/2293
+Incompatible with gems that call `attribute` in Rails models,6,help-wanted,2024-08-29,https://github.com/shopify/tapioca/issues/2004
+Add-on crashes if `sorbet/rbi/gems` doesn't exist,0,bug,2025-06-03,https://github.com/shopify/tapioca/issues/2308
+Add support for `cursor:` when using `in_batches` on an ActiveRecord PrivateRelation,4,help-wanted,2024-11-22,https://github.com/shopify/tapioca/issues/2087
+Bug when translating `@interface` annotation from RBS to RBI,3,bug,2025-06-12,https://github.com/shopify/tapioca/issues/2316
+rbi 0.3.5,2,,2025-06-10,https://github.com/shopify/tapioca/issues/2314
+Lengthy CI times,0,,2025-06-10,https://github.com/shopify/tapioca/issues/2313
+Document that tapioca can pull the sources from a local directory,2,,2025-05-28,https://github.com/shopify/tapioca/issues/2294
+ActiveModel::Attribute generates non nilable attribute that should be nilable,2,question,2025-05-16,https://github.com/shopify/tapioca/issues/2277
+Latest Tapioca (0.16.11) is incompatible with latest Zeitwerk (2.7.3),2,,2025-05-20,https://github.com/shopify/tapioca/issues/2281
+Feature request: Support types for polymorphic associations,0,"enhancement, help-wanted",2025-05-12,https://github.com/shopify/tapioca/issues/2272
+Suggestion: Generate T.any signatures when an ActiveModel::Attribute has a known type,2,,2025-04-09,https://github.com/shopify/tapioca/issues/2250
+RuboCop RBI appears to be pulling in rubocop-rspec when typechecking,3,,2024-08-07,https://github.com/shopify/tapioca/issues/1982
+How to skip constants with `tapioca gem GEM`?,2,help-wanted,2025-02-04,https://github.com/shopify/tapioca/issues/2183
+Tapioca doesn't import hand written signatures from the `stripe` gem,12,help-wanted,2025-04-08,https://github.com/shopify/tapioca/issues/2248
+Sorbet generates unreachable assignment for AR default attributes,1,help-wanted,2023-01-23,https://github.com/shopify/tapioca/issues/1370
+Suggestion: Implement `<Model>::Persisted` opaque type to solve column nilability confusion,19,help-wanted,2023-09-21,https://github.com/shopify/tapioca/issues/1667
+SystemStackError for has_many assocation that points to own model,4,help-wanted,2024-04-25,https://github.com/shopify/tapioca/issues/1883
+GeneratedAttributeMethods is inconsistently included in the RBI files,6,help-wanted,2024-07-11,https://github.com/shopify/tapioca/issues/1954
+Methods defined on `PrivateRelation` should return `T.self_type`,0,help-wanted,2024-12-12,https://github.com/shopify/tapioca/issues/2124
+Don't run `UrlHelpers#gather_constants` if the `UrlHelpers` compiler is excluded,0,,2025-01-27,https://github.com/shopify/tapioca/issues/2167
+Error init tapioca with ruby 3.4,12,help-wanted,2025-01-18,https://github.com/shopify/tapioca/issues/2156
+Aliasing `.new` doesn't reuse the signature from `#initialize`,3,help-wanted,2025-03-03,https://github.com/shopify/tapioca/issues/2222
+Tapioca::Dsl::Compilers::ActiveJob creates an invalid RBI for generic job classes,2,help-wanted,2025-03-13,https://github.com/shopify/tapioca/issues/2233
+Check for pending migrations doesn't work when rake is in an indirect dependency,1,help-wanted,2025-02-07,https://github.com/shopify/tapioca/issues/2186
+RBIs for different Rails gems are referencing each other even though there is no dependency,0,,2025-02-11,https://github.com/shopify/tapioca/issues/2196
+Are there any plans to support ActiveRecord `.find_by_xxx`?,2,help-wanted,2025-02-20,https://github.com/shopify/tapioca/issues/2206
+Tapioca does not generate a signature for ActiveSupport's `Time#rfc3339`,1,help-wanted,2024-11-21,https://github.com/shopify/tapioca/issues/2082
+Tapioca does not properly attribute prepended methods,0,"bug, help-wanted",2024-11-14,https://github.com/shopify/tapioca/issues/2072
+`tapioca gem` misses sig for module_function methods of the class variety,1,help-wanted,2024-08-23,https://github.com/shopify/tapioca/issues/2000
+Suggestion: Treat ActiveModel::Attribute as non-nilable if a PresenceValidator is present,1,,2025-04-09,https://github.com/shopify/tapioca/issues/2249
+Suggestion: Add an ability to enforce a type on ActiveModel::Attribute,1,,2025-04-09,https://github.com/shopify/tapioca/issues/2251
+Run Tapioca to generate URL helpers directly rather than checking all constants,4,,2025-03-28,https://github.com/shopify/tapioca/issues/2244
+RBI: getter methods on belongs_to associations have returns(T.nilable(...)) as sig but belongs_to reflection is not optional,2,help-wanted,2024-09-06,https://github.com/shopify/tapioca/issues/2013
+Allow user to override raw github sources,5,help-wanted,2024-08-18,https://github.com/shopify/tapioca/issues/1992
+DSL compiler for `GraphQL::Schema::ObjectType`,0,"enhancement, help-wanted",2024-06-13,https://github.com/shopify/tapioca/issues/1920
+v0.13.0 - Errors with custom ID types in ActiveRecord,0,,2024-03-26,https://github.com/shopify/tapioca/issues/1845
+Annotations for classes with multiple sources,0,"enhancement, help-wanted",2024-03-01,https://github.com/shopify/tapioca/issues/1812
+Infinite recursion bug when referencing generic class in a `sig` on its `.inherited` method,0,"bug, help-wanted",2023-09-01,https://github.com/shopify/tapioca/issues/1634
+Tapioca does not generate RBI methods for Struct subclasses,2,"enhancement, help-wanted",2023-02-07,https://github.com/shopify/tapioca/issues/1384
+Make `UrlHelpers` generator Rails Engine aware,5,"enhancement, help-wanted",2021-09-01,https://github.com/shopify/tapioca/issues/474
+Twirp support,3,,2025-03-14,https://github.com/shopify/tapioca/issues/2235
+`Parallel::DeadWorker` error when running `tapioca dsl` with >1 worker,5,,2025-03-21,https://github.com/shopify/tapioca/issues/2241
+Inconstent line references in `check-shims`,0,"good-first-issue, rubyconf-hackday",2024-02-23,https://github.com/shopify/tapioca/issues/1803
+LSP: Custom DSL Extensions not loading,0,,2025-03-19,https://github.com/shopify/tapioca/issues/2238
+`ActiveSupport::CurrentAttributes` missing compatibility for methods after change in Rails,1,,2025-03-12,https://github.com/shopify/tapioca/issues/2231
+VSC background .rbi file generation creates git noise,2,bug,2025-03-03,https://github.com/shopify/tapioca/issues/2223
+Feature request: Allow disabling autogenerating .rbi files in the background,1,"enhancement, feature",2025-03-03,https://github.com/shopify/tapioca/issues/2224
+CI failure - sorbet payload,0,,2025-02-20,https://github.com/shopify/tapioca/issues/2212
+Test against Rails 8,4,,2025-01-07,https://github.com/shopify/tapioca/issues/2142
+Flaky CI failure RDoc plugin,0,,2025-02-11,https://github.com/shopify/tapioca/issues/2199
+JSON gem 2.10.1 generates invalid RBI,2,,2025-02-11,https://github.com/shopify/tapioca/issues/2197
+ActiveRecordAssociation compiler errors in has_many through polymorphic association,5,,2025-02-05,https://github.com/shopify/tapioca/issues/2185
+tapioca gem ignores or overrides rbi files in gem rbi folder,1,,2025-01-28,https://github.com/shopify/tapioca/issues/2173
+CI errors on Rails 7.0,1,,2025-01-20,https://github.com/shopify/tapioca/issues/2158
+Drop support for Rails 7.0,1,,2025-01-21,https://github.com/shopify/tapioca/issues/2162
+Tapioca DSL crashes when using `T::Struct` containing generic members,1,help-wanted,2024-12-20,https://github.com/shopify/tapioca/issues/2130
+Errors with `Net::IMAP` in a new Rails application,3,,2024-12-30,https://github.com/shopify/tapioca/issues/2134
+Test PostgreSQL ActiveRecord adapter types,3,"help-wanted, gh-actions",2025-01-13,https://github.com/shopify/tapioca/issues/2149
+Test against Ruby 3.4,0,,2025-01-02,https://github.com/shopify/tapioca/issues/2137
+Cannot use Tapioca with Rails 8 solid_cache on postgresql,1,,2025-01-07,https://github.com/shopify/tapioca/issues/2141
+tapioca gem fails with bundler 2.6.0,3,,2024-12-27,https://github.com/shopify/tapioca/issues/2132
+"License compliance for content added by `tapioca {annotations,gem}`",1,,2024-11-07,https://github.com/shopify/tapioca/issues/2068
+RBI gem generation test is failing on CI but not locally,1,chore,2024-09-24,https://github.com/shopify/tapioca/issues/2025
+Incorrect array signature for `.new` in ActiveRecord model,2,,2024-08-07,https://github.com/shopify/tapioca/issues/1981
+`gem rbi generate` fails with SolidQueue in development in Rails 8,4,bug,2024-11-20,https://github.com/shopify/tapioca/issues/2080
+`PrivateRelation` is not aware of class methods,1,help-wanted,2024-12-07,https://github.com/shopify/tapioca/issues/2118
+Reminder to remove `graphql` eager loading,0,,2024-12-04,https://github.com/shopify/tapioca/issues/2110
+"AASM """"Unable to resolve constant PrivateAASMTransition""""",3,,2024-12-03,https://github.com/shopify/tapioca/issues/2107
+Kaminari pagination is not supported by Tapioca,1,,2024-04-09,https://github.com/shopify/tapioca/issues/1859
+Make `require.rb` less necessary,8,enhancement,2021-08-12,https://github.com/shopify/tapioca/issues/429
+`all_modules`/`all_classes` scan the object space every time,0,"good-first-issue, rubyconf-hackday",2024-07-30,https://github.com/shopify/tapioca/issues/1974
+Tapioca tries to load DSL compilers from old versions of Tapioca,1,rubyconf-hackday,2024-06-19,https://github.com/shopify/tapioca/issues/1934
+Automatically resolve superclass redefinition errors while generating gem RBIs,0,"enhancement, good-first-issue, rubyconf-hackday",2024-03-20,https://github.com/shopify/tapioca/issues/1834
+ActiveRecord Column DSL: Support ActiveRecord::Type::Json and ActiveRecord::ConnectionAdapters::PostgreSQL::OID::Jsonb,3,"help-wanted, rubyconf-hackday",2024-09-22,https://github.com/shopify/tapioca/issues/2023
+Rails 7.2.1 to 7.2.1.1 upgrade: Unable to resolve constant GeneratedRelationMethods,2,,2024-10-16,https://github.com/shopify/tapioca/issues/2048
+Bad RBI for activerecord when the bundle includes flipper-active_record 1.3.1,2,"bug, help-wanted",2024-09-09,https://github.com/shopify/tapioca/issues/2016
+ActiveRecord relations' `each` method block argument is `T.untyped`,12,"help-wanted, good-first-issue",2024-10-05,https://github.com/shopify/tapioca/issues/2034
+General purpose compiler for dynamically included/extended modules,1,,2024-10-15,https://github.com/shopify/tapioca/issues/2045
+`tapioca gem` mishandling interface in local gem,7,,2024-10-04,https://github.com/shopify/tapioca/issues/2033
+Invalid type for `Tapioca::Dsl::Helpers::ActiveRecordColumnTypeHelper#column_type_for`,2,"bug, good-first-issue",2024-08-20,https://github.com/shopify/tapioca/issues/1997
+Allow disabling documentation generation for some gems,2,"help-wanted, feature",2023-01-17,https://github.com/shopify/tapioca/issues/1361
+attr_* signatures are not being extracted with `tapioca gem` with hand rolled types,1,,2024-09-13,https://github.com/shopify/tapioca/issues/2020
+Segfault running tapioca dsl,4,,2024-09-11,https://github.com/shopify/tapioca/issues/2018
+Tapioca generates empty RBIs; cannot debug,1,,2024-09-04,https://github.com/shopify/tapioca/issues/2011
+"Suppress """"WARNING: Multiple constants with the same name"""" in LSP mode",0,bug,2024-07-29,https://github.com/shopify/tapioca/issues/1972
+Required file not being referenced during gem RBI building,1,,2024-08-13,https://github.com/shopify/tapioca/issues/1988
+Skip auto-generation for methods with annotations,1,enhancement,2024-08-12,https://github.com/shopify/tapioca/issues/1986
+undefined method `filter_versions!` for an instance of `RBI::Tree`,2,,2024-07-17,https://github.com/shopify/tapioca/issues/1959
+Add explicit ability to choose order of Tapioca compiler execution,22,enhancement,2024-07-20,https://github.com/shopify/tapioca/issues/1965
+`Tapioca::Compilers::ActiveRecordExtensions` fail to generate for `ActionMailbox::InboundEmail`,11,,2024-07-09,https://github.com/shopify/tapioca/issues/1951
+Investigate Bundler 2.5.12 failures,0,,2024-06-14,https://github.com/shopify/tapioca/issues/1926
+If a dynamic mixin happens more than once Tapioca forgets the original mixin location,0,bug,2023-02-21,https://github.com/shopify/tapioca/issues/1405
+Tapioca errors when upgrading from GoodJob 4.0.1 to 4.0.2,5,,2024-07-09,https://github.com/shopify/tapioca/issues/1950
+`NameError: uninitialized constant` when trying to generate DSL for ERB fixture that references env constants,2,,2024-06-21,https://github.com/shopify/tapioca/issues/1938
+Action View Class Methods incorrectly mixed into RBIs,7,,2022-08-04,https://github.com/shopify/tapioca/issues/1096
+update activerecord.rbi to account for new preferred method for model validations,7,,2024-06-18,https://github.com/shopify/tapioca/issues/1932
+`tapioca dsl` fails on Rails 6.1 models due to ActiveRecord::Encryption reference,3,,2024-06-03,https://github.com/shopify/tapioca/issues/1913
+`ActiveRecord::TypedStore` DSL compiler does not respect `array: true` for columns,2,"enhancement, good-first-issue, feature",2024-05-28,https://github.com/shopify/tapioca/issues/1910
+Rewrite `attr_reader` and friends into `def` methods,0,,2024-06-10,https://github.com/shopify/tapioca/issues/1918
+0.10: GraphQL typing ignores load option,3,enhancement,2022-09-08,https://github.com/shopify/tapioca/issues/1150
+Make DSL generation work with codebases that are not Rails apps,2,enhancement,2021-08-17,https://github.com/shopify/tapioca/issues/442
+Add `tapioca dsl` support for gems,1,feature,2024-05-08,https://github.com/shopify/tapioca/issues/1894
+Support postgres `cidr` attribute type,0,,2024-03-22,https://github.com/shopify/tapioca/issues/1837
+Check expected assertions in CI,1,,2024-04-15,https://github.com/shopify/tapioca/issues/1869
+Breaking changes for Rails fixtures,0,,2024-05-07,https://github.com/shopify/tapioca/issues/1893
+`bin/tapioca dsl` failing on undefined method `silenced=` for class `ActiveSupport::Deprecation`,0,,2024-05-06,https://github.com/shopify/tapioca/issues/1890
+Best practices for debugging custom compilers,2,,2024-03-26,https://github.com/shopify/tapioca/issues/1842
+Better support for testing third-party compilers,2,bug,2024-04-11,https://github.com/shopify/tapioca/issues/1865
+"Tapioca automatically converts nested style to compact style, causing 'Unable to resolve constant $class' error in RBI",1,,2024-04-10,https://github.com/shopify/tapioca/issues/1861
+Consider not using `Numeric` for ActiveRecord `#sum`,6,,2024-03-27,https://github.com/shopify/tapioca/issues/1850
+Active record relations compiler generates incorrect `sum` sigs,7,,2024-03-14,https://github.com/shopify/tapioca/issues/1822
+Running the DSL command exits with internal error,1,bug,2024-04-16,https://github.com/shopify/tapioca/issues/1874
+Invalid RBI for Prism?,4,,2024-04-10,https://github.com/shopify/tapioca/issues/1862
+Protobuf tapioca generated files broken,4,,2024-03-11,https://github.com/shopify/tapioca/issues/1815
+"`bundle exec tapioca gems --all` calls minitest internally and fails due to invalid option """"-all""""",2,,2024-03-27,https://github.com/shopify/tapioca/issues/1848
+`Tapioca::Dsl::Compilers::Protobuf` failing in 0.13.0,1,,2024-03-27,https://github.com/shopify/tapioca/issues/1847
+v0.13.0 - Parsing errors,2,,2024-03-26,https://github.com/shopify/tapioca/issues/1841
+API change in google-protobuf 4.26.0 breaks CI,2,,2024-03-13,https://github.com/shopify/tapioca/issues/1819
+Better stack trace upon `Parallel::DeadWorker`,1,enhancement,2023-07-12,https://github.com/shopify/tapioca/issues/1566
+Feature request: generating types from a graphql.schema file for use with graphql-client,2,,2022-10-18,https://github.com/shopify/tapioca/issues/1232
+IdentityCache compiler generates wrong return types for `fetch_multi_n_by_m` fields,1,bug,2024-01-19,https://github.com/shopify/tapioca/issues/1770
+Add a DSL generator for requiring the right ancestors in helpers,4,feature,2021-11-19,https://github.com/shopify/tapioca/issues/621
+Investigate support of `GraphQL::Schema::NonNull`,0,,2023-10-18,https://github.com/shopify/tapioca/issues/1697
+Generated activesupport rbi does not include String#starts_with? & String#ends_with?,3,,2021-11-30,https://github.com/shopify/tapioca/issues/640
+Merge gem annotations with gem RBIs to simplify user experience,2,enhancement,2023-05-29,https://github.com/shopify/tapioca/issues/1516
+Enhance loading during `tapioca gem`,0,enhancement,2023-07-21,https://github.com/shopify/tapioca/issues/1576
+Generated relation collections don't have types for each and find_each,1,,2022-11-24,https://github.com/shopify/tapioca/issues/1281
+The `tapioca init` command should allow the `--workers` option,0,enhancement,2023-01-20,https://github.com/shopify/tapioca/issues/1368
+Show that Tapioca is not stuck,0,feature,2023-01-17,https://github.com/shopify/tapioca/issues/1362
+Support `ActionDispatch::SystemTestCase` within UrlHelpers compiler,1,enhancement,2021-11-23,https://github.com/shopify/tapioca/issues/629
+Generator for `ActionView::TestHelper`,0,enhancement,2021-10-28,https://github.com/shopify/tapioca/issues/570
+New zeitwerk integration breaks existing configuration for loading rails engines,0,,2023-01-18,https://github.com/shopify/tapioca/issues/1363
+Should we support `ActiveRecord::Store`?,2,"enhancement, help-wanted, feature",2022-10-06,https://github.com/shopify/tapioca/issues/1217
+Support methods added by ActiveRecord delegated types,0,,2022-10-21,https://github.com/shopify/tapioca/issues/1240
+Generating dsl introspects the database which may contain columns from other branches.,1,,2021-12-03,https://github.com/shopify/tapioca/issues/646
+Invalid DSL when passing a class with a `type_parameter` to `attribute`'s `cast_type`,2,bug,2022-09-14,https://github.com/shopify/tapioca/issues/1165
+Generator for ActionView::TestCase,1,enhancement,2021-09-09,https://github.com/shopify/tapioca/issues/494
+RBIs generated for a Struct should include `type_member` redefinitions,0,bug,2022-07-25,https://github.com/shopify/tapioca/issues/1076
+Investigation: does Tapioca attempt to reference private constants?,1,"bug, good-first-issue, question",2022-06-09,https://github.com/shopify/tapioca/issues/978
+Refactor the ConstantFound event to take better advantage of polymorphism,0,"good-first-issue, chore",2022-06-09,https://github.com/shopify/tapioca/issues/977
+DSL test helpers should require all that is needed for running tests,0,bug,2022-05-04,https://github.com/shopify/tapioca/issues/922
+ActiveStorage dynamic proxy methods not surfaced,8,,2021-07-02,https://github.com/shopify/tapioca/issues/376
+fast generate option?,0,,2020-08-17,https://github.com/shopify/tapioca/issues/101

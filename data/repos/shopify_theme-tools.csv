@@ -1,0 +1,120 @@
+# Issues Total: 115
+# Repository: https://github.com/shopify/theme-tools
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+[Theme Check] MatchingTranslations rule handling Customer Accounts translations incorrectly,4,,2025-05-06,https://github.com/shopify/theme-tools/issues/930
+[Bug]: Theme check in CLI does not report cross-file LiquidDoc errors,0,"Severity: 3, Windows",2025-07-30,https://github.com/shopify/theme-tools/issues/1022
+`Unknown object` warnings for global Liquid objects in editor when using `{% doc %}` tag,3,,2025-05-14,https://github.com/shopify/theme-tools/issues/944
+.shopify/metafields.json is showing up everywhere,1,,2025-07-16,https://github.com/shopify/theme-tools/issues/1005
+When I format Liquid code with Shopify Liquid then it is replaced with empty code,1,,2025-07-16,https://github.com/shopify/theme-tools/issues/1004
+Not respecting `ignore` list on checks,1,"Bug, area:theme-check",2025-07-09,https://github.com/shopify/theme-tools/issues/1012
+Check for deprecated fonts,0,"enhancement, good first issue, area:theme-check",2025-07-18,https://github.com/shopify/theme-tools/issues/1008
+Formatting `.liquid` files deletes their contents,16,"Bug, Severity: 3",2024-05-14,https://github.com/shopify/theme-tools/issues/358
+`recommendations` is an object that is available to the Section Rendering API,1,tech debt,2024-04-15,https://github.com/shopify/theme-tools/issues/346
+RemoteAsset shouldn't throw for video_source.url,0,Bug,2025-07-01,https://github.com/shopify/theme-tools/issues/995
+Detect circular dependencies  [Requires: Cross-file checking],3,,2024-11-04,https://github.com/shopify/theme-tools/issues/559
+Liquid inside `{% schema %}` should not be visited by theme-check.,0,Bug,2025-01-06,https://github.com/shopify/theme-tools/issues/685
+New `visible_if` schema property showing as invalid,4,,2025-05-06,https://github.com/shopify/theme-tools/issues/932
+Snippet Usage Treeview Navigation,1,enhancement,2024-10-07,https://github.com/shopify/theme-tools/issues/525
+RemoteAsset shouldn't throw for hash URLs,0,,2025-06-13,https://github.com/shopify/theme-tools/issues/982
+Rework `DocumentLinks` to use `@shopify/theme-graph`,0,"enhancement, good first issue, tech debt, area:language-server",2025-06-11,https://github.com/shopify/theme-tools/issues/968
+VSCode prompt to remove dead code with an alert,0,"enhancement, good first issue, area:theme-check-vscode",2025-06-11,https://github.com/shopify/theme-tools/issues/970
+Theme check to notify when files are orphaned,0,"enhancement, good first issue, area:theme-check",2025-06-11,https://github.com/shopify/theme-tools/issues/969
+Section blocks are not validated in `presets` or `default`,0,"Bug, SEV-3",2025-06-05,https://github.com/shopify/theme-tools/issues/965
+prettier.config.js doesn't load in extension,2,Bug,2024-11-26,https://github.com/shopify/theme-tools/issues/619
+ValidLocalBlock throwing false positives,0,Bug,2024-11-19,https://github.com/shopify/theme-tools/issues/608
+Support discriminated unions,1,enhancement,2023-11-02,https://github.com/shopify/theme-tools/issues/223
+Theme check disable next line does not work for `doc` tag,0,enhancement,2025-05-14,https://github.com/shopify/theme-tools/issues/945
+Call Signature support,0,enhancement,2023-10-30,https://github.com/shopify/theme-tools/issues/215
+I would like to be warned when a select setting's default value is not a valid option.,0,enhancement,2025-05-09,https://github.com/shopify/theme-tools/issues/943
+{% schema %} checking of `t:` translations only seems to be checking `name` properties.,0,Bug,2025-05-09,https://github.com/shopify/theme-tools/issues/942
+Can't rename LiquidDoc param when cursor is at the first character of the var name,0,"Bug, SEV-3",2025-05-06,https://github.com/shopify/theme-tools/issues/936
+Shortcut enhancements + emmet like functionality,0,"enhancement, good first issue",2025-04-30,https://github.com/shopify/theme-tools/issues/920
+Use optional jsonc on schema tags,4,"enhancement, good first issue",2025-02-24,https://github.com/shopify/theme-tools/issues/815
+Template JSON needs check for missing static block in Liquid file,0,,2025-05-08,https://github.com/shopify/theme-tools/issues/941
+Broken Syntax Highlighting for Spaced Parameter Delimiter,0,"Bug, SEV-4, good first issue",2025-01-04,https://github.com/shopify/theme-tools/issues/684
+Add code action to disable a check,4,"enhancement, area:theme-check",2021-11-09,https://github.com/shopify/theme-tools/issues/432
+.prettierignore file is ignored by the plugin,2,"good first issue, tech debt, Severity: 3, area:prettier-plugin",2023-04-12,https://github.com/shopify/theme-tools/issues/379
+Shopify Liquid VS code extension error Request textDocument/hover failed,1,Windows,2025-03-24,https://github.com/shopify/theme-tools/issues/862
+No autocomplete offered for nested properties when key starts with number,0,"Bug, enhancement",2025-03-17,https://github.com/shopify/theme-tools/issues/858
+Theme blocks optimisations,4,enhancement,2025-04-09,https://github.com/shopify/theme-tools/issues/882
+Warn against missing use of `{{ block.shopify_attributes }}` in blocks with `tag: null`,3,enhancement,2025-04-01,https://github.com/shopify/theme-tools/issues/867
+"False Positive """"Variable Assigned but Not Used"""" in Style Tags",1,"Bug, Severity: 3",2024-08-04,https://github.com/shopify/theme-tools/issues/465
+Support for .yml.liquid file formatting,2,"enhancement, open for contributions",2025-03-26,https://github.com/shopify/theme-tools/issues/863
+"Support for """"Go to declaration"""" of translations",1,"enhancement, area:language-server",2024-11-06,https://github.com/shopify/theme-tools/issues/563
+Extension errors without a git repository,3,,2025-01-17,https://github.com/shopify/theme-tools/issues/718
+`ValidSchema` check errors on nested translation keys,1,"Bug, SEV-3",2025-01-20,https://github.com/shopify/theme-tools/issues/722
+Default development language,6,"enhancement, Severity: 4, Severity: 3, area:theme-check",2024-09-27,https://github.com/shopify/theme-tools/issues/503
+IntelliSense support within {% stylesheet %} and {% javascript %} tags,1,enhancement,2025-03-19,https://github.com/shopify/theme-tools/issues/860
+`TranslationKeyExists` check not detecting translations in section schema,2,"Bug, SEV-3",2025-01-20,https://github.com/shopify/theme-tools/issues/721
+Missing completions for section locales,0,"Bug, SEV-3",2025-01-20,https://github.com/shopify/theme-tools/issues/720
+Invalid completion for `metaobject` type schema settings,0,"Bug, SEV-3",2025-02-27,https://github.com/shopify/theme-tools/issues/827
+[Feature Request]: LiquidSchema(node) check type for SourceType.LiquidHtml,0,"tech debt, area:theme-check",2025-02-25,https://github.com/shopify/theme-tools/issues/817
+[Theme Check] Warn on missing translations,0,"enhancement, area:theme-check",2025-02-24,https://github.com/shopify/theme-tools/issues/813
+Shopify Liquid formatter doesn't format a HTML in a default Shopify's email template.,1,"enhancement, area:prettier-plugin",2025-02-05,https://github.com/shopify/theme-tools/issues/760
+[LiquidDoc] Support param type validations when value is a variable,0,#gsd:44310,2025-02-25,https://github.com/shopify/theme-tools/issues/818
+Support `content_for` block `closest.metaobject` param completion,0,"enhancement, area:language-server",2025-02-10,https://github.com/shopify/theme-tools/issues/776
+Click to open the referenced block's file from within schema,0,"enhancement, area:language-server",2025-02-04,https://github.com/shopify/theme-tools/issues/757
+Theme check should warn you when you have `presets` and `default`,0,"Bug, SEV-4, area:theme-check",2025-02-03,https://github.com/shopify/theme-tools/issues/750
+Theme check needs to verify settings values,0,"enhancement, area:theme-check",2025-02-03,https://github.com/shopify/theme-tools/issues/749
+`ValidSchema` reports incorrect validation error when block in preset is disabled,2,,2025-01-31,https://github.com/shopify/theme-tools/issues/748
+`group` suggested in wrong place when building a `select` schema setting,0,"Bug, SEV-3",2025-01-23,https://github.com/shopify/theme-tools/issues/730
+Section rename handling in config/settings_data.json,0,,2025-01-16,https://github.com/shopify/theme-tools/issues/713
+Extract snippet from file `refactor.extract` CodeAction,4,"enhancement, area:theme-check",2021-09-28,https://github.com/shopify/theme-tools/issues/433
+"Opening new curly braces in schema should place cursor in new, middle line, ready for content",0,,2024-12-20,https://github.com/shopify/theme-tools/issues/680
+Deeplink to open a theme block by its type value specified in the liquid schema,0,enhancement,2024-12-02,https://github.com/shopify/theme-tools/issues/631
+"In app blocks, the recommendations object is not recognized",2,"Bug, good first issue, Severity: 4",2024-03-27,https://github.com/shopify/theme-tools/issues/332
+Should lint against use of non-explicit dependencies ,0,"enhancement, tech debt",2023-10-26,https://github.com/shopify/theme-tools/issues/210
+Add check for unused translations,2,"enhancement, good first issue, area:theme-check",2021-06-30,https://github.com/shopify/theme-tools/issues/437
+Closing angle bracket autofilled after adding opening angle bracket inside liquid tag,3,Bug,2024-11-06,https://github.com/shopify/theme-tools/issues/564
+Introduce support to `textEdit` completion items,1,enhancement,2023-06-13,https://github.com/shopify/theme-tools/issues/28
+Figure out a way to prevent incompatible/breaking Shopify/theme-liquid-docs JSON schema changes,0,,2024-11-18,https://github.com/shopify/theme-tools/issues/601
+Follow up on 599,0,tech debt,2024-11-18,https://github.com/shopify/theme-tools/issues/600
+Feature Request: Tab stops for translations,1,"enhancement, good first issue, area:language-server",2024-10-22,https://github.com/shopify/theme-tools/issues/537
+Metafield theme-check,0,enhancement,2024-11-07,https://github.com/shopify/theme-tools/issues/575
+Description fails to render properly for some tags and filters on hover,1,"enhancement, good first issue, tech debt",2024-09-27,https://github.com/shopify/theme-tools/issues/506
+Setup the prettier organize import plugin,0,"enhancement, tech debt",2024-10-25,https://github.com/shopify/theme-tools/issues/540
+Renaming a section group should update references to that section group,0,"enhancement, area:language-server",2024-10-29,https://github.com/shopify/theme-tools/issues/548
+Metaobject completion,0,enhancement,2024-10-28,https://github.com/shopify/theme-tools/issues/544
+@shopify/liquid-html-parser package has no `.js.map` files,2,,2024-10-21,https://github.com/shopify/theme-tools/issues/535
+Feature Request: Add Emmet support,2,"enhancement, area:language-server",2024-10-22,https://github.com/shopify/theme-tools/issues/536
+Unused files check,7,"enhancement, Severity: 4, area:theme-check",2024-10-02,https://github.com/shopify/theme-tools/issues/518
+Bake prettier formatting inside the Language Server (instead of the VS Code extension),1,tech debt,2023-04-21,https://github.com/shopify/theme-tools/issues/26
+Feature Request: Improved translation pluralisation support,2,"enhancement, area:language-server",2024-10-22,https://github.com/shopify/theme-tools/issues/538
+content_for_layout rendered before section group,1,,2024-08-26,https://github.com/shopify/theme-tools/issues/476
+Introduce the `UndefinedAttribute` checker,1,area:theme-check,2023-02-07,https://github.com/shopify/theme-tools/issues/403
+Require `other` for pluralized entries in translation files,0,"enhancement, good first issue, area:theme-check",2020-12-04,https://github.com/shopify/theme-tools/issues/452
+Add an Accessibility Category,0,"enhancement, Severity: 4, area:theme-check",2023-04-14,https://github.com/shopify/theme-tools/issues/401
+Support for prettier plugins,7,tech debt,2024-04-09,https://github.com/shopify/theme-tools/issues/342
+Introduce global suggestions for supporting `{% # theme-check-disable <type> %}`,4,enhancement,2023-09-27,https://github.com/shopify/theme-tools/issues/113
+Followup functionality for `DeprecatedTags`,0,enhancement,2023-09-05,https://github.com/shopify/theme-tools/issues/68
+The node implementation of `getDefaultTranslationsFactory` is inefficient,0,tech debt,2023-04-14,https://github.com/shopify/theme-tools/issues/23
+docs-updater should race against a timeout or else starting the language server hangs.,3,tech debt,2023-08-14,https://github.com/shopify/theme-tools/issues/21
+Missing editor.action.commentLine command,1,enhancement,2023-12-12,https://github.com/shopify/theme-tools/issues/258
+Library cannot be imported by Vite,6,enhancement,2023-11-07,https://github.com/shopify/theme-tools/issues/240
+Custom tag indentation,5,enhancement,2023-03-24,https://github.com/shopify/theme-tools/issues/190
+Support Liquid CSS/JS function peek feature,1,enhancement,2024-10-07,https://github.com/shopify/theme-tools/issues/523
+JSON formatting issues with the Shopify Github Integration,9,"Bug, Severity: 3, area:prettier-plugin",2024-04-02,https://github.com/shopify/theme-tools/issues/373
+Typing `/` after a `<` when we know the tag isn't closed should close the open tag.,0,,2024-09-27,https://github.com/shopify/theme-tools/issues/505
+[Intelligent code completion] Support collection retrieved via its name,0,"enhancement, area:theme-check",2022-12-12,https://github.com/shopify/theme-tools/issues/404
+Make sure you can loop through sections groups,2,enhancement,2024-08-20,https://github.com/shopify/theme-tools/issues/474
+Add a corrector to the multiple lines of liquid tag,0,"enhancement, area:theme-check",2021-11-12,https://github.com/shopify/theme-tools/issues/431
+"Custom tags, objects and filters",1,"enhancement, area:theme-check",2021-12-27,https://github.com/shopify/theme-tools/issues/424
+Check the width against the srcset values,2,"enhancement, good first issue, area:theme-check",2022-11-08,https://github.com/shopify/theme-tools/issues/406
+Feature: Recommend escaping strings that can contain user-typed HTML,0,area:theme-check,2022-11-01,https://github.com/shopify/theme-tools/issues/407
+"The AssetPreload check suggests using `preload_tag` on `font_url` assets, which is not supported",2,"Bug, area:theme-check",2022-08-30,https://github.com/shopify/theme-tools/issues/411
+Extension should look for templates relatively or by setting.,4,"enhancement, area:theme-check-vscode",2021-10-14,https://github.com/shopify/theme-tools/issues/392
+Support for .theme-check customization path,4,"enhancement, area:theme-check-vscode",2022-07-28,https://github.com/shopify/theme-tools/issues/387
+LiquidTag in attribute name not throwing an error. ,0,"Bug, Severity: 3, area:prettier-plugin",2022-12-15,https://github.com/shopify/theme-tools/issues/382
+Formatting liquid templates for non-HTML content,1,"enhancement, area:prettier-plugin",2023-08-24,https://github.com/shopify/theme-tools/issues/376
+Adding quotes around output markup with `| json` is not a safe formatting operation,2,"Bug, Severity: 4, area:prettier-plugin",2023-07-16,https://github.com/shopify/theme-tools/issues/377
+Fix this indentation inference bug,0,"Bug, Severity: 3, area:prettier-plugin",2023-04-26,https://github.com/shopify/theme-tools/issues/378
+Theme check: Customize which directory/directories contain section files,2,enhancement,2024-02-06,https://github.com/shopify/theme-tools/issues/278
+Add document link support to codemirror-language-client,0,enhancement,2023-11-02,https://github.com/shopify/theme-tools/issues/233
+Formatter ignores liquid quotes inside HTML attributes,1,"Bug, Severity: 4",2024-01-11,https://github.com/shopify/theme-tools/issues/264
+Add working example to custom check documentation,2,"documentation, enhancement",2024-06-11,https://github.com/shopify/theme-tools/issues/366
+Non-breaking spaces get killed,2,"Bug, Severity: 4",2023-09-09,https://github.com/shopify/theme-tools/issues/188
+Consider turning on stricter typescript options,0,tech debt,2024-02-27,https://github.com/shopify/theme-tools/issues/302
+Absorb and open source `lang-liquid`,0,tech debt,2023-10-17,https://github.com/shopify/theme-tools/issues/173
+Feature Request: Breadcrumbs for .liquid files,0,enhancement,2023-11-01,https://github.com/shopify/theme-tools/issues/219

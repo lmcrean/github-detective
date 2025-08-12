@@ -1,0 +1,195 @@
+# Issues Total: 190
+# Repository: https://github.com/shopify/toxiproxy
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Latency toxic is not bidirectional (and this is undocumented),0,,2025-07-20,https://github.com/shopify/toxiproxy/issues/655
+Is Redis Cluster/ PostGresDB Connection(based on master/slave architecture) supported for ToxiProxy ? ,1,,2024-01-28,https://github.com/shopify/toxiproxy/issues/557
+Add docker compose sample,0,,2025-06-09,https://github.com/shopify/toxiproxy/issues/647
+Ignore certificate errors when creating proxy over a https url,0,,2025-06-04,https://github.com/shopify/toxiproxy/issues/646
+Issues with re-routing https traffic,4,,2016-10-13,https://github.com/shopify/toxiproxy/issues/136
+🤝 Web interface (Toxihub) 🙊,0,,2025-05-08,https://github.com/shopify/toxiproxy/issues/641
+Add ability to specify toxics in the config file,3,"Toxiproxy, ideas",2022-09-29,https://github.com/shopify/toxiproxy/issues/447
+Populate doesn't compare hostnames properly,0,,2016-09-14,https://github.com/shopify/toxiproxy/issues/131
+toxicity parameter ignored,2,,2020-02-21,https://github.com/shopify/toxiproxy/issues/272
+Proxy-wide bandwidth limit,0,,2025-01-23,https://github.com/shopify/toxiproxy/issues/613
+Toxic with toxicity: 0 still affects proxy,2,,2024-12-05,https://github.com/shopify/toxiproxy/issues/603
+non-local API server connection refused when using '-config',2,,2023-06-20,https://github.com/shopify/toxiproxy/issues/516
+"Container images for arm,v6 and arm,v7 are broken",0,,2024-07-22,https://github.com/shopify/toxiproxy/issues/580
+how to access request and response data from the proxy server,4,,2016-08-03,https://github.com/shopify/toxiproxy/issues/118
+K8s support,11,,2018-05-09,https://github.com/shopify/toxiproxy/issues/213
+Support or simulate packet lose in Toxiproxy?,0,,2024-06-11,https://github.com/shopify/toxiproxy/issues/578
+Dynamic / Conditional Toxics?,2,,2023-07-25,https://github.com/shopify/toxiproxy/issues/518
+Release toxiproxy changes,0,,2024-03-12,https://github.com/shopify/toxiproxy/issues/560
+Toxiproxy control port hangs on removing a toxic,2,,2024-02-21,https://github.com/shopify/toxiproxy/issues/558
+Scrapoxy,2,,2018-08-03,https://github.com/shopify/toxiproxy/issues/221
+Multiple upstreams support,2,,2019-08-22,https://github.com/shopify/toxiproxy/issues/258
+Kafka is not supported?,8,,2017-04-18,https://github.com/shopify/toxiproxy/issues/171
+Documentation for distribution of latency with different jitter values,0,,2024-01-17,https://github.com/shopify/toxiproxy/issues/556
+Unable to update toxic using prebuilt windows server,0,,2024-01-03,https://github.com/shopify/toxiproxy/issues/553
+Proxy does not foward custom HTTP headers,0,,2023-12-24,https://github.com/shopify/toxiproxy/issues/550
+Difficulty Implementing Proxy for OpenAI API with App Calling and curl Insufficiency,0,,2023-11-22,https://github.com/shopify/toxiproxy/issues/544
+panic: runtime error: slice bounds out of range [808:773],0,,2023-11-12,https://github.com/shopify/toxiproxy/issues/541
+Tag and release v2.6.0?,2,,2023-08-11,https://github.com/shopify/toxiproxy/issues/520
+Toxiproxy API access from browser,6,"bug, security",2018-07-02,https://github.com/shopify/toxiproxy/issues/219
+Dashboard,0,,2017-10-10,https://github.com/shopify/toxiproxy/issues/192
+Add a config file example,7,"help wanted, docs",2017-02-22,https://github.com/shopify/toxiproxy/issues/163
+Possible to add toxics in config?,1,,2023-06-16,https://github.com/shopify/toxiproxy/issues/510
+Unable to use Toxi proxy from host when it is running in a container,1,,2019-12-04,https://github.com/shopify/toxiproxy/issues/267
+Reopen all the PRs that were closed unintentionally because of master -> main rename,2,,2023-04-20,https://github.com/shopify/toxiproxy/issues/499
+Migrate the GH default branch to main,1,,2023-04-18,https://github.com/shopify/toxiproxy/issues/492
+Create RELEASE.md document,0,docs,2022-03-03,https://github.com/shopify/toxiproxy/issues/368
+2.5.0 Milestone,0,"Epic, Toxiproxy",2022-03-03,https://github.com/shopify/toxiproxy/issues/367
+"toxiproxy api hangs when trying to do anything after a long wait, run from inside testcontainers",18,"question, Toxiproxy",2019-06-19,https://github.com/shopify/toxiproxy/issues/254
+Use HTTP Patch for clients with Toxiproxy server,0,Toxiproxy,2022-09-13,https://github.com/shopify/toxiproxy/issues/443
+Re-organise folders structure,2,"enhancement, Epic, Toxiproxy",2022-01-07,https://github.com/shopify/toxiproxy/issues/352
+2.6.0 Milestone,1,"Epic, Toxiproxy",2022-09-04,https://github.com/shopify/toxiproxy/issues/434
+Toxiproxy client setup timeout on API operation,1,Toxiproxy,2022-08-28,https://github.com/shopify/toxiproxy/issues/420
+Toxics are not set when creating a proxy for the first time.,2,,2015-08-28,https://github.com/shopify/toxiproxy/issues/79
+Investigate in klogs,0,Toxiproxy,2022-04-12,https://github.com/shopify/toxiproxy/issues/379
+Automate setup with Kubernetes operator,5,Epic,2021-10-15,https://github.com/shopify/toxiproxy/issues/332
+Hosting toxiproxy in HTTPS,3,question,2020-09-15,https://github.com/shopify/toxiproxy/issues/286
+"RemoveToxic: HTTP 503: Unexpected response code, expected 204",5,bug,2023-04-21,https://github.com/shopify/toxiproxy/issues/500
+Unit toxiproxy.service not found,17,"enhancement, help wanted",2018-03-17,https://github.com/shopify/toxiproxy/issues/205
+Test retries with toxiproxy,3,question,2022-07-14,https://github.com/shopify/toxiproxy/issues/404
+"Create a toxic, connection loss, for Server --> Client ( donwstream)?",13,,2023-02-15,https://github.com/shopify/toxiproxy/issues/479
+ToxiproxyContainer.ContainerProxy deprecated,3,question,2023-01-04,https://github.com/shopify/toxiproxy/issues/470
+How to proxy MTLS connections using Toxiproxy,1,question,2023-01-23,https://github.com/shopify/toxiproxy/issues/472
+Unable to connect to RDS Aurora SQL DB via ToxiProxy server,10,"question, Toxiproxy",2022-10-07,https://github.com/shopify/toxiproxy/issues/450
+Fails to connect after peer-reset,6,help wanted,2022-11-16,https://github.com/shopify/toxiproxy/issues/465
+is it possible to use ssh to connect to toxiproxy with a SSH server as backend.,5,question,2022-11-15,https://github.com/shopify/toxiproxy/issues/464
+Correct values for packet loss config,0,,2020-05-21,https://github.com/shopify/toxiproxy/issues/285
+Hangs indefinitely while removing toxic,7,"bug, help wanted",2018-04-02,https://github.com/shopify/toxiproxy/issues/210
+Proxy to Oracle Pool Datasource connection,10,question,2022-09-13,https://github.com/shopify/toxiproxy/issues/444
+Visualize Link in logs,0,,2022-09-02,https://github.com/shopify/toxiproxy/issues/429
+Deadlock on writing last buffer to dead output,0,,2022-09-02,https://github.com/shopify/toxiproxy/issues/428
+Fallback in case ToxicDelete stuck,0,,2022-09-02,https://github.com/shopify/toxiproxy/issues/427
+Toxiproxy hangs indefinitely while removing toxicity,5,,2022-08-26,https://github.com/shopify/toxiproxy/issues/412
+Show messages in logs to identify which toxic in use,0,,2022-08-26,https://github.com/shopify/toxiproxy/issues/414
+Proxies reappear after deleting them,1,,2021-12-14,https://github.com/shopify/toxiproxy/issues/344
+Support for connection timed out toxic,2,question,2022-08-11,https://github.com/shopify/toxiproxy/issues/410
+running toxiproxy inside a container and access to upstream service from host machine,2,,2019-06-04,https://github.com/shopify/toxiproxy/issues/252
+Unable to create Proxies on PCF environment,7,"question, Toxiproxy",2022-07-13,https://github.com/shopify/toxiproxy/issues/403
+Support HTTPS for Toxiproxy API server,1,"Toxiproxy, ideas",2022-07-18,https://github.com/shopify/toxiproxy/issues/406
+ Toxiproxy is not able to send the HEADER values to destination.,9,question,2022-06-27,https://github.com/shopify/toxiproxy/issues/398
+Prometheus metrics usage question,1,question,2022-06-14,https://github.com/shopify/toxiproxy/issues/393
+Multiple proxies for the same target port,1,,2022-06-17,https://github.com/shopify/toxiproxy/issues/394
+Docker image,3,Toxiproxy,2022-05-03,https://github.com/shopify/toxiproxy/issues/384
+2.4.0 Milestone,1,"Epic, Toxiproxy",2022-01-05,https://github.com/shopify/toxiproxy/issues/350
+Unable to hook up Toxiproxy to Sql Server,2,,2022-02-01,https://github.com/shopify/toxiproxy/issues/363
+Feature Request - Prometheus/OpenMetrics endpoint,0,"enhancement, ideas",2022-02-25,https://github.com/shopify/toxiproxy/issues/365
+panic in slicer,4,,2017-05-17,https://github.com/shopify/toxiproxy/issues/178
+Improve server log message so people know Toxiproxy is working.,0,help wanted,2018-09-19,https://github.com/shopify/toxiproxy/issues/228
+Suggestion: please consider adding a -version flag,0,ideas,2021-12-23,https://github.com/shopify/toxiproxy/issues/348
+Suggestion: please consider signing release tags,2,"ideas, automation",2021-12-18,https://github.com/shopify/toxiproxy/issues/345
+Docker container log level,2,Toxiproxy,2021-12-09,https://github.com/shopify/toxiproxy/issues/343
+2.3.0 Milestone,1,"Epic, Toxiproxy",2021-10-22,https://github.com/shopify/toxiproxy/issues/337
+Support multiple format config,0,ideas,2021-11-12,https://github.com/shopify/toxiproxy/issues/342
+Protocol aware toxics,17,ideas,2015-05-05,https://github.com/shopify/toxiproxy/issues/50
+Client cannot connect to proxy even if upstream is down,3,ideas,2019-11-18,https://github.com/shopify/toxiproxy/issues/265
+"Can't create proxy, only one usage of each socket address (protocol/network adddress/port) is normally permitted",1,"question, windows",2020-04-08,https://github.com/shopify/toxiproxy/issues/277
+"Create: HTTP 404: Unexpected response code, expected 201",1,question,2020-12-18,https://github.com/shopify/toxiproxy/issues/289
+Import toxics from config.json,3,,2020-04-24,https://github.com/shopify/toxiproxy/issues/281
+write EPROTO ...:error:...:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 40,2,,2021-03-10,https://github.com/shopify/toxiproxy/issues/292
+The .deb installer is creating executables with arch info in name,3,,2021-10-04,https://github.com/shopify/toxiproxy/issues/330
+2.2.0 Milestone,0,Epic,2021-09-20,https://github.com/shopify/toxiproxy/issues/327
+"Add a toxic to simulate """"connection reset""""",7,"enhancement, help wanted",2018-11-27,https://github.com/shopify/toxiproxy/issues/238
+VirusTotal results,5,help wanted,2021-09-30,https://github.com/shopify/toxiproxy/issues/329
+2.1.6 Milestone,1,Epic,2021-09-15,https://github.com/shopify/toxiproxy/issues/315
+toxiproxy-cli: Required argument 'type' was empty,2,,2021-09-17,https://github.com/shopify/toxiproxy/issues/324
+Dockerfile not port forwarding,4,,2016-12-06,https://github.com/shopify/toxiproxy/issues/151
+Fix cli help example for specifying several attributes for toxic,1,"bug, help wanted",2018-02-08,https://github.com/shopify/toxiproxy/issues/202
+Unable to specify port for cli,5,,2019-04-29,https://github.com/shopify/toxiproxy/issues/250
+toxiproxy v2.1.5 can't be used as a client module without /v2 suffix,0,,2021-09-13,https://github.com/shopify/toxiproxy/issues/310
+Unable to create proxy using toxiproxy-cli,5,,2021-09-03,https://github.com/shopify/toxiproxy/issues/307
+arm binaries,7,,2020-01-13,https://github.com/shopify/toxiproxy/issues/269
+Unable to build on Solaris,5,bug,2019-02-26,https://github.com/shopify/toxiproxy/issues/248
+Support for proxying HTTP to HTTPS,8,,2017-04-30,https://github.com/shopify/toxiproxy/issues/175
+Toxiproxy and Oracle SCAN,3,,2017-05-11,https://github.com/shopify/toxiproxy/issues/177
+Do not support mock data,1,,2020-04-17,https://github.com/shopify/toxiproxy/issues/278
+what is meant by jitter?,0,,2020-04-06,https://github.com/shopify/toxiproxy/issues/276
+Custom Seed,0,,2020-03-05,https://github.com/shopify/toxiproxy/issues/274
+Subnet filtering for toxics,0,,2020-02-24,https://github.com/shopify/toxiproxy/issues/273
+Client-side setup,0,,2020-02-19,https://github.com/shopify/toxiproxy/issues/271
+Installing toxiproxy in RHEL 7,1,,2020-01-08,https://github.com/shopify/toxiproxy/issues/268
+Add metrics and RT monitoring,3,,2019-11-26,https://github.com/shopify/toxiproxy/issues/266
+Default host is localhost instead of 0.0.0.0,1,,2019-09-10,https://github.com/shopify/toxiproxy/issues/263
+Client sent an HTTP request to an HTTPS server.,2,,2019-09-06,https://github.com/shopify/toxiproxy/issues/262
+bandwidth - is it possible to limit the the upload speed?,2,,2019-08-24,https://github.com/shopify/toxiproxy/issues/259
+Add persistence layer ,1,,2019-04-22,https://github.com/shopify/toxiproxy/issues/249
+Clarification regarding toxic creation,3,,2017-09-20,https://github.com/shopify/toxiproxy/issues/189
+Upstream aware toxics,3,enhancement,2019-02-11,https://github.com/shopify/toxiproxy/issues/244
+New forks fail to build because of missing dependencies,2,,2019-01-29,https://github.com/shopify/toxiproxy/issues/243
+Out of Memory Error,5,,2018-10-18,https://github.com/shopify/toxiproxy/issues/232
+Release version v2.1.4,1,,2019-01-10,https://github.com/shopify/toxiproxy/issues/240
+Regarding parameter to get the percentage of request that will be delayed,2,,2018-12-14,https://github.com/shopify/toxiproxy/issues/239
+Docker support environment variables?,3,,2018-11-15,https://github.com/shopify/toxiproxy/issues/236
+go client Full Example error,0,,2018-11-23,https://github.com/shopify/toxiproxy/issues/237
+interface down toxic,1,,2018-10-26,https://github.com/shopify/toxiproxy/issues/235
+SVG logo,4,,2018-09-19,https://github.com/shopify/toxiproxy/issues/227
+Install on RHEL7,4,,2018-09-18,https://github.com/shopify/toxiproxy/issues/226
+I can't recv data from server,1,,2018-08-23,https://github.com/shopify/toxiproxy/issues/225
+Https ToxiProxy & Postman,2,,2018-08-10,https://github.com/shopify/toxiproxy/issues/223
+Unable to connect from proxy URL to actual upstream URL,4,,2018-06-26,https://github.com/shopify/toxiproxy/issues/217
+Toxicity field can not be altered,1,,2018-05-22,https://github.com/shopify/toxiproxy/issues/214
+"Go 1.10: api_test.go:326: Fatalf format %s reads arg #1, but call has only 0 args",3,,2018-03-22,https://github.com/shopify/toxiproxy/issues/206
+Simulate tcp halfopen connetions,2,,2018-01-15,https://github.com/shopify/toxiproxy/issues/199
+how to simulate tcp halfopen connetions ?,0,,2018-03-24,https://github.com/shopify/toxiproxy/issues/209
+cannot build on MacOS Sierra,2,,2018-03-23,https://github.com/shopify/toxiproxy/issues/208
+server start hanging on MacOS Sierra,3,,2018-03-23,https://github.com/shopify/toxiproxy/issues/207
+toxiproxy-server hangs when starting (macOS Sierra),3,,2018-02-08,https://github.com/shopify/toxiproxy/issues/203
+Describe docker repo,1,,2018-02-06,https://github.com/shopify/toxiproxy/issues/201
+Failed to create proxy: Post http://localhost:8474/proxies: dial tcp [::1]:8474: getsockopt: connection refused,3,,2018-01-30,https://github.com/shopify/toxiproxy/issues/200
+Allow configuration of upstream proxy,3,,2017-12-20,https://github.com/shopify/toxiproxy/issues/198
+Use Case Descriptions,2,,2017-01-04,https://github.com/shopify/toxiproxy/issues/158
+Populate conflicting ports,0,help wanted,2017-04-18,https://github.com/shopify/toxiproxy/issues/172
+"Trying to simulating at/near endpoint, any feedback is appreciated",2,,2017-11-20,https://github.com/shopify/toxiproxy/issues/196
+Simple question with ToxiProxy Http API,2,,2017-11-21,https://github.com/shopify/toxiproxy/issues/197
+cli fails with https hosts,1,"bug, help wanted",2017-04-30,https://github.com/shopify/toxiproxy/issues/174
+Query on Concurrency,2,,2017-10-12,https://github.com/shopify/toxiproxy/issues/193
+Set bandwidth per application,1,"enhancement, help wanted",2017-10-06,https://github.com/shopify/toxiproxy/issues/190
+Is it possible to use wildcards in the upstream pattern?,7,,2017-08-29,https://github.com/shopify/toxiproxy/issues/188
+Can Toxiproxy be used to inject toxics to Postgres DB connection ?,2,,2017-08-08,https://github.com/shopify/toxiproxy/issues/186
+Is toxiproxy support https as upstream? ,3,,2017-04-28,https://github.com/shopify/toxiproxy/issues/173
+Fix logrus import,1,,2017-05-19,https://github.com/shopify/toxiproxy/issues/179
+toxiproxy Server should exit with code 0 when SIGTERM'd,3,"enhancement, help wanted",2017-05-25,https://github.com/shopify/toxiproxy/issues/180
+Optional upstream?,5,,2016-12-08,https://github.com/shopify/toxiproxy/issues/155
+Test # of roundtrips,0,,2017-04-13,https://github.com/shopify/toxiproxy/issues/170
+Toxiproxy hangs,14,,2017-01-12,https://github.com/shopify/toxiproxy/issues/159
+simulate cable unplug,1,,2016-10-25,https://github.com/shopify/toxiproxy/issues/149
+Fails redis benchmark,2,,2017-03-23,https://github.com/shopify/toxiproxy/issues/167
+CI is failing,2,,2017-03-19,https://github.com/shopify/toxiproxy/issues/166
+"Add timeout and """"clean"""" failure to HTTP API.",0,,2017-03-19,https://github.com/shopify/toxiproxy/issues/164
+add an option to  return 400 and 500 reponse codes,3,,2017-02-01,https://github.com/shopify/toxiproxy/issues/160
+chat room?,3,,2016-10-25,https://github.com/shopify/toxiproxy/issues/147
+Add `-disabled` flag for new proxies in CLI,1,,2016-12-14,https://github.com/shopify/toxiproxy/issues/156
+Simulate slow connection open,5,,2016-08-23,https://github.com/shopify/toxiproxy/issues/123
+Integrate with `goproxy`,2,,2015-12-07,https://github.com/shopify/toxiproxy/issues/90
+macOS Sierra issue,3,,2016-11-17,https://github.com/shopify/toxiproxy/issues/150
+making sure all connections are subject to a toxic / creating proxy-toxic atomically,5,,2016-10-25,https://github.com/shopify/toxiproxy/issues/148
+toxiproxy-cli hangs in docker connecting to local toxproxy (related to internet?),14,,2016-10-19,https://github.com/shopify/toxiproxy/issues/138
+Data limit toxic suggestion,2,,2016-08-22,https://github.com/shopify/toxiproxy/issues/122
+Batch API / support HTTP pipelines,7,,2016-04-18,https://github.com/shopify/toxiproxy/issues/102
+better CLI error handling,1,,2016-07-06,https://github.com/shopify/toxiproxy/issues/113
+cli: Allow host to be specified,2,,2016-09-01,https://github.com/shopify/toxiproxy/issues/128
+Separate development from master branch,1,,2016-10-25,https://github.com/shopify/toxiproxy/issues/146
+"cli's help messages are too abstract, e.g. nothing toxic specific",1,,2016-10-24,https://github.com/shopify/toxiproxy/issues/141
+Provide -master docker images,2,,2016-10-24,https://github.com/shopify/toxiproxy/issues/142
+how to specify multiple attributes? incorrect handling of errors,6,,2016-10-20,https://github.com/shopify/toxiproxy/issues/139
+docker image no longer updating?,3,,2016-10-18,https://github.com/shopify/toxiproxy/issues/137
+do flakey latency tests point to a larger problem?,1,,2016-07-06,https://github.com/shopify/toxiproxy/issues/114
+Clarification of timeout toxic behavior,2,,2016-08-16,https://github.com/shopify/toxiproxy/issues/121
+Unable to update toxic name and stream property,3,,2016-08-12,https://github.com/shopify/toxiproxy/issues/120
+Wrong response when creating a toxic,2,,2016-08-03,https://github.com/shopify/toxiproxy/issues/119
+Alternative to current Node client,7,,2016-05-16,https://github.com/shopify/toxiproxy/issues/108
+Cant access toxiproxy server from outside host,2,,2016-07-27,https://github.com/shopify/toxiproxy/issues/117
+Support for cluster of toxiproxy nodes,13,,2016-07-18,https://github.com/shopify/toxiproxy/issues/115
+404s for toxics and reset,5,,2016-05-11,https://github.com/shopify/toxiproxy/issues/106
+Slow TCP Accept and Read cannot be simulated,3,,2015-08-05,https://github.com/shopify/toxiproxy/issues/72
+Deleting a timeout toxic can lockup proxy http requests,3,bug,2015-11-12,https://github.com/shopify/toxiproxy/issues/88
+simulate package losses,1,,2016-03-22,https://github.com/shopify/toxiproxy/issues/100
+the deb package does not install any init.d file,3,,2016-03-06,https://github.com/shopify/toxiproxy/issues/97
+Package loss toxic,1,,2015-11-04,https://github.com/shopify/toxiproxy/issues/87
+Proxy name conflicts leak ports,0,,2015-07-20,https://github.com/shopify/toxiproxy/issues/68
+Expose via DNS,0,,2015-07-10,https://github.com/shopify/toxiproxy/issues/64
+Better Go api,2,,2015-05-14,https://github.com/shopify/toxiproxy/issues/56

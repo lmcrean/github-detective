@@ -165,7 +165,26 @@ class GitHubClient:
             return ""
     
     def get_issues(self, owner: str, repo: str, max_issues: int = 500) -> List[IssueData]:
-        """Fetch repository issues (up to max_issues most recent)."""
+        """Fetch repository issues (both open and closed, sorted by creation date)."""
+        issues = []
+        per_page = 100
+        max_pages = (max_issues + per_page - 1) // per_page
+        
+        # First, collect all open issues
+        open_issues = self._collect_issues_by_state(owner, repo, 'open', max_issues // 2)
+        issues.extend(open_issues)
+        
+        # Then, collect recent closed issues
+        remaining_slots = max_issues - len(open_issues)
+        if remaining_slots > 0:
+            closed_issues = self._collect_issues_by_state(owner, repo, 'closed', remaining_slots)
+            issues.extend(closed_issues)
+        
+        print(f"  Collected {len([i for i in issues if i.state == 'open'])} open issues and {len([i for i in issues if i.state == 'closed'])} closed issues")
+        return issues
+    
+    def _collect_issues_by_state(self, owner: str, repo: str, state: str, max_issues: int) -> List[IssueData]:
+        """Collect issues by state (open or closed)."""
         issues = []
         per_page = 100
         max_pages = (max_issues + per_page - 1) // per_page
@@ -173,8 +192,8 @@ class GitHubClient:
         for page in range(1, max_pages + 1):
             issues_url = f'{self.base_url}/repos/{owner}/{repo}/issues'
             params = {
-                'state': 'all',
-                'sort': 'updated',
+                'state': state,
+                'sort': 'created',
                 'direction': 'desc',
                 'per_page': per_page,
                 'page': page
@@ -189,7 +208,7 @@ class GitHubClient:
                     response = requests.get(issues_url, headers=self.headers, params=params)
                 
                 if response.status_code != 200:
-                    print(f"Error fetching issues for {owner}/{repo}: Status {response.status_code}")
+                    print(f"Error fetching {state} issues for {owner}/{repo}: Status {response.status_code}")
                     break
                 
                 page_issues = response.json()
@@ -198,6 +217,7 @@ class GitHubClient:
                     break
                 
                 for issue_data in page_issues:
+                    # Skip pull requests
                     if 'pull_request' in issue_data:
                         continue
                     
@@ -222,7 +242,7 @@ class GitHubClient:
                 time.sleep(0.5)
                 
             except Exception as e:
-                print(f"Error fetching issues page {page} for {owner}/{repo}: {str(e)}")
+                print(f"Error fetching {state} issues page {page} for {owner}/{repo}: {str(e)}")
                 break
         
         return issues

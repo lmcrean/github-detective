@@ -1,0 +1,100 @@
+# Issues Total: 95
+# Repository: https://github.com/stripe/stripe-dotnet
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+STJUnixDateTimeConverter does not handle nullable DateTime properties correctly,5,bug,2025-07-31,https://github.com/stripe/stripe-dotnet/issues/3157
+"Unable to Access UsBankAccount.VerificationStatus Property from PaymentMethod of  Type = """"us_bank_account"""",",1,bug,2025-07-30,https://github.com/stripe/stripe-dotnet/issues/3154
+Difficulty to obtain the invoice/intent/charge connections,3,bug,2025-07-21,https://github.com/stripe/stripe-dotnet/issues/3149
+Missing customer level coupon migration between 47.* to 48.*,1,feature-request,2025-07-21,https://github.com/stripe/stripe-dotnet/issues/3148
+The expected signature was not found in the Stripe-Signature header.,1,bug,2025-07-10,https://github.com/stripe/stripe-dotnet/issues/3146
+Official Stripe sample for this library is completely broken,1,bug,2025-07-03,https://github.com/stripe/stripe-dotnet/issues/3144
+System.ValueTuple 4.6.1 not compatible with Stripe.net 48.2.0,6,bug,2025-06-19,https://github.com/stripe/stripe-dotnet/issues/3140
+Can't expand PaymentIntent object when expanding an invoice.,1,bug,2025-06-11,https://github.com/stripe/stripe-dotnet/issues/3138
+Deserialization error in .NET SDK when using StripeClient.ParseThinEvent(),3,bug,2025-06-07,https://github.com/stripe/stripe-dotnet/issues/3136
+InvoiceService.ListAsync: Can't expand subscription,2,bug,2025-06-04,https://github.com/stripe/stripe-dotnet/issues/3135
+Version 48 (Basil) feedback,3,bug,2025-05-30,https://github.com/stripe/stripe-dotnet/issues/3134
+RegistrationId and TaxId from code after the onboarding process,2,bug,2025-05-27,https://github.com/stripe/stripe-dotnet/issues/3130
+Lack of nullability of reference types,4,"bug, future",2025-01-01,https://github.com/stripe/stripe-dotnet/issues/3041
+"SubscriptionScheduleCreateOptions.Phases[0].StartDate triggers """"Received unknown parameter: phases[0][start_date]"""" even with valid DateTime",1,bug,2025-05-21,https://github.com/stripe/stripe-dotnet/issues/3129
+Unable to Retrieve Invoice from InvoiceEvent,6,bug,2025-04-17,https://github.com/stripe/stripe-dotnet/issues/3108
+checkout_session.payment_intent_data can not be retrieved when downloading the session object,7,feature-request,2025-04-22,https://github.com/stripe/stripe-dotnet/issues/3113
+Invoice Pdf shows payment Amont due but receipt shows Amount paid,1,bug,2025-04-10,https://github.com/stripe/stripe-dotnet/issues/3098
+Putting HttpClientFactory back on the radar,12,"future, feature-request",2023-04-18,https://github.com/stripe/stripe-dotnet/issues/2681
+Timezone missing in CustomerCreateOptions and CustomerUpdateOptions,5,feature-request,2025-03-14,https://github.com/stripe/stripe-dotnet/issues/3061
+Fetching prices twice at the same time throws InvalidOperationException,3,bug,2025-04-11,https://github.com/stripe/stripe-dotnet/issues/3100
+Incorrect proration when increasing subscription quantity after 100% discount,2,bug,2025-04-15,https://github.com/stripe/stripe-dotnet/issues/3103
+Stripe.StripeException: Invalid response object from API,7,bug,2025-03-20,https://github.com/stripe/stripe-dotnet/issues/3068
+Configuation issue on Ubuntu 22.04,3,bug,2025-03-19,https://github.com/stripe/stripe-dotnet/issues/3067
+(v48.0.0 breaking changes) - Help me understand the move from Subscription.CurrentPeriodEnd to SubscriptionItem.CurrentPeriodEnd,7,bug,2025-04-02,https://github.com/stripe/stripe-dotnet/issues/3089
+Billing Portal Configuration - Not serialising correctly (Update Products),1,bug,2025-03-09,https://github.com/stripe/stripe-dotnet/issues/3057
+Upgrade to v48 has breaking changes,2,bug,2025-04-02,https://github.com/stripe/stripe-dotnet/issues/3086
+StripeException.Error.Code is null when updating a subscription with cancel_at value in the past,4,bug,2024-12-05,https://github.com/stripe/stripe-dotnet/issues/3034
+Failure to parse response from /v1/forwarding/requests,13,bug,2024-11-08,https://github.com/stripe/stripe-dotnet/issues/3028
+Provide Dependency injection support,16,future,2019-12-16,https://github.com/stripe/stripe-dotnet/issues/1882
+Pleasse Support System.Text.Json,2,feature-request,2024-05-10,https://github.com/stripe/stripe-dotnet/issues/2910
+Stripe.Events missing,2,bug,2024-10-31,https://github.com/stripe/stripe-dotnet/issues/3024
+OAuthTokenService Uses Incorrect Base URL for OAuth Requests After SDK Update,5,bug,2024-10-16,https://github.com/stripe/stripe-dotnet/issues/3006
+.NET Core Support,3,bug,2024-10-14,https://github.com/stripe/stripe-dotnet/issues/3005
+Embedded Checkout Debug Errors,3,bug,2024-08-30,https://github.com/stripe/stripe-dotnet/issues/2958
+v46 synchronous Get call hangs in ASP.NET,4,bug,2024-10-06,https://github.com/stripe/stripe-dotnet/issues/2998
+Upgrade to v46.1.0 and Events went away?,3,bug,2024-10-08,https://github.com/stripe/stripe-dotnet/issues/2999
+Support Reference property in Payouts,1,feature-request,2024-10-02,https://github.com/stripe/stripe-dotnet/issues/2989
+This is compiled using an old version of Newtonsoft.Json,11,"bug, future",2023-11-21,https://github.com/stripe/stripe-dotnet/issues/2800
+AOT compatibility,1,"future, feature-request",2024-09-10,https://github.com/stripe/stripe-dotnet/issues/2967
+Subscription Schedule Phases start_date,4,bug,2024-09-10,https://github.com/stripe/stripe-dotnet/issues/2966
+Invalid Product Url (2048 characters or less),2,bug,2024-09-06,https://github.com/stripe/stripe-dotnet/issues/2964
+The type initializer for 'Stripe.StripeConfiguration' threw an exception,2,bug,2024-08-02,https://github.com/stripe/stripe-dotnet/issues/2948
+"There is no visual label for the form elements (like email, country combo box, mobile number, First and last name) under the 'Pay' tab.",2,bug,2024-07-04,https://github.com/stripe/stripe-dotnet/issues/2937
+There is no accessible name for the 'Country' combo box available on 'Pay' tab.,1,bug,2024-07-03,https://github.com/stripe/stripe-dotnet/issues/2936
+The luminosity ratio of the text is less than required 4.5:1 under the scan 'cash app pay' popup.,1,bug,2024-07-03,https://github.com/stripe/stripe-dotnet/issues/2935
+There is no discernible text for the 'link' under 'secure...' section on 'Pay' tab.,1,bug,2024-07-03,https://github.com/stripe/stripe-dotnet/issues/2934
+Forward the Apple Pay token to Stripe using Stripe.net,9,feature-request,2023-05-11,https://github.com/stripe/stripe-dotnet/issues/2694
+"InvoiceTaxAmount is Missing """"taxable_amount"""" Mapped Property Support",5,bug,2024-05-29,https://github.com/stripe/stripe-dotnet/issues/2918
+How can I send card data from client to the server in safely manner?,5,bug,2024-05-27,https://github.com/stripe/stripe-dotnet/issues/2917
+v44.8.0 charge.BalanceTransactionId is null or empty,2,bug,2024-05-22,https://github.com/stripe/stripe-dotnet/issues/2914
+Open CVE with Newtonsoft.Json,2,bug,2024-05-10,https://github.com/stripe/stripe-dotnet/issues/2911
+StripeConfiguration.ClientId getter,1,bug,2024-05-01,https://github.com/stripe/stripe-dotnet/issues/2902
+"Moto flag available in SetupIntentPaymentMethodOptionsCardOptions(library) is failing in api with parm error, while creating setup intent",1,bug,2024-04-24,https://github.com/stripe/stripe-dotnet/issues/2898
+Missing Stripe.Checkout.SessionLineItemService,2,bug,2024-04-10,https://github.com/stripe/stripe-dotnet/issues/2890
+Create Customer with Id Pleasee,3,feature-request,2024-04-18,https://github.com/stripe/stripe-dotnet/issues/2895
+stripe.net is missing NuGet package README file,0,,2024-02-09,https://github.com/stripe/stripe-dotnet/issues/2848
+Subscription: Invoice Settingsd Custom Fields,1,feature-request,2024-02-06,https://github.com/stripe/stripe-dotnet/issues/2845
+Is Stripe SessionService ThreadSafe?,1,feature-request,2024-01-29,https://github.com/stripe/stripe-dotnet/issues/2842
+"Stripe .Net SDK does not support new """"collection_options"""" property for account link generation",8,bug,2024-01-24,https://github.com/stripe/stripe-dotnet/issues/2838
+updating subscription to automatically charge ,3,bug,2024-01-16,https://github.com/stripe/stripe-dotnet/issues/2832
+Checkout Session client-side checks block testClock from working,1,bug,2024-01-10,https://github.com/stripe/stripe-dotnet/issues/2829
+Cannot download List of Payouts,7,bug,2024-01-04,https://github.com/stripe/stripe-dotnet/issues/2824
+Using starting_after returns entries before rather than after,1,bug,2023-12-22,https://github.com/stripe/stripe-dotnet/issues/2819
+"Cannot create card token on server side code (exception thrown """"Sending credit card numbers directly to the Stripe API is generally unsafe"""")",1,bug,2023-12-20,https://github.com/stripe/stripe-dotnet/issues/2816
+Add .NET8 support and resolve Microsoft.Bcl.AsyncInterfaces conflicts,6,feature-request,2023-12-12,https://github.com/stripe/stripe-dotnet/issues/2812
+How can I see what version of the Stripe API goes with each version of this Stripe.net library?,2,bug,2023-11-22,https://github.com/stripe/stripe-dotnet/issues/2803
+AccountService not returning `business_profile`,1,bug,2023-11-18,https://github.com/stripe/stripe-dotnet/issues/2799
+"Creating a refund allows setting of unknown parameter """"currency""""",1,"bug, future",2023-10-26,https://github.com/stripe/stripe-dotnet/issues/2786
+Unable to get StripeResponse.RequestId from ListAutoPagingAsync() calls,3,"future, feature-request",2023-09-21,https://github.com/stripe/stripe-dotnet/issues/2771
+Required Parameters,1,"future, feature-request",2022-11-16,https://github.com/stripe/stripe-dotnet/issues/2608
+Charge.DisputeId field removed,2,bug,2023-09-11,https://github.com/stripe/stripe-dotnet/issues/2766
+Inexistent event type invoiceitem.updated,2,bug,2023-09-07,https://github.com/stripe/stripe-dotnet/issues/2763
+Access to the server-driven integration in countries other than the US for European devs,1,feature-request,2023-08-26,https://github.com/stripe/stripe-dotnet/issues/2757
+Split Payment directly to Connected Account without getting Platform Account Involved.,1,feature-request,2023-08-23,https://github.com/stripe/stripe-dotnet/issues/2754
+EventUtility.ParseEvent not converts the Data.Object on v2022-11-15,1,bug,2023-07-04,https://github.com/stripe/stripe-dotnet/issues/2723
+Specifying Currency in PriceListOptions not work,1,bug,2023-08-09,https://github.com/stripe/stripe-dotnet/issues/2745
+parameter_invalid when providing RadarOptions on a setup intent,1,bug,2023-07-19,https://github.com/stripe/stripe-dotnet/issues/2731
+SourceService Class List function return null,1,bug,2023-07-12,https://github.com/stripe/stripe-dotnet/issues/2726
+SetupIntentPaymentMethodOptions missing Alipay,2,bug,2023-06-30,https://github.com/stripe/stripe-dotnet/issues/2722
+Use Enums instead of Strings?,7,future,2019-06-20,https://github.com/stripe/stripe-dotnet/issues/1673
+Cannot include the file name or file extension when uploading a file from a MemoryStream using FileService.cs,5,"future, feature-request",2023-01-19,https://github.com/stripe/stripe-dotnet/issues/2634
+3DS auth popup not render,1,bug,2023-06-23,https://github.com/stripe/stripe-dotnet/issues/2719
+Make the assembly trimmable,1,"future, feature-request",2022-04-20,https://github.com/stripe/stripe-dotnet/issues/2460
+External Account properties are missing in the C# object,1,bug,2023-06-08,https://github.com/stripe/stripe-dotnet/issues/2708
+js.stripe.com/v3/ Slow to load,1,bug,2023-06-04,https://github.com/stripe/stripe-dotnet/issues/2706
+Invalid IP Address error on production server,1,bug,2023-04-28,https://github.com/stripe/stripe-dotnet/issues/2688
+BillingCycleAnchor & Trial for subscriptions in the checkout API,1,feature-request,2023-05-01,https://github.com/stripe/stripe-dotnet/issues/2689
+"Documentation incorrect for """"ApiKey""""",0,bug,2023-04-23,https://github.com/stripe/stripe-dotnet/issues/2684
+Chitwad ,0,,2023-04-16,https://github.com/stripe/stripe-dotnet/issues/2678
+Terms of service checkbox,1,bug,2023-04-14,https://github.com/stripe/stripe-dotnet/issues/2677
+Missing property in Card Holder creation in stripe issuing,3,bug,2023-04-05,https://github.com/stripe/stripe-dotnet/issues/2674
+Better interface for `Event` class.,2,future,2022-03-02,https://github.com/stripe/stripe-dotnet/issues/2433
+Stripe.Issuing.CardService.ListAsync throws exception due to date deserialization issue,2,bug,2023-03-16,https://github.com/stripe/stripe-dotnet/issues/2660
+Can't find SubscriptionResumeAt in UpcomingInvoiceOptions object.,1,bug,2023-02-13,https://github.com/stripe/stripe-dotnet/issues/2645
+CreditNoteService should implemented INestedListable?,6,,2020-05-04,https://github.com/stripe/stripe-dotnet/issues/2022

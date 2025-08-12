@@ -1,0 +1,213 @@
+# Issues Total: 208
+# Repository: https://github.com/shopify/roast
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+No explicit ordering of initializer load,0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/332
+Feature Request: Add Ollama LLM Support via `ollama-ai` Gem,0,,2025-06-20,https://github.com/shopify/roast/issues/288
+ripgrep fallback,1,developer-experience,2025-08-06,https://github.com/shopify/roast/issues/344
+Token usage counts don't include agent calls,0,enhancement,2025-08-05,https://github.com/shopify/roast/issues/343
+Add option for Coding Agent to resume from a specific session,0,,2025-07-02,https://github.com/shopify/roast/issues/302
+Accept STDIN input in place of a file.,0,,2025-08-01,https://github.com/shopify/roast/issues/342
+Cleanup child processes on SIGINT,0,"Bug, deficiency",2025-07-30,https://github.com/shopify/roast/issues/340
+"""""Argument list too long"""" from ShellScriptStep on large `workflow.output`",0,"Bug, deficiency",2025-07-24,https://github.com/shopify/roast/issues/337
+"Named shell steps appear in output and notification payload as their command, not name.",0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/336
+Plain ruby step de-pluralizes to get constant,0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/335
+Rigid naming convention for plain ruby steps,0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/334
+Step events are missing workflow name in payload,0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/333
+Remove StepOrchestrator and fold into StepExecutorCoordinator,0,,2025-07-12,https://github.com/shopify/roast/issues/318
+Feature: support responses API,0,,2025-07-21,https://github.com/shopify/roast/issues/331
+ShellScriptStep doesn't respect `print_response: true`,0,Bug,2025-07-16,https://github.com/shopify/roast/issues/328
+Streaming output from steps,0,enhancement,2025-07-16,https://github.com/shopify/roast/issues/330
+Feature Request: Parallel Execution for Iterated Steps,0,,2025-07-15,https://github.com/shopify/roast/issues/325
+Timeout leaves zombie processes,0,,2025-07-14,https://github.com/shopify/roast/issues/324
+Roast does not give more details about 500 errors,1,,2025-07-14,https://github.com/shopify/roast/issues/323
+Circuit Breakers (instead of hand-rolled retry),0,,2025-07-07,https://github.com/shopify/roast/issues/309
+CodingAgent JSON parsing fails when response includes surrounding text,0,,2025-07-02,https://github.com/shopify/roast/issues/305
+CodingAgent does not parse result as json when `json: true` is configured,0,,2025-07-02,https://github.com/shopify/roast/issues/303
+Morph-powered File Edit tool,0,,2025-06-27,https://github.com/shopify/roast/issues/301
+Infinite loop if project root is not under home,0,,2025-06-27,https://github.com/shopify/roast/issues/300
+Agent Step Not Working Properly,1,,2025-06-21,https://github.com/shopify/roast/issues/293
+AgentStep fails with NoMethodError trying to read config,0,Bug,2025-06-25,https://github.com/shopify/roast/issues/298
+Noisy output when running tests :(,0,,2025-06-24,https://github.com/shopify/roast/issues/297
+Default to filestorage instead of sqlite ?,0,,2025-06-21,https://github.com/shopify/roast/issues/296
+"429 error - unable to run """"Try it"""" workflow",0,,2025-06-19,https://github.com/shopify/roast/issues/286
+Add timeout mechanism to Bash tool,1,"enhancement, good first issue",2025-06-02,https://github.com/shopify/roast/issues/133
+Rails Database Session Storage Adapter,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/281
+Rails Autoloading Support for Workflows,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/280
+Rails Cache Store Integration,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/279
+Rails Workflow Generator,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/278
+Rails Database Migration Analysis Workflow Example,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/277
+ActiveSupport::Notifications Integration for APM,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/276
+RSpec and Minitest Integration for Testing Workflows,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/275
+Rails Initializer for Roast Configuration,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/274
+Rails Model Integration for Triggering Workflows,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/273
+ApplicationWorkflow Base Class Pattern,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/272
+ActiveJob Integration for Background Workflow Processing,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/271
+Rails Encrypted Credentials Support,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/270
+Rails Conventions for Workflow Organization,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/269
+Rails Generator for Roast Installation,0,enhancement,2025-06-18,https://github.com/shopify/roast/issues/268
+Sessions file name too long,0,,2025-06-18,https://github.com/shopify/roast/issues/267
+roast execute workflow.yml --step step_name,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/212
+Refactor session storage to use SQLite,0,"enhancement, epic/infrastructure",2025-06-12,https://github.com/shopify/roast/issues/252
+Create a Roast Tool for Swarm,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/182
+Use Argot for native YAML validation instead of JSON Schema?,0,question,2025-06-16,https://github.com/shopify/roast/issues/265
+Context Size Management / Auto-Compaction for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/45
+Configuration validation,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/220
+Establish consistent test folder structure and naming conventions,0,"enhancement, developer-experience",2025-06-13,https://github.com/shopify/roast/issues/262
+Implement structured logging with separate output streams,2,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/160
+Proposal: Streamlined Git Worktree Workflow Integration,0,,2025-06-13,https://github.com/shopify/roast/issues/258
+Add `roast diagram` command to generate workflow diagrams (MVP),0,,2025-06-12,https://github.com/shopify/roast/issues/253
+Add wait_for_event step type for external event synchronization,0,"enhancement, epic/developer-experience",2025-06-12,https://github.com/shopify/roast/issues/251
+Checkpoint and resume capability,1,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/229
+Human-in-the-loop manual review steps,0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/156
+Performance recommendations,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/222
+User input step,0,"enhancement, epic/developer-experience",2025-05-29,https://github.com/shopify/roast/issues/102
+Migrate from .roast directory to XDG Base Directory Specification,0,,2025-06-12,https://github.com/shopify/roast/issues/247
+Improve user experience when API key is missing or invalid,0,,2025-06-12,https://github.com/shopify/roast/issues/249
+Detect missing tests workflow,0,brainstorm,2025-06-11,https://github.com/shopify/roast/issues/243
+Advanced input features and patterns,0,"enhancement, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/242
+Remote input channel orchestration,0,"enhancement, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/241
+Advanced input types for input steps,0,"enhancement, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/240
+Add web UI for input steps,0,"enhancement, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/239
+Add email integration for input steps,0,"enhancement, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/238
+Add Slack integration for input steps,0,"enhancement, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/237
+Generate self-contained HTML run reports with cloud storage upload,0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/236
+Common issue detection,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/223
+Dependency checking,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/221
+Step isolation and mocking,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/213
+Auto-recovery and error diagnosis,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/183
+Add real-time cost tracking and budget management,0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/159
+Model resilience and fallback configuration,0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/155
+Enhanced CLI feedback and progress indicators,0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/154
+Rails generator for workflows,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/208
+Community step marketplace,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/199
+Standard workflow library,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/198
+Session migration support,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/231
+State persistence across restarts,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/230
+Long-running workflow management,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/228
+Python step execution,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/192
+Embedding management,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/191
+Document retrieval steps,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/190
+Built-in RAG tooling,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/189
+DevOps automation patterns,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/207
+Testing workflow templates,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/206
+Configurable retry policies,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/227
+Dead letter queue for failed steps,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/226
+Workflow performance analysis,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/219
+Token usage optimization,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/218
+Parallel execution detection,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/217
+Automatic step merging,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/216
+Step unit testing framework,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/215
+Debug mode with breakpoints,0,"brainstorm, epic/developer-tools",2025-06-11,https://github.com/shopify/roast/issues/214
+Create KPI dashboard generation capability,0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/163
+Convention over configuration,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/211
+Rails-specific step types,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/210
+ActiveJob integration,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/209
+PR review automation templates,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/204
+API reference generation,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/203
+Live code examples,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/202
+Interactive CLI tutorials,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/201
+Docusaurus-based documentation,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/200
+Automatic workflow improvement,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/235
+Performance optimization suggestions,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/234
+Failure prediction models,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/233
+Step-level reflection and analysis,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/232
+Version pinning and dependency management,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/197
+Gem-based step distribution,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/196
+Advanced Code Editor with Roast Intelligence,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/168
+Polyglot workflow capabilities,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/195
+Language detection and auto-runtime selection,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/194
+Node.js/JavaScript support,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/193
+Error pattern learning,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/187
+Self-healing workflows,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/186
+Automatic fix suggestions,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/185
+AI-powered error analysis,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/184
+Implement agent tree visualization and built-in swarm patterns,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/181
+Create coordinator and specialist step types,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/180
+Add working directory isolation and vibe mode toggle,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/179
+Implement per-step tool access control and restrictions,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/178
+Support agent handoffs with context and session management,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/177
+Implement per-agent model selection and MCP support,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/176
+Add Claude Swarm gem dependency and enable hierarchical agent organization,0,"brainstorm, epic/swarm-integration",2025-06-11,https://github.com/shopify/roast/issues/175
+Pluggable vector database support,0,"brainstorm, epic/integrations",2025-06-11,https://github.com/shopify/roast/issues/188
+Multi-Environment & Multi-Tenancy Support,0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/174
+Secret Management Integration,0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/173
+Event-Driven Workflow Triggers,0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/172
+Container & Orchestration Support,0,"brainstorm, epic/infrastructure",2025-06-11,https://github.com/shopify/roast/issues/171
+Collaboration Features for Workflow Development,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/170
+Workflow Sharing and Template Gallery,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/169
+Visual Workflow Builder with Drag-and-Drop Interface,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/167
+Session Replay and History Management,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/166
+Real-time Execution Monitoring and Metrics,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/165
+DAG Rendering and Workflow Visualization,0,"brainstorm, epic/ui-visualization",2025-06-11,https://github.com/shopify/roast/issues/164
+Data pipeline examples,0,"brainstorm, epic/documentation",2025-06-11,https://github.com/shopify/roast/issues/205
+Natural language to YAML workflow generation,0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/158
+Circuit breaker pattern for external services,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/225
+Exponential backoff for failures,0,"brainstorm, epic/reliability",2025-06-11,https://github.com/shopify/roast/issues/224
+Implement metrics collection and export system,0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/162
+"Add observability platform integrations (Datadog, CloudWatch, OpenTelemetry)",0,"brainstorm, epic/cost-observability",2025-06-11,https://github.com/shopify/roast/issues/161
+Step execution middleware system,0,"brainstorm, epic/developer-experience",2025-06-11,https://github.com/shopify/roast/issues/157
+"Add """"coding agent"""" type step",0,enhancement,2025-06-04,https://github.com/shopify/roast/issues/141
+Allow specifying tools on a per-step basis,0,enhancement,2025-06-10,https://github.com/shopify/roast/issues/149
+Inconsistent `.roast` usage,2,Bug,2025-06-03,https://github.com/shopify/roast/issues/135
+Roast MCP Server mode,0,enhancement,2025-05-29,https://github.com/shopify/roast/issues/101
+"When running roast in a subdirectory, walk up the tree to find `.roast`",0,,2025-05-12,https://github.com/shopify/roast/issues/20
+Ability to pass arbitrary config params to a tool declaration in a workflow,1,,2025-05-28,https://github.com/shopify/roast/issues/90
+grading example logging errors  about 'no implicit conversion of nil into String' when running Roast::Tools::SearchFile,5,Bug,2025-05-29,https://github.com/shopify/roast/issues/93
+Define permissions for CodingAgent in tool config,0,enhancement,2025-06-06,https://github.com/shopify/roast/issues/145
+Limit tool output size,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/52
+Circular dependencie in test,2,Bug,2025-06-02,https://github.com/shopify/roast/issues/128
+Many  method redefined warnings during tests from raix,0,,2025-05-31,https://github.com/shopify/roast/issues/120
+Mocha deprecation warnings,0,Bug,2025-06-02,https://github.com/shopify/roast/issues/127
+roast init command,4,enhancement,2025-05-21,https://github.com/shopify/roast/issues/66
+Default last step to print_response to true so that new users are not confused,0,"documentation, enhancement",2025-05-29,https://github.com/shopify/roast/issues/100
+Custom tools in non-Ruby language,1,,2025-05-23,https://github.com/shopify/roast/issues/70
+Targetless Workflows don't work with the openai provider,2,,2025-05-19,https://github.com/shopify/roast/issues/55
+Confusing error without a token ('Raix::ChatCompletion#openai_request': undefined method 'chat' for nil (NoMethodError)),5,,2025-05-10,https://github.com/shopify/roast/issues/10
+Shadowenv may be required,0,documentation,2025-05-10,https://github.com/shopify/roast/issues/14
+Simplify loop logic by removing configurable auto_loop,0,enhancement,2025-06-04,https://github.com/shopify/roast/issues/140
+[Epic] Improve workflow resiliency for transient failures,0,enhancement,2025-06-05,https://github.com/shopify/roast/issues/143
+Tool call results displayed instead of AI response when print_response is true,0,,2025-06-03,https://github.com/shopify/roast/issues/137
+roast new command,1,enhancement,2025-05-21,https://github.com/shopify/roast/issues/67
+undefined method 'chat' for nil when using OpenAI and no OpenAI tokens in environment,1,,2025-06-02,https://github.com/shopify/roast/issues/130
+Missing assertions in test,0,Bug,2025-06-02,https://github.com/shopify/roast/issues/124
+ENV['DEBUG'] vs Logger's log_level,1,,2025-05-26,https://github.com/shopify/roast/issues/81
+"loading in progress, circular require considered harmful",0,,2025-05-31,https://github.com/shopify/roast/issues/116
+Issue with standalone versions of ActiveSupport relying on not required modules,1,Bug,2025-05-30,https://github.com/shopify/roast/issues/112
+Feature request - Add option to turn off output file generation for sessions in roast,0,,2025-05-30,https://github.com/shopify/roast/issues/110
+Broken wiith workflow.yaml extension,0,Bug,2025-05-21,https://github.com/shopify/roast/issues/69
+"Need some way to either clarify or be explicit about how steps are coerced to boolean context (right now hardcoded to ruby boolean, doesn't work for prompt steps)",0,,2025-05-28,https://github.com/shopify/roast/issues/89
+Parallelization output concatenated?,0,Bug,2025-05-30,https://github.com/shopify/roast/issues/109
+Replay appears to not work with repeated (iterator) steps,0,Bug,2025-05-28,https://github.com/shopify/roast/issues/88
+Better example for how to create custom tools / Repository for custom tools,0,,2025-05-29,https://github.com/shopify/roast/issues/103
+Pre/Post Processing Framework for Multi-Target Workflows,0,enhancement,2025-05-20,https://github.com/shopify/roast/issues/61
+Add support for AI proxy,0,,2025-05-10,https://github.com/shopify/roast/issues/12
+Implement Dynamic Step Selection (case/when/else) for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/50
+Model access errors are not helpful,0,,2025-05-10,https://github.com/shopify/roast/issues/13
+Implement Conditional Execution (if/unless) for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/47
+Add Dot Notation Access for Output Hash in Workflow Configurations,1,enhancement,2025-05-20,https://github.com/shopify/roast/issues/63
+Allow workflow to continue on step fail,0,,2025-05-23,https://github.com/shopify/roast/issues/71
+Implement Iteration Mechanisms for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/48
+Hot reload of prompts,2,enhancement,2025-05-15,https://github.com/shopify/roast/issues/33
+Pause at step command-line option,0,enhancement,2025-05-10,https://github.com/shopify/roast/issues/16
+Missing top-level prompt current causes workflow to fail with empty system prompt in transcript,0,Bug,2025-05-13,https://github.com/shopify/roast/issues/25
+NoMethodError: undefined method `chat' for nil when using openrouter,1,,2025-05-18,https://github.com/shopify/roast/issues/53
+Muscle-Mem Behavior Caching Concepts in Roast,0,enhancement,2025-05-14,https://github.com/shopify/roast/issues/30
+Implement Early Exit and Skip Controls for Workflows,2,enhancement,2025-05-17,https://github.com/shopify/roast/issues/49
+Sessions and Cache folders in .roast should automatically get a .gitignore,0,,2025-05-13,https://github.com/shopify/roast/issues/22
+Implement Parameterized Subroutines for Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/51
+Enhanced Control Flow for Roast Workflows,0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/46
+Support Multi-File Updates via Standard Diff/Patch Format,0,enhancement,2025-05-13,https://github.com/shopify/roast/issues/24
+Add suport for OpenRouter,0,enhancement,2025-05-13,https://github.com/shopify/roast/issues/21
+Add version command,0,,2025-05-15,https://github.com/shopify/roast/issues/34
+Grep and Search tools should not have unbound result sets,0,enhancement,2025-05-15,https://github.com/shopify/roast/issues/32
+Add interpolation in step definitions,0,enhancement,2025-05-13,https://github.com/shopify/roast/issues/23
+"Remove test directory restriction from WriteFile tool, add function params",0,enhancement,2025-05-10,https://github.com/shopify/roast/issues/17
+rg may be required,0,,2025-05-10,https://github.com/shopify/roast/issues/15
+Confusing error omitting target,0,,2025-05-10,https://github.com/shopify/roast/issues/11
+Remove subject command-line option and restriction on having one or more target files to iterate over,1,enhancement,2025-05-06,https://github.com/shopify/roast/issues/7
+Add instrumentation hooks using ActiveSupport::Notifications,0,,2025-05-05,https://github.com/shopify/roast/issues/5
+Add BaseWorkflow and BaseStep along with configuration loading,0,,2025-04-23,https://github.com/shopify/roast/issues/2
+Drop CLI Kit in favor of Thor,0,,2025-04-24,https://github.com/shopify/roast/issues/3
+Setup Service Ownership and Definition,0,action-item,2025-04-10,https://github.com/shopify/roast/issues/1

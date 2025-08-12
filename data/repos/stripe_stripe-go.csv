@@ -1,0 +1,78 @@
+# Issues Total: 73
+# Repository: https://github.com/stripe/stripe-go
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+.Metadata field for InvoiceVoidInvoiceParams and SubscriptionCancelParams,1,bug,2025-08-11,https://github.com/stripe/stripe-go/issues/2105
+Add Opentelemetry support,2,feature-request,2025-08-08,https://github.com/stripe/stripe-go/issues/2104
+Unable to create BankAccount,2,bug,2025-07-28,https://github.com/stripe/stripe-go/issues/2093
+Missing .Metadata field for BankAccountCreateParams,4,bug,2025-07-28,https://github.com/stripe/stripe-go/issues/2092
+TerminalReaderCollectInputsInputSelectionParams server-side validation issue,9,bug,2025-07-29,https://github.com/stripe/stripe-go/issues/2095
+charge.Invoice does not exists in Charges Retrieve API,3,bug,2025-07-29,https://github.com/stripe/stripe-go/issues/2094
+Seq2 and LastResponse,6,bug,2025-07-18,https://github.com/stripe/stripe-go/issues/2087
+Add `omitempty` to JSON field tags on optional fields,11,"future, feature-request",2024-10-17,https://github.com/stripe/stripe-go/issues/1937
+V2 Accounts,1,bug,2025-07-12,https://github.com/stripe/stripe-go/issues/2085
+Parse unix timestamps into times (time.Time),4,future,2020-10-11,https://github.com/stripe/stripe-go/issues/1205
+Missing `PaymentIntent` property in `Invoice` struct.,1,bug,2025-06-06,https://github.com/stripe/stripe-go/issues/2075
+noncompliant not represented as a DisputeReason,1,bug,2025-06-03,https://github.com/stripe/stripe-go/issues/2072
+Proposal to return `nil` pointers instead of structs on request error,2,"future, proposal, feature-request",2023-04-21,https://github.com/stripe/stripe-go/issues/1647
+CheckoutSession billing dates on api 2025-03-31.basil,3,bug,2025-04-09,https://github.com/stripe/stripe-go/issues/2021
+Support to display tax breakdown for Payment Intents,3,bug,2025-04-07,https://github.com/stripe/stripe-go/issues/2016
+Subscription schedule update received unknown parameter: start_date,2,bug,2025-03-08,https://github.com/stripe/stripe-go/issues/1993
+Billing quickstart contains invalid code,2,support,2024-01-19,https://github.com/stripe/stripe-go/issues/1804
+InvoiceParams missing SubscriptionItems and SubscriptionProrationDate fields,0,feature-request,2025-02-28,https://github.com/stripe/stripe-go/issues/1990
+Newly added `Jpy` variable name is not ALL CAPS,2,feature-request,2025-01-29,https://github.com/stripe/stripe-go/issues/1978
+Provide a strongly-typed way of clearing fields on update,3,"future, feature-request",2022-10-13,https://github.com/stripe/stripe-go/issues/1556
+`Quantity` field missing from `Subscription` object,0,bug,2025-01-14,https://github.com/stripe/stripe-go/issues/1966
+"Add support for aws partner eventbus """"Event Destinations""""",4,feature-request,2024-12-13,https://github.com/stripe/stripe-go/issues/1959
+Outdated Link in Docs: Account_object-controller-requirement_collection,1,bug,2024-12-17,https://github.com/stripe/stripe-go/issues/1961
+Product Metadata is empty when retrieving from the subscription object,3,bug,2024-12-16,https://github.com/stripe/stripe-go/issues/1960
+Compile Error when attempting to tokenize payment method,3,bug,2024-11-27,https://github.com/stripe/stripe-go/issues/1954
+"You cannot specify both the (deprecated) .Params.Metadata and .Metadata, for SubscriptionCancelParams",1,bug,2024-10-29,https://github.com/stripe/stripe-go/issues/1944
+Limit parameter not applied when fetching payment methods,2,bug,2024-10-01,https://github.com/stripe/stripe-go/issues/1927
+Represent enums on method params,3,"future, breaking-api-change, feature-request",2023-06-19,https://github.com/stripe/stripe-go/issues/1679
+GetBackendWithConfig overrides the config argument,0,bug,2024-07-24,https://github.com/stripe/stripe-go/issues/1894
+SetupIntentNextActionUseStripeSDK is always empty,5,support,2023-06-12,https://github.com/stripe/stripe-go/issues/1674
+Upcoming invoice API bug,1,support,2023-06-08,https://github.com/stripe/stripe-go/issues/1671
+Checkout Session Type is Inconsistent with the Typescript Type,3,,2023-06-02,https://github.com/stripe/stripe-go/issues/1667
+Plan object missing on Subscription object despite being present in Webhook Event,2,,2023-06-22,https://github.com/stripe/stripe-go/issues/1681
+Make it easier to add subscription schedule phases,1,support,2023-06-30,https://github.com/stripe/stripe-go/issues/1686
+Empty refund list in the charge object,2,support,2023-07-31,https://github.com/stripe/stripe-go/issues/1695
+Unable to update shipping rates using `shippingrate.Update()` method.,2,support,2023-08-16,https://github.com/stripe/stripe-go/issues/1710
+Payout object: include `trace_number`,2,support,2023-08-28,https://github.com/stripe/stripe-go/issues/1723
+Incompatible field type `LatestInvoice` in struct `stripe.Subscription` for webhook events,2,support,2023-09-05,https://github.com/stripe/stripe-go/issues/1726
+Missing features field in Product struct,2,,2023-09-07,https://github.com/stripe/stripe-go/issues/1727
+Ability to pass multiple status' when fetching subscriptions ,2,support,2023-09-11,https://github.com/stripe/stripe-go/issues/1733
+Checkout Session is missing the `invoice_creation` field,1,support,2023-11-13,https://github.com/stripe/stripe-go/issues/1766
+Creating checkout session with metadata not propagating metadata to all events,2,support,2023-11-20,https://github.com/stripe/stripe-go/issues/1771
+Minor typo on wiki for v73 migration,1,docs,2024-03-08,https://github.com/stripe/stripe-go/issues/1826
+Custom terms of service don't override auto generated terms of service disclaimer as expected.,1,support,2024-04-01,https://github.com/stripe/stripe-go/issues/1842
+Support passing key when create client,2,,2024-05-15,https://github.com/stripe/stripe-go/issues/1863
+Subscription is incorrectly typed in CheckoutSession,7,,2024-07-04,https://github.com/stripe/stripe-go/issues/1884
+cancel subscription response no such subscription,2,support,2024-07-11,https://github.com/stripe/stripe-go/issues/1887
+Customer Metadata Search doesn't return results in first attempt,1,support,2024-07-12,https://github.com/stripe/stripe-go/issues/1891
+Misleading field in `SubscriptionSchedulePhaseParams` for POST /v1/subscription_schedules in v78,3,bug,2024-07-02,https://github.com/stripe/stripe-go/issues/1883
+Missing GeneratedFrom property of PaymentMethodCard type,4,bug,2024-05-23,https://github.com/stripe/stripe-go/issues/1866
+Invalid header value Authorization when using Environment variable,7,bug,2024-04-29,https://github.com/stripe/stripe-go/issues/1855
+Update payment intent parameters are not correct,3,bug,2024-04-08,https://github.com/stripe/stripe-go/issues/1845
+PlanProductParams for a new plan of an existing product does not behave like the spec,2,bug,2023-11-24,https://github.com/stripe/stripe-go/issues/1774
+`recipient_details` for `PaymentIntentPaymentMethodOptionsCardParams`,1,feature-request,2024-01-31,https://github.com/stripe/stripe-go/issues/1807
+Custom backend implementation issues with deprecation of `Params.Metadata`,3,feature-request,2024-01-03,https://github.com/stripe/stripe-go/issues/1794
+Better api for creating Backends with config,1,feature-request,2023-10-11,https://github.com/stripe/stripe-go/issues/1747
+"I want to integrate stripe accounts of multiple services into one stripe service, but stripe does not support multiple instances. Why use a global key",1,feature-request,2023-10-12,https://github.com/stripe/stripe-go/issues/1750
+Files.New is broken,3,bug,2023-09-13,https://github.com/stripe/stripe-go/issues/1734
+initUserAgent is slow,1,bug,2023-09-07,https://github.com/stripe/stripe-go/issues/1728
+Upgrading API versions cannot be done cleanly,4,feature-request,2023-07-31,https://github.com/stripe/stripe-go/issues/1698
+Struct 'ChargePaymentMethodDetailsCard' doesn't include 'NetworkToken' event though it is given in webhook events,2,bug,2023-05-09,https://github.com/stripe/stripe-go/issues/1655
+PresentPaymentMethod is not exposed ,1,bug,2023-04-24,https://github.com/stripe/stripe-go/issues/1649
+CheckoutSession.customer unmarshals to *Customer instead of a string (customer id),1,bug,2023-04-27,https://github.com/stripe/stripe-go/issues/1650
+Distributed tracing and other context in logging,2,future,2021-05-12,https://github.com/stripe/stripe-go/issues/1281
+"On token.New(): """"interface conversion: interface {} is main.Card, not string""""",1,bug,2023-03-27,https://github.com/stripe/stripe-go/issues/1636
+Encode payloads deterministically,1,feature-request,2023-02-09,https://github.com/stripe/stripe-go/issues/1606
+No way to manually resume a paused subscription,1,bug,2023-02-02,https://github.com/stripe/stripe-go/issues/1602
+Can't set metadata during object creation,1,feature-request,2023-02-02,https://github.com/stripe/stripe-go/issues/1599
+CloudQuery Source Plugin?,1,feature-request,2023-01-18,https://github.com/stripe/stripe-go/issues/1594
+Missing Refund Status Definition,1,bug,2023-01-17,https://github.com/stripe/stripe-go/issues/1592
+Webhook had no valid signature,1,bug,2023-01-17,https://github.com/stripe/stripe-go/issues/1593
+[Feature Request] Enable stripe event listener via sdk,1,future,2021-11-09,https://github.com/stripe/stripe-go/issues/1372
+Support bidirectional marshalling/unmarshalling,2,future,2020-10-06,https://github.com/stripe/stripe-go/issues/1198

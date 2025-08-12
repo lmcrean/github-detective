@@ -1,0 +1,100 @@
+# Issues Total: 95
+# Repository: https://github.com/stripe/pg-schema-diff
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Add support for Materialized Views,8,enhancement,2024-09-10,https://github.com/stripe/pg-schema-diff/issues/173
+View support,4,,2024-05-29,https://github.com/stripe/pg-schema-diff/issues/135
+Bump everything to golang 1.24,0,,2025-08-11,https://github.com/stripe/pg-schema-diff/issues/227
+[FEATURE] option to write out migration files,1,enhancement,2025-07-26,https://github.com/stripe/pg-schema-diff/issues/221
+[BUG] Constraint triggers generate invalid plans,1,bug,2025-06-18,https://github.com/stripe/pg-schema-diff/issues/213
+[BUG] Wrong statement when using `generated always as`,0,bug,2025-06-10,https://github.com/stripe/pg-schema-diff/issues/212
+[BUG]: Invalid input syntax for type oid?,1,bug,2025-05-30,https://github.com/stripe/pg-schema-diff/issues/211
+[QUESTION] Can I compare 2 schemas named differently?,0,,2025-05-20,https://github.com/stripe/pg-schema-diff/issues/210
+[FEATURE] Support for policies on partitions,0,enhancement,2025-05-19,https://github.com/stripe/pg-schema-diff/issues/209
+[FEATURE] v13 support,0,enhancement,2025-05-12,https://github.com/stripe/pg-schema-diff/issues/208
+[FEATURE] Diff and preserve comments,0,enhancement,2025-05-02,https://github.com/stripe/pg-schema-diff/issues/207
+[BUG] Foreign keys between tables in separate schemas fail,1,bug,2025-05-01,https://github.com/stripe/pg-schema-diff/issues/206
+Check constraints that depend on UDFs,2,,2024-12-05,https://github.com/stripe/pg-schema-diff/issues/184
+Better dependency tracking for non-sql functions,12,,2024-05-06,https://github.com/stripe/pg-schema-diff/issues/129
+[FEATURE] Support for domains,0,enhancement,2025-04-23,https://github.com/stripe/pg-schema-diff/issues/205
+Implementing my custom SchemaSource,0,,2025-04-14,https://github.com/stripe/pg-schema-diff/issues/203
+Question: sql output for plan and excluding tables,3,,2025-03-12,https://github.com/stripe/pg-schema-diff/issues/195
+[FEATURE] Add support for diffing two schema dirs from the CLI,0,enhancement,2025-03-30,https://github.com/stripe/pg-schema-diff/issues/198
+[FEATURE] Add support for excluding tables,0,enhancement,2025-03-30,https://github.com/stripe/pg-schema-diff/issues/197
+Question: use of pg-schema-diff in a CI:CD pipeline to generate migrations,4,,2025-02-06,https://github.com/stripe/pg-schema-diff/issues/193
+"Question: Is the change """"Generate function to take a SchemaSource"""" releasing any soon?",2,,2025-03-20,https://github.com/stripe/pg-schema-diff/issues/196
+Dependency missed with a function used as default value,1,,2025-02-06,https://github.com/stripe/pg-schema-diff/issues/191
+[FEATURE] Support switching between non-coercible types via drop/add,2,"enhancement, good first issue",2024-11-08,https://github.com/stripe/pg-schema-diff/issues/179
+Add support for generated columns,0,enhancement,2024-08-31,https://github.com/stripe/pg-schema-diff/issues/165
+[FEATURE] Add support for Postgres 17,0,enhancement,2024-12-11,https://github.com/stripe/pg-schema-diff/issues/186
+Add support for stored procedures,22,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/159
+Find Clean Solution to Diffing Hierarchies,1,,2023-08-29,https://github.com/stripe/pg-schema-diff/issues/63
+[BUG] column already has a default value,1,bug,2024-11-26,https://github.com/stripe/pg-schema-diff/issues/182
+[BUG] : Hazard HAS_UNTRACKABLE_DEPENDENCIES,4,bug,2024-11-13,https://github.com/stripe/pg-schema-diff/issues/180
+[BUG] cannot drop column of table because other objects depend on it,1,bug,2024-11-22,https://github.com/stripe/pg-schema-diff/issues/181
+Hazard HAS_UNTRACKABLE_DEPENDENCIES,10,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/158
+Creating a FAQ/Troubleshooting Doc,1,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/156
+Support nested directories,3,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/155
+[FEATURE] : Support User defined Types ,1,enhancement,2024-11-01,https://github.com/stripe/pg-schema-diff/issues/178
+[Question] : Clean up temp databases created on the target server,1,"duplicate, enhancement",2024-10-11,https://github.com/stripe/pg-schema-diff/issues/177
+Add support for identity columns,18,,2024-08-29,https://github.com/stripe/pg-schema-diff/issues/163
+Cleanup balls of mud,0,tech debt,2024-02-02,https://github.com/stripe/pg-schema-diff/issues/101
+Question : Can we have tables in destination but delete from source ,6,,2024-08-27,https://github.com/stripe/pg-schema-diff/issues/161
+How do you deal with unsupported changes on the db schema?,7,,2024-09-03,https://github.com/stripe/pg-schema-diff/issues/169
+Include failed statement's file and line in stderr,3,,2024-09-01,https://github.com/stripe/pg-schema-diff/issues/167
+Create Go script that can replace preceding tabs with spaces in SQL string literals,5,,2024-07-20,https://github.com/stripe/pg-schema-diff/issues/148
+[Question] : Folder structure for tables,6,,2024-08-28,https://github.com/stripe/pg-schema-diff/issues/162
+[Question] Why not use `pg_dump --schema-only` to populate temporary database?,3,,2024-09-04,https://github.com/stripe/pg-schema-diff/issues/170
+mask password for dsn,5,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/160
+Add an ability to Save plan files,1,,2024-08-26,https://github.com/stripe/pg-schema-diff/issues/157
+New columns add are not detected ,34,,2024-08-22,https://github.com/stripe/pg-schema-diff/issues/154
+Foreign key constraints,1,,2023-08-04,https://github.com/stripe/pg-schema-diff/issues/49
+Support for multiple schema directories?,2,,2024-07-21,https://github.com/stripe/pg-schema-diff/issues/149
+Merge lock timeout and statement timeout modifier into one parameter,0,,2024-07-11,https://github.com/stripe/pg-schema-diff/issues/145
+Accelerate migration planning through pipelined statements,0,,2024-07-10,https://github.com/stripe/pg-schema-diff/issues/144
+Implement retry system,0,,2024-07-10,https://github.com/stripe/pg-schema-diff/issues/143
+Add support for online Foreign Keys via `VALIDATE`,0,,2024-01-29,https://github.com/stripe/pg-schema-diff/issues/97
+Fix Test Case Indent Formatting,2,"good first issue, tech debt",2023-08-31,https://github.com/stripe/pg-schema-diff/issues/67
+Create wrapper around schema name maps such that they can only be queried with a SchemaQualifiedName,3,tech debt,2024-02-02,https://github.com/stripe/pg-schema-diff/issues/103
+Add Postgres 16 to Acceptance Test Matrix,0,,2023-10-17,https://github.com/stripe/pg-schema-diff/issues/75
+Separate Column Diffs from Table Diffs,1,tech debt,2023-06-28,https://github.com/stripe/pg-schema-diff/issues/36
+"For functions where dependencies cannot be tracked, create them _after_ all tables have been added/altered",1,,2024-04-30,https://github.com/stripe/pg-schema-diff/issues/128
+Move data packing tests into their own test cases instead of having them as a inherent subtest of acceptance tests,0,,2024-02-07,https://github.com/stripe/pg-schema-diff/issues/106
+Row security policies,0,enhancement,2024-02-16,https://github.com/stripe/pg-schema-diff/issues/111
+Allow applying plan without confirmation,2,,2024-05-28,https://github.com/stripe/pg-schema-diff/issues/133
+Make statement generation and ordering independent,0,,2024-05-27,https://github.com/stripe/pg-schema-diff/issues/131
+Create a user-facing ergnomic representation of schema,0,,2024-04-22,https://github.com/stripe/pg-schema-diff/issues/126
+"Add """"policy"""" replacement",1,,2024-04-21,https://github.com/stripe/pg-schema-diff/issues/125
+Add support for table privileges,0,,2024-04-20,https://github.com/stripe/pg-schema-diff/issues/124
+Consider allowing users to define a .pg-schema-diff.yaml file that the CLI will read-in so users can quickly run the CLI,0,,2024-03-30,https://github.com/stripe/pg-schema-diff/issues/121
+Enums,0,enhancement,2024-02-16,https://github.com/stripe/pg-schema-diff/issues/112
+Generated SQL for new table reorders columns,3,,2024-03-20,https://github.com/stripe/pg-schema-diff/issues/118
+Unable to resolve sequence SQL,3,,2024-02-16,https://github.com/stripe/pg-schema-diff/issues/110
+Considering adding warning if a migration's success is dependent on the data,0,,2024-02-16,https://github.com/stripe/pg-schema-diff/issues/114
+Investigate supabase CLI integration,17,,2024-01-10,https://github.com/stripe/pg-schema-diff/issues/85
+Switch CLI parameters over to logfmt,0,enhancement,2023-08-24,https://github.com/stripe/pg-schema-diff/issues/62
+Update CLI to allow for multi-schema support,0,,2024-02-03,https://github.com/stripe/pg-schema-diff/issues/105
+Support for non-`public` schemas,3,,2024-01-25,https://github.com/stripe/pg-schema-diff/issues/94
+Convert plan generator into a struct to make wiring dependencies through easier,0,,2024-02-02,https://github.com/stripe/pg-schema-diff/issues/102
+Allow CREATE/DROP INDEX without CONCURRENTLY,12,,2024-01-07,https://github.com/stripe/pg-schema-diff/issues/81
+"Add support for """"online"""" `NOT NULL` for local nullability on partitions",0,,2024-01-11,https://github.com/stripe/pg-schema-diff/issues/88
+Add support for local check constraints on partitions,0,,2024-01-11,https://github.com/stripe/pg-schema-diff/issues/87
+Make `SET NOT NULL` lock-free through check constraints,0,enhancement,2024-01-08,https://github.com/stripe/pg-schema-diff/issues/82
+Connects to `database=postgres` regardless of `PGDATABASE` value,2,,2023-11-22,https://github.com/stripe/pg-schema-diff/issues/78
+Evaluate weird quirk of dependency system,0,,2024-01-09,https://github.com/stripe/pg-schema-diff/issues/84
+Add SQL statement comments,0,,2023-10-25,https://github.com/stripe/pg-schema-diff/issues/77
+Online Check Constraint Adds,0,,2023-08-29,https://github.com/stripe/pg-schema-diff/issues/66
+Build PK Constraints Concurrently for Partitions,0,enhancement,2023-08-29,https://github.com/stripe/pg-schema-diff/issues/64
+Unique constraints,0,enhancement,2023-09-21,https://github.com/stripe/pg-schema-diff/issues/72
+Support FK's switching between non-castable types,3,enhancement,2023-08-07,https://github.com/stripe/pg-schema-diff/issues/51
+Cleanup Orphaned Temporary Databases,0,enhancement,2023-07-12,https://github.com/stripe/pg-schema-diff/issues/41
+Create way to visualize dependency graph,4,"enhancement, good first issue",2023-07-11,https://github.com/stripe/pg-schema-diff/issues/38
+Add plugin support,0,enhancement,2023-09-05,https://github.com/stripe/pg-schema-diff/issues/69
+Add per-statement lock timeout modifiers,0,,2023-08-24,https://github.com/stripe/pg-schema-diff/issues/60
+Incorrect usage of lowercase character,4,,2023-08-11,https://github.com/stripe/pg-schema-diff/issues/57
+Don't include `ACQUIRES_ACCESS_EXCLUSIVE` lock migration hazard if switching between binary-coercible types,0,,2023-08-07,https://github.com/stripe/pg-schema-diff/issues/52
+"Add """"Correctness"""" Migration Hazard",0,enhancement,2023-08-07,https://github.com/stripe/pg-schema-diff/issues/50
+Create guidelines for declarative schema setup,0,documentation,2023-07-16,https://github.com/stripe/pg-schema-diff/issues/45
+Sequence (and Serial) support,0,enhancement,2023-06-26,https://github.com/stripe/pg-schema-diff/issues/34
+Make it easier to generate plans from custom commands,3,enhancement,2023-06-17,https://github.com/stripe/pg-schema-diff/issues/32

@@ -84,3 +84,28 @@ class IssueData:
             f"  - Last updated: {self.updated_at[:10]}"
             f"{body_preview}"
         )
+    
+    def to_csv_row(self, repo_path: str) -> List[str]:
+        """Convert issue to CSV row format.
+        
+        Returns: [title, comments_count, labels, opened_date, hyperlink]
+        """
+        # Handle CSV escaping for title
+        title_escaped = self.title.replace('"', '""') if '"' in self.title else self.title
+        
+        # Format labels as comma-separated string within quotes if multiple
+        labels_str = ", ".join(self.labels) if self.labels else ""
+        
+        # Extract date (YYYY-MM-DD format)
+        opened_date = self.created_at[:10] if self.created_at else ""
+        
+        # Create GitHub issue URL
+        hyperlink = f"https://github.com/{repo_path}/issues/{self.number}"
+        
+        return [
+            title_escaped,
+            str(self.comments),
+            labels_str,
+            opened_date,
+            hyperlink
+        ]

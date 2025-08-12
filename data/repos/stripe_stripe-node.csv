@@ -1,0 +1,188 @@
+# Issues Total: 183
+# Repository: https://github.com/stripe/stripe-node
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Missing 'nz_bank_account' in PaymentMethodType in SessionResources.d.ts,2,bug,2025-06-30,https://github.com/stripe/stripe-node/issues/2359
+createPreview doesn't expand `lines.data.price.tiers`,1,bug,2025-08-05,https://github.com/stripe/stripe-node/issues/2382
+Auto-pagination error iterating over subscriptions when updating last record of page to canceled state,3,bug,2025-07-09,https://github.com/stripe/stripe-node/issues/2368
+Requests not aborted within timeout,8,bug,2025-05-06,https://github.com/stripe/stripe-node/issues/2332
+Customer portal config - set min/max quantity range,3,feature-request,2025-07-21,https://github.com/stripe/stripe-node/issues/2378
+with Subscription object payment intent within latest invoice is not longer populated,1,bug,2025-07-10,https://github.com/stripe/stripe-node/issues/2369
+stripe.invoices.retrieveUpcoming in SDK docs appears to be incorrect,1,bug,2025-07-07,https://github.com/stripe/stripe-node/issues/2366
+Stripe V2 Account Link Preview - Results in 404,1,bug,2025-07-03,https://github.com/stripe/stripe-node/issues/2364
+TypeScript types are not accurate when expanding data and it's very annoying.,5,"bug, future",2025-05-03,https://github.com/stripe/stripe-node/issues/2327
+Add support for accounts v2,0,feature-request,2025-07-02,https://github.com/stripe/stripe-node/issues/2361
+Export current api version string,0,"future, feature-request",2025-06-26,https://github.com/stripe/stripe-node/issues/2357
+Zod schemas,3,"future, feature-request",2025-06-18,https://github.com/stripe/stripe-node/issues/2350
+"apiVersion set in new Stripe, but ephemeralKeys.create still ask for it",1,bug,2025-06-18,https://github.com/stripe/stripe-node/issues/2351
+`current_period_start` and `current_period_end` are not in the `Subscription` type,1,bug,2025-06-22,https://github.com/stripe/stripe-node/issues/2353
+Promotion code first_time_transaction isn't applied correctly,3,bug,2025-06-13,https://github.com/stripe/stripe-node/issues/2349
+invoices.createPreview failing on customer param,1,bug,2025-06-11,https://github.com/stripe/stripe-node/issues/2347
+"Link used in """"mcc"""" annotation goes to a missing page",2,bug,2025-05-17,https://github.com/stripe/stripe-node/issues/2340
+Add AbortSignal support,8,"future, feature-request",2024-12-17,https://github.com/stripe/stripe-node/issues/2241
+No signatures found matching the expected signature for payload,3,bug,2025-05-09,https://github.com/stripe/stripe-node/issues/2337
+`retrieveUpcoming` missing?,1,bug,2025-05-07,https://github.com/stripe/stripe-node/issues/2334
+Billing thresholds were removed from the API without adequate replacement,1,bug,2025-05-04,https://github.com/stripe/stripe-node/issues/2328
+Default Node `httpClient` configuration does not get mocked by MSW nor upcoming Nock version,5,"bug, future",2024-10-21,https://github.com/stripe/stripe-node/issues/2211
+Accounts v2 API - Metadata not persisting,1,bug,2025-04-25,https://github.com/stripe/stripe-node/issues/2315
+`.retrieve()` calls should accept the object as first argument and allow reusing existing expansions,1,"future, feature-request",2025-04-17,https://github.com/stripe/stripe-node/issues/2305
+"Usage records and retrieveUpcoming methods are removed in 18.0.0, but required for migrating customers to the new Meters API.",5,bug,2025-04-12,https://github.com/stripe/stripe-node/issues/2303
+`stripe.invoices.upcoming` in SDK docs appears to be incorrect,2,bug,2025-03-20,https://github.com/stripe/stripe-node/issues/2275
+Property 'quantity' does not exist on type 'Response<Subscription>',3,bug,2023-09-21,https://github.com/stripe/stripe-node/issues/1909
+Detect breaking changes,1,feature-request,2025-04-04,https://github.com/stripe/stripe-node/issues/2296
+Missing payment_intent in Invoice,2,bug,2025-04-05,https://github.com/stripe/stripe-node/issues/2299
+NPM module alias doesn't allow for module type resolution.,1,bug,2025-04-03,https://github.com/stripe/stripe-node/issues/2295
+Type issues,3,feature-request,2024-09-14,https://github.com/stripe/stripe-node/issues/2176
+Stripe.SubscriptionSchedule.Phase type is missing trial property,3,"bug, future",2025-03-09,https://github.com/stripe/stripe-node/issues/2267
+Specify a major release for `apiVersion`,3,"future, feature-request",2025-03-18,https://github.com/stripe/stripe-node/issues/2273
+Metadata not passed in customer.subscription.created when using live webhook,2,bug,2025-03-29,https://github.com/stripe/stripe-node/issues/2290
+"""""Narrative"""" missing from evidence/dispute.",1,bug,2025-03-26,https://github.com/stripe/stripe-node/issues/2280
+ui_mode types out of sync with REST API,2,feature-request,2025-03-20,https://github.com/stripe/stripe-node/issues/2276
+Not working with Bun,2,future,2025-03-12,https://github.com/stripe/stripe-node/issues/2268
+Stripe.Subscription.data[0].plan type is missing plan property,1,bug,2025-03-19,https://github.com/stripe/stripe-node/issues/2274
+Not able to get charge's balance_transaction on payment_intent.succeeded first try,2,bug,2025-03-07,https://github.com/stripe/stripe-node/issues/2266
+Scheduled Downgrade at Period End Not Triggering in Stripe Billing Portal?,4,bug,2025-01-14,https://github.com/stripe/stripe-node/issues/2251
+`clientSecret` is not valid and `options.defaultValues` is not an accepted parameter in Checkout beta,1,bug,2025-02-21,https://github.com/stripe/stripe-node/issues/2264
+SubtleCryptoProvider cannot be used in a synchronous context,3,bug,2023-10-20,https://github.com/stripe/stripe-node/issues/1942
+Calls to stripe.customers.retrieveSubscription intermittently timing out in v2.9.0,2,bug,2025-02-09,https://github.com/stripe/stripe-node/issues/2262
+Accessibility violations - iframe missing title,1,bug,2025-02-10,https://github.com/stripe/stripe-node/issues/2263
+"Subscription Not have """"plan"""" children in interface",1,bug,2025-02-07,https://github.com/stripe/stripe-node/issues/2260
+Use async functions within request handling code,8,"future, feature-request",2022-09-01,https://github.com/stripe/stripe-node/issues/1542
+Neither apiKey nor config.authenticator provided,18,bug,2024-10-09,https://github.com/stripe/stripe-node/issues/2207
+Best Tech Stack for Stripe Connect Express Integration: Laravel API vs. Vue 3 (Quasar Dashboard),2,feature-request,2025-01-26,https://github.com/stripe/stripe-node/issues/2255
+Please add a Next.js App Router example for Webhook signing,4,"future, feature-request",2024-05-31,https://github.com/stripe/stripe-node/issues/2100
+"You may only specify one of these parameters: allow_promotion_codes, discounts.",1,bug,2025-01-10,https://github.com/stripe/stripe-node/issues/2248
+Node.js 17.5.0 with restricted key missing permissions to retrieve accounts,0,bug,2025-01-09,https://github.com/stripe/stripe-node/issues/2246
+Stripe leaks NodeJS types if imported,1,"future, feature-request",2024-12-22,https://github.com/stripe/stripe-node/issues/2243
+Requests not Throwing Errors in NestJS App or AWS Lambda Node 20/18.x,14,bug,2024-11-18,https://github.com/stripe/stripe-node/issues/2231
+Incorrect Subscription Type,4,bug,2024-12-26,https://github.com/stripe/stripe-node/issues/2244
+Types needed,1,feature-request,2024-11-14,https://github.com/stripe/stripe-node/issues/2228
+Consider switching away from defining types with an ambient module,3,"future, feature-request",2022-12-08,https://github.com/stripe/stripe-node/issues/1636
+Plan is missing from Subscription namespace,1,bug,2024-12-07,https://github.com/stripe/stripe-node/issues/2236
+The applies_to field is missing on the Coupon response object,2,bug,2024-12-05,https://github.com/stripe/stripe-node/issues/2234
+Nestjs Webhook body check doesn't work in live mode,0,bug,2024-12-02,https://github.com/stripe/stripe-node/issues/2233
+Create customer portal session with flow subscription_update - property 'subscription_update' does not exist in type 'FlowData',2,bug,2024-10-02,https://github.com/stripe/stripe-node/issues/2197
+Rate Limit returns HTTP 400 status code,7,bug,2024-11-05,https://github.com/stripe/stripe-node/issues/2223
+refund creation doesn't pass metadata to charge.refunded event,1,bug,2024-11-06,https://github.com/stripe/stripe-node/issues/2224
+Add strict validation for webhook events,1,feature-request,2024-11-08,https://github.com/stripe/stripe-node/issues/2227
+Missing endpoint `stripe.checkout.sessions.update`,2,bug,2024-11-02,https://github.com/stripe/stripe-node/issues/2221
+PaymentIntent interafce does not have charges object in it even tho it is sent from stripe webhook on payment_intent.succeeded event,5,bug,2024-06-17,https://github.com/stripe/stripe-node/issues/2112
+Total customers number doesn't match dashboard,1,bug,2024-10-23,https://github.com/stripe/stripe-node/issues/2214
+"Stripe Connect: Platform pricing configuration ignored, resulting in a negative balance",3,bug,2024-10-21,https://github.com/stripe/stripe-node/issues/2212
+How to inspect Stripe's requests,6,bug,2024-10-02,https://github.com/stripe/stripe-node/issues/2198
+Stripe docs are a mistake,2,bug,2024-09-27,https://github.com/stripe/stripe-node/issues/2191
+Prevent Instant Invoice Generation Upon Subscription Creation While Accruing Charges,1,feature-request,2024-09-23,https://github.com/stripe/stripe-node/issues/2183
+display_brand type missing in PaymentMethods.Card,3,"bug, future",2024-02-01,https://github.com/stripe/stripe-node/issues/2013
+`SELF_SIGNED_CERT_IN_CHAIN` when I am trying to mock it with MockServer,2,bug,2024-09-01,https://github.com/stripe/stripe-node/issues/2166
+Webhook Error 403,1,bug,2024-08-31,https://github.com/stripe/stripe-node/issues/2165
+Property 'retrieve' does not exist on type 'CalculationsResource',2,bug,2024-08-06,https://github.com/stripe/stripe-node/issues/2153
+Listen for errors globally,3,"future, feature-request",2023-07-16,https://github.com/stripe/stripe-node/issues/1846
+feat: Modular API for edge runtimes,1,"future, feature-request",2024-08-12,https://github.com/stripe/stripe-node/issues/2156
+Cannot create a product with custom unit amount,1,bug,2024-08-07,https://github.com/stripe/stripe-node/issues/2154
+TWINT Payment Method missing from `PaymentMethodConfigurationCreateParams`,4,bug,2024-07-24,https://github.com/stripe/stripe-node/issues/2141
+invoice.will_be_due event is missing in webhook events types,7,"bug, future",2024-02-19,https://github.com/stripe/stripe-node/issues/2024
+Product Data metadata is not returned when calling listLineItems,1,feature-request,2024-07-25,https://github.com/stripe/stripe-node/issues/2142
+`plan` is missing on `Stripe.Subscription` type,1,bug,2024-07-14,https://github.com/stripe/stripe-node/issues/2139
+stripe.resources.Checkout.prototype seems to be broken?,5,bug,2024-04-07,https://github.com/stripe/stripe-node/issues/2060
+Connect Account Payout object does not contain stripe account payment intent or charge obj id.,1,bug,2024-07-10,https://github.com/stripe/stripe-node/issues/2135
+List Prices not reporting active status properly,1,bug,2024-07-08,https://github.com/stripe/stripe-node/issues/2131
+"`_prepResources()` and `ResourceNamespace` iterate all properties, but don't check `hasOwnProperty`",1,bug,2024-06-21,https://github.com/stripe/stripe-node/issues/2114
+stripe-node bumps into TypeScript issue 45096 for triple slash directives when forceConsistentCasingInFileNames,8,feature-request,2024-04-30,https://github.com/stripe/stripe-node/issues/2076
+consider replacing `qs` dependency,1,"future, feature-request",2024-06-24,https://github.com/stripe/stripe-node/issues/2117
+Type Stripe.Subscription don't show attribute plan,1,bug,2024-06-29,https://github.com/stripe/stripe-node/issues/2127
+Stripe.paymentIntents missing `payment_method_details` type but is included in the returned data object.,2,bug,2024-06-28,https://github.com/stripe/stripe-node/issues/2124
+Stripe elements are showing errors after mounting,1,bug,2024-06-28,https://github.com/stripe/stripe-node/issues/2123
+"NodeJs - InvoiceItemsUpdateParams - Missing """"invoice"""" param as an option",4,bug,2024-06-10,https://github.com/stripe/stripe-node/issues/2105
+Missing type in Checkout.SessionCreateParams,8,bug,2024-05-28,https://github.com/stripe/stripe-node/issues/2096
+Stripe.checkout.session Type error,1,bug,2024-05-31,https://github.com/stripe/stripe-node/issues/2099
+Add dashboard-visible Radar results to SetupIntent or SetupAttempt,2,feature-request,2024-05-28,https://github.com/stripe/stripe-node/issues/2097
+stripe__WEBPACK_IMPORTED_MODULE_0__.default is not a constructor,12,bug,2023-09-07,https://github.com/stripe/stripe-node/issues/1896
+Support for `footer` in `invoice_settings`,2,feature-request,2024-05-17,https://github.com/stripe/stripe-node/issues/2091
+Export object interfaces from Typescript definitions,10,"future, feature-request",2022-08-05,https://github.com/stripe/stripe-node/issues/1502
+Prices.list throws error when ids array length rather than default limit (10) even when limit provided,1,bug,2024-05-09,https://github.com/stripe/stripe-node/issues/2089
+"Argument """"subscriptionExposedId"""" must be a string, but got: undefined",0,bug,2024-05-05,https://github.com/stripe/stripe-node/issues/2082
+update typescript interface to include v15.0.0 changes (features => marketing_features),2,bug,2024-05-04,https://github.com/stripe/stripe-node/issues/2081
+No signatures found matching the expected signature for payload.,1,bug,2024-05-02,https://github.com/stripe/stripe-node/issues/2078
+id type does not exist on SourceTransaction.PaperCheck,1,"bug, future",2024-04-29,https://github.com/stripe/stripe-node/issues/2075
+Get Stripe Customer List,1,bug,2024-04-16,https://github.com/stripe/stripe-node/issues/2068
+Unnecessary dependency @types/node in non dev dependency,1,"bug, future",2024-04-14,https://github.com/stripe/stripe-node/issues/2066
+"[1]  ⨯ Error: Stripe: Argument """"subscription_exposed_id"""" must be a string, but got: undefined (on API request to `GET /v1/subscriptions/{subscription_exposed_id}`)",3,bug,2023-11-12,https://github.com/stripe/stripe-node/issues/1953
+stripe.checkout.sessions.create(params) stopped working between Next.js 14.1.0 and 14.1.4,8,bug,2024-04-10,https://github.com/stripe/stripe-node/issues/2063
+[Feature request] built-in retry when `lock_timeout` error for `stripe.customers.retrieve()`,2,feature-request,2024-03-29,https://github.com/stripe/stripe-node/issues/2056
+Cannot access LatestApiVersion type in Typescript,2,bug,2024-03-19,https://github.com/stripe/stripe-node/issues/2041
+error.type does not survive minification,3,bug,2024-03-19,https://github.com/stripe/stripe-node/issues/2042
+Export StripeError class,2,feature-request,2024-03-21,https://github.com/stripe/stripe-node/issues/2044
+Remix/Cloudflare | Uncaught ReferenceError: process is not defined,7,bug,2024-03-12,https://github.com/stripe/stripe-node/issues/2038
+Resolution for worker and other modules fails,5,bug,2024-03-12,https://github.com/stripe/stripe-node/issues/2037
+"Add a """"locale"""" variable to the options configuration",2,"future, feature-request",2022-08-29,https://github.com/stripe/stripe-node/issues/1535
+"Please pull through 'active' value on subscriptions, rather than putting it in a string as 'status' where that status can be overwritten by other values",1,feature-request,2024-03-07,https://github.com/stripe/stripe-node/issues/2034
+Api feature: Credit notes - filter by date,3,feature-request,2024-02-29,https://github.com/stripe/stripe-node/issues/2031
+"Add the """"node:"""" prefix in Node.js core module imports",4,bug,2024-02-26,https://github.com/stripe/stripe-node/issues/2028
+Incomplete Typescript Types,3,bug,2024-01-20,https://github.com/stripe/stripe-node/issues/1999
+default_currency is optional on the Account object type,2,bug,2024-02-13,https://github.com/stripe/stripe-node/issues/2020
+Invoice is always empty,1,bug,2024-02-11,https://github.com/stripe/stripe-node/issues/2019
+Subscription Back date,3,feature-request,2024-02-09,https://github.com/stripe/stripe-node/issues/2016
+stripe events resend support in stripe-node,3,feature-request,2024-02-07,https://github.com/stripe/stripe-node/issues/2015
+Allow HTTP requests to *.stripe.com,2,feature-request,2024-01-27,https://github.com/stripe/stripe-node/issues/2006
+Please add Stripe payment for Egypt,1,feature-request,2024-02-01,https://github.com/stripe/stripe-node/issues/2011
+Change a price,1,bug,2024-01-28,https://github.com/stripe/stripe-node/issues/2008
+Missing types for shipping based on Session object and checkout.session.completed event,2,bug,2024-01-27,https://github.com/stripe/stripe-node/issues/2007
+Duplicate customer creating at Stripe Dashboard,0,bug,2024-01-27,https://github.com/stripe/stripe-node/issues/2005
+Permission denied when passing unified_accounts_beta=v1 header,1,bug,2024-01-26,https://github.com/stripe/stripe-node/issues/2004
+Expandable object types used in webhooks instead of strings,1,bug,2024-01-26,https://github.com/stripe/stripe-node/issues/2003
+Pre authorize an invoice payment,1,feature-request,2024-01-22,https://github.com/stripe/stripe-node/issues/2000
+previous_attributes on StripeEvent should be typed as Partial,2,feature-request,2023-12-21,https://github.com/stripe/stripe-node/issues/1978
+`invoiceitem.updated` poorly documented,2,"bug, next-major",2023-12-31,https://github.com/stripe/stripe-node/issues/1984
+Verifying signatures: add hint about line endings,3,feature-request,2023-12-24,https://github.com/stripe/stripe-node/issues/1981
+metadata empty when retrieving a Checkout Session's line items,1,bug,2024-01-06,https://github.com/stripe/stripe-node/issues/1991
+"Attempt to read property """"last4"""" on null",1,bug,2023-12-30,https://github.com/stripe/stripe-node/issues/1983
+CSP on checkout server is causing problems in Google Chrome,3,bug,2023-12-26,https://github.com/stripe/stripe-node/issues/1982
+Whitespace in header signature,2,bug,2023-12-23,https://github.com/stripe/stripe-node/issues/1980
+Zero currency converter,2,"future, feature-request",2022-06-30,https://github.com/stripe/stripe-node/issues/1463
+Support for tree-shaking,6,"future, feature-request",2023-02-24,https://github.com/stripe/stripe-node/issues/1693
+Extend all resources w/ API mode DELETE: stripeMethod del(),1,feature-request,2023-12-02,https://github.com/stripe/stripe-node/issues/1970
+Add Parameter: Status filter to /payouts,1,feature-request,2023-11-20,https://github.com/stripe/stripe-node/issues/1963
+Make webhooks utilities available as a static property,5,feature-request,2023-11-14,https://github.com/stripe/stripe-node/issues/1956
+Use AbortSignal for timeout in FetchHttpClient implementation,1,"future, feature-request",2023-11-07,https://github.com/stripe/stripe-node/issues/1950
+Null value for `idempotency_key` on webhook,1,bug,2023-11-07,https://github.com/stripe/stripe-node/issues/1951
+Unable to filter calls using startTime and endTime in the list method (please see closing comments in `Additional context` section),2,bug,2023-11-06,https://github.com/stripe/stripe-node/issues/1949
+"Cannot specify API version other than latest (""""2023-10-16"""")",1,bug,2023-10-31,https://github.com/stripe/stripe-node/issues/1946
+Checkout session create success_url should be optional?,1,bug,2023-10-28,https://github.com/stripe/stripe-node/issues/1944
+Add Type for <stripe-pricing-table> element,1,feature-request,2023-10-19,https://github.com/stripe/stripe-node/issues/1941
+error TypeError: stripe__WEBPACK_IMPORTED_MODULE_1__.default is not a constructor ,3,bug,2023-10-17,https://github.com/stripe/stripe-node/issues/1937
+Move types to separate @types npm package,5,feature-request,2023-10-12,https://github.com/stripe/stripe-node/issues/1923
+list payment intents of specific account return an empty array,0,bug,2023-10-17,https://github.com/stripe/stripe-node/issues/1936
+Api version 2023-10-16 appears to not exist,1,bug,2023-10-17,https://github.com/stripe/stripe-node/issues/1934
+need a v13+ beta released that includes `CustomerSession` ,2,feature-request,2023-10-12,https://github.com/stripe/stripe-node/issues/1922
+Creating Invoice Items before Invoice - No longer getting automatically added to invoice,2,bug,2023-10-05,https://github.com/stripe/stripe-node/issues/1918
+StripeSignatureVerificationError,1,bug,2023-09-28,https://github.com/stripe/stripe-node/issues/1915
+get owner account id,1,feature-request,2023-09-27,https://github.com/stripe/stripe-node/issues/1913
+Quantity does not exist on Subscription type,1,bug,2023-09-22,https://github.com/stripe/stripe-node/issues/1912
+Timeline for node 12 sunsetting,5,"future, feature-request",2023-09-20,https://github.com/stripe/stripe-node/issues/1908
+EphemeralKeyCreateParams missing a params,2,bug,2023-09-11,https://github.com/stripe/stripe-node/issues/1901
+off-session payment issue,1,bug,2023-09-12,https://github.com/stripe/stripe-node/issues/1904
+Subscription metadata doesn't appear on the dashboard,6,bug,2023-08-29,https://github.com/stripe/stripe-node/issues/1887
+setting the stripe api version explicitly is not working,2,bug,2023-09-08,https://github.com/stripe/stripe-node/issues/1899
+`Stripe.Event.Type` is missing Treasury events,1,bug,2023-09-01,https://github.com/stripe/stripe-node/issues/1894
+stripe.prices.list({ currency: 'eur' }) returns usd only,4,bug,2023-08-31,https://github.com/stripe/stripe-node/issues/1891
+Metadata typing not including null / undefined,2,bug,2023-08-30,https://github.com/stripe/stripe-node/issues/1890
+Webhook signin request doesn't works using express code example,7,bug,2023-08-29,https://github.com/stripe/stripe-node/issues/1886
+maxNetworkRetries does not appear to handle 429 network errors,1,bug,2023-08-27,https://github.com/stripe/stripe-node/issues/1885
+Helper method to get item ids,2,"future, feature-request",2023-05-18,https://github.com/stripe/stripe-node/issues/1793
+SetupIntents: `automatic_payment_methods` is not enabled by default,1,bug,2023-08-19,https://github.com/stripe/stripe-node/issues/1881
+"v13 types incorrectly points to API Version """"2022-11-15""""",2,bug,2023-08-17,https://github.com/stripe/stripe-node/issues/1874
+Pay by Bank support,5,feature-request,2023-08-02,https://github.com/stripe/stripe-node/issues/1865
+Ability to set a name for and/or rename Payment Links,2,feature-request,2023-07-20,https://github.com/stripe/stripe-node/issues/1852
+Changelog typo `CheckoutSessionCreateParams`,0,bug,2023-07-16,https://github.com/stripe/stripe-node/issues/1847
+Encode `undefined` parameters as the empty string,3,"speculative, feature-request",2022-10-18,https://github.com/stripe/stripe-node/issues/1587
+Stripe TypeScript types affecting tsc build performance?,5,future,2020-03-22,https://github.com/stripe/stripe-node/issues/845
+stripe.issuing.fundingInstructions API missing,4,bug,2022-08-03,https://github.com/stripe/stripe-node/issues/1499
+products.list throws error when ids array is larger than default limit value (10),7,"bug, future",2022-07-01,https://github.com/stripe/stripe-node/issues/1464
+Feature request: support for multiple Stripe API types,5,future,2020-03-05,https://github.com/stripe/stripe-node/issues/831
+"Missing types for confirming """"card"""" payment intents",3,"future, type definition",2021-11-04,https://github.com/stripe/stripe-node/issues/1285
+OAuth authorizeUrl request: site != library documentation discrepancy,3,type definition,2020-06-15,https://github.com/stripe/stripe-node/issues/921
+Library possible stripping part of billingPortal.configurations.create request?,1,,2022-03-16,https://github.com/stripe/stripe-node/issues/1371
+StripeAPIError: Invalid JSON received from the Stripe API,1,future,2020-07-14,https://github.com/stripe/stripe-node/issues/954
+Feature request: Retrieve multipe objects by IDs,10,future,2019-06-03,https://github.com/stripe/stripe-node/issues/638
+Redact anything resembling Stripe keys when logging,3,feature,2020-05-15,https://github.com/stripe/stripe-node/issues/894

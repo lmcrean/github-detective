@@ -1,0 +1,349 @@
+# Issues Total: 344
+# Repository: https://github.com/stripe/stripe-react-native
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Sync with latest klarna requirements,1,,2025-08-02,https://github.com/stripe/stripe-react-native/issues/2031
+Support TWINT as a payment method,4,,2025-08-06,https://github.com/stripe/stripe-react-native/issues/2039
+Stripe SDK confirmPayment must not be null,4,,2025-08-08,https://github.com/stripe/stripe-react-native/issues/2048
+Cannot access Primary Button from Payment Sheet on Android in Detox Tests,4,,2023-09-14,https://github.com/stripe/stripe-react-native/issues/1504
+Update jest/mocks.ts for the EmbeddedElement feature,0,,2025-08-07,https://github.com/stripe/stripe-react-native/issues/2046
+App crashes when presenting PaymentSheet on Android,3,,2025-08-07,https://github.com/stripe/stripe-react-native/issues/2045
+'StripeSdk' could not be found,16,,2025-06-02,https://github.com/stripe/stripe-react-native/issues/1962
+Including customPaymentMethodConfiguration crashes the app,2,,2025-07-23,https://github.com/stripe/stripe-react-native/issues/2015
+[Payment sheet] Localization support,38,docs,2021-05-20,https://github.com/stripe/stripe-react-native/issues/243
+Including the library without using it breaks expo web,7,,2025-05-29,https://github.com/stripe/stripe-react-native/issues/1954
+Type 'PaymentSheet.Appearance.EmbeddedPaymentElement.Row.Style' has no member 'flatWithChevron',0,,2025-08-05,https://github.com/stripe/stripe-react-native/issues/2034
+Credit card icon not displaying on Android real devices and some iOS devices,6,,2024-07-01,https://github.com/stripe/stripe-react-native/issues/1682
+CardField causing app to crush,5,,2025-04-11,https://github.com/stripe/stripe-react-native/issues/1883
+Ability to override theme in PaymentSheet initialization,2,,2025-07-20,https://github.com/stripe/stripe-react-native/issues/2007
+UnsupportedModulePropertyParserError: Module NativeStripeSdkModule: TypeScript interfaces extending TurboModule must only contain 'FunctionTypeAnnotation's or non nullable 'EventEmitter's. Property 'onConfirmHandlerCallback' refers to a 'TSTypeReference'.,2,,2025-07-28,https://github.com/stripe/stripe-react-native/issues/2027
+"Android handleNextAction got 3 arguments, expected 4",4,,2025-05-31,https://github.com/stripe/stripe-react-native/issues/1960
+Module NativeStripeSdkModule: TypeScript interfaces extending TurboModule must only contain 'FunctionTypeAnnotation's. Property 'onConfirmHandlerCallback' refers to a 'TSTypeReference',8,,2025-06-24,https://github.com/stripe/stripe-react-native/issues/1977
+Words and sentences are still in english when using Arabic localization,1,,2024-07-13,https://github.com/stripe/stripe-react-native/issues/1691
+[Feature Request/Bug] Enable Dynamic Cart Updates in Apple Pay via onShippingAddressChange,2,enhancement,2025-07-14,https://github.com/stripe/stripe-react-native/issues/2001
+Android app crashes on - ActivityTaskManager timeout and StripeKeepJsAwakeTask error `presentPaymentSheet()`,3,,2025-06-25,https://github.com/stripe/stripe-react-native/issues/1981
+Stripe re-direct not closing the in app browser in react-native 0.71,5,,2025-01-06,https://github.com/stripe/stripe-react-native/issues/1805
+Android - Cannot read property 'StripeProvider' of undefined,1,,2025-07-14,https://github.com/stripe/stripe-react-native/issues/2000
+Task :stripe_stripe-react-native:compileDebugKotlin FAILED,7,,2025-07-11,https://github.com/stripe/stripe-react-native/issues/1997
+"confirmPlatformPayPayment returns """"Canceled"""" error even when payment is not canceled",4,,2025-06-13,https://github.com/stripe/stripe-react-native/issues/1970
+Subscription trial manages the same way Checkout does,4,,2025-06-23,https://github.com/stripe/stripe-react-native/issues/1975
+"Argument type mismatch: actual type is 'ReadableMap?', but 'ReadableMap' was expected.",5,,2025-07-01,https://github.com/stripe/stripe-react-native/issues/1988
+Android Build Error: `ReadableMap?` Nullability Issue in Stripe React Native SDK (RN 0.80+),0,,2025-06-16,https://github.com/stripe/stripe-react-native/issues/1971
+Execution failed for task ':stripe_stripe-react-native:compileDebugKotlin'.,1,,2025-07-21,https://github.com/stripe/stripe-react-native/issues/2008
+Execution failed for task ':stripe_stripe-react-native:compileDebugKotlin'.,18,,2023-11-16,https://github.com/stripe/stripe-react-native/issues/1560
+"iOS PaymentSheet fails to open when using WiFi, only works when connected to mobile data",1,,2025-07-17,https://github.com/stripe/stripe-react-native/issues/2004
+@stripe/stripe-react-native build fails with Kotlin 1.8.0 – Incompatible with Compose Compiler 1.3.2,12,,2025-05-18,https://github.com/stripe/stripe-react-native/issues/1937
+confirmPlatformPayPayment times out but succeeds,21,,2025-06-06,https://github.com/stripe/stripe-react-native/issues/1965
+App crash while presenting payment sheet on android real device,4,"bug, android",2025-04-11,https://github.com/stripe/stripe-react-native/issues/1881
+"CardForm - """"Card details not complete"""" error when coming back to the screen",2,,2025-07-12,https://github.com/stripe/stripe-react-native/issues/1999
+Kotlin 2 build error when building Android with Expo 52,11,"bug, android",2025-05-08,https://github.com/stripe/stripe-react-native/issues/1924
+The payment sheets flickers when closing iOS 18 Beta 8,50,,2024-09-03,https://github.com/stripe/stripe-react-native/issues/1723
+In Android app crash in release mode,11,,2025-05-20,https://github.com/stripe/stripe-react-native/issues/1938
+"FlowController must be successfully initialized using configureWithPaymentIntent(), configureWithSetupIntent() or configureWithIntentConfiguration() before calling presentPaymentOptions() on Android",3,,2024-01-26,https://github.com/stripe/stripe-react-native/issues/1599
+Android Release mode crash when calling initPaymentSheet,4,,2025-05-14,https://github.com/stripe/stripe-react-native/issues/1935
+Keyboard is not opening when tapping outside of text input (CardField),0,"bug, android",2022-02-07,https://github.com/stripe/stripe-react-native/issues/798
+Card Wallet Provisioning crashing on iOS,3,,2025-05-24,https://github.com/stripe/stripe-react-native/issues/1945
+Android app crash in release mode,5,,2025-06-25,https://github.com/stripe/stripe-react-native/issues/1980
+Execution failed for task ':stripe_stripe-react-native:compileDebugKotlin'. > A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction,7,,2025-05-20,https://github.com/stripe/stripe-react-native/issues/1939
+"Cancelling payment sheet with custom flow doesn't send error, if customer has saved cards",13,,2023-06-16,https://github.com/stripe/stripe-react-native/issues/1419
+No response when call the method presentPaymentSheet(),0,,2025-06-27,https://github.com/stripe/stripe-react-native/issues/1986
+How to add coupons or promotional codes to PaymentSheet?,20,enhancement,2022-09-14,https://github.com/stripe/stripe-react-native/issues/1130
+Is it intentional that Pay with Link cannot be hidden in paymentsheet?,0,,2025-06-27,https://github.com/stripe/stripe-react-native/issues/1987
+BACS not supported in Android Payment Sheet,0,,2025-06-26,https://github.com/stripe/stripe-react-native/issues/1982
+Bug: Stripe Payment Sheet Hangs and Freezes App,2,,2025-06-17,https://github.com/stripe/stripe-react-native/issues/1974
+Crash on Android when entering expiration date in CardField,1,,2025-04-28,https://github.com/stripe/stripe-react-native/issues/1903
+Exclude Apple pay or PassKit framework from the generated binary,1,,2025-05-17,https://github.com/stripe/stripe-react-native/issues/1936
+[iOS] UnionPay debit test card number gets redirected to SuccessUrl without completing payment,2,,2025-05-26,https://github.com/stripe/stripe-react-native/issues/1948
+INVALID_PLUGIN_IMPORT on EAS build,10,,2025-05-05,https://github.com/stripe/stripe-react-native/issues/1915
+Version cut needed - Latest version of `stripe-react-native` not compatible with `stripe-identity-react-native`,1,,2025-02-14,https://github.com/stripe/stripe-react-native/issues/1829
+[Bug] [Android] CardField onCardChange not triggering in React Native Stripe,18,,2025-01-20,https://github.com/stripe/stripe-react-native/issues/1812
+CurrencyCode prop missing on ApplePay settings for initPaymentSheet,16,,2023-03-17,https://github.com/stripe/stripe-react-native/issues/1333
+"Why is """"card scanning"""" iOS only?",2,enhancement,2025-06-11,https://github.com/stripe/stripe-react-native/issues/1968
+`Task :stripe_stripe-react-native:compileDebugKotlin FAILED `  *** unable to run the app ,14,,2023-12-26,https://github.com/stripe/stripe-react-native/issues/1583
+Native Stripe Connect Account Creation,11,enhancement,2022-03-11,https://github.com/stripe/stripe-react-native/issues/842
+Execution failed for task ':app:mergeExtDexDebug',17,,2024-01-23,https://github.com/stripe/stripe-react-native/issues/1596
+Expo android prebuild failing,24,"bug, android",2025-03-23,https://github.com/stripe/stripe-react-native/issues/1871
+confirmPayment not sending full billingDetails and shippingDetails (missing carrier and phone),2,,2025-05-30,https://github.com/stripe/stripe-react-native/issues/1959
+Billie support,2,,2025-05-28,https://github.com/stripe/stripe-react-native/issues/1953
+Support for radar session,8,"enhancement, Radar",2023-04-18,https://github.com/stripe/stripe-react-native/issues/1362
+Keyboard cannot be dismissed for CardForm component ,8,question,2022-05-21,https://github.com/stripe/stripe-react-native/issues/954
+Bug on Cardfield default text color style and Samsung S24 with Android 14,5,,2024-10-01,https://github.com/stripe/stripe-react-native/issues/1743
+Postal Code Error Not Throwing,0,,2025-05-25,https://github.com/stripe/stripe-react-native/issues/1946
+Production issue with Apple Pay,20,"question, ios",2023-05-03,https://github.com/stripe/stripe-react-native/issues/1377
+Undefined symbols on iOS when building 0.45.0 with Expo 52,11,"bug, ios",2025-05-08,https://github.com/stripe/stripe-react-native/issues/1923
+confirmSetupIntent with PayPal paymentMethodType,5,,2023-11-16,https://github.com/stripe/stripe-react-native/issues/1562
+Support PlatformPay.ButtonType = Pay for iOS button,1,,2024-12-02,https://github.com/stripe/stripe-react-native/issues/1783
+CardField followed by TextInput makes app crash on Android pressing enter,1,,2025-03-05,https://github.com/stripe/stripe-react-native/issues/1844
+[Android] Cannot access 'ViewManagerWithGeneratedInterface',1,,2025-05-07,https://github.com/stripe/stripe-react-native/issues/1919
+Crashing On IOS ,2,,2024-12-07,https://github.com/stripe/stripe-react-native/issues/1789
+Undefined symbol: _EmbeddedPaymentElementViewCls Undefined symbol: _GooglePayButtonCls,1,,2025-05-13,https://github.com/stripe/stripe-react-native/issues/1932
+PaymentConfiguration was not initialized. Call PaymentConfiguration.init(),3,,2025-03-12,https://github.com/stripe/stripe-react-native/issues/1863
+Universal links no longer supported as returnUrl in new architecture versions,0,,2025-05-14,https://github.com/stripe/stripe-react-native/issues/1933
+Invariant Violation: `new NativeEventEmitter()` requires a non-null argument. [Component Stack],2,,2025-02-17,https://github.com/stripe/stripe-react-native/issues/1831
+RN 0.75.3 Android build failed,5,,2024-10-01,https://github.com/stripe/stripe-react-native/issues/1742
+Samsung Pay push provisioning ,1,,2024-02-08,https://github.com/stripe/stripe-react-native/issues/1607
+Payment confirmation error in android,1,,2023-11-23,https://github.com/stripe/stripe-react-native/issues/1567
+"i got error """"card details not completed"""" but issue all details ",3,,2023-11-07,https://github.com/stripe/stripe-react-native/issues/1558
+Can we add @stripe/stripe-react-native package for React native web version will it support?,6,,2023-11-06,https://github.com/stripe/stripe-react-native/issues/1556
+"In a customFlow payment flow, the selected payment option image is always blank or a placeholder",4,,2024-05-06,https://github.com/stripe/stripe-react-native/issues/1655
+ WARN  `new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.  WARN  `new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.,2,android,2024-03-22,https://github.com/stripe/stripe-react-native/issues/1628
+Address Sheet doesn't trigger onError when pulling down to close.,3,,2024-02-21,https://github.com/stripe/stripe-react-native/issues/1614
+Design issue with CardField component on Android when switching focus,2,android,2024-02-08,https://github.com/stripe/stripe-react-native/issues/1608
+Freeze app when you click the cancel button 3D secure. ,3,,2024-09-30,https://github.com/stripe/stripe-react-native/issues/1741
+CardField not return the selected network in co-badged cards,5,,2024-09-08,https://github.com/stripe/stripe-react-native/issues/1726
+Preferred network for co-branded cards not working on android,4,,2024-08-28,https://github.com/stripe/stripe-react-native/issues/1720
+Any plans to support Blik payments outside of hosted checkout page?,3,,2024-10-04,https://github.com/stripe/stripe-react-native/issues/1745
+"Didn't find class """"com.stripe.android.uicore.address.AddressRepository""""",3,,2024-08-07,https://github.com/stripe/stripe-react-native/issues/1708
+Build Issues - RestrictedApi Again - React Native v0.75,3,,2024-09-29,https://github.com/stripe/stripe-react-native/issues/1739
+Android 3D secure your browser does not allow you to use this solution,2,,2023-10-25,https://github.com/stripe/stripe-react-native/issues/1545
+iOS build fails  RN 0.69.12 due to StripeCore,4,,2024-06-15,https://github.com/stripe/stripe-react-native/issues/1676
+CardForm crashing on android devices,4,,2024-12-05,https://github.com/stripe/stripe-react-native/issues/1787
+Issue Report: Problems with AddressSheet on Android and iOS,1,,2025-01-09,https://github.com/stripe/stripe-react-native/issues/1806
+Preventing Sensitive Data Exposure in Background: Hiding Stripe Payment Sheet in React Native,0,user request,2025-01-15,https://github.com/stripe/stripe-react-native/issues/1807
+Checkout Sessions custom UI mode support,1,user request,2025-04-10,https://github.com/stripe/stripe-react-native/issues/1878
+CardField crashes the app when it's focused and unmounted while using the new architecture (Fabric),39,,2024-09-17,https://github.com/stripe/stripe-react-native/issues/1732
+Accessibility Issue - PayPal on Payment Sheet country field announces as text field instead of dropdown,0,,2025-05-07,https://github.com/stripe/stripe-react-native/issues/1920
+Unable to resolve module ./specs/NativeStripeSdkModule after wrapping app with StripeProvider,0,,2025-05-01,https://github.com/stripe/stripe-react-native/issues/1913
+Feat: Return billing informations (country & postcode) after checkout,2,enhancement,2025-03-26,https://github.com/stripe/stripe-react-native/issues/1874
+modal is jumping,2,,2025-04-27,https://github.com/stripe/stripe-react-native/issues/1902
+"Google Pay not working in Android, am getting false when I call isPlatformPaySupported",5,question,2023-11-16,https://github.com/stripe/stripe-react-native/issues/1561
+Not showing SEPA direct options on Android using Customer Sheet,1,"enhancement, user request",2025-04-11,https://github.com/stripe/stripe-react-native/issues/1882
+Error message in case of an attempt to complete a payment for an already canceled payment intent not suitable for customers,3,enhancement,2024-07-09,https://github.com/stripe/stripe-react-native/issues/1688
+Payment failure responded with incorrect status code,7,question,2024-01-20,https://github.com/stripe/stripe-react-native/issues/1592
+Expo Go app is crashing when trying to call blur() on the CardField,1,,2025-04-14,https://github.com/stripe/stripe-react-native/issues/1888
+Option for Masked Input for Card Number and CVC in CardField,1,,2025-04-10,https://github.com/stripe/stripe-react-native/issues/1879
+"Exception in HostFunction: TurboModule method """"collectBankAccountToken"""" called with 2 arguments",2,,2025-04-11,https://github.com/stripe/stripe-react-native/issues/1884
+Prevent Removal of Subscription Payment Method,3,,2025-03-06,https://github.com/stripe/stripe-react-native/issues/1845
+Focus on CardField,3,,2025-02-24,https://github.com/stripe/stripe-react-native/issues/1836
+App crash,2,,2025-01-31,https://github.com/stripe/stripe-react-native/issues/1826
+CardForm's textColor prop not affecting input text color in @stripe/stripe-react-native,1,,2025-01-16,https://github.com/stripe/stripe-react-native/issues/1808
+presentPaymentSheet is not showing up ,9,,2024-04-17,https://github.com/stripe/stripe-react-native/issues/1641
+[iOS|Android] presentPaymentSheet() raise an error or create a new instance of the app,2,,2024-07-23,https://github.com/stripe/stripe-react-native/issues/1699
+CardField Dark Mode Broken for Android & iOS,4,,2024-11-20,https://github.com/stripe/stripe-react-native/issues/1778
+Focus is not working properly - ios,1,,2024-08-02,https://github.com/stripe/stripe-react-native/issues/1704
+Why amount of google pay show incorrect?,2,,2024-08-07,https://github.com/stripe/stripe-react-native/issues/1707
+[BUG] Build failing due to Use of undeclared identifier 'STPCardBrandVisa',4,,2024-08-14,https://github.com/stripe/stripe-react-native/issues/1716
+[ios] The double-tap screen in Apple Pay automatically turns on when I tap outside the payment sheet,2,,2024-10-17,https://github.com/stripe/stripe-react-native/issues/1756
+The CardField component does not work as expected in android for co-badged cards,3,,2024-10-24,https://github.com/stripe/stripe-react-native/issues/1764
+Android crash related to CardFieldView,3,,2024-11-05,https://github.com/stripe/stripe-react-native/issues/1768
+"Broken CardFields in apk, Close the app with CardForm in apk.",1,,2024-12-09,https://github.com/stripe/stripe-react-native/issues/1791
+Payment Sheet input validation incorrectly marks account numbers as invalid - apple,5,,2024-11-20,https://github.com/stripe/stripe-react-native/issues/1776
+App crash on android when initPaymentSheet with customFlow,2,,2025-01-24,https://github.com/stripe/stripe-react-native/issues/1815
+Expired API Key provided Error when executing presentPaymentSheet(),2,,2024-05-16,https://github.com/stripe/stripe-react-native/issues/1661
+Android: Unresolved reference: style,1,,2024-06-09,https://github.com/stripe/stripe-react-native/issues/1672
+The payment sheet does not close when timeout if user lock and unlock the mobile devices,1,,2024-08-14,https://github.com/stripe/stripe-react-native/issues/1712
+Add Namespace to android build.gradle,3,,2024-08-21,https://github.com/stripe/stripe-react-native/issues/1717
+"hope tap presentPaymentSheet background, can't dissmiss sheet",1,,2024-06-11,https://github.com/stripe/stripe-react-native/issues/1673
+Can't redirect stripe 3DS to app on Expo file-based routing,2,,2025-01-22,https://github.com/stripe/stripe-react-native/issues/1813
+CardField's CVC icon disappear on iOS when Dark Appearance enabled,2,,2024-07-08,https://github.com/stripe/stripe-react-native/issues/1685
+PaymentSheet intentCreationCallback error when intent is set to ManualConfirmation,1,,2025-02-27,https://github.com/stripe/stripe-react-native/issues/1841
+specialized static PaymentSheetLoader.loadMiscellaneousSingletons(),2,,2024-10-07,https://github.com/stripe/stripe-react-native/issues/1746
+Error on adding StripeCore in AppDelegate xcode,1,,2024-09-11,https://github.com/stripe/stripe-react-native/issues/1729
+Different behavior for BLIK payment on Android,4,android,2023-11-26,https://github.com/stripe/stripe-react-native/issues/1571
+Reduce Stripe React Native Package Size to Optimise App Build Size,2,,2024-09-11,https://github.com/stripe/stripe-react-native/issues/1730
+app crashes when calling presentPaymentSheet for android with android v10,15,,2023-12-14,https://github.com/stripe/stripe-react-native/issues/1580
+I am using cardFeild component in a modal which crashes my app,6,,2023-12-27,https://github.com/stripe/stripe-react-native/issues/1584
+Three D Secure on android authenticate failed after webview appears on test card 3220,1,,2024-10-17,https://github.com/stripe/stripe-react-native/issues/1757
+onFormComplete is not working for CardForm in Android,4,,2025-01-02,https://github.com/stripe/stripe-react-native/issues/1804
+ACSS Support - PAD payments on React Native,5,"enhancement, blocked",2021-06-18,https://github.com/stripe/stripe-react-native/issues/353
+"Generalized Error while createToken - """"Card details not complete"""" with CardField",5,,2024-01-22,https://github.com/stripe/stripe-react-native/issues/1594
+Customize Success Button Color on Setup Intent Sheet.,1,"enhancement, PaymentSheet",2022-07-01,https://github.com/stripe/stripe-react-native/issues/1025
+Expo Web Server Error None of these files exist: node_modules/react-native/Libraries/Utilities/Platform(...) ,5,,2024-12-25,https://github.com/stripe/stripe-react-native/issues/1802
+CardField components crashes app on Android when rendered in Modal.,26,,2024-01-23,https://github.com/stripe/stripe-react-native/issues/1597
+PaymentSheet background color is darkened when phone is set to dark mode,0,android,2024-01-30,https://github.com/stripe/stripe-react-native/issues/1601
+ConfirmIntentSetup decrepencies between IOS and Android ,2,,2024-02-05,https://github.com/stripe/stripe-react-native/issues/1604
+Not using customersheet but crashes android,1,,2024-02-05,https://github.com/stripe/stripe-react-native/issues/1605
+Card number input,0,ios,2024-02-06,https://github.com/stripe/stripe-react-native/issues/1606
+Add early return in the documentation,1,,2024-02-08,https://github.com/stripe/stripe-react-native/issues/1609
+Can't build >= 0.29.0 on Xcode 13.2.1?,1,,2024-04-22,https://github.com/stripe/stripe-react-native/issues/1645
+Guideline 3.1.6 - Business - Payments - Apple Pay,2,,2024-02-14,https://github.com/stripe/stripe-react-native/issues/1610
+Custom Sheet lets you enter the same card as many times as you want,1,,2024-12-28,https://github.com/stripe/stripe-react-native/issues/1803
+Finalize payment on server: Bug on Android,3,,2024-02-28,https://github.com/stripe/stripe-react-native/issues/1617
+onChangeCard is not working with react native 0.76 newArc,3,,2024-12-23,https://github.com/stripe/stripe-react-native/issues/1801
+[iOS] 3DS webview not closing after completion,2,,2024-05-30,https://github.com/stripe/stripe-react-native/issues/1667
+App crashes when calling Stripe presentPaymentSheet for android with android v14,2,,2024-06-04,https://github.com/stripe/stripe-react-native/issues/1669
+iOS build fails after upgrade to RN 0.74 due to StripeCore,5,,2024-06-08,https://github.com/stripe/stripe-react-native/issues/1671
+Custom Images for Payment Methods,5,enhancement,2023-04-12,https://github.com/stripe/stripe-react-native/issues/1357
+"presentPaymentSheet UI Doesn't Appear, Screen Dims, iOS only",5,,2024-03-05,https://github.com/stripe/stripe-react-native/issues/1619
+Issue with manual payment intents on ReactNative,2,,2024-09-23,https://github.com/stripe/stripe-react-native/issues/1737
+Xcode15.1 Build issue - underlying Objective-C module 'StripeCore' not found,6,,2024-03-12,https://github.com/stripe/stripe-react-native/issues/1622
+Payment sheet opens multiple times if it was closed before by the user,0,ios,2024-04-03,https://github.com/stripe/stripe-react-native/issues/1635
+Retrieve PaymentMethod before calling confirmPaymentSheetPayment,6,major-version,2024-04-16,https://github.com/stripe/stripe-react-native/issues/1640
+[Android] CardField's icon disappears after navigating to and back from another screen,2,,2024-07-09,https://github.com/stripe/stripe-react-native/issues/1689
+Google pay Approval process ,5,,2024-07-13,https://github.com/stripe/stripe-react-native/issues/1690
+Android: R8 Minifying missing classes ERROR,14,,2024-07-29,https://github.com/stripe/stripe-react-native/issues/1700
+This merchant is having trouble accepting your payment right now. Try using a different payment method[OR_BIBED_11],1,,2025-03-26,https://github.com/stripe/stripe-react-native/issues/1873
+Is Apple Pay supported for streaming content subscriptions ?,1,,2025-03-15,https://github.com/stripe/stripe-react-native/issues/1867
+not able to confirm setup intent created for my connected account,4,,2024-08-10,https://github.com/stripe/stripe-react-native/issues/1709
+55,1,,2025-03-24,https://github.com/stripe/stripe-react-native/issues/1872
+"Android build failing. Stripe 0.43.0, RN 0.76.7",3,,2025-03-17,https://github.com/stripe/stripe-react-native/issues/1869
+StripeUICore/ImageMaker.swift:51: Assertion failed: Failed to find an image named icon_x_standalone,13,,2025-03-15,https://github.com/stripe/stripe-react-native/issues/1868
+uses-sdk:minSdkVersion 21 cannot be smaller than version 23 declared in library,8,,2024-10-22,https://github.com/stripe/stripe-react-native/issues/1760
+update payment sheet,1,,2025-03-15,https://github.com/stripe/stripe-react-native/issues/1866
+New Arch compatibility release date,5,,2025-03-12,https://github.com/stripe/stripe-react-native/issues/1860
+Billing details are not saved on stripe when using Apple Pay,2,,2024-09-04,https://github.com/stripe/stripe-react-native/issues/1724
+Error in initializePaymentSheet,1,,2025-03-11,https://github.com/stripe/stripe-react-native/issues/1859
+Custom font on Android,1,,2025-03-09,https://github.com/stripe/stripe-react-native/issues/1853
+Stripe connect ui,1,,2025-03-10,https://github.com/stripe/stripe-react-native/issues/1855
+Custom locale support for payment sheet,1,enhancement,2025-03-06,https://github.com/stripe/stripe-react-native/issues/1846
+shared is unavailable in application extensions for iOS,2,,2024-07-18,https://github.com/stripe/stripe-react-native/issues/1693
+PaymentSheet - customize blinking cursor color (Android),1,,2023-10-26,https://github.com/stripe/stripe-react-native/issues/1547
+Installation failure,1,,2024-11-11,https://github.com/stripe/stripe-react-native/issues/1771
+Basic Integration Warning,2,,2024-09-18,https://github.com/stripe/stripe-react-native/issues/1734
+Mau ,0,,2024-07-15,https://github.com/stripe/stripe-react-native/issues/1692
+"CocoaPods could not find compatible versions for pod """"StripePayments""""",7,,2024-05-11,https://github.com/stripe/stripe-react-native/issues/1657
+We need the SDK reference for version 0.19.0,1,,2024-04-22,https://github.com/stripe/stripe-react-native/issues/1644
+Is these a way to test the Stripe Google Pay in India ?,2,,2023-11-22,https://github.com/stripe/stripe-react-native/issues/1565
+"(Expo) Stripe iOS Build Error: """"You did not provide an API key"""" despite Providing Key",3,,2024-12-09,https://github.com/stripe/stripe-react-native/issues/1790
+"When open stripe, my page got go down to the bottom",1,,2024-12-13,https://github.com/stripe/stripe-react-native/issues/1796
+App not running after installing Stripe React Native SDK,1,,2025-01-24,https://github.com/stripe/stripe-react-native/issues/1817
+For android stripe is not working with new architecture enabled.,4,,2024-11-19,https://github.com/stripe/stripe-react-native/issues/1774
+Simply including react-native-web breaks web,1,,2025-01-29,https://github.com/stripe/stripe-react-native/issues/1825
+Android APP crashed by OutOfMemoryError,1,,2024-12-12,https://github.com/stripe/stripe-react-native/issues/1794
+app crashes on cardform,9,,2024-05-29,https://github.com/stripe/stripe-react-native/issues/1665
+ApplePay: createPlatformPayPaymentMethod + confirmPlatformPayPayment,7,,2025-01-23,https://github.com/stripe/stripe-react-native/issues/1814
+Error in createPlatformPayPaymentMethod: Attempt to present <PKPaymentAuthorizationViewController: 0x1357b87c0> on <UIViewController: 0x135784bd0> (from <UIViewController: 0x135784bd0>) whose view is not in the window hierarchy.,1,,2025-02-20,https://github.com/stripe/stripe-react-native/issues/1833
+PlatformPayButton for android doesn't expand to requested height,1,,2025-01-16,https://github.com/stripe/stripe-react-native/issues/1810
+Error when using confirmPayment for Bancontact on iOS,1,,2025-02-21,https://github.com/stripe/stripe-react-native/issues/1835
+Google pay does not show up with Mobile Payment Element but works with the separate Google Pay option,31,,2024-01-16,https://github.com/stripe/stripe-react-native/issues/1588
+Expiry date validation in Card Details for IOS device,0,,2025-02-03,https://github.com/stripe/stripe-react-native/issues/1827
+Name field not allowing input on older Android devices,1,,2025-01-27,https://github.com/stripe/stripe-react-native/issues/1822
+App crash when /create-intent request fails during apple pay,1,,2024-10-09,https://github.com/stripe/stripe-react-native/issues/1748
+PaymentSheet and subscription,11,"enhancement, In progress",2022-05-25,https://github.com/stripe/stripe-react-native/issues/964
+[Bug][Android] US Bank Account confirmPayment broken - Prevents Payment Processing,1,,2025-01-16,https://github.com/stripe/stripe-react-native/issues/1811
+how to update multiTokenContexts when PKPaymentRequestShippingContactUpdate method trigger,2,,2025-01-16,https://github.com/stripe/stripe-react-native/issues/1809
+initPaymentSheet does not return any response (neither success nor error).,2,,2024-10-30,https://github.com/stripe/stripe-react-native/issues/1766
+Border radius breaks primary button in payment sheet,2,,2024-09-18,https://github.com/stripe/stripe-react-native/issues/1735
+Question : How is 3DS implemented ? Verification Code input not showing for every card [confirmSetupIntent],16,In progress,2021-11-24,https://github.com/stripe/stripe-react-native/issues/733
+Potential Device Specific Bug: Stripe Pay (Platform and Not Platform) Works on Samsung Galaxy S9+ and Google Pixel but does not on Samsung Galaxy S24. Error: No such payment_intent: 'pi_fkjehgfi3y45743y76e',2,,2024-12-22,https://github.com/stripe/stripe-react-native/issues/1800
+Payment Sheet showing Indonesian Rupiah incorrectly,2,,2024-10-17,https://github.com/stripe/stripe-react-native/issues/1759
+"CardField on Android Not Triggering onCardChange Event, sometimes getting """"Card details not complete"""" log",3,,2024-12-17,https://github.com/stripe/stripe-react-native/issues/1797
+⚠️ Build step unable to load Maven meta-data from Sonatype url,1,,2024-12-11,https://github.com/stripe/stripe-react-native/issues/1793
+Inc,1,,2024-12-02,https://github.com/stripe/stripe-react-native/issues/1784
+iOS. Processing is taking too long if a user closes the Amazon payment page,1,,2024-12-11,https://github.com/stripe/stripe-react-native/issues/1792
+Error: Apple Pay request type `nil` is not supported. Can't use apple merchant tokens,11,,2024-05-14,https://github.com/stripe/stripe-react-native/issues/1659
+Big size of Pod Dependencies for AppClip - any way to reduce it?,29,"enhancement, In progress",2022-05-19,https://github.com/stripe/stripe-react-native/issues/947
+PlatformPayButton has always height of 0,0,,2024-12-06,https://github.com/stripe/stripe-react-native/issues/1788
+AddressSheet doesn't trigger callbacks after upgrading to react-native 0.76.2,3,,2024-11-21,https://github.com/stripe/stripe-react-native/issues/1779
+isPlatformPaySupported for Apple Pay that doesn't consider supported card networks,3,,2024-03-02,https://github.com/stripe/stripe-react-native/issues/1618
+"MobilePay is not supported, while specified otherwise in the docs",1,,2024-12-03,https://github.com/stripe/stripe-react-native/issues/1786
+Google Pay not showing even though isPlatformPaySupported is true in payment sheet,5,,2023-11-02,https://github.com/stripe/stripe-react-native/issues/1553
+[iOS][RN 0.76] handleNextActionForSetup/handleNextAction freeze,2,,2024-11-13,https://github.com/stripe/stripe-react-native/issues/1772
+🐛 createPlatformPayPaymentMethod function hangs when payment sheet is closed or if apply pay is completed,0,,2024-11-26,https://github.com/stripe/stripe-react-native/issues/1781
+XCode15 0.33.0 Framework CoreAudioTypes not found,22,,2023-10-12,https://github.com/stripe/stripe-react-native/issues/1532
+Android custom fonts with expo,2,,2024-10-17,https://github.com/stripe/stripe-react-native/issues/1758
+[BUG] iOS: authenticationPresentingViewController error when confirming payment sheet with 3DS,1,,2024-10-09,https://github.com/stripe/stripe-react-native/issues/1749
+Payment Sheet input validation incorrectly marks account numbers as invalid.,4,,2024-11-07,https://github.com/stripe/stripe-react-native/issues/1770
+Execution failed for task : stripe_stripe-react-native:compileReleaseKotlin,0,,2024-11-18,https://github.com/stripe/stripe-react-native/issues/1773
+[iOS] Can't see card input fields after `presentPaymentSheet` is initiated,4,,2024-10-14,https://github.com/stripe/stripe-react-native/issues/1751
+Allow Setting a dark or light mode for Google pay button,0,,2024-11-07,https://github.com/stripe/stripe-react-native/issues/1769
+"Android: Using GPay results in “Something went wrong” message, but payment is successful",3,,2024-08-15,https://github.com/stripe/stripe-react-native/issues/1714
+Error Code Canceled: Leave app on standby after sometime like 10-15 min. click on pay after some process it return canceled error.,1,,2024-07-09,https://github.com/stripe/stripe-react-native/issues/1687
+Android 34 compileSdkVersion update seems to be required earlier than expected,0,,2024-10-23,https://github.com/stripe/stripe-react-native/issues/1761
+"""""Cannot read property 'StripeProvider' of undefined"""" right after install",2,,2024-05-15,https://github.com/stripe/stripe-react-native/issues/1660
+Can't disable link method,1,,2024-10-16,https://github.com/stripe/stripe-react-native/issues/1754
+Accessibility options screen,0,,2024-10-16,https://github.com/stripe/stripe-react-native/issues/1755
+Require PhoneNumber doesn't work on Android,0,,2024-10-08,https://github.com/stripe/stripe-react-native/issues/1747
+[iOS] payment sheet not closing after Swish completion,7,,2024-06-12,https://github.com/stripe/stripe-react-native/issues/1675
+Android Payment Sheet: 3d secure browser crashes on close,4,,2024-09-26,https://github.com/stripe/stripe-react-native/issues/1738
+What is version android for stripe/stripe-react-native version 0.35.1,0,,2024-04-26,https://github.com/stripe/stripe-react-native/issues/1648
+Google play new photo and video permissions policy,2,,2024-09-29,https://github.com/stripe/stripe-react-native/issues/1740
+Build Failure for latest package version - Xcode 14.2,3,,2024-08-12,https://github.com/stripe/stripe-react-native/issues/1710
+Getting an error after installing stripe-react-native package in my expo project and building for iOS using npx expo run:ios,3,,2024-08-17,https://github.com/stripe/stripe-react-native/issues/1715
+ability to Update payment details after calling initPaymentSheet ,2,,2024-05-01,https://github.com/stripe/stripe-react-native/issues/1652
+CustomerSheet Get Stucked in IOS,0,,2024-09-10,https://github.com/stripe/stripe-react-native/issues/1727
+Execution failed for task ':stripe_stripe-react-native:compileDebugKotlin'. build gradlew failed,10,,2024-08-31,https://github.com/stripe/stripe-react-native/issues/1721
+Android: Build issues with React Native v0.75,22,,2024-08-14,https://github.com/stripe/stripe-react-native/issues/1713
+"SEPA, Ideal, Sofort support with Payment Sheets and SetupIntents ",1,,2023-09-14,https://github.com/stripe/stripe-react-native/issues/1503
+Multiple customizable inputs,0,,2024-08-31,https://github.com/stripe/stripe-react-native/issues/1722
+Build error: Could not determine the dependencies of task ':stripe_stripe-react-native:compileDebugJavaWithJavac'.,5,,2024-01-23,https://github.com/stripe/stripe-react-native/issues/1595
+not working with react native 0.75.2 !,2,,2024-08-24,https://github.com/stripe/stripe-react-native/issues/1718
+Build error with RN 0.73,18,,2023-12-11,https://github.com/stripe/stripe-react-native/issues/1578
+The credit card form should support autocomplete from users's password managers.,0,,2024-08-14,https://github.com/stripe/stripe-react-native/issues/1711
+Font names with underscores incorrectly throw an error on Android in PaymentSheet,3,,2024-04-05,https://github.com/stripe/stripe-react-native/issues/1636
+400002500003155,1,,2024-07-20,https://github.com/stripe/stripe-react-native/issues/1697
+Accessibility issues with buttons from the Express Checkout Element,1,,2024-08-02,https://github.com/stripe/stripe-react-native/issues/1706
+Can't remove Revolut payment method,1,,2024-05-29,https://github.com/stripe/stripe-react-native/issues/1666
+Expo SDK 49 Compatibility,2,,2023-11-29,https://github.com/stripe/stripe-react-native/issues/1575
+resetPaymentSheetCustomer function doesn't logout the user from Link Account ,0,,2024-07-03,https://github.com/stripe/stripe-react-native/issues/1683
+yarn add @stripe/stripe-react-native giving error getConstants of null,1,,2024-07-08,https://github.com/stripe/stripe-react-native/issues/1686
+Error while updating 'type' of a vew managed by: GooglePaybutton,0,,2024-07-03,https://github.com/stripe/stripe-react-native/issues/1684
+useApplePay() and useGooglePay() is not a function undefined,2,,2024-06-28,https://github.com/stripe/stripe-react-native/issues/1681
+No way to choose a brand with co-branded card,0,,2024-06-28,https://github.com/stripe/stripe-react-native/issues/1679
+Android 3D secure payment incorrectly fails with 'user canceled' if user has previously closed the payment sheet ,2,,2024-04-30,https://github.com/stripe/stripe-react-native/issues/1650
+> Task :stripe_stripe-react-native:compileDebugKotlin FAILED (For React native 0.73.0),16,,2024-01-10,https://github.com/stripe/stripe-react-native/issues/1585
+Preferred networks aren't used with a co-branded card when user does not select a network themselves in CardForm component,2,,2024-03-20,https://github.com/stripe/stripe-react-native/issues/1627
+Manifest Merger,1,,2024-06-07,https://github.com/stripe/stripe-react-native/issues/1670
+Is .cartesBancaires as additionalEnabledApplePayNetworks already supported ?,5,,2024-04-26,https://github.com/stripe/stripe-react-native/issues/1647
+openPaymentSheet dont show up with error code Failed,1,,2024-05-25,https://github.com/stripe/stripe-react-native/issues/1664
+Payment sheet not showing on iOS 17.1.1+,5,,2023-12-21,https://github.com/stripe/stripe-react-native/issues/1581
+Selected card in Payment Sheet have ambiguous rules,5,enhancement,2021-11-11,https://github.com/stripe/stripe-react-native/issues/716
+[allowsRemovalOfLastSavedPaymentMethod] for the stripe-react-native,2,In progress,2024-05-08,https://github.com/stripe/stripe-react-native/issues/1656
+The hooks.stripe.com window after authorization from the bank remains white and does not close.,1,,2024-04-29,https://github.com/stripe/stripe-react-native/issues/1649
+"App Crashing when I try to use `stripe/stripe-react-native` | Invariant Violation: `new NativeEventEmitter()` requires a non-null argument., js engine: hermes",6,,2024-05-13,https://github.com/stripe/stripe-react-native/issues/1658
+not getting cancel/success event for presentPaymentSheet on android when click on outside of payment sheet,0,,2024-05-06,https://github.com/stripe/stripe-react-native/issues/1654
+[just a question] when can we actually use this library? (considering that apple only allows apple payment in apps),2,,2024-04-24,https://github.com/stripe/stripe-react-native/issues/1646
+Apple Privacy Manifests,1,,2024-04-10,https://github.com/stripe/stripe-react-native/issues/1638
+Show only the selected payment_method  in PaymentSheet,1,,2024-03-29,https://github.com/stripe/stripe-react-native/issues/1631
+How to get the card info on presentPaymentSheet,2,,2024-04-02,https://github.com/stripe/stripe-react-native/issues/1633
+cancelPaymentIntent doesn’t cancel a payment in the requiresCapture state,1,,2024-03-29,https://github.com/stripe/stripe-react-native/issues/1630
+"Android Stripe React Native Init Payment Sheet Error,  React Native Stripe Version 0.37.0",7,,2024-03-15,https://github.com/stripe/stripe-react-native/issues/1626
+Unable to build an ios expo dev client with Expo SDK 50 and @stripe/stripe-react-native 0.35.1,2,,2024-03-12,https://github.com/stripe/stripe-react-native/issues/1621
+React stripe native 0.37.0 build failure for Android (with Expo SDK 49),2,,2024-03-09,https://github.com/stripe/stripe-react-native/issues/1620
+Undefine symbols error when building in xcode,1,,2024-02-24,https://github.com/stripe/stripe-react-native/issues/1615
+will this ever work for expo WEB apps?,1,,2024-03-12,https://github.com/stripe/stripe-react-native/issues/1623
+Apple pay supported on Android?,5,,2023-11-29,https://github.com/stripe/stripe-react-native/issues/1574
+Expo SDK 50 changelog,2,,2024-02-21,https://github.com/stripe/stripe-react-native/issues/1613
+Address Element does not close once the user submits(onSubmit) the address for iOS.,3,,2024-01-18,https://github.com/stripe/stripe-react-native/issues/1590
+Add a 3DS specific error in the React Native SDK,1,enhancement,2022-03-03,https://github.com/stripe/stripe-react-native/issues/830
+Expo React Native iOS Payment Options not shown (only card shown),3,,2023-11-26,https://github.com/stripe/stripe-react-native/issues/1570
+React native 0.73.0  have issue ,1,,2024-02-02,https://github.com/stripe/stripe-react-native/issues/1603
+Android reflection: Setting tintColorInt no longer works,1,,2024-01-31,https://github.com/stripe/stripe-react-native/issues/1602
+Unable to change keyboardAppearance to Dark using `CardField`,3,enhancement,2022-01-04,https://github.com/stripe/stripe-react-native/issues/764
+Apple Pay works in Simulator but can't work in real device,2,,2024-01-20,https://github.com/stripe/stripe-react-native/issues/1591
+`customerEphemeralKeySecret` format does not match expected client secret formatting.,3,,2023-10-07,https://github.com/stripe/stripe-react-native/issues/1528
+adres bilgileri tekrar günceleme sansı vermıyor sureklı cok basvuru yapıldı diyor engelliyor,1,,2024-01-21,https://github.com/stripe/stripe-react-native/issues/1593
+"Unforeseen error: StripeError<PaymentSheetError>(message: Unknown result this is likely a problem in the plugin {paymentOption: null}, code: PaymentSheetError.unknown)",2,,2023-11-27,https://github.com/stripe/stripe-react-native/issues/1573
+Card Field on android not opening app crashed,2,,2024-01-12,https://github.com/stripe/stripe-react-native/issues/1587
+Paymentsheet does not open on iOS when selecting klarna payment.,8,,2023-11-26,https://github.com/stripe/stripe-react-native/issues/1572
+CVC Interface method,10,enhancement,2022-09-06,https://github.com/stripe/stripe-react-native/issues/1117
+Paymentsheet has dark space on the bottom,3,"bug, ios",2021-11-09,https://github.com/stripe/stripe-react-native/issues/709
+Card element does not display card number on ios,1,,2023-12-01,https://github.com/stripe/stripe-react-native/issues/1576
+Error in confirmSetupIntent: Card details not complete (Android),1,,2023-11-23,https://github.com/stripe/stripe-react-native/issues/1568
+canAddCardToWallet : UNSUPPORTED_DEVICE,0,,2023-11-22,https://github.com/stripe/stripe-react-native/issues/1566
+App crash when displaying the payment bottom sheet,2,,2023-10-25,https://github.com/stripe/stripe-react-native/issues/1544
+The `onBlur` method on the `<CardField>` element isn't being triggered on iOS,2,,2023-10-20,https://github.com/stripe/stripe-react-native/issues/1541
+facing issue in pods,1,,2023-10-31,https://github.com/stripe/stripe-react-native/issues/1550
+cant determine  macro tag android,1,,2023-10-28,https://github.com/stripe/stripe-react-native/issues/1549
+Shipping details is not sending all parameters to the sdk,0,,2023-10-26,https://github.com/stripe/stripe-react-native/issues/1548
+Release for new Google Pay button UI?,5,,2023-10-18,https://github.com/stripe/stripe-react-native/issues/1539
+attachPaymentMethod for CustomerAdapter / CustomerSheet never fired,2,,2023-10-24,https://github.com/stripe/stripe-react-native/issues/1543
+"Stripe API returns """"Payment Cancelled"""" after confirmPlatformPayPayment (Apple Pay)",3,,2023-10-18,https://github.com/stripe/stripe-react-native/issues/1540
+The operation couldn’t be completed. (StripePaymentSheet.PaymentSheetError error 0.),2,,2023-10-17,https://github.com/stripe/stripe-react-native/issues/1535
+Google Pay Platform Pay existingPaymentMethodRequired is inconsistent,3,,2023-09-28,https://github.com/stripe/stripe-react-native/issues/1517
+PaymentSheet: Allow `setup_future_usage` value to be customizable,0,,2023-10-17,https://github.com/stripe/stripe-react-native/issues/1536
+Free trials are active after payment sheet is open before collecting card details.,5,,2023-09-17,https://github.com/stripe/stripe-react-native/issues/1509
+Canadian postal code should always be uppercased,0,,2023-10-06,https://github.com/stripe/stripe-react-native/issues/1527
+add dangerouslyGetFullCardDetails capability to PaymentSheet,1,,2023-09-19,https://github.com/stripe/stripe-react-native/issues/1510
+Use Customer Balance to pay,1,enhancement,2022-05-02,https://github.com/stripe/stripe-react-native/issues/920
+[feat]Apple Pay Receive funds feature ,0,,2023-09-16,https://github.com/stripe/stripe-react-native/issues/1508
+Canadian Postal Code Input Does not Strip Extra Space,0,,2023-09-16,https://github.com/stripe/stripe-react-native/issues/1507
+Setting card params programatically,4,enhancement,2021-10-08,https://github.com/stripe/stripe-react-native/issues/637
+Being able to add metadata when calling confirmSetupIntent,0,,2022-12-20,https://github.com/stripe/stripe-react-native/issues/1245
+CardField font size scales with system font size on Android & iOS,3,enhancement,2022-04-28,https://github.com/stripe/stripe-react-native/issues/911
+How to display promotional text same as affirm SDK?,7,enhancement,2022-07-27,https://github.com/stripe/stripe-react-native/issues/1060
+Different StripeError message based on OS and wrong localizedMessage language string,0,,2022-09-27,https://github.com/stripe/stripe-react-native/issues/1153
+Stripe FPX bank selection feature,2,enhancement,2022-09-12,https://github.com/stripe/stripe-react-native/issues/1125
+Error messages not localized on Android (always in english),0,android,2022-05-04,https://github.com/stripe/stripe-react-native/issues/923
+Allow CardForm to accept postalCode status and default country code,2,,2022-05-01,https://github.com/stripe/stripe-react-native/issues/916
+initPaymentSheet wrong result,0,"P2, PaymentSheet",2022-07-08,https://github.com/stripe/stripe-react-native/issues/1035
+Issue redirecting to 3d-secure web view while using native stack navigation,11,"question, ios",2022-02-16,https://github.com/stripe/stripe-react-native/issues/813
+intializePaymentSheet fails silently if initialize is not called,1,P1,2021-09-22,https://github.com/stripe/stripe-react-native/issues/605
+Unable to progress past card number input on small screens,0,ios,2022-04-27,https://github.com/stripe/stripe-react-native/issues/906
+Any plans to add storybooks to the project?,0,enhancement,2022-04-02,https://github.com/stripe/stripe-react-native/issues/877
+How to choose the card funding to be debit?,6,question,2022-01-21,https://github.com/stripe/stripe-react-native/issues/780
+CardField doesn’t infer country from card,0,enhancement,2022-03-13,https://github.com/stripe/stripe-react-native/issues/843
+Support numeric keyboard for zip codes,3,enhancement,2021-08-25,https://github.com/stripe/stripe-react-native/issues/537
+Big difference AUBECS form android and iOS,0,"enhancement, android",2021-12-11,https://github.com/stripe/stripe-react-native/issues/743
+Support Dashlane Payment method autofill,0,"enhancement, android",2021-11-03,https://github.com/stripe/stripe-react-native/issues/697

@@ -1,0 +1,47 @@
+# Issues Total: 42
+# Repository: https://github.com/shopify/checkout-sheet-kit-swift
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Does not show store credit payment option,12,Bug,2025-06-05,https://github.com/shopify/checkout-sheet-kit-swift/issues/302
+"Inconsistent Behavior in CheckoutDelegateWrapper Callbacks (onComplete, onCancel)",7,"Bug, never-stale",2025-01-09,https://github.com/shopify/checkout-sheet-kit-swift/issues/264
+Please add Storefront order object in the response of checkout sheet kit,4,"Feature-Request, untriaged",2025-05-06,https://github.com/shopify/checkout-sheet-kit-swift/issues/294
+Fetching Order ID or Checkout ID / Status upon completion,5,,2024-01-26,https://github.com/shopify/checkout-sheet-kit-swift/issues/117
+The checkout button color h5 is inconsistent with the sdk of the APP.,1,"Feature-Request, untriaged",2025-04-15,https://github.com/shopify/checkout-sheet-kit-swift/issues/290
+[Feature Request] Bypass online store password,9,"Feature-Request, never-stale",2024-03-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/151
+GooglePay does not appear as a payment method.,2,"Bug, never-stale",2025-01-28,https://github.com/shopify/checkout-sheet-kit-swift/issues/270
+"DeliveryAddressInput requires exactly one of delivery_address, customer_address_id",5,stale,2025-01-13,https://github.com/shopify/checkout-sheet-kit-swift/issues/265
+Only one shipping address is being shown,12,Bug,2024-02-26,https://github.com/shopify/checkout-sheet-kit-swift/issues/134
+"I have a Shopify store requiring users to log in for checkout. I’m using the Storefront API to authenticate and passing the token and email to the cart, but users are redirected to the login screen at checkout instead of completing their purchase.",5,Bug,2024-11-07,https://github.com/shopify/checkout-sheet-kit-swift/issues/236
+Amazon Pay is not showing up on the checkout page even though this is a Japanese store.,2,"Bug, untriaged",2024-11-08,https://github.com/shopify/checkout-sheet-kit-swift/issues/238
+App Store Review Rejection. Apple Pay Button Violation.,1,Bug,2024-11-22,https://github.com/shopify/checkout-sheet-kit-swift/issues/245
+Cart buyer identity is not pre-filled in the checkout,23,Bug,2024-07-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/189
+CheckoutSheet swiftui issue,4,"Bug, stale",2024-07-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/191
+iDEAL payments do not function,3,"Bug, untriaged",2024-09-06,https://github.com/shopify/checkout-sheet-kit-swift/issues/213
+Make CheckoutWebViewController open or public,3,"Feature-Request, stale",2024-06-26,https://github.com/shopify/checkout-sheet-kit-swift/issues/185
+Customer Account API,4,"Feature-Request, stale",2024-05-01,https://github.com/shopify/checkout-sheet-kit-swift/issues/165
+More theme options when using the `web` theme,2,"Feature-Request, stale",2024-07-15,https://github.com/shopify/checkout-sheet-kit-swift/issues/194
+Regressed Issue: buyer identity attach not working,4,"Bug, untriaged",2024-08-07,https://github.com/shopify/checkout-sheet-kit-swift/issues/208
+CheckoutSheet SwiftUI issue 2,2,"Bug, stale",2024-07-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/192
+UI discrepancy between UIKit and SwiftUI,9,"Bug, stale",2024-05-08,https://github.com/shopify/checkout-sheet-kit-swift/issues/167
+Login customer using their access token ,4,Bug,2024-07-10,https://github.com/shopify/checkout-sheet-kit-swift/issues/188
+Camera is opening as Live Broadcast Video instead of normal Camera to take picture.,4,Bug,2024-07-24,https://github.com/shopify/checkout-sheet-kit-swift/issues/203
+Test,0,,2024-07-18,https://github.com/shopify/checkout-sheet-kit-swift/issues/199
+Error indicating to use liquid despite migration to extensibility being complete,2,Bug,2024-07-10,https://github.com/shopify/checkout-sheet-kit-swift/issues/187
+Checkout Sheet Kit doesn't work with an extensibility preview store,4,,2024-06-30,https://github.com/shopify/checkout-sheet-kit-swift/issues/186
+Can we change Pay Now Button Color?,3,Bug,2024-07-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/190
+Preloading checkout triggers an SMS with Shop Pay verification code ,3,Bug,2024-05-24,https://github.com/shopify/checkout-sheet-kit-swift/issues/179
+Logged in user information does not appear on the checkout sheet after discounts are applied.,3,Bug,2024-05-25,https://github.com/shopify/checkout-sheet-kit-swift/issues/180
+Cart Buyer identity lost,9,Bug,2024-04-10,https://github.com/shopify/checkout-sheet-kit-swift/issues/160
+Not able to open checkout sheet in any other language,2,Bug,2024-06-07,https://github.com/shopify/checkout-sheet-kit-swift/issues/182
+Checkout sheet appears blank on initial presentation,2,Bug,2024-06-10,https://github.com/shopify/checkout-sheet-kit-swift/issues/183
+Sheet always displays loading template at the top,3,Bug,2024-06-07,https://github.com/shopify/checkout-sheet-kit-swift/issues/181
+Receiving checkoutLiquidNotMigrated error even though I actually migrated the store,9,Bug,2024-05-16,https://github.com/shopify/checkout-sheet-kit-swift/issues/174
+[Feature Request] Test mode when creating checkouts,1,,2024-05-08,https://github.com/shopify/checkout-sheet-kit-swift/issues/166
+Bug Report: Dark Mode View Controller,3,,2023-11-25,https://github.com/shopify/checkout-sheet-kit-swift/issues/66
+Feature request: expose `modalPresentationStyle` or `isModalInPresentation`,3,Feature-Request,2023-11-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/55
+Presenting in SwiftUI,5,"Support, SwiftUI",2023-11-14,https://github.com/shopify/checkout-sheet-kit-swift/issues/61
+Crash when tapping AmazonPay in ShopifyCheckoutKit presented from SwiftUI,1,"SEV-1, Bug",2023-12-11,https://github.com/shopify/checkout-sheet-kit-swift/issues/71
+"How is """"Throttled"""" handled?",1,Support,2023-10-26,https://github.com/shopify/checkout-sheet-kit-swift/issues/44
+Checkout has expired ,4,"Bug, Support",2023-10-20,https://github.com/shopify/checkout-sheet-kit-swift/issues/34
+Ensure Issue Notifications Are Received,0,,2023-11-08,https://github.com/shopify/checkout-sheet-kit-swift/issues/54

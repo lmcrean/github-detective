@@ -1,0 +1,54 @@
+# Issues Total: 49
+# Repository: https://github.com/shopify/job-iteration
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Sidekiq 8.0.3 breaks Resque integration tests,1,,2025-05-09,https://github.com/shopify/job-iteration/issues/575
+`dev rbi dsl` is failing with the new version of job-iteration.,1,,2025-06-19,https://github.com/shopify/job-iteration/issues/591
+ban_perform_definition should be removed,0,,2025-06-11,https://github.com/shopify/job-iteration/issues/587
+Custom Tapioca compiler does not consider generic jobs,8,bug,2025-03-07,https://github.com/shopify/job-iteration/issues/550
+Support SQS backend job adapter,1,,2024-12-05,https://github.com/shopify/job-iteration/issues/522
+can you enqueue iteration job with a passed in cursor value?,2,,2023-05-09,https://github.com/shopify/job-iteration/issues/384
+Usefulness of EnumeratorBuilder wrapper,1,,2024-03-06,https://github.com/shopify/job-iteration/issues/468
+Composite Primary keys not working,0,,2024-10-08,https://github.com/shopify/job-iteration/issues/511
+Replace Redis,2,,2024-09-26,https://github.com/shopify/job-iteration/issues/508
+ActiveRecordCursors using multiple columns should use composite values rather than OR + AND,1,,2024-07-16,https://github.com/shopify/job-iteration/issues/488
+How to return early or finish a job without further iterations and retries? ,3,,2024-07-26,https://github.com/shopify/job-iteration/issues/491
+Support SolidQueue,1,,2024-08-19,https://github.com/shopify/job-iteration/issues/496
+Add integration for GoodJob,4,,2024-01-18,https://github.com/shopify/job-iteration/issues/453
+Consider Active Record 7.1+ whole table iteration,1,,2024-07-29,https://github.com/shopify/job-iteration/issues/493
+Usage of @needs_reenqueue?,0,,2024-04-09,https://github.com/shopify/job-iteration/issues/475
+`JobIteration::TestHelper` should be refactored,0,,2024-02-09,https://github.com/shopify/job-iteration/issues/461
+job-iteration can cause infinite loop when using multi-column cursor in different tables with the same attribute,1,,2024-02-02,https://github.com/shopify/job-iteration/issues/457
+CLA checks are flaky,1,,2023-12-21,https://github.com/shopify/job-iteration/issues/444
+Sidekiq's retry mechanism doesn't persist cursor value,0,,2022-12-06,https://github.com/shopify/job-iteration/issues/309
+How to handle retries for exceptions?,5,,2022-09-14,https://github.com/shopify/job-iteration/issues/279
+Support raw background processors,3,,2022-06-06,https://github.com/shopify/job-iteration/issues/230
+New release,0,,2023-08-15,https://github.com/shopify/job-iteration/issues/416
+[Feature] LimitEnumerator,0,,2023-08-24,https://github.com/shopify/job-iteration/issues/424
+Error on serialization/deserialization of total time,0,,2023-06-14,https://github.com/shopify/job-iteration/issues/396
+This pattern vs splitting into multiple jobs?,2,,2022-06-30,https://github.com/shopify/job-iteration/issues/242
+OpenTelemetry integration,0,enhancement,2023-04-27,https://github.com/shopify/job-iteration/issues/379
+Allow throttle_on to receive context about the enumerator,1,,2023-04-10,https://github.com/shopify/job-iteration/issues/370
+Support for PostgreSQL cursors,0,,2022-11-08,https://github.com/shopify/job-iteration/issues/301
+GCS/S3 Enumerator,3,,2020-03-20,https://github.com/shopify/job-iteration/issues/50
+Rubydoc doesn't have any docs,0,,2022-09-09,https://github.com/shopify/job-iteration/issues/274
+Should we instrument the reason for interruption?,0,,2022-07-05,https://github.com/shopify/job-iteration/issues/247
+Mongo Model Job Iteration,1,,2022-05-13,https://github.com/shopify/job-iteration/issues/219
+document parameters to build_enumerator and each_iteration,0,,2022-05-13,https://github.com/shopify/job-iteration/issues/220
+ConditionNotSupportedError: Relation can perform ORDER BY or LIMIT,2,,2022-05-12,https://github.com/shopify/job-iteration/issues/218
+Document gem release process,0,,2021-11-13,https://github.com/shopify/job-iteration/issues/151
+Active Record destroy async integration,0,,2021-10-29,https://github.com/shopify/job-iteration/issues/139
+Housekeeping Items,0,,2021-07-15,https://github.com/shopify/job-iteration/issues/102
+ReadMe Nested Operation Link Unreachable,1,,2021-09-17,https://github.com/shopify/job-iteration/issues/106
+Allow apps to override / add to interruption decision,0,,2021-09-01,https://github.com/shopify/job-iteration/issues/103
+total_time is inaccurate when accessed inside on_complete callback,0,,2021-05-05,https://github.com/shopify/job-iteration/issues/83
+Support multiple present background worker implementations,0,,2021-05-17,https://github.com/shopify/job-iteration/issues/90
+Support Faktory,0,,2021-05-17,https://github.com/shopify/job-iteration/issues/89
+Support Que,0,,2021-05-17,https://github.com/shopify/job-iteration/issues/88
+Callbacks not being triggered when job is retried,8,,2019-04-22,https://github.com/shopify/job-iteration/issues/33
+Reevaluate rollout of enforced cursor serializability,2,enhancement,2021-04-20,https://github.com/shopify/job-iteration/issues/80
+Nested Operations docs should be updated,0,,2020-09-01,https://github.com/shopify/job-iteration/issues/56
+Redis list enumerator,0,,2019-09-03,https://github.com/shopify/job-iteration/issues/41
+Exception in shutdown callback,0,,2018-12-04,https://github.com/shopify/job-iteration/issues/26
+Consider replacing on_shutdown and on_complete with a custom Enumerator,0,,2018-10-29,https://github.com/shopify/job-iteration/issues/19

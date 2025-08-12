@@ -1,0 +1,203 @@
+# Issues Total: 198
+# Repository: https://github.com/shopify/yjit-metrics
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Use rustup to get 1.85+ and rebuild servers,0,,2025-05-15,https://github.com/shopify/yjit-metrics/issues/405
+Disable unattended upgrades,0,,2025-02-11,https://github.com/shopify/yjit-metrics/issues/385
+Implement CI testing on GitHub pull requests,2,,2024-03-19,https://github.com/shopify/yjit-metrics/issues/233
+Automatically detect YJIT coverage regressions?,0,enhancement,2024-11-27,https://github.com/shopify/yjit-metrics/issues/366
+Clarify purpose and usefulness of timeline graphs,4,,2024-11-20,https://github.com/shopify/yjit-metrics/issues/348
+Change mini timelines to use relative speedup,0,,2024-11-27,https://github.com/shopify/yjit-metrics/issues/370
+History page: just link to the full details pages?,0,,2024-11-27,https://github.com/shopify/yjit-metrics/issues/367
+GitHub Action to check instance running time,6,,2024-11-20,https://github.com/shopify/yjit-metrics/issues/351
+Show compiler and configure options at the top,1,,2024-07-22,https://github.com/shopify/yjit-metrics/issues/284
+Report total benchmarking time at top of full details page,0,,2024-11-20,https://github.com/shopify/yjit-metrics/issues/353
+Link to short commit SHA on front-page,1,,2024-10-07,https://github.com/shopify/yjit-metrics/issues/323
+Report yjit compile time,1,,2024-08-29,https://github.com/shopify/yjit-metrics/issues/306
+Minor usability improvements for the full details page,1,,2024-06-20,https://github.com/shopify/yjit-metrics/issues/275
+Enable linking to headers,0,,2024-06-17,https://github.com/shopify/yjit-metrics/issues/272
+"Add event markers to """"over time"""" graphs",3,,2024-06-17,https://github.com/shopify/yjit-metrics/issues/271
+Upgrade Graviton instance again,5,,2024-11-20,https://github.com/shopify/yjit-metrics/issues/347
+Tiny graphs on front page disappeared,0,,2024-11-20,https://github.com/shopify/yjit-metrics/issues/349
+Add a button that just runs yjit-bench interface,3,,2024-01-25,https://github.com/shopify/yjit-metrics/issues/222
+New GitHub Action workflow for on demand commit benchmarking,2,,2024-11-08,https://github.com/shopify/yjit-metrics/issues/344
+Dev AMIs,0,,2024-11-08,https://github.com/shopify/yjit-metrics/issues/345
+Upgrade AWS Graviton instance,5,,2024-01-24,https://github.com/shopify/yjit-metrics/issues/221
+Change speedup reporting to make ourselves look better,2,,2024-09-26,https://github.com/shopify/yjit-metrics/issues/317
+Double-check harness and warm up heuristics,12,,2024-09-23,https://github.com/shopify/yjit-metrics/issues/316
+Update stats reports to match YJIT latest console format,1,,2023-06-14,https://github.com/shopify/yjit-metrics/issues/214
+Add a page to compare durations of the interpreter and YJIT,4,,2024-01-23,https://github.com/shopify/yjit-metrics/issues/220
+Could we automatically detect/report performance regressions?,5,enhancement,2024-07-25,https://github.com/shopify/yjit-metrics/issues/285
+Automate git gc,1,,2024-02-12,https://github.com/shopify/yjit-metrics/issues/225
+Track GC stats,3,,2024-06-20,https://github.com/shopify/yjit-metrics/issues/276
+Wishlist for the speed.yjit.org front page,0,enhancement,2024-05-17,https://github.com/shopify/yjit-metrics/issues/255
+ARM-only reports aren't working,2,bug,2023-08-21,https://github.com/shopify/yjit-metrics/issues/216
+Remove references to MJIT,0,,2024-05-21,https://github.com/shopify/yjit-metrics/issues/256
+Better visibility into benchmark-run failures,1,enhancement,2023-03-17,https://github.com/shopify/yjit-metrics/issues/212
+yjit-metrics stats and iteration reports aren't appearing consistently,1,bug,2023-08-21,https://github.com/shopify/yjit-metrics/issues/215
+"Stop hardcoding Ruby 3.0.2 as """"system"""" Ruby",1,,2023-01-09,https://github.com/shopify/yjit-metrics/issues/197
+Add annotations to timeline graph(s),0,enhancement,2023-01-11,https://github.com/shopify/yjit-metrics/issues/202
+Better local-development story for platform-specific graphs,1,,2022-10-20,https://github.com/shopify/yjit-metrics/issues/192
+Hook up perf tripwire detection to a Slack bot,3,enhancement,2022-11-24,https://github.com/shopify/yjit-metrics/issues/195
+Ignore failures when running the full job in jenkins,3,,2024-01-18,https://github.com/shopify/yjit-metrics/issues/218
+Slack notification doesn't show what failed,1,,2024-01-22,https://github.com/shopify/yjit-metrics/issues/219
+Set timeout on jenkins job,4,,2024-01-31,https://github.com/shopify/yjit-metrics/issues/223
+Make it trivial to HTTP-fetch latest YJIT results,1,enhancement,2023-01-31,https://github.com/shopify/yjit-metrics/issues/206
+Re-enable Discourse benchmark,1,enhancement,2023-01-10,https://github.com/shopify/yjit-metrics/issues/199
+Use getrusage and maxrss for memory usage,0,enhancement,2023-05-25,https://github.com/shopify/yjit-metrics/issues/213
+Fix copy-SHA-to-clipboard behaviour,0,bug,2023-01-10,https://github.com/shopify/yjit-metrics/issues/201
+Remove all Shopify-privileged tokens from the CI process,4,,2023-02-14,https://github.com/shopify/yjit-metrics/issues/207
+Stats reports aren't properly updated for ARM64,2,,2023-01-31,https://github.com/shopify/yjit-metrics/issues/205
+Add TruffleRuby to regular yjit-metrics benchmark runs,7,,2023-03-06,https://github.com/shopify/yjit-metrics/issues/211
+Need to update TruffleRuby for compatibility with HexaPDF,5,bug,2021-11-04,https://github.com/shopify/yjit-metrics/issues/95
+Better Jenkins Slack notification,2,,2023-02-14,https://github.com/shopify/yjit-metrics/issues/209
+Jenkins configuration,1,,2023-01-26,https://github.com/shopify/yjit-metrics/issues/204
+Shared libraries for Jenkinsfile,1,,2023-02-14,https://github.com/shopify/yjit-metrics/issues/208
+Zombie processes from check_output,2,bug,2021-08-31,https://github.com/shopify/yjit-metrics/issues/50
+Graph YJIT & CRuby total memory usage over time,3,enhancement,2023-02-23,https://github.com/shopify/yjit-metrics/issues/210
+Should have a way to graph YJIT block invalidations over time,2,enhancement,2021-11-15,https://github.com/shopify/yjit-metrics/issues/105
+Benchmarking should be faster,14,enhancement,2021-08-09,https://github.com/shopify/yjit-metrics/issues/30
+Add setarch -R and taskset -c (once we've transitioned from GHActions to Jenkins),2,,2022-11-22,https://github.com/shopify/yjit-metrics/issues/194
+ci.yjit.org: figure out network interface issues,1,,2023-01-09,https://github.com/shopify/yjit-metrics/issues/198
+Feature: central coordination,1,,2022-09-01,https://github.com/shopify/yjit-metrics/issues/187
+"When reporting slowdowns, look at a time series not just an immediate measurement",1,enhancement,2021-11-24,https://github.com/shopify/yjit-metrics/issues/110
+MJIT verbose mode can't print in harness,1,bug,2021-11-18,https://github.com/shopify/yjit-metrics/issues/106
+Oddities in inline/outline sizes,1,,2022-11-11,https://github.com/shopify/yjit-metrics/issues/193
+Tweaking and fine-tuning graphs and reports for ARM64,1,,2022-10-20,https://github.com/shopify/yjit-metrics/issues/191
+"Need paging for the """"See All the Benchmark History"""" view",1,,2022-08-29,https://github.com/shopify/yjit-metrics/issues/186
+ARM64 Benchmarking and Reporting,17,,2022-08-29,https://github.com/shopify/yjit-metrics/issues/185
+"Graph %-in-YJIT and YJIT speedup over time, not just absolute speed",1,,2022-05-03,https://github.com/shopify/yjit-metrics/issues/159
+"Performance regression as of 7th June, evening run",2,,2022-06-09,https://github.com/shopify/yjit-metrics/issues/183
+CI Benchmarking: Benchmark at 2022-06-09-071515 is significantly slower than the one before (2022-06-08-191545)!,0,,2022-06-09,https://github.com/shopify/yjit-metrics/issues/182
+CI Benchmarking: Benchmark at 2022-06-07-201824 is significantly slower than the one before (2022-06-07-071318)!,0,,2022-06-08,https://github.com/shopify/yjit-metrics/issues/181
+CI Benchmarking: Benchmark at 2022-06-06-191307 is significantly slower than the one before (2022-06-06-071405)!,0,,2022-06-06,https://github.com/shopify/yjit-metrics/issues/180
+CI Benchmarking: Benchmark at 2022-06-05-071254 is significantly slower than the one before (2022-06-04-191238)!,0,,2022-06-05,https://github.com/shopify/yjit-metrics/issues/179
+CI Benchmarking: Benchmark at 2022-06-03-071307 is significantly slower than the one before (2022-06-02-191256)!,0,,2022-06-03,https://github.com/shopify/yjit-metrics/issues/178
+CI Benchmarking: Benchmark at 2022-06-01-071345 is significantly slower than the one before (2022-05-31-200252)!,0,,2022-06-01,https://github.com/shopify/yjit-metrics/issues/177
+CI Benchmarking: Benchmark at 2022-05-31-200252 is significantly slower than the one before (2022-05-31-071312)!,0,,2022-06-01,https://github.com/shopify/yjit-metrics/issues/176
+CI Benchmarking: Benchmark at 2022-05-30-191244 is significantly slower than the one before (2022-05-30-071342)!,0,,2022-05-30,https://github.com/shopify/yjit-metrics/issues/175
+CI Benchmarking: Benchmark at 2022-05-29-191251 is significantly slower than the one before (2022-05-29-071307)!,0,,2022-05-29,https://github.com/shopify/yjit-metrics/issues/174
+CI Benchmarking: Benchmark at 2022-05-28-191253 is significantly slower than the one before (2022-05-28-071303)!,0,,2022-05-28,https://github.com/shopify/yjit-metrics/issues/173
+CI Benchmarking: Benchmark at 2022-05-26-191242 is significantly slower than the one before (2022-05-26-071255)!,0,,2022-05-26,https://github.com/shopify/yjit-metrics/issues/172
+CI Benchmarking: Benchmark at 2022-05-25-071316 is significantly slower than the one before (2022-05-24-191249)!,0,,2022-05-25,https://github.com/shopify/yjit-metrics/issues/171
+CI Benchmarking: Benchmark at 2022-05-24-071310 is significantly slower than the one before (2022-05-23-191245)!,0,,2022-05-24,https://github.com/shopify/yjit-metrics/issues/170
+CI Benchmarking: Benchmark at 2022-05-21-071255 is significantly slower than the one before (2022-05-20-191257)!,0,,2022-05-21,https://github.com/shopify/yjit-metrics/issues/169
+CI Benchmarking: Benchmark at 2022-05-20-191257 is significantly slower than the one before (2022-05-20-071311)!,0,,2022-05-20,https://github.com/shopify/yjit-metrics/issues/168
+CI Benchmarking: Benchmark at 2022-05-20-071311 is significantly slower than the one before (2022-05-19-191359)!,0,,2022-05-20,https://github.com/shopify/yjit-metrics/issues/167
+CI Benchmarking: Benchmark at 2022-05-18-191257 is significantly slower than the one before (2022-05-18-071315)!,0,,2022-05-18,https://github.com/shopify/yjit-metrics/issues/166
+CI Benchmarking: Benchmark at 2022-05-18-071315 is significantly slower than the one before (2022-05-17-071753)!,0,,2022-05-18,https://github.com/shopify/yjit-metrics/issues/165
+CI Benchmarking: Benchmark at 2022-05-17-071753 is significantly slower than the one before (2022-05-16-191257)!,0,,2022-05-17,https://github.com/shopify/yjit-metrics/issues/164
+CI Benchmarking: Benchmark at 2022-05-15-191245 is significantly slower than the one before (2022-05-15-071258)!,0,,2022-05-15,https://github.com/shopify/yjit-metrics/issues/163
+CI Benchmarking: Benchmark at 2022-05-15-071258 is significantly slower than the one before (2022-05-14-191244)!,0,,2022-05-15,https://github.com/shopify/yjit-metrics/issues/162
+CI Benchmarking: Benchmark at 2022-05-10-071759 is significantly slower than the one before (2022-05-09-191518)!,0,,2022-05-10,https://github.com/shopify/yjit-metrics/issues/161
+CI Benchmarking: Benchmark at 2022-05-09-191518 is significantly slower than the one before (2022-05-09-071314)!,0,,2022-05-09,https://github.com/shopify/yjit-metrics/issues/160
+CI Benchmarking: Benchmark at 2022-04-28-071737 is significantly slower than the one before (2022-04-27-071800)!,0,,2022-04-28,https://github.com/shopify/yjit-metrics/issues/158
+CI Benchmarking: Benchmark at 2022-04-23-191203 is significantly slower than the one before (2022-04-23-071232)!,0,,2022-04-24,https://github.com/shopify/yjit-metrics/issues/157
+CI Benchmarking: Benchmark at 2022-04-21-191201 is significantly slower than the one before (2022-04-21-071247)!,0,,2022-04-22,https://github.com/shopify/yjit-metrics/issues/156
+CI Benchmarking: Benchmark at 2022-03-28-191720 is significantly slower than the one before (2022-03-28-071316)!,0,,2022-03-28,https://github.com/shopify/yjit-metrics/issues/155
+CI Benchmarking: Benchmark at 2022-03-26-191233 is significantly slower than the one before (2022-03-26-071307)!,0,,2022-03-26,https://github.com/shopify/yjit-metrics/issues/154
+CI Benchmarking: Benchmark at 2022-03-26-071307 is significantly slower than the one before (2022-03-25-191240)!,0,,2022-03-26,https://github.com/shopify/yjit-metrics/issues/153
+CI Benchmarking: Benchmark at 2022-03-25-191240 is significantly slower than the one before (2022-03-25-071304)!,0,,2022-03-25,https://github.com/shopify/yjit-metrics/issues/152
+CI Benchmarking: Benchmark at 2022-03-25-071304 is significantly slower than the one before (2022-03-24-191244)!,0,,2022-03-25,https://github.com/shopify/yjit-metrics/issues/151
+CI Benchmarking: Benchmark at 2022-03-23-191649 is significantly slower than the one before (2022-03-23-071257)!,0,,2022-03-23,https://github.com/shopify/yjit-metrics/issues/150
+CI Benchmarking: Benchmark at 2022-03-22-191339 is significantly slower than the one before (2022-03-22-071253)!,0,,2022-03-22,https://github.com/shopify/yjit-metrics/issues/149
+CI Benchmarking: Benchmark at 2022-03-17-191511 is significantly slower than the one before (2022-03-17-071256)!,0,,2022-03-17,https://github.com/shopify/yjit-metrics/issues/148
+CI Benchmarking: Benchmark at 2022-03-14-191641 is significantly slower than the one before (2022-03-14-071308)!,0,,2022-03-14,https://github.com/shopify/yjit-metrics/issues/147
+CI Benchmarking: Benchmark at 2022-03-13-191217 is significantly slower than the one before (2022-03-13-071244)!,0,,2022-03-13,https://github.com/shopify/yjit-metrics/issues/146
+CI Benchmarking: Benchmark at 2022-03-13-071244 is significantly slower than the one before (2022-03-12-191227)!,0,,2022-03-13,https://github.com/shopify/yjit-metrics/issues/145
+CI Benchmarking: Benchmark at 2022-03-10-191221 is significantly slower than the one before (2022-03-10-071242)!,0,,2022-03-10,https://github.com/shopify/yjit-metrics/issues/144
+CI Benchmarking: Benchmark at 2022-03-10-071242 is significantly slower than the one before (2022-03-09-191229)!,0,,2022-03-10,https://github.com/shopify/yjit-metrics/issues/143
+CI Benchmarking: Benchmark at 2022-03-08-071300 is significantly slower than the one before (2022-03-07-191506)!,0,,2022-03-08,https://github.com/shopify/yjit-metrics/issues/142
+CI Benchmarking: Benchmark at 2022-03-05-191224 is significantly slower than the one before (2022-03-05-071256)!,0,,2022-03-05,https://github.com/shopify/yjit-metrics/issues/141
+CI Benchmarking: Benchmark at 2022-02-20-191218 is significantly slower than the one before (2022-02-20-071209)!,0,,2022-02-20,https://github.com/shopify/yjit-metrics/issues/140
+CI Benchmarking: Benchmark at 2022-02-19-191244 is significantly slower than the one before (2022-02-19-071213)!,0,,2022-02-19,https://github.com/shopify/yjit-metrics/issues/139
+CI Benchmarking: Benchmark at 2022-02-16-071204 is significantly slower than the one before (2022-02-15-191246)!,0,,2022-02-16,https://github.com/shopify/yjit-metrics/issues/138
+CI Benchmarking: Benchmark at 2022-02-15-095936 is significantly slower than the one before (2022-02-14-071204)!,0,,2022-02-15,https://github.com/shopify/yjit-metrics/issues/137
+CI Benchmarking: Benchmark at 2022-02-13-191132 is significantly slower than the one before (2022-02-13-071157)!,0,,2022-02-13,https://github.com/shopify/yjit-metrics/issues/136
+CI Benchmarking: Benchmark at 2022-02-03-191204 is significantly slower than the one before (2022-02-03-071157)!,0,,2022-02-03,https://github.com/shopify/yjit-metrics/issues/135
+CI Benchmarking: Benchmark at 2022-02-01-191548 is significantly slower than the one before (2022-02-01-071142)!,0,,2022-02-01,https://github.com/shopify/yjit-metrics/issues/134
+CI Benchmarking: Benchmark at 2022-01-29-071146 is significantly slower than the one before (2022-01-28-191128)!,1,,2022-01-29,https://github.com/shopify/yjit-metrics/issues/133
+CI Benchmarking: Benchmark at 2022-01-27-191112 is significantly slower than the one before (2022-01-26-225324)!,1,,2022-01-27,https://github.com/shopify/yjit-metrics/issues/132
+CI Benchmarking: Benchmark at 2022-01-26-225324 is significantly slower than the one before (2022-01-26-104137)!,4,,2022-01-27,https://github.com/shopify/yjit-metrics/issues/131
+Use a better AWS instance for continuous benchmarking,6,enhancement,2021-08-27,https://github.com/shopify/yjit-metrics/issues/45
+CI Benchmarking: Benchmark at 2022-01-21-205916 is significantly slower than the one before (2022-01-21-071235)!,1,,2022-01-22,https://github.com/shopify/yjit-metrics/issues/130
+CI Benchmarking: Benchmark at 2022-01-19-071244 is significantly slower than the one before (2022-01-18-191257)!,1,,2022-01-19,https://github.com/shopify/yjit-metrics/issues/129
+CI Benchmarking: Benchmark at 2022-01-15-071255 is significantly slower than the one before (2022-01-14-205229)!,1,,2022-01-15,https://github.com/shopify/yjit-metrics/issues/128
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-24-071114 is significantly slower than the one before (2021-12-23-191111)!,16,,2021-12-24,https://github.com/shopify/yjit-metrics/issues/120
+YJIT-Metrics CI Benchmarking: Benchmark at 2022-01-06-191247 is significantly slower than the one before (2022-01-06-071016)!,1,,2022-01-06,https://github.com/shopify/yjit-metrics/issues/124
+The timeline deep-dive should use hash-params for which benchmarks are shown,4,enhancement,2021-11-24,https://github.com/shopify/yjit-metrics/issues/111
+More info in performance bug reports,1,,2022-01-05,https://github.com/shopify/yjit-metrics/issues/123
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-24-071114 is significantly slower than the one before (2021-12-23-191111)!,1,,2022-01-11,https://github.com/shopify/yjit-metrics/issues/127
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-24-071114 is significantly slower than the one before (2021-12-23-191111)!,1,,2022-01-11,https://github.com/shopify/yjit-metrics/issues/126
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-24-071114 is significantly slower than the one before (2021-12-23-191111)!,1,,2022-01-11,https://github.com/shopify/yjit-metrics/issues/125
+"Date, commit and value on benchmark timeline hover",1,enhancement,2022-01-05,https://github.com/shopify/yjit-metrics/issues/122
+YJIT-Metrics CI Benchmarking: Benchmark at 2022-01-04-144805 is significantly slower than the one before (2021-12-26-070954)!,2,,2022-01-04,https://github.com/shopify/yjit-metrics/issues/121
+"CI breakage for erubi_rails with prerelease Ruby 3.1, no JIT",3,,2021-12-09,https://github.com/shopify/yjit-metrics/issues/119
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-05-191013 is significantly slower than the one before (2021-12-05-071025)!,1,,2021-12-05,https://github.com/shopify/yjit-metrics/issues/118
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-05-071025 is significantly slower than the one before (2021-12-04-191004)!,1,,2021-12-05,https://github.com/shopify/yjit-metrics/issues/117
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-01-071023 is significantly slower than the one before (2021-11-30-191050)!,1,,2021-12-01,https://github.com/shopify/yjit-metrics/issues/115
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-12-03-071104 is significantly slower than the one before (2021-12-02-191023)!,1,,2021-12-03,https://github.com/shopify/yjit-metrics/issues/116
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-26-191042 is significantly slower than the one before (2021-11-26-071045)!,1,,2021-11-26,https://github.com/shopify/yjit-metrics/issues/114
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-24-191051 is significantly slower than the one before (2021-11-24-071041)!,1,,2021-11-24,https://github.com/shopify/yjit-metrics/issues/113
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-22-191048 is significantly slower than the one before (2021-11-18-071028)!,2,regression,2021-11-23,https://github.com/shopify/yjit-metrics/issues/108
+Overlapping digits in timeline graph on Chrome/macOS,2,,2021-11-24,https://github.com/shopify/yjit-metrics/issues/112
+Consistent ordering of benchmarks in timeline HTML report,1,"bug, good first issue",2021-10-29,https://github.com/shopify/yjit-metrics/issues/93
+"Need more dynamic warmup to allow for longer, but variable, warmup time",1,,2021-11-18,https://github.com/shopify/yjit-metrics/issues/107
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-24-071041 is significantly slower than the one before (2021-11-23-191053)!,1,,2021-11-24,https://github.com/shopify/yjit-metrics/issues/109
+Should benchmark MJIT on 3.0.0 *specifically*,9,,2021-11-12,https://github.com/shopify/yjit-metrics/issues/100
+Make width of YJIT Results Over Time graphs as wide as Latest Headlining Results bar graph.,2,,2021-11-08,https://github.com/shopify/yjit-metrics/issues/98
+Need to update tripwire-report checking -- microbenchmarks should have more permissive thresholds,1,,2021-11-15,https://github.com/shopify/yjit-metrics/issues/104
+Funky graph on mobile website,3,,2021-11-12,https://github.com/shopify/yjit-metrics/issues/101
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-12-191544 is significantly slower than the one before (2021-11-12-071020)!,1,,2021-11-12,https://github.com/shopify/yjit-metrics/issues/102
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-13-071002 is significantly slower than the one before (2021-11-12-191544)!,1,,2021-11-13,https://github.com/shopify/yjit-metrics/issues/103
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-10-191123 is significantly slower than the one before (2021-11-10-071149)!,0,,2021-11-10,https://github.com/shopify/yjit-metrics/issues/99
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-05-071021 is significantly slower than the one before (2021-11-04-191028)!,1,,2021-11-05,https://github.com/shopify/yjit-metrics/issues/97
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-04-191028 is significantly slower than the one before (2021-11-04-071006)!,1,,2021-11-04,https://github.com/shopify/yjit-metrics/issues/96
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-11-01-110254 is significantly slower than the one before (2021-10-29-070955)!,1,,2021-11-01,https://github.com/shopify/yjit-metrics/issues/94
+We don't currently auto-install an appropriate Bundler version,1,bug,2021-08-26,https://github.com/shopify/yjit-metrics/issues/44
+Multiple small graphs for performance over time,1,enhancement,2021-10-07,https://github.com/shopify/yjit-metrics/issues/85
+Details page should include ratio of memory usage,1,,2021-10-19,https://github.com/shopify/yjit-metrics/issues/90
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-10-12-190932 is significantly slower than the one before (2021-10-12-070948)!,1,,2021-10-12,https://github.com/shopify/yjit-metrics/issues/88
+MacOS OpenSSL,1,,2021-10-04,https://github.com/shopify/yjit-metrics/issues/83
+Benchmark CI: handling failures,2,,2021-09-08,https://github.com/shopify/yjit-metrics/issues/61
+More benchmarks?,0,,2021-09-29,https://github.com/shopify/yjit-metrics/issues/80
+Graph description is missing on details page,5,,2021-10-18,https://github.com/shopify/yjit-metrics/issues/89
+CSV download for benchmark results table,5,enhancement,2021-10-08,https://github.com/shopify/yjit-metrics/issues/87
+Show `liquid-render` in performance over time,1,,2021-10-07,https://github.com/shopify/yjit-metrics/issues/86
+HexaPDF benchmark,1,,2021-10-05,https://github.com/shopify/yjit-metrics/issues/84
+Recurring build error with permissions - what's happening that uses sudo?,1,,2021-09-29,https://github.com/shopify/yjit-metrics/issues/81
+YJIT-Metrics CI Benchmarking: Benchmark at 2021-10-01-070941 is significantly slower than the one before (2021-09-30-191150)!,1,,2021-10-01,https://github.com/shopify/yjit-metrics/issues/82
+Investigate performance instability with benchmark CI server,1,bug,2021-09-24,https://github.com/shopify/yjit-metrics/issues/78
+Misleading Overall on speed.yjit.org,6,,2021-09-22,https://github.com/shopify/yjit-metrics/issues/76
+YJIT-Metrics CI Benchmarking: Benchmark at _2021-09-23-190932 is significantly slower than the one before (_2021-09-23-070952)!,1,,2021-09-24,https://github.com/shopify/yjit-metrics/issues/77
+Minor tweaks to speed.yjit.org front page,1,,2021-09-16,https://github.com/shopify/yjit-metrics/issues/73
+Separate synthetic benchmarks from real-world benchmarks,14,enhancement,2021-09-13,https://github.com/shopify/yjit-metrics/issues/68
+Show performance numbers on bar graph hover,2,enhancement,2021-09-13,https://github.com/shopify/yjit-metrics/issues/69
+Feature: more shell setup,2,enhancement,2021-08-11,https://github.com/shopify/yjit-metrics/issues/34
+Deliverable: blog post about YJIT's reporting and metrics,1,,2021-08-25,https://github.com/shopify/yjit-metrics/issues/42
+Make yjit-metrics public,1,,2021-09-13,https://github.com/shopify/yjit-metrics/issues/64
+YJIT-Metrics CI Benchmarking: Benchmark at _2021-09-11-070952 is significantly slower than the one before!,1,,2021-09-11,https://github.com/shopify/yjit-metrics/issues/62
+Opt. Deliverable: watch for large drops in benchmark results,4,,2021-08-18,https://github.com/shopify/yjit-metrics/issues/39
+YJIT-Metrics CI Benchmarking: Benchmark at _2021-09-07-094908 is significantly slower than the one before!,1,,2021-09-07,https://github.com/shopify/yjit-metrics/issues/59
+Opt Deliverable: Better summaries and easier sharing for YJIT-metrics site,2,,2021-09-01,https://github.com/shopify/yjit-metrics/issues/51
+Hotfix: get GHAction for continuous benchmarking working,1,,2021-09-02,https://github.com/shopify/yjit-metrics/issues/54
+Compare overhead with YJIT_STATS run vs prod YJIT,1,,2021-09-02,https://github.com/shopify/yjit-metrics/issues/55
+"CI benchmarking: better tracking, better stability",3,enhancement,2021-09-01,https://github.com/shopify/yjit-metrics/issues/52
+Deliverables: yjit-metrics should run frequently and upload shareable performance reports,2,,2021-08-17,https://github.com/shopify/yjit-metrics/issues/37
+Deliverable: shareable performance report(s),1,,2021-08-17,https://github.com/shopify/yjit-metrics/issues/38
+API Post of test issue,0,,2021-08-31,https://github.com/shopify/yjit-metrics/issues/48
+API Post of test issue,1,,2021-08-31,https://github.com/shopify/yjit-metrics/issues/47
+API Post of test issue,0,,2021-08-31,https://github.com/shopify/yjit-metrics/issues/46
+Automatic installation of TruffleRuby,1,,2021-08-09,https://github.com/shopify/yjit-metrics/issues/32
+Error handling: need to merge with_crash_tracking and run_harness_script_from_string,1,,2021-08-02,https://github.com/shopify/yjit-metrics/issues/20
+Better encapsulation of benchmark settings and configurations,4,,2021-08-05,https://github.com/shopify/yjit-metrics/issues/27
+Error running basic_benchmark with Ruby 2.7,0,bug,2021-07-29,https://github.com/shopify/yjit-metrics/issues/19
+Generate latex table from warmup data,0,,2021-07-28,https://github.com/shopify/yjit-metrics/issues/15
+Use benchmarking framework to gather results for VMIL paper,37,,2021-07-13,https://github.com/shopify/yjit-metrics/issues/2
+VMIL: data collection scripts,7,,2021-07-19,https://github.com/shopify/yjit-metrics/issues/7
+VMIL: data collection for speedup data,12,,2021-07-29,https://github.com/shopify/yjit-metrics/issues/18
+Feature: peak memory usage,2,,2021-07-26,https://github.com/shopify/yjit-metrics/issues/12
+Gracefully handle and record segfaults,5,,2021-07-22,https://github.com/shopify/yjit-metrics/issues/8
+Handle new stats-enabled YJITs,1,,2021-07-22,https://github.com/shopify/yjit-metrics/issues/9
+Minor annoyance: basic_benchmark.rb doesn't flush subprocess output when run with nohup,3,,2021-07-14,https://github.com/shopify/yjit-metrics/issues/4

@@ -1,0 +1,16 @@
+# Issues Total: 11
+# Repository: https://github.com/shopify/dev-mcp
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+"Bug: `@shopify/dev-mcp@latest` fails to run due to `import ... with { type: """"json"""" }` — works with `1.0.2`",1,Stale,2025-06-11,https://github.com/shopify/dev-mcp/issues/47
+React Polaris,3,Stale,2025-04-07,https://github.com/shopify/dev-mcp/issues/10
+How to use MCP Server with newer versions of the Admin GraphQL API?,0,,2025-08-06,https://github.com/shopify/dev-mcp/issues/89
+Question: Will you develop Storefront API MCP server in future?,3,Stale,2025-04-10,https://github.com/shopify/dev-mcp/issues/11
+"dev-mcp search_dev_docs response exceeds maximum allowed tokens, making it unusable for large queries",6,,2025-07-06,https://github.com/shopify/dev-mcp/issues/58
+MCP Framework,2,Stale,2025-05-15,https://github.com/shopify/dev-mcp/issues/28
+Bug: introspect_admin_schema tool missing or inaccessible schema file,0,,2025-07-10,https://github.com/shopify/dev-mcp/issues/65
+[Request] Add remotely hosted MCP server,0,,2025-07-08,https://github.com/shopify/dev-mcp/issues/59
+Instructions for absolute idiots?,0,,2025-07-01,https://github.com/shopify/dev-mcp/issues/55
+[Request] Extension UI support,1,Stale,2025-04-23,https://github.com/shopify/dev-mcp/issues/14
+Support for different API version or add an API version param,1,Stale,2025-04-10,https://github.com/shopify/dev-mcp/issues/12

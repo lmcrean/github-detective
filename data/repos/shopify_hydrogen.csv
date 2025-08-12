@@ -1,0 +1,43 @@
+# Issues Total: 38
+# Repository: https://github.com/shopify/hydrogen
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+View GraphiQL API browser down,3,,2025-06-24,https://github.com/shopify/hydrogen/issues/2996
+"isOptimistic for CartLineItem only works when added to cart, not when updating or removing the line",4,,2024-12-12,https://github.com/shopify/hydrogen/issues/2673
+GraphiQL API browser not loading,3,,2025-07-16,https://github.com/shopify/hydrogen/issues/3019
+`useOptimisticCart` not optimistically updating total cost amounts,1,,2025-07-16,https://github.com/shopify/hydrogen/issues/3018
+Streaming/Suspense don't work in Shopify/hydrogen,8,"Bug, SEV-3",2025-04-17,https://github.com/shopify/hydrogen/issues/2867
+localhost:3000/graphiql not working,1,,2025-07-15,https://github.com/shopify/hydrogen/issues/3016
+Browser extensions that modify the DOM cause Hydrogen to crash,2,,2025-07-01,https://github.com/shopify/hydrogen/issues/3004
+Local `https` not working,4,,2025-05-26,https://github.com/shopify/hydrogen/issues/2964
+"Oxygen broken on all environments, including production, preview and local environments.",3,,2025-06-04,https://github.com/shopify/hydrogen/issues/2974
+Shopify Hydrogen Deploy deletes sourcemaps before Sentry Vite plugin runs,5,Bug,2025-05-28,https://github.com/shopify/hydrogen/issues/2965
+"Googlebot gets error 500 """"unable to decode turbo-stream response""""",0,,2025-06-27,https://github.com/shopify/hydrogen/issues/3001
+`customerEmailMarketingSubscribe` mutation ignores double opt-in setting,1,,2025-05-12,https://github.com/shopify/hydrogen/issues/2919
+Directory import 'x/Y/Z/node_modules/vite' is not supported resolving es modules,4,,2025-03-27,https://github.com/shopify/hydrogen/issues/2811
+ReferenceError: process is not defined when using Shapediver,3,,2025-04-11,https://github.com/shopify/hydrogen/issues/2858
+Uncaught Error: Disallowed operation called within global scope.,7,wont-fix,2025-03-23,https://github.com/shopify/hydrogen/issues/2805
+"Error """"SelectPrompt requires at least one choice"""" when try to connect to storefront",3,,2025-02-21,https://github.com/shopify/hydrogen/issues/2772
+Upgrade to 2025.1.2 resulted in hydrogen project not being found,3,"Blocked, can't reproduce",2025-04-01,https://github.com/shopify/hydrogen/issues/2835
+Unable to run server after clean install with npm create @shopify/hydrogen@latest,4,,2025-03-27,https://github.com/shopify/hydrogen/issues/2812
+Weird Behavior with Filters from Storefront API returning 0 results when filter is selected,5,,2025-02-21,https://github.com/shopify/hydrogen/issues/2774
+Generated sitemap.xml weirdness,3,,2025-02-25,https://github.com/shopify/hydrogen/issues/2777
+Shopify Oxygen Preview Deployments w/ Invalid Links,1,,2025-02-24,https://github.com/shopify/hydrogen/issues/2775
+Unable to Initiate a New Storefront,3,,2025-02-14,https://github.com/shopify/hydrogen/issues/2757
+Certain Vite HMR updates break when the components index.ts file passes a certain threshold of exports,8,,2025-02-20,https://github.com/shopify/hydrogen/issues/2768
+"[vite:css-post] css content for """""""" was not found",4,,2024-11-18,https://github.com/shopify/hydrogen/issues/2646
+hydrogen installation keeps on error,1,,2025-01-24,https://github.com/shopify/hydrogen/issues/2727
+CartProvider causes SSR warning in the terminal,9,wont-fix,2024-12-05,https://github.com/shopify/hydrogen/issues/2663
+`getProductOptions` throws an error on deleted variants,7,"Bug, SEV-3",2025-01-09,https://github.com/shopify/hydrogen/issues/2698
+[API Bug Report] Checking `customerUserErrors` on the `customerCreate` mutation will prompt an email verification despite a successful response ,1,can't reproduce,2024-12-16,https://github.com/shopify/hydrogen/issues/2681
+Issue With New Accounts Login,3,"Bug, SEV-2",2024-11-11,https://github.com/shopify/hydrogen/issues/2641
+Add Address feature does not work in the account page,1,can't reproduce,2024-10-28,https://github.com/shopify/hydrogen/issues/2622
+postLogoutRedirectUri on customerAccount.logout() is not working,1,,2024-12-20,https://github.com/shopify/hydrogen/issues/2684
+The shopping cart checkout button redirects back to the previous page,1,,2024-12-02,https://github.com/shopify/hydrogen/issues/2661
+References not resolved on Customer Account Api for Metafield Objects.,1,,2024-12-29,https://github.com/shopify/hydrogen/issues/2689
+Can't use remix-run/node and run the dev server with Hydrogen,1,,2024-12-21,https://github.com/shopify/hydrogen/issues/2686
+Unable to start new project,1,,2024-11-24,https://github.com/shopify/hydrogen/issues/2652
+Support Remix Single Fetch in @shopify/oxygen-remix,6,,2024-10-28,https://github.com/shopify/hydrogen/issues/2623
+"Oxygen: Deployment failed, error: Uncaught ReferenceError: window is not defined",1,,2024-11-18,https://github.com/shopify/hydrogen/issues/2647
+Shopify Hydrogen inventory issue - Storefront API returning 0 stock despite stock availability in Shopify Dashboard,0,,2024-11-12,https://github.com/shopify/hydrogen/issues/2642

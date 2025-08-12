@@ -1,0 +1,235 @@
+# Issues Total: 230
+# Repository: https://github.com/stripe/stripe-terminal-react-native
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+EAS build with fresh install on Expo 52 fails,7,,2025-03-20,https://github.com/stripe/stripe-terminal-react-native/issues/898
+Add ability to simulate terminal error codes,3,feature-request,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1007
+"Facing issue with react native version 0.77.2,",7,Tap to Pay,2025-05-09,https://github.com/stripe/stripe-terminal-react-native/issues/936
+Changing Terminal Tokens,5,,2025-06-29,https://github.com/stripe/stripe-terminal-react-native/issues/982
+"Issue with Implementing """"Tap to Pay"""" using Stripe Terminal in React Native App",11,,2023-12-12,https://github.com/stripe/stripe-terminal-react-native/issues/589
+ERROR  First initialize the Stripe Terminal SDK before performing any action,13,bug,2024-04-05,https://github.com/stripe/stripe-terminal-react-native/issues/659
+Missing tapZoneIndicator option for NFC readers located to the right of the screen,5,"enhancement, Tap to Pay",2025-06-18,https://github.com/stripe/stripe-terminal-react-native/issues/970
+Bluetooth reader connection and dis-connection issue,0,,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1008
+setReaderDisplay not supported on S700,1,,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1005
+Trouble with locally testing reader updates,2,,2025-07-22,https://github.com/stripe/stripe-terminal-react-native/issues/997
+Reader update failed due to lack of internet connection,3,,2025-07-27,https://github.com/stripe/stripe-terminal-react-native/issues/1003
+RE: USB on iPad - Redistributable DriverKit System Extension?,1,feature-request,2025-07-26,https://github.com/stripe/stripe-terminal-react-native/issues/1002
+"ERROR  TypeError: Cannot read property 'getConstants' of null, js engine: hermes",2,,2025-07-24,https://github.com/stripe/stripe-terminal-react-native/issues/1001
+Incompatible with React 19.0.0! When will the next update be released?,9,,2025-07-03,https://github.com/stripe/stripe-terminal-react-native/issues/983
+PaymentIntent `sdkUuid` is blank after `confirmPaymentIntent` failed,0,bug,2025-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/978
+"Issue with Bluetooth Terminal Stuck in """"Processing"""" After SDK Update",11,,2025-07-15,https://github.com/stripe/stripe-terminal-react-native/issues/993
+discoverReaders stuck on unresolved promise,9,integration,2024-04-09,https://github.com/stripe/stripe-terminal-react-native/issues/661
+The Stripe Terminal React Native SDK does not allow the implementation of a custom timeout for the `collectPaymentMethod` function.,3,"feature-request, Tap to Pay",2025-01-20,https://github.com/stripe/stripe-terminal-react-native/issues/877
+Android OOM issue on v0.0.1-beta.23,4,bug,2025-04-02,https://github.com/stripe/stripe-terminal-react-native/issues/911
+Request: Restart the entire native SDK when Javascript app bundle is restarted (Could not execute discoverReaders because the SDK is busy with another command: discoverReaders),5,"enhancement, feature-request",2023-10-12,https://github.com/stripe/stripe-terminal-react-native/issues/553
+Interac co-branded cards not being accepted on SetupIntent,9,Tap to Pay,2025-02-24,https://github.com/stripe/stripe-terminal-react-native/issues/887
+Direct Charges on Tap to Pay on a Connected account is not possible,3,"Tap to Pay, integration",2024-09-21,https://github.com/stripe/stripe-terminal-react-native/issues/819
+Issue Kiosk -> Elo Touch Solutions -> 22in-I-Series-4 Tap below device - NFC Position,1,"feature-request, Tap to Pay",2025-04-29,https://github.com/stripe/stripe-terminal-react-native/issues/929
+Failed to generate key pair [Android 11],4,Tap to Pay,2024-09-18,https://github.com/stripe/stripe-terminal-react-native/issues/817
+Android - INTEGRATION_ERROR.TAP_TO_PAY_INSECURE_ENVIRONMENT,4,Tap to Pay,2025-06-14,https://github.com/stripe/stripe-terminal-react-native/issues/966
+Feature Request (iOS) Educating Merchants Modal,1,Tap to Pay,2025-02-10,https://github.com/stripe/stripe-terminal-react-native/issues/885
+com.stripeterminalreactnative.TokenProvider.setConnectionToken Android Crash,3,,2025-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/979
+is there a way to work with library without the hook api ? ,10,"enhancement, feature-request",2024-01-28,https://github.com/stripe/stripe-terminal-react-native/issues/614
+Latest React and react native version peer dependency conflicts,15,,2025-04-04,https://github.com/stripe/stripe-terminal-react-native/issues/914
+Unexpected layout rotation at tap-to-pay screen when calling collectPaymentMethod,3,,2023-11-16,https://github.com/stripe/stripe-terminal-react-native/issues/571
+[bug] `PaymentIntent` type inconsistencies,1,bug,2024-11-19,https://github.com/stripe/stripe-terminal-react-native/issues/856
+Remove the need to wrap up the whole app in the StripeTerminalProvider component,2,"enhancement, feature-request",2024-10-21,https://github.com/stripe/stripe-terminal-react-native/issues/838
+collectPaymentMethod is hanging on IOS.,3,,2025-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/976
+[Feature Request] iOS TOS Popup,4,"feature-request, Tap to Pay",2025-05-14,https://github.com/stripe/stripe-terminal-react-native/issues/940
+[TapToPay] Inconsistent error code when user cancel the payment depending on the platform,4,Tap to Pay,2024-03-11,https://github.com/stripe/stripe-terminal-react-native/issues/634
+Mismatch between TypeScript and returned value,1,bug,2023-09-14,https://github.com/stripe/stripe-terminal-react-native/issues/543
+App Crash and Slowness After Payment with Expo 51 and Stripe Terminal,7,Tap to Pay,2024-06-27,https://github.com/stripe/stripe-terminal-react-native/issues/744
+client_secret not exposed following createPaymentIntent,2,feature-request,2025-06-02,https://github.com/stripe/stripe-terminal-react-native/issues/957
+Automatically add Tap to Pay Capability,1,Tap to Pay,2025-05-29,https://github.com/stripe/stripe-terminal-react-native/issues/955
+Unable to rediscover BluetoothScan devices after pairing (M2),1,,2025-06-18,https://github.com/stripe/stripe-terminal-react-native/issues/972
+Stripe issue while using stripe-react-native and terminal library at the same time,1,,2025-06-20,https://github.com/stripe/stripe-terminal-react-native/issues/974
+Could not execute discoverReaders because the SDK is busy with another command: discoverReaders,1,,2025-01-28,https://github.com/stripe/stripe-terminal-react-native/issues/879
+[bug] Contactless transaction failed com.stripe.core.aidIrpc.AidIRpcException: Failed to send request to AIDL server.,18,Tap to Pay,2024-09-12,https://github.com/stripe/stripe-terminal-react-native/issues/809
+CollectPaymentMethod Hanging?,9,Tap to Pay,2025-03-17,https://github.com/stripe/stripe-terminal-react-native/issues/893
+Manage dynamic discover reader method,1,"feature-request, Tap to Pay",2025-06-09,https://github.com/stripe/stripe-terminal-react-native/issues/962
+Tap to Pay option not available in discoverReaders using @stripe/stripe-terminal-react-native,8,Tap to Pay,2025-06-05,https://github.com/stripe/stripe-terminal-react-native/issues/960
+collectPaymentMethod property remains null,6,documentation,2025-05-22,https://github.com/stripe/stripe-terminal-react-native/issues/947
+onFinishDiscoveringReaders not called after timeout - unable to trigger subsequent events,5,,2025-05-13,https://github.com/stripe/stripe-terminal-react-native/issues/938
+Tip in UK,1,"question, Tap to Pay",2025-06-02,https://github.com/stripe/stripe-terminal-react-native/issues/956
+"""""Timed out connecting to remote host"""" on public Webhook",1,,2025-05-28,https://github.com/stripe/stripe-terminal-react-native/issues/951
+Android build not resolving StripeTerminalProvider,5,,2025-05-27,https://github.com/stripe/stripe-terminal-react-native/issues/950
+Reader Fails to Connect,3,,2025-05-26,https://github.com/stripe/stripe-terminal-react-native/issues/949
+NOT_INITIALIZED (null): adk not initialized,7,,2025-05-23,https://github.com/stripe/stripe-terminal-react-native/issues/948
+Android restart app due to repeated failure to freeze binder,2,,2025-05-22,https://github.com/stripe/stripe-terminal-react-native/issues/946
+App crashing when using discoverReaders method.,6,,2024-07-06,https://github.com/stripe/stripe-terminal-react-native/issues/751
+"Android Error when initializing Tap to Pay: """"Localmobile reader not operating in secure process""""",12,Tap to Pay,2024-12-19,https://github.com/stripe/stripe-terminal-react-native/issues/866
+Showing toast when opening Tap to Pay app in kiosk mode,1,Tap to Pay,2025-04-15,https://github.com/stripe/stripe-terminal-react-native/issues/919
+on device tip amount returns null on ios ,2,next release,2024-11-15,https://github.com/stripe/stripe-terminal-react-native/issues/854
+Key expiring and throwing,2,,2024-05-06,https://github.com/stripe/stripe-terminal-react-native/issues/687
+TapToPay disappears after go to the Home screen,1,Tap to Pay,2025-01-29,https://github.com/stripe/stripe-terminal-react-native/issues/880
+allow_redisplay not supported in collectPaymentMethod contrary to docs,6,next release,2024-12-03,https://github.com/stripe/stripe-terminal-react-native/issues/858
+M2 Reader Detection Issue on Certain Android Devices,2,,2024-11-13,https://github.com/stripe/stripe-terminal-react-native/issues/852
+Issue with Stripe Terminal Integration - Compile Error,2,,2024-10-31,https://github.com/stripe/stripe-terminal-react-native/issues/842
+onFinishDiscoveringReaders not getting called,3,,2024-08-28,https://github.com/stripe/stripe-terminal-react-native/issues/798
+[Feature Request] Possible improvements to cross-platform support,0,enhancement,2024-08-22,https://github.com/stripe/stripe-terminal-react-native/issues/795
+"First initialize the Stripe Terminal SDK before performing any action""""",5,,2024-07-04,https://github.com/stripe/stripe-terminal-react-native/issues/749
+Production Android Build Not Connect With Reader With Live_Stripe_KEY Using v0.0.1-beta.16 Version.,15,,2024-05-24,https://github.com/stripe/stripe-terminal-react-native/issues/711
+"collectPaymentMethod() faild, Collect payment method call after retrievePaymentIntent() asynchronously error occur >>  VALUE FOR PAYMENTINTENT CANNOT BE CAST FROM STRING TO ReadableNativeMap. stripe terminal using the tap to pay(Simulated mode: YES) React native app, I got an error.",5,,2024-04-24,https://github.com/stripe/stripe-terminal-react-native/issues/675
+collectPaymentMethod hangs forever and future calls to it fail with time out error - calling `disconnectReader` after this also hangs forever,11,,2024-04-11,https://github.com/stripe/stripe-terminal-react-native/issues/664
+onDidReportReaderSoftwareUpdateProgress does not work on real devices,6,,2024-04-04,https://github.com/stripe/stripe-terminal-react-native/issues/658
+The value of label field in given Reader.Type object is always null,3,feature-request,2024-03-27,https://github.com/stripe/stripe-terminal-react-native/issues/651
+Location error on tap to pay connection - 0.0.1-beta.24,12,,2025-04-03,https://github.com/stripe/stripe-terminal-react-native/issues/912
+S700 Handoff payment fails and shows Invalid credit card brand error,1,,2025-03-17,https://github.com/stripe/stripe-terminal-react-native/issues/892
+[Tap to Pay] Is there a way to cancel the payment screen on iOS?,5,"feature-request, Tap to Pay",2024-05-02,https://github.com/stripe/stripe-terminal-react-native/issues/682
+Connecting to a Reader,8,,2025-03-20,https://github.com/stripe/stripe-terminal-react-native/issues/897
+How to determine whether credit or debit card type during a tap to pay payment,1,,2025-05-08,https://github.com/stripe/stripe-terminal-react-native/issues/935
+Issue Kiosk -> Elo Touch Solutions -> 22in-I-Series-4 connectLocalMobileReader,13,,2025-03-24,https://github.com/stripe/stripe-terminal-react-native/issues/903
+"[feature request] Android equivalent for """"appleBuiltIn"""" deviceType",3,"feature-request, Tap to Pay",2024-07-04,https://github.com/stripe/stripe-terminal-react-native/issues/750
+Unknown discoveryMethod tapToPay in 0.0.1-beta.24,1,,2025-04-04,https://github.com/stripe/stripe-terminal-react-native/issues/913
+How to confirm if a device is supported by Stripe Tap To Pay,4,,2025-03-21,https://github.com/stripe/stripe-terminal-react-native/issues/899
+New architecture support,8,"dependencies, next release",2024-11-11,https://github.com/stripe/stripe-terminal-react-native/issues/848
+New release?,5,,2025-03-24,https://github.com/stripe/stripe-terminal-react-native/issues/904
+gg,0,,2025-03-24,https://github.com/stripe/stripe-terminal-react-native/issues/902
+Płatność,0,,2025-03-23,https://github.com/stripe/stripe-terminal-react-native/issues/901
+Failing to connect to bluetooth reader,1,,2025-03-07,https://github.com/stripe/stripe-terminal-react-native/issues/888
+Stripe tap to pay Android app publish Rejected from play-store.,6,,2025-03-12,https://github.com/stripe/stripe-terminal-react-native/issues/889
+Android PIN keypad disappears before PIN can be entered,1,,2025-03-17,https://github.com/stripe/stripe-terminal-react-native/issues/891
+USER_ERROR.LOCATION_SERVICES_DISABLED when using Bluetooth Scan,2,,2025-02-07,https://github.com/stripe/stripe-terminal-react-native/issues/883
+Tap to pay not working on iOS 18,14,"ios, native sdk, Tap to Pay",2024-10-07,https://github.com/stripe/stripe-terminal-react-native/issues/830
+Reference to the app's current Activity is missing. Did you call TerminalApplicationDelegate::onCreate before calling initTerminal,1,,2025-02-06,https://github.com/stripe/stripe-terminal-react-native/issues/881
+no supported application for NFC Tag,0,,2025-02-06,https://github.com/stripe/stripe-terminal-react-native/issues/882
+Reader disconnected after 1 hour,2,,2024-12-20,https://github.com/stripe/stripe-terminal-react-native/issues/867
+Receiving NETWORK_ERROR.CONNECTION_TOKEN_PROVIDER_ERROR when trying connectLocalMobileReader even though token exists,1,integration,2025-01-28,https://github.com/stripe/stripe-terminal-react-native/issues/878
+Endless NETWORK_ERROR.CONNECTION_TOKEN_PROVIDER_ERROR on connectBluetoothReader after bundle reload in Expo ,4,,2024-03-22,https://github.com/stripe/stripe-terminal-react-native/issues/644
+m2 reader keeps disconencting and reconnection is an issue..,1,,2024-12-26,https://github.com/stripe/stripe-terminal-react-native/issues/869
+Android app not compiled after installing @stripe/stripe-terminal-react-native,5,,2025-01-17,https://github.com/stripe/stripe-terminal-react-native/issues/876
+ Could not find any matches for com.facebook.react:react-android:+ ,2,,2024-01-25,https://github.com/stripe/stripe-terminal-react-native/issues/612
+[Tap To Pay] Reader has been disconnected unexpectedly on Android devices,22,"native sdk, Tap to Pay",2024-05-09,https://github.com/stripe/stripe-terminal-react-native/issues/693
+Execution failed for task ':app:checkDebugDuplicateClasses'. > Could not resolve all files for configuration ':app:debugRuntimeClasspath'. > Failed to transform jackson-core-2.16.1.jar,32,next release,2024-03-29,https://github.com/stripe/stripe-terminal-react-native/issues/653
+react native stripe terminal not initialize in some pos-mashine like sunmi P2-SE or Urovo i9100,5,,2024-07-12,https://github.com/stripe/stripe-terminal-react-native/issues/756
+setLocalMobileUxConfiguration not working,2,,2024-12-09,https://github.com/stripe/stripe-terminal-react-native/issues/861
+Accessibility options screen language,2,,2024-10-17,https://github.com/stripe/stripe-terminal-react-native/issues/836
+Device freezes after tapping the card,4,,2024-11-07,https://github.com/stripe/stripe-terminal-react-native/issues/846
+Tap to pay not working in Sunmi V2s,1,,2024-12-06,https://github.com/stripe/stripe-terminal-react-native/issues/860
+ERROR: You must provide paymentIntent that was returned from either createPaymentIntent or retrievePaymentIntent.,5,,2024-08-15,https://github.com/stripe/stripe-terminal-react-native/issues/786
+Unable to prepare built in card reader on IOS for tap to pay,8,Tap to Pay,2024-04-26,https://github.com/stripe/stripe-terminal-react-native/issues/677
+"Improve visibility of """"discovery method""""",6,,2024-11-18,https://github.com/stripe/stripe-terminal-react-native/issues/855
+Query: stripe-terminal-android/ios 4.0.0 builds for stripe-terminal-react-native,5,next release,2024-11-01,https://github.com/stripe/stripe-terminal-react-native/issues/843
+Question: Compatibility with future Expo Versions,2,,2024-11-20,https://github.com/stripe/stripe-terminal-react-native/issues/857
+Offline Initialization Issue with Wisepad 3,3,,2024-04-11,https://github.com/stripe/stripe-terminal-react-native/issues/668
+collectInputs return type differs on iOS from those documented in the API docs,2,,2024-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/743
+connectInternetReader throws certificate error on IOS in dev build,5,,2024-09-12,https://github.com/stripe/stripe-terminal-react-native/issues/810
+Collect payment Failure,1,,2024-04-22,https://github.com/stripe/stripe-terminal-react-native/issues/673
+Can't reconnect local reader on iOS when going background on enter pin screen,10,"bug, Tap to Pay",2023-12-19,https://github.com/stripe/stripe-terminal-react-native/issues/595
+Mismatch between documentation and types file when calling createSetupIntent,2,next release,2023-12-13,https://github.com/stripe/stripe-terminal-react-native/issues/591
+Issue Encountered After Updating Terminal to Beta latest SDK,1,,2024-05-23,https://github.com/stripe/stripe-terminal-react-native/issues/708
+Issue connecting to reader,7,bug,2024-08-19,https://github.com/stripe/stripe-terminal-react-native/issues/789
+iOS Production Build Field to Discover Reader & Connect Reader From India. Verify the app has the necessary entitlements and that the application bundle is valid.,5,Tap to Pay,2024-06-10,https://github.com/stripe/stripe-terminal-react-native/issues/725
+How to disable Tap to Pay on iPhone terms and conditions pop-up for certain users on reader connect?,1,Tap to Pay,2024-05-24,https://github.com/stripe/stripe-terminal-react-native/issues/709
+"On device handoff payment on a S700 reader, """"Current Activity is missing""""",3,,2024-05-03,https://github.com/stripe/stripe-terminal-react-native/issues/683
+Unable to Test Simulated Terminal SDK on Android Simulator - API level 33 - Getting Time out error,1,,2024-08-21,https://github.com/stripe/stripe-terminal-react-native/issues/793
+test test,0,,2024-09-30,https://github.com/stripe/stripe-terminal-react-native/issues/826
+test,0,,2024-09-30,https://github.com/stripe/stripe-terminal-react-native/issues/825
+Reader not discovered in handoff mode on S700 Devkit,14,,2024-08-15,https://github.com/stripe/stripe-terminal-react-native/issues/788
+A failure occurred while executing com.android.build.gradle.internal.tasks.MergeJavaResWorkAction,9,,2024-06-21,https://github.com/stripe/stripe-terminal-react-native/issues/739
+"[deadline] Google Play Store requires targetSdkVersion to be 34 or higher by August 31, 2024",6,,2024-07-08,https://github.com/stripe/stripe-terminal-react-native/issues/753
+UnexpectedSdkError in IOS 18 Beta,8,bug,2024-09-09,https://github.com/stripe/stripe-terminal-react-native/issues/807
+App Hang SCPLogForwardingController,2,"ios, next release",2024-08-28,https://github.com/stripe/stripe-terminal-react-native/issues/799
+onDidDisconnect and onDidReportUnexpectedReaderDisconnect user callbacks not triggered,0,,2024-08-24,https://github.com/stripe/stripe-terminal-react-native/issues/796
+createPaymentIntent and collectPaymentMethod just hanging when called.,1,,2024-08-14,https://github.com/stripe/stripe-terminal-react-native/issues/784
+"Location Address displayName typed incorrectly, should be display_name",1,enhancement,2023-08-23,https://github.com/stripe/stripe-terminal-react-native/issues/526
+The Stripe Terminal ConnectionToken has already been redeemed,4,,2024-08-02,https://github.com/stripe/stripe-terminal-react-native/issues/776
+Expo Plugin overrides UIBackgroundModes instead of appending to it.,0,next release,2024-08-11,https://github.com/stripe/stripe-terminal-react-native/issues/780
+[Tap To Pay] UNEXPECTED_ERROR.UNEXPECTED_SDK_ERROR - KEY_ERROR (null): Error setting key entry during secure import,3,Tap to Pay,2024-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/773
+confirmPaymentIntent throwing random error in production but no server-side logs,2,,2024-07-02,https://github.com/stripe/stripe-terminal-react-native/issues/746
+Inconsistent requiredAt for availableUpdate,2,"bug, android, next release",2024-05-31,https://github.com/stripe/stripe-terminal-react-native/issues/718
+FeatureNotAvailableWithConnectedReader when calling collectPaymentMethod,10,next release,2024-06-11,https://github.com/stripe/stripe-terminal-react-native/issues/727
+CollectInputs param type doesn't match required param check on iOS,1,"bug, next release",2024-06-24,https://github.com/stripe/stripe-terminal-react-native/issues/742
+Support `Stripe-Account` (connect account),4,,2024-03-26,https://github.com/stripe/stripe-terminal-react-native/issues/647
+Issue when switching keys (accounts) with clearCachedCredentials - NETWORK_ERROR.CONNECTION_TOKEN_PROVIDER_ERROR,1,,2024-07-08,https://github.com/stripe/stripe-terminal-react-native/issues/752
+The PaymentMethod provided (card_present) is not allowed for this PaymentIntent,2,,2024-07-01,https://github.com/stripe/stripe-terminal-react-native/issues/745
+Issue a receipt when a payment declines (to meet Tap to Pay guidelines),3,Tap to Pay,2024-06-13,https://github.com/stripe/stripe-terminal-react-native/issues/733
+Error: Operation not permitted. Verify the app has the necessary entitlements and that the application bundle is valid.,6,,2023-12-14,https://github.com/stripe/stripe-terminal-react-native/issues/594
+[iOS] collectPaymentMethod throws unexpected error and gets stuck from proceeding,4,bug,2024-05-16,https://github.com/stripe/stripe-terminal-react-native/issues/697
+"Unable to connect to reader, tap-to-pay android",4,,2023-11-05,https://github.com/stripe/stripe-terminal-react-native/issues/567
+ missing permission to connect to wispad 3 via usb (Release only),0,,2024-06-17,https://github.com/stripe/stripe-terminal-react-native/issues/735
+"Tap to pay """"Direct charge"""" collectPaymentMethod returns """"A required parameter was invalid or missing.""""",5,,2024-05-15,https://github.com/stripe/stripe-terminal-react-native/issues/695
+Error with the Android SDK calling retrievePaymentIntent,4,native sdk,2024-06-06,https://github.com/stripe/stripe-terminal-react-native/issues/722
+"Android 14: """"Contactless transaction failed com.stripe.core.aidlrpc.AidlRpcException: Service never connected.""""",3,Tap to Pay,2024-04-26,https://github.com/stripe/stripe-terminal-react-native/issues/676
+"Populate PaymentIntent when there is an error after calling collectPaymentMethod(), confirmPaymentIntent(), etc.",4,enhancement,2024-04-23,https://github.com/stripe/stripe-terminal-react-native/issues/674
+Request: Expose SDK state machines,1,,2023-11-30,https://github.com/stripe/stripe-terminal-react-native/issues/577
+Android or iOS Tap to Pay apps cannot detect Amex Titanium contactless cards (metal cards),2,,2024-06-04,https://github.com/stripe/stripe-terminal-react-native/issues/720
+Reset reader to original firmware ,3,,2024-06-01,https://github.com/stripe/stripe-terminal-react-native/issues/719
+On iOS devices with iOS 17.4.1 Tap to Pay auto cancels after reconnection,17,"bug, Tap to Pay",2024-04-09,https://github.com/stripe/stripe-terminal-react-native/issues/660
+Option to use functions directly instead of via hooks.,1,enhancement,2024-05-28,https://github.com/stripe/stripe-terminal-react-native/issues/714
+"can't build on """"react-native"""": """"0.71.3"""",",3,,2024-04-27,https://github.com/stripe/stripe-terminal-react-native/issues/678
+Crash issue when connecting via Bluetooth with the M2 reader,3,,2024-05-03,https://github.com/stripe/stripe-terminal-react-native/issues/684
+Android 14 : Unable to build because of react-native-reanimated,2,,2024-05-22,https://github.com/stripe/stripe-terminal-react-native/issues/702
+Privacy Manifest file,5,,2024-04-18,https://github.com/stripe/stripe-terminal-react-native/issues/670
+cancelPaymentIntent doesn’t cancel a payment in the requiresCapture state,5,,2024-04-01,https://github.com/stripe/stripe-terminal-react-native/issues/655
+test,0,,2024-05-16,https://github.com/stripe/stripe-terminal-react-native/issues/696
+Samsung Tab Active 5 compatibility.,6,,2024-04-30,https://github.com/stripe/stripe-terminal-react-native/issues/679
+"When starting a payment using simulated reader, an expired API key is thrown",7,,2024-01-04,https://github.com/stripe/stripe-terminal-react-native/issues/605
+Set Timeout for Bluetooth Discovery Scan,1,feature-request,2024-03-07,https://github.com/stripe/stripe-terminal-react-native/issues/631
+Unable to connect to simulated m2 reader on Tap To Pay for iOS (reader id is null),2,,2024-04-30,https://github.com/stripe/stripe-terminal-react-native/issues/680
+Get Stripe commission when payment attempt is processed and response status is correct,5,enhancement,2023-11-04,https://github.com/stripe/stripe-terminal-react-native/issues/566
+"CommandError: Failed to resolve plugin for module """"@stripe/stripe-terminal-react-native"""" relative ",4,,2024-03-27,https://github.com/stripe/stripe-terminal-react-native/issues/650
+Error: The card_present source type with currency eur is not supported in GB.,2,,2024-03-12,https://github.com/stripe/stripe-terminal-react-native/issues/638
+Build fails when using stripe-terminal-react-native on Expo SDK 50 and RN 0.73.6,2,,2024-04-12,https://github.com/stripe/stripe-terminal-react-native/issues/669
+Expo 50 build not working on Android,32,,2024-01-26,https://github.com/stripe/stripe-terminal-react-native/issues/613
+"When creating a new react native project and adding the sdk, it fails to build.",17,,2023-12-14,https://github.com/stripe/stripe-terminal-react-native/issues/593
+[SENTRY FATAL ERROR]: SIGABRT - [SCPTerminal validateInfoPlistForDiscoveryConfiguration:].cold.1,3,,2024-04-11,https://github.com/stripe/stripe-terminal-react-native/issues/666
+stripe_stripe-terminal-react-native:compileDebugKotlin,2,,2024-03-12,https://github.com/stripe/stripe-terminal-react-native/issues/637
+Expo 50 iOS crashes when calling terminal.initialize,7,,2024-01-28,https://github.com/stripe/stripe-terminal-react-native/issues/615
+Calling `simulateReaderUpdate` has no effect ,3,,2024-03-25,https://github.com/stripe/stripe-terminal-react-native/issues/645
+"When calling collectPaymentMethod, the tuple returned is {undefined, undefined}.",1,,2024-01-04,https://github.com/stripe/stripe-terminal-react-native/issues/604
+autoReconnectOnUnexpectedDisconnect missing on Tap to Pay iPhone (Local Mobile Reader),3,feature-request,2023-11-01,https://github.com/stripe/stripe-terminal-react-native/issues/565
+Bug: DiscoverReaders Method Incorrectly Shows Battery Level as 0 for Discovered Readers,3,enhancement,2023-12-11,https://github.com/stripe/stripe-terminal-react-native/issues/588
+Import module error in expo react native.,5,,2023-10-02,https://github.com/stripe/stripe-terminal-react-native/issues/548
+After clicking collection payment in the example app no amount is showing in the screen. just showing TAP TO SIMULATE PAYMENT,0,,2024-03-13,https://github.com/stripe/stripe-terminal-react-native/issues/639
+`new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.,1,,2024-03-11,https://github.com/stripe/stripe-terminal-react-native/issues/635
+Android client and server-side payment intent creation fails,4,,2024-01-04,https://github.com/stripe/stripe-terminal-react-native/issues/606
+App crashes on real device (Expo),9,,2023-08-24,https://github.com/stripe/stripe-terminal-react-native/issues/528
+Weird error when compatible reader connecting to location,2,,2024-01-18,https://github.com/stripe/stripe-terminal-react-native/issues/610
+Linking account on iOS,3,,2023-12-19,https://github.com/stripe/stripe-terminal-react-native/issues/596
+Unable to connect to simulated reader from a country where terminal is not available,2,,2024-01-31,https://github.com/stripe/stripe-terminal-react-native/issues/619
+Test isue 2024,1,,2024-02-09,https://github.com/stripe/stripe-terminal-react-native/issues/621
+Stuck on connectBluetoothReader,3,,2023-08-06,https://github.com/stripe/stripe-terminal-react-native/issues/517
+Facing Location error,2,,2023-07-11,https://github.com/stripe/stripe-terminal-react-native/issues/499
+MEtadata not being sent to payment intent,1,,2024-01-07,https://github.com/stripe/stripe-terminal-react-native/issues/607
+Android build failure: EXPO 49 + 0.0.1-beta.14 ,7,,2023-12-07,https://github.com/stripe/stripe-terminal-react-native/issues/584
+device does not use trusted execution,2,,2023-11-29,https://github.com/stripe/stripe-terminal-react-native/issues/576
+How translate texts on Tap to Pay screen?,2,,2023-09-28,https://github.com/stripe/stripe-terminal-react-native/issues/546
+Update example-app to Use Latest Expo SDK Version,1,feature-request,2023-08-09,https://github.com/stripe/stripe-terminal-react-native/issues/518
+Setup intents are not available with Tap to Pay on Android,1,,2023-12-20,https://github.com/stripe/stripe-terminal-react-native/issues/598
+Bluetooth permissions should not be required when only using only Tap-to-Pay,3,,2023-09-11,https://github.com/stripe/stripe-terminal-react-native/issues/539
+"If reader remains connected, payment cannot be processed due to expired connection token",8,,2023-11-17,https://github.com/stripe/stripe-terminal-react-native/issues/573
+Update min version to ios 12.0 min target version?,2,,2023-09-28,https://github.com/stripe/stripe-terminal-react-native/issues/545
+Payment method missing on payment intent,3,enhancement,2023-10-04,https://github.com/stripe/stripe-terminal-react-native/issues/552
+Fatal Exception: com.facebook.react.bridge.NoSuchKeyException: autoReconnectOnUnexpectedDisconnect,3,,2023-10-12,https://github.com/stripe/stripe-terminal-react-native/issues/554
+Add statementDescriptorSuffix to createPaymentIntent,1,,2023-11-15,https://github.com/stripe/stripe-terminal-react-native/issues/569
+Likely date of next release?,1,,2023-12-07,https://github.com/stripe/stripe-terminal-react-native/issues/583
+collectPaymentMethod ,0,,2023-12-05,https://github.com/stripe/stripe-terminal-react-native/issues/580
+[test],0,,2023-11-27,https://github.com/stripe/stripe-terminal-react-native/issues/575
+Stripe Card Reader Not Detecting Cards,1,,2023-10-26,https://github.com/stripe/stripe-terminal-react-native/issues/563
+"Cannot connect Bluetooth reader, fetchConnectionToken comes back with an error",2,,2023-08-24,https://github.com/stripe/stripe-terminal-react-native/issues/529
+More granular Terms and Conditions control,3,,2023-09-01,https://github.com/stripe/stripe-terminal-react-native/issues/537
+SDK ^0.0.1-beta.13: collectPaymentMethod Errors on Optional Parameters after iOS Tap to Pay Update,5,,2023-10-03,https://github.com/stripe/stripe-terminal-react-native/issues/549
+Tap to Pay screen should rotate when holding the phone upside down to a customer,2,,2023-09-13,https://github.com/stripe/stripe-terminal-react-native/issues/542
+Availability of Tap to Pay on iOS in the UK,3,,2023-08-31,https://github.com/stripe/stripe-terminal-react-native/issues/536
+Tap to pay input screen looks weird on Oppo A9,3,,2023-09-12,https://github.com/stripe/stripe-terminal-react-native/issues/541
+Incompatible Device Tap to Pay iOS 16.6,0,,2023-09-04,https://github.com/stripe/stripe-terminal-react-native/issues/538
+Are bluetooth/location permissions required for Tap-to-Pay?,2,,2023-08-15,https://github.com/stripe/stripe-terminal-react-native/issues/521
+Tap to pay iOS: Exception 'Modifications to the layout engine must not be performed from a background thread after it has been accessed from the main thread',8,,2023-06-14,https://github.com/stripe/stripe-terminal-react-native/issues/481
+Not specifying autoReconnectOnUnexpectedDisconnect crashes the SDK,1,bug,2023-08-26,https://github.com/stripe/stripe-terminal-react-native/issues/532
+Bluetooth disabled on android does not behave as expected,3,,2023-07-05,https://github.com/stripe/stripe-terminal-react-native/issues/490
+Is a connection token required for Tap-to-Pay?,1,,2023-08-16,https://github.com/stripe/stripe-terminal-react-native/issues/522
+Beta countries not available when connecting a LocalMobileReader,1,,2023-08-10,https://github.com/stripe/stripe-terminal-react-native/issues/519
+Must have a country code to connect to a Tap to Pay reader.,4,,2023-07-19,https://github.com/stripe/stripe-terminal-react-native/issues/511
+Tap to Pay screen not showing,10,,2023-07-19,https://github.com/stripe/stripe-terminal-react-native/issues/506
+Post Api Method,1,,2023-07-19,https://github.com/stripe/stripe-terminal-react-native/issues/508
+Regarding implementation of tap to pay using react native SDK,1,,2023-07-19,https://github.com/stripe/stripe-terminal-react-native/issues/505
+Stripe terminal initialise. ,1,,2023-07-19,https://github.com/stripe/stripe-terminal-react-native/issues/504
+An unexpected SDK error occured when use method connectBluetoothReader in ios,5,,2023-07-03,https://github.com/stripe/stripe-terminal-react-native/issues/489
+App crash on Android when calling initialize() with device location turned off,1,,2023-06-20,https://github.com/stripe/stripe-terminal-react-native/issues/484
+"Local-mobile reader connection on IOS is giving error """"This feature is currently not available for the selected reader""""",1,,2023-06-08,https://github.com/stripe/stripe-terminal-react-native/issues/480
+Tap and Pay in React Native,1,,2023-06-26,https://github.com/stripe/stripe-terminal-react-native/issues/487
+Need Tap to pay,2,,2023-06-23,https://github.com/stripe/stripe-terminal-react-native/issues/485
+registration.listener.apply is not a function for FINISH_DISCOVERING_READERS and CHANGE_CONNECTION_STATUS events,1,,2023-06-19,https://github.com/stripe/stripe-terminal-react-native/issues/483
+Crash when discovering readers,1,,2023-06-16,https://github.com/stripe/stripe-terminal-react-native/issues/482

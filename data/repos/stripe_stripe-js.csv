@@ -1,0 +1,218 @@
+# Issues Total: 213
+# Repository: https://github.com/stripe/stripe-js
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+[BUG]: Failed to load Stripe,1,bug,2025-08-11,https://github.com/stripe/stripe-js/issues/797
+Luminosity ratio of the focus indicator on 'x' button is less than required 3:1 ratio on the 'scan ....' popup.,2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/779
+"There is no visual label for the form elements (like email, country combo box, mobile number, First and last name) under the 'Pay' tab.",2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/781
+Screen reader is not announcing accessible name for 'Country' combo box available on pay tab.,2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/780
+Luminosity ratio of the focus indicator on 'country' is less than required ratio of 3:1.,2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/782
+Screen reader does not announce the name for info (i) button in windows.,2,bug,2025-07-17,https://github.com/stripe/stripe-js/issues/785
+Visual label names are not descriptive for Expiration combo box in windows.,2,bug,2025-07-17,https://github.com/stripe/stripe-js/issues/786
+[BUG]: 3D Secure Authentication behind top layer elements,25,"bug, pinned",2024-04-12,https://github.com/stripe/stripe-js/issues/599
+Lack of Cross-Origin-Related HTTP Security Headers,20,"enhancement, stale",2023-02-01,https://github.com/stripe/stripe-js/issues/417
+Luminosity ratio of the text is less than required 4.5:1 under the scan 'cash app pay' popup.,2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/783
+"Error identification message is not provided at """"Credit card number"""", CVC/CVN"""" and """"Expiration date"""" form fields.",2,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/784
+[BUG]: Neither apiKey nor config.authenticator provided,29,bug,2024-10-13,https://github.com/stripe/stripe-js/issues/667
+[BUG]: Wechat failed payment doesn't return an error when calling stripe.confirmPayment(),6,bug,2024-04-03,https://github.com/stripe/stripe-js/issues/590
+Provide an API version constant for the types,22,"enhancement, pinned",2023-08-16,https://github.com/stripe/stripe-js/issues/483
+[BUG]: Express checkout element - Apple pay button corners are transparent when changing the border radius,2,bug,2025-07-18,https://github.com/stripe/stripe-js/issues/787
+[BUG]: Accessibility WCAG audit non-conformance,4,bug,2023-02-13,https://github.com/stripe/stripe-js/issues/422
+[BUG]: Better error handling when using Express Checkout + Apple Pay,4,bug,2024-04-29,https://github.com/stripe/stripe-js/issues/605
+"[BUG]: ExpressCheckoutElement.on doesn't support """"click"""" handler",1,bug,2025-07-15,https://github.com/stripe/stripe-js/issues/778
+[BUG]: unable to use stripe identity anymore on react,2,"bug, stale",2025-06-08,https://github.com/stripe/stripe-js/issues/766
+[BUG]: Scroll resets when Payment element mounts on Safari,1,bug,2025-07-01,https://github.com/stripe/stripe-js/issues/774
+[BUG]: `CardElement` not focusing next element on forward tab when within iframe ,12,"bug, pinned",2022-11-15,https://github.com/stripe/stripe-js/issues/384
+[BUG]: Afterpay payment preview not displaying correct value,1,bug,2025-06-25,https://github.com/stripe/stripe-js/issues/772
+"[BUG]: element.create('address', options) - autocomplete option using Legacy Google Places",3,"bug, stale",2025-06-02,https://github.com/stripe/stripe-js/issues/762
+[BUG]: runServerUpdate doesn't actually exist,6,"bug, stale",2025-05-01,https://github.com/stripe/stripe-js/issues/754
+[BUG]: Stripe.js throws unclear error when passed undefined instead of string,3,"bug, stale",2025-04-11,https://github.com/stripe/stripe-js/issues/748
+[BUG]: confirmAcssDebitSetup seems ignore the passed in mandate_data,1,"bug, stale",2025-05-17,https://github.com/stripe/stripe-js/issues/758
+"[BUG]: Klarna requires additional """"mandate_data"""" when using Stripe JS",2,bug,2025-06-04,https://github.com/stripe/stripe-js/issues/763
+Add support for configurable fields in the Address Element,2,"bug, stale",2025-05-12,https://github.com/stripe/stripe-js/issues/757
+[BUG]: Cannot read properties of undefined (reading: 'match'),1,bug,2025-05-31,https://github.com/stripe/stripe-js/issues/761
+Auto-handling of setup_future_usage based on payment method,2,"enhancement, stale",2025-03-15,https://github.com/stripe/stripe-js/issues/739
+[NOTICE]: Versioning coming soon to Stripe.js. Pay attention to breaking changes in the next release.,1,pinned,2025-03-06,https://github.com/stripe/stripe-js/issues/733
+[BUG]: Support chrome 63,2,bug,2025-05-06,https://github.com/stripe/stripe-js/issues/755
+[BUG]: Issue: Stripe Integration Errors in Magento 1.9,15,bug,2025-02-10,https://github.com/stripe/stripe-js/issues/717
+[BUG]: Stripe.js does not seem to load on subsequent app launches,3,bug,2025-04-07,https://github.com/stripe/stripe-js/issues/746
+[BUG]: Stripe autofill invalid color,8,bug,2024-10-13,https://github.com/stripe/stripe-js/issues/668
+It would be nice to be able to pass `customPaymentMethods` to elements.update (feature request),5,bug,2025-01-06,https://github.com/stripe/stripe-js/issues/706
+"[BUG]: Custom styling fails for Payment Elements (Secure, 1-click checkout with Link)",5,"bug, stale",2024-05-29,https://github.com/stripe/stripe-js/issues/612
+[BUG]: Please check your internet connection,19,"bug, stale",2024-12-03,https://github.com/stripe/stripe-js/issues/696
+"[BUG]: Copy card details (number, cvc, etc.) not working in stripe-js embedded in webview",3,bug,2025-03-02,https://github.com/stripe/stripe-js/issues/724
+[BUG]: accessible name on element iframe,2,bug,2025-02-10,https://github.com/stripe/stripe-js/issues/716
+[BUG]: Documentation for loading stripe pure not correct for ESM environments.,5,"bug, stale",2025-01-27,https://github.com/stripe/stripe-js/issues/714
+[BUG]: Cannot style read-only state of Payment Element,3,"bug, stale",2025-01-15,https://github.com/stripe/stripe-js/issues/710
+Cancel reader action,1,"bug, stale",2025-01-10,https://github.com/stripe/stripe-js/issues/708
+[BUG]: Link form validation skipped after logout,6,"bug, stale",2024-11-28,https://github.com/stripe/stripe-js/issues/695
+[BUG]: Google pay button border looks thicker with white theme,4,bug,2025-01-10,https://github.com/stripe/stripe-js/issues/709
+[BUG]: IntegrationError: Invalid stripe.redirectToCheckout parameter: trialEnd is not an accepted parameter.,1,bug,2025-01-16,https://github.com/stripe/stripe-js/issues/711
+[BUG]: Unable to retrieve the origin of the event,2,"bug, stale",2024-11-21,https://github.com/stripe/stripe-js/issues/691
+[BUG]: StripeEmbeddedCheckout.destroy cannot safely be called multiple times and no way to check a destroyed property,3,"bug, stale",2024-11-19,https://github.com/stripe/stripe-js/issues/685
+[BUG]: confirmTwintPayment is missing from Stripe interface,2,"bug, stale",2024-11-18,https://github.com/stripe/stripe-js/issues/682
+[BUG]: automatic_async does not exist in captureMethod of StripeElementsUpdateOptions,2,"bug, stale",2024-11-08,https://github.com/stripe/stripe-js/issues/677
+[BUG]: confirmSetup overloads are incorrectly throwing errors,2,"bug, stale",2024-10-22,https://github.com/stripe/stripe-js/issues/673
+[BUG]: Google Pay method with SetupIntent always show $0.00,1,bug,2025-01-03,https://github.com/stripe/stripe-js/issues/705
+[BUG]: defaultValues and fields configuration ignored if Payment Element is initialised without Payment intent,4,bug,2024-12-13,https://github.com/stripe/stripe-js/issues/701
+[BUG]: Wrong stripe-js version in dist,4,bug,2024-12-12,https://github.com/stripe/stripe-js/issues/699
+"[BUG]: `CardElement` conditional rendering triggers """"IntegrationError: We could not retrieve data from the specified Element."""" ",8,bug,2024-01-08,https://github.com/stripe/stripe-js/issues/535
+"[BUG]: 1px """"hidden"""" iframes at the bottom of body",2,"bug, stale",2024-09-04,https://github.com/stripe/stripe-js/issues/644
+[BUG]: types of address attributes differ marginally,2,"bug, stale",2024-08-27,https://github.com/stripe/stripe-js/issues/640
+[BUG]: Documentation is very inaccessible with screen reader.,2,"bug, stale",2024-08-30,https://github.com/stripe/stripe-js/issues/642
+[REQUEST]: Custom placeholder option for inputs in Address Element. ,4,"bug, stale",2024-07-04,https://github.com/stripe/stripe-js/issues/629
+[BUG]: retrieveCardNetworks not exist in StripeJS,3,"bug, stale",2024-09-04,https://github.com/stripe/stripe-js/issues/643
+"[BUG]: paymentIntent.next_action is missing """"verify_with_microdeposits""""",1,bug,2024-11-18,https://github.com/stripe/stripe-js/issues/683
+[BUG]: in-iFrame Apple Pay support in Safari Preview >=167,46,bug,2023-08-23,https://github.com/stripe/stripe-js/issues/484
+[BUG]: Missing Revolut pay confirmation method,1,,2024-11-28,https://github.com/stripe/stripe-js/issues/694
+[BUG]: selectedPaymentMethod is missing from StripeElements.submit return type,1,bug,2024-11-27,https://github.com/stripe/stripe-js/issues/693
+[BUG]: PaymentElement CVC missing placeholder,5,,2024-11-21,https://github.com/stripe/stripe-js/issues/690
+[BUG]: Error 400 when calling API `confirmSetup` method,1,bug,2024-11-13,https://github.com/stripe/stripe-js/issues/679
+[BUG]: Search returns data that doesn't match the query,2,"bug, stale",2024-10-09,https://github.com/stripe/stripe-js/issues/663
+[BUG]: confirmMultibancoPayment missing from interface Stripe,2,"bug, stale",2024-09-06,https://github.com/stripe/stripe-js/issues/645
+[BUG]: AddressElement Type,3,"bug, stale",2024-10-16,https://github.com/stripe/stripe-js/issues/670
+[BUG]: PaymentElement doesn't display correct locale in Custom Checkout ,1,bug,2024-10-21,https://github.com/stripe/stripe-js/issues/672
+"[BUG]: StripeElement Not loading on test mode, Works fine on live mode.",3,bug,2024-10-09,https://github.com/stripe/stripe-js/issues/662
+[BUG]: The `.InputContainer .InputElement::-moz-placeholder` does not receive the color specified  for the colorTextPlaceholder in the appearance.variables,2,bug,2024-10-03,https://github.com/stripe/stripe-js/issues/657
+[BUG]: SetupIntent.NextAction type doesn't have verify_with_microdeposits object type,3,"bug, stale",2024-07-24,https://github.com/stripe/stripe-js/issues/630
+[BUG]: Error Failed to load Stripe.js ,5,"bug, stale",2023-09-04,https://github.com/stripe/stripe-js/issues/493
+[BUG]: There's no function for creating customer?,2,bug,2024-09-16,https://github.com/stripe/stripe-js/issues/649
+[BUG]: Missing implementation of 'retrieveCardNetworks' method in the package,3,"bug, stale",2024-06-10,https://github.com/stripe/stripe-js/issues/623
+[BUG]: Missing  {card: { network: string[]; }; } is not assignable to type DefaultValuesOption,3,bug,2024-07-04,https://github.com/stripe/stripe-js/issues/627
+[BUG]: Stripe.js freezes iOS WKWebView on navigation after visiting external link,5,"bug, stale",2024-05-29,https://github.com/stripe/stripe-js/issues/614
+[BUG]: CardElement not render in IOS + Google App browser,1,bug,2024-08-09,https://github.com/stripe/stripe-js/issues/635
+[BUG]: iframes will not load when you have COEP / COOP set on your site,2,duplicate,2024-08-08,https://github.com/stripe/stripe-js/issues/634
+[BUG]: Translation doesn't work on `stripe.verifyIdentity`,1,"bug, stale",2024-05-23,https://github.com/stripe/stripe-js/issues/608
+Allow to setup API baseURL,3,bug,2024-06-03,https://github.com/stripe/stripe-js/issues/615
+[BUG]: r.stripe.com/b blocked by uBlock origin,2,bug,2024-06-06,https://github.com/stripe/stripe-js/issues/619
+[BUG]: Stripe.js Attempting to JSON.parse '[object Object]' ,1,bug,2024-05-23,https://github.com/stripe/stripe-js/issues/609
+"[BUG]: Option type missing paymentMethods in elements.create('expressCheckout', options)",0,bug,2024-06-07,https://github.com/stripe/stripe-js/issues/621
+[BUG]: Google pay is not recognized in in-app browser (android),1,bug,2024-06-05,https://github.com/stripe/stripe-js/issues/618
+[FEATURE]: Cannot style select options in Stripe Elements,1,enhancement,2024-06-05,https://github.com/stripe/stripe-js/issues/616
+[BUG]: No overload for confirmSetup with confirmation_token,4,bug,2024-04-20,https://github.com/stripe/stripe-js/issues/601
+[BUG]: Stripe.js Attempting to JSON.parse '[object Object]',11,bug,2024-01-04,https://github.com/stripe/stripe-js/issues/534
+[BUG]: Payment element - Placeholder color setting not respected - it's getting overridden with the default,5,bug,2024-05-21,https://github.com/stripe/stripe-js/issues/607
+Ability to know when the user has invoked the submit button (Embedded Checkout),6,bug,2024-04-26,https://github.com/stripe/stripe-js/issues/604
+[BUG]: Google's third party cookies,11,bug,2024-02-13,https://github.com/stripe/stripe-js/issues/544
+[BUG]: Payment dialog for swish redirecting on cancel,1,bug,2024-04-26,https://github.com/stripe/stripe-js/issues/602
+"[BUG]: <svg> attribute height: Expected length, """"auto""""",1,bug,2024-04-26,https://github.com/stripe/stripe-js/issues/603
+[BUG]: Mismatch between Stripe docs for DefaultValuesOption and Type DefaultValuesOption,5,bug,2024-04-17,https://github.com/stripe/stripe-js/issues/600
+[BUG]: Apple Pay Button Type Continue throws error,7,bug,2024-03-28,https://github.com/stripe/stripe-js/issues/586
+[BUG]: IntegrationError on elements.create with clientSecret,1,bug,2024-04-12,https://github.com/stripe/stripe-js/issues/596
+[BUG]: js.stripe.com/v3 not loading on IOS,3,bug,2024-04-09,https://github.com/stripe/stripe-js/issues/594
+[BUG]: Google Pay PaymentRequestButtonElement subscribe,2,bug,2024-03-07,https://github.com/stripe/stripe-js/issues/571
+[BUG]:  V 3.3.0 has no exported member named 'StripeCartElement',4,bug,2024-04-09,https://github.com/stripe/stripe-js/issues/595
+Npm version 3.2.0 not visible in GitHub,2,bug,2024-04-08,https://github.com/stripe/stripe-js/issues/593
+[BUG]:  Problem type with loadStripe,4,bug,2024-03-08,https://github.com/stripe/stripe-js/issues/573
+[BUG]: Types are very incorrect in the package now in 3.x,20,bug,2024-02-13,https://github.com/stripe/stripe-js/issues/543
+[BUG]: no type definition for stripe.createConfirmationToken,4,bug,2024-03-26,https://github.com/stripe/stripe-js/issues/581
+[BUG]: onComplete does not trigger when using fetchClientSecret in Stripe's initEmbeddedCheckout,1,bug,2024-03-15,https://github.com/stripe/stripe-js/issues/578
+[BUG]: StripeElements defaultValues aren't working,1,bug,2024-03-15,https://github.com/stripe/stripe-js/issues/579
+[BUG]: Possible mismatched types between regular and pure,3,bug,2024-02-26,https://github.com/stripe/stripe-js/issues/563
+[BUG]: build error,4,bug,2024-03-14,https://github.com/stripe/stripe-js/issues/575
+[BUG]: Uncaught Error Error: Frame not initialized when using React StrictMode,1,bug,2024-03-04,https://github.com/stripe/stripe-js/issues/568
+"[BUG]: You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS. ",3,bug,2023-06-01,https://github.com/stripe/stripe-js/issues/453
+[BUG]: TypeScript error on Elements options,3,bug,2024-02-29,https://github.com/stripe/stripe-js/issues/566
+"[BUG]: Missing type ConfirmCashappSetupOptions in """"@stripe/stripe-js@3.0.4""""",3,bug,2024-02-21,https://github.com/stripe/stripe-js/issues/559
+> we pick things up alphabetically,1,,2024-02-25,https://github.com/stripe/stripe-js/issues/562
+[BUG]: compile error: loadStripe isn't found in @stripe/stripe-js/pure as of 3.0,13,bug,2024-02-13,https://github.com/stripe/stripe-js/issues/545
+[BUG]: type regression with moduleResolution: bundler,3,bug,2024-02-12,https://github.com/stripe/stripe-js/issues/542
+feat: ✨ Add ESM module support ,5,bug,2023-11-15,https://github.com/stripe/stripe-js/issues/527
+[BUG]: Invalid initEmbeddedCheckout(options) parameter: locale is not an accepted parameter.,1,bug,2024-01-28,https://github.com/stripe/stripe-js/issues/540
+[BUG]: Error when paying with cashapp,2,bug,2024-01-23,https://github.com/stripe/stripe-js/issues/539
+[BUG]: Warnings Reported In the Console over Content Security Policy ,5,bug,2023-12-22,https://github.com/stripe/stripe-js/issues/532
+[BUG]: loadStripe is not responding,6,"bug, stale",2023-11-05,https://github.com/stripe/stripe-js/issues/525
+[BUG]: CSP errors due to request for https://js.stripe.com/v3/.deploy_status_henson.json,1,bug,2023-12-05,https://github.com/stripe/stripe-js/issues/528
+"[BUG]: TypeError """"stripe is null""""",2,bug,2023-12-09,https://github.com/stripe/stripe-js/issues/529
+"[BUG] PaymentElement: onChange event triggers containing `value.type = """"card""""` before card is selected",4,"bug, stale",2023-09-29,https://github.com/stripe/stripe-js/issues/507
+"[BUG]: PayPal poup not showing in PWA installed as """"standalone""""",6,bug,2023-09-25,https://github.com/stripe/stripe-js/issues/505
+[BUG]: Types for Checkout session and the response object aren't correct,7,bug,2023-10-27,https://github.com/stripe/stripe-js/issues/523
+[BUG]: no Types for canCreateRadarSession in StripeConstructorOptions,1,bug,2022-09-14,https://github.com/stripe/stripe-js/issues/350
+[BUG]: esbuild packaging for ES5 support on older devices when integrating stripe-js,5,"bug, stale",2023-09-26,https://github.com/stripe/stripe-js/issues/506
+[BUG]: Types Bug for stripe.confirmSetup,3,bug,2023-10-19,https://github.com/stripe/stripe-js/issues/516
+[BUG]: Getting an error 'card_error' type with 'Redirect URL computation failed.' message.,3,"bug, stale",2023-09-04,https://github.com/stripe/stripe-js/issues/492
+[FEAT]: Get payer email from Apple/Google pay using PaymentElement,4,"enhancement, stale",2023-07-28,https://github.com/stripe/stripe-js/issues/476
+🔧 Instantiating loadStripe(key) to load stripe.js causes iframe error,8,bug,2023-08-31,https://github.com/stripe/stripe-js/issues/491
+[BUG]: Javascript console showing warnings,1,bug,2023-09-12,https://github.com/stripe/stripe-js/issues/499
+[BUG]: Unhandled promise rejection: Error: Failed to load Stripe.js,1,bug,2023-09-14,https://github.com/stripe/stripe-js/issues/502
+[BUG]: Get 400 status code when calling stripe.collectBankAccountForPayment(options),1,bug,2023-09-19,https://github.com/stripe/stripe-js/issues/503
+Ability to hide parasitic logs for local development,3,bug,2022-07-20,https://github.com/stripe/stripe-js/issues/334
+[BUG]: TS def for confirmPayment confirmParams is incomplete,2,bug,2023-09-06,https://github.com/stripe/stripe-js/issues/496
+[BUG]: stripe.confirmAcssDebitPayment is not a function,4,"bug, stale",2023-07-27,https://github.com/stripe/stripe-js/issues/475
+[BUG]: Why do on redirect the PaymentStatus component need Elements in order to useStripe,2,"bug, stale",2023-07-12,https://github.com/stripe/stripe-js/issues/469
+[BUG]: Return type for `confirmSetup` is not correct,3,bug,2023-08-30,https://github.com/stripe/stripe-js/issues/490
+[BUG]: Undesirable cut-off UI with large border radius,4,bug,2023-08-09,https://github.com/stripe/stripe-js/issues/481
+[BUG]: Apple Pay Button Not Displaying in Iframe on External Domain,3,bug,2023-08-25,https://github.com/stripe/stripe-js/issues/486
+"[FEAT/BUG]: Annoying """"Did you mean <email.com>?"""" message on LinkAuthenticationElement",3,enhancement,2023-07-28,https://github.com/stripe/stripe-js/issues/477
+[BUG]: filling in the phone does not work correctly if you fill it in through the browser autocomplete,5,bug,2023-06-10,https://github.com/stripe/stripe-js/issues/457
+[BUG]: Element didn't mount normally. Likely hard-sniffing for text/html,1,bug,2023-08-03,https://github.com/stripe/stripe-js/issues/478
+[BUG]: us_bank_account payment method does not work in webview,9,"bug, stale",2023-06-27,https://github.com/stripe/stripe-js/issues/463
+[BUG]: Tab key takes you to hidden field in PaymentElement,2,bug,2023-07-17,https://github.com/stripe/stripe-js/issues/470
+[BUG]: Incorrect error types for StripeInvalidRequestError and others,2,"bug, stale",2023-06-19,https://github.com/stripe/stripe-js/issues/458
+[IMPROVEMENT]: Display saved Cards of a Customer in the Payment Element,1,enhancement,2023-07-11,https://github.com/stripe/stripe-js/issues/468
+IntegrationError: show() must be called from a user gesture handler (Apple Pay),16,,2022-02-16,https://github.com/stripe/stripe-js/issues/289
+[BUG]: hook 3d secure page do not load from Android and Chrome,4,"bug, stale",2023-05-30,https://github.com/stripe/stripe-js/issues/452
+[BUG]: Missing type for confirmUpiPayment() from stripe.d.ts,1,bug,2023-06-23,https://github.com/stripe/stripe-js/issues/462
+[BUG]: card_declined has a parsing issue,4,bug,2023-06-20,https://github.com/stripe/stripe-js/issues/459
+[BUG]: Fail to redirect to check out page due to CORS error in chrome,1,"bug, duplicate",2023-06-22,https://github.com/stripe/stripe-js/issues/460
+[BUG]: Meses sin intereses (installments) with 'Automatic Payment Methods' enabled,1,bug,2023-06-02,https://github.com/stripe/stripe-js/issues/454
+[BUG]: Stripe.js not available,7,bug,2023-06-05,https://github.com/stripe/stripe-js/issues/455
+[BUG]: Copy to clipboard implementation issue for stripe issuing,4,bug,2023-05-16,https://github.com/stripe/stripe-js/issues/449
+[BUG]: Allow to setup API baseURL,5,bug,2022-04-30,https://github.com/stripe/stripe-js/issues/317
+[BUG]: Event ExpressCheckoutPartialAddress don't return 'state' when try to pay Link,4,bug,2023-05-24,https://github.com/stripe/stripe-js/issues/451
+[BUG]: .confirmSetup promise doesn't resolve,17,bug,2022-09-12,https://github.com/stripe/stripe-js/issues/349
+[BUG]: Type definition for removeAllListeners missing from PaymentRequest,2,"bug, wontfix",2023-04-20,https://github.com/stripe/stripe-js/issues/445
+[BUG]: No customers / paymentMethods actions in js,2,bug,2023-04-13,https://github.com/stripe/stripe-js/issues/443
+[BUG]: Incorrect `UsBankAccount` definition,1,bug,2023-03-26,https://github.com/stripe/stripe-js/issues/440
+[BUG]:  Advanced Fraud Signals is disabled but still sending reports,2,bug,2023-04-05,https://github.com/stripe/stripe-js/issues/441
+Checkout page not loading on Samsung Internet browser ,1,bug,2023-03-23,https://github.com/stripe/stripe-js/issues/438
+"[BUG]: error TS2305: Module '""""@stripe/stripe-js""""' has no exported member 'StripeElementsOptions'.",6,bug,2023-03-21,https://github.com/stripe/stripe-js/issues/432
+[BUG]: Beta Payment Element missing types,2,"bug, pinned",2023-02-13,https://github.com/stripe/stripe-js/issues/421
+[BUG]: IntegrationError: elements.submit() must be called before createPaymentMethod(),2,bug,2023-03-16,https://github.com/stripe/stripe-js/issues/431
+Why `stripe.redirectToCheckout` is deprecated?,1,bug,2023-03-07,https://github.com/stripe/stripe-js/issues/425
+[BUG]: `document is not defined` in a Deno+remix project,2,bug,2023-02-02,https://github.com/stripe/stripe-js/issues/420
+[BUG]: Property 'on' does not exist on type 'StripeIssuingCardNumberDisplayElement' — but it does work,0,bug,2023-02-02,https://github.com/stripe/stripe-js/issues/418
+[BUG]: StripeElementLocale type does not list Croatian language even though Stripe documentation states it is supported,0,bug,2023-01-31,https://github.com/stripe/stripe-js/issues/415
+[BUG]: supported locales missing from StripeElementLocale,0,bug,2023-01-22,https://github.com/stripe/stripe-js/issues/412
+[BUG]: Improve handling of multiple calls to `loadStripe.setLoadParameters`,2,bug,2023-01-24,https://github.com/stripe/stripe-js/issues/413
+Ability to pass a specific trusted type policy into `loadStripe`,2,bug,2022-12-31,https://github.com/stripe/stripe-js/issues/403
+[BUG]: IntegrationError loaderUi Element didn't mount normally.,1,bug,2023-01-06,https://github.com/stripe/stripe-js/issues/408
+[BUG]: Missing types in the barrel file,1,bug,2022-12-23,https://github.com/stripe/stripe-js/issues/400
+maybeStripe.apply is not a function when using loadStripe,1,bug,2023-01-05,https://github.com/stripe/stripe-js/issues/405
+[BUG]: IntegrationError: payment Element didn't mount normally.,4,bug,2022-12-22,https://github.com/stripe/stripe-js/issues/399
+[BUG]: Stripe.js not loading correctly based on docs.,1,bug,2023-01-02,https://github.com/stripe/stripe-js/issues/404
+[BUG]: `confirmSetup` does not redirect to the provided URL,6,bug,2022-11-16,https://github.com/stripe/stripe-js/issues/386
+[BUG]: stripe.js uses 70Mb of memory with empty installation,4,"bug, stale",2022-11-09,https://github.com/stripe/stripe-js/issues/372
+[BUG]: 'link' missing from PaymentRequestWallet types.,1,bug,2022-11-29,https://github.com/stripe/stripe-js/issues/390
+"[BUG]: Style attribute `padding` included in type definition of `StripeElementCSSProperties`, but only available for `idealBank` element",2,"enhancement, stale",2022-11-09,https://github.com/stripe/stripe-js/issues/373
+Handling errors with loadStripe(),4,,2022-02-09,https://github.com/stripe/stripe-js/issues/283
+PaymentRequest _activeBackingLibraryName/_buttonTypeName,2,bug,2022-11-15,https://github.com/stripe/stripe-js/issues/385
+Improper 'UsBankAccount' interface ,3,,2022-04-06,https://github.com/stripe/stripe-js/issues/305
+[BUG]: Incorrect redirection after a payment confirmation if the return_url contain a #,2,bug,2022-10-20,https://github.com/stripe/stripe-js/issues/368
+[BUG]: Apple Pay payment interface was showing however it was immediately closing,2,bug,2022-11-08,https://github.com/stripe/stripe-js/issues/371
+[Missing]: `stripe.confirmBankTransferPayment`,1,bug,2022-10-19,https://github.com/stripe/stripe-js/issues/367
+"[BUG]: createPaymentMethod -  Type '""""klarna""""' is not assignable to type '""""wechat_pay""""",1,bug,2022-10-07,https://github.com/stripe/stripe-js/issues/361
+"[BUG]: elements.getElement(""""card"""") is always null",3,bug,2022-10-04,https://github.com/stripe/stripe-js/issues/360
+[BUG]: No types for confirmPixPayment,0,bug,2022-09-16,https://github.com/stripe/stripe-js/issues/351
+[BUG]: no types for createRadarSession() method and canCreateRadarSession,2,bug,2022-08-26,https://github.com/stripe/stripe-js/issues/344
+[BUG]: Cant input 4digit CVV with full-wide input mode,5,"bug, stale",2022-07-26,https://github.com/stripe/stripe-js/issues/337
+Feature Request: Allow Padding in Card Elements,1,bug,2022-08-09,https://github.com/stripe/stripe-js/issues/340
+[BUG]: Incorrect types for `CollectBankAccountTokenResult`,2,bug,2022-08-16,https://github.com/stripe/stripe-js/issues/342
+[BUG]: StripeElement--webkit-autofill class is not added to parent container after autofill,4,bug,2022-08-10,https://github.com/stripe/stripe-js/issues/341
+[BUG]: PaymentElement - PaymentMethod 'customer_balance' not working when fields.billingDetails.email = never,2,bug,2022-06-16,https://github.com/stripe/stripe-js/issues/333
+[BUG]: Some methods defined in https://stripe.com/docs/js has not being defined in `types/stripe-js/stripe.d.ts`,1,bug,2022-06-13,https://github.com/stripe/stripe-js/issues/330
+"[BUG]: Missing """"descriptor_code"""" field in interface VerifyMicrodepositsForSetupData",1,bug,2022-06-09,https://github.com/stripe/stripe-js/issues/328
+[BUG]: Missing Orders beta typing for `processOrder()` and `retrieveOrder()`,2,bug,2022-05-23,https://github.com/stripe/stripe-js/issues/322
+[BUG]: Iframe height set to 2px,6,bug,2022-05-20,https://github.com/stripe/stripe-js/issues/319
+Missing `fingerprint` typings for the expand option,1,bug,2022-05-22,https://github.com/stripe/stripe-js/issues/321
+[BUG]: Uncaught (in Promise) {} (stripe.confirmPayment),1,bug,2022-05-22,https://github.com/stripe/stripe-js/issues/320
+Missing typings for the `expand` option,1,bug,2022-04-12,https://github.com/stripe/stripe-js/issues/309
+[BUG]: TS def for confirmPayment option redirect is incomplete,1,bug,2022-04-15,https://github.com/stripe/stripe-js/issues/311
+Stripe 'collectBankAccountForSetup' function typing issue,2,,2022-04-06,https://github.com/stripe/stripe-js/issues/304
+Firefox `::placeholder` opacity,7,,2022-02-15,https://github.com/stripe/stripe-js/issues/288
+Stripe iframe not fully loaded (v3 not loading),3,,2022-03-05,https://github.com/stripe/stripe-js/issues/295
+Potential for client to maliciously set shipping details?,4,,2022-03-04,https://github.com/stripe/stripe-js/issues/294
+Error: Failed to load Stripe.js at HTMLScriptElement.<anonymous>,1,,2022-01-29,https://github.com/stripe/stripe-js/issues/281
+Possible to disable loading animations,1,,2022-02-13,https://github.com/stripe/stripe-js/issues/285
+"Payment element Google Pay on android chrome show up only with """"desktop site"""" mode activated. It works perfectly when switch in desktop mode (tested with wallet tuto page here on 2 different android devices, same result. Can you please test on your side and advise if a bug or a stripe element limitation ? Thank you !",0,,2022-01-30,https://github.com/stripe/stripe-js/issues/282

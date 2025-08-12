@@ -1,0 +1,57 @@
+# Issues Total: 52
+# Repository: https://github.com/stripe/stripe-ruby
+# Generated: 2025-08-12
+#
+issue_title,comments_count,labels,opened_date,hyperlink
+Cannot add expand parmeter to Price,3,bug,2025-07-25,https://github.com/stripe/stripe-ruby/issues/1628
+API Documentation is showing deprecated examples,2,"bug, future",2025-02-11,https://github.com/stripe/stripe-ruby/issues/1532
+APIResource#refresh does not work if object is from a webhook event,2,bug,2025-06-03,https://github.com/stripe/stripe-ruby/issues/1616
+Tapioca doesn’t generate the expected types from `rbi/stripe/*`,7,bug,2025-04-10,https://github.com/stripe/stripe-ruby/issues/1577
+Stripe Customer retrieval does not return expanded fields,1,bug,2025-05-05,https://github.com/stripe/stripe-ruby/issues/1602
+v14.0.0 breaking with dasherized metadata keys,4,bug,2025-04-02,https://github.com/stripe/stripe-ruby/issues/1564
+"Customer `deleted?` method is showing up as false, but the customer `sources` method is undefined",2,bug,2025-04-25,https://github.com/stripe/stripe-ruby/issues/1596
+`rbi/stripe.rbi` missing some types for `retrieve`,1,bug,2025-04-11,https://github.com/stripe/stripe-ruby/issues/1579
+Invoice object signature seems to be missing payment_intent on 14.0.0 basil,1,bug,2025-04-11,https://github.com/stripe/stripe-ruby/issues/1580
+The discount method has gone missing from Stripe::Subscription in v14.0,4,bug,2025-04-07,https://github.com/stripe/stripe-ruby/issues/1570
+"v14.0.0 causes """"warning: redefining 'object_id' may cause serious problems"""" in test env.",2,bug,2025-04-03,https://github.com/stripe/stripe-ruby/issues/1567
+RFC: Static sorbet/RBI annotations for resources and methods,4,"future, feature-request",2024-10-30,https://github.com/stripe/stripe-ruby/issues/1479
+Surcharge parameters missing from payment method payload and payment intent confirmation,1,feature-request,2025-03-19,https://github.com/stripe/stripe-ruby/issues/1552
+NoMethodError:  undefined method `request_stripe_object' in Stripe::InvoiceLineItem,2,bug,2025-02-21,https://github.com/stripe/stripe-ruby/issues/1535
+Clarify V13 upgrade docs,1,feature-request,2025-02-03,https://github.com/stripe/stripe-ruby/issues/1530
+Let StripeClient be built with an app_info that overrides the global Stripe.app_info,2,feature-request,2025-01-23,https://github.com/stripe/stripe-ruby/issues/1525
+InvoiceLineItem.update missing 'invoice' argument,1,bug,2025-01-23,https://github.com/stripe/stripe-ruby/issues/1526
+Possible memory leak on Stripe::StripeObject,4,"bug, future",2024-12-04,https://github.com/stripe/stripe-ruby/issues/1498
+V13 service-based call pattern doesn't respect `Stripe.*` global config,2,bug,2025-01-02,https://github.com/stripe/stripe-ruby/issues/1511
+Error when calling Stripe::APIResource#refresh ,7,bug,2024-12-17,https://github.com/stripe/stripe-ruby/issues/1506
+Requiring gem takes over one second on a modest VPS,2,"bug, future",2024-07-11,https://github.com/stripe/stripe-ruby/issues/1432
+Fix accessibility issues,3,feature-request,2024-11-20,https://github.com/stripe/stripe-ruby/issues/1491
+Using a fixed_amount in Checkout for shipping causes version error,8,bug,2024-11-08,https://github.com/stripe/stripe-ruby/issues/1485
+v13 regression: `stripe_version` no longer supported as option in `ApiResource.retrieve`.,2,bug,2024-11-06,https://github.com/stripe/stripe-ruby/issues/1482
+Example of using instrumentation in code,4,feature-request,2024-10-04,https://github.com/stripe/stripe-ruby/issues/1467
+Wiki: Version 13 of migration guide contains error,1,bug,2024-10-02,https://github.com/stripe/stripe-ruby/issues/1464
+Will support Update an invoice's line item method?,6,feature-request,2024-02-08,https://github.com/stripe/stripe-ruby/issues/1325
+Unable to retrieve Transfer Reversal while expanding the transfer object,6,bug,2024-05-02,https://github.com/stripe/stripe-ruby/issues/1393
+Inconsistent error format,2,future,2021-09-04,https://github.com/stripe/stripe-ruby/issues/999
+Safe Navigation Operator (&) not working on Stripe::Account,0,,2023-06-19,https://github.com/stripe/stripe-ruby/issues/1236
+Account Retrieve For Nil return value,2,,2023-08-11,https://github.com/stripe/stripe-ruby/issues/1258
+Incomplete data for Stripe::Account.list_external_accounts,1,support,2024-03-08,https://github.com/stripe/stripe-ruby/issues/1358
+Ability to create a Stripe Price with a custom ID (currently possible via dashboard),1,support,2023-10-02,https://github.com/stripe/stripe-ruby/issues/1279
+"Link in changelog to migration guide is broken, migration guide says it is a draft",2,docs,2023-08-17,https://github.com/stripe/stripe-ruby/issues/1263
+Invalid UTF-8 byte sequence in ruby on rails,4,,2024-05-17,https://github.com/stripe/stripe-ruby/issues/1402
+NoMethodError: undefined method `create_source' for < Stripe::Customer>,1,,2024-05-27,https://github.com/stripe/stripe-ruby/issues/1405
+I do not receive the metadata when creating a checkout session,1,support,2024-05-28,https://github.com/stripe/stripe-ruby/issues/1406
+11.5.0 changelog just says to describe changes here,2,docs,2024-05-28,https://github.com/stripe/stripe-ruby/issues/1407
+Undefined method `verify' for Stripe::BankAccount:Class,3,bug,2024-05-31,https://github.com/stripe/stripe-ruby/issues/1410
+to_h should behave the same as to_hash,2,future,2021-10-07,https://github.com/stripe/stripe-ruby/issues/1008
+TaxId objects are failing to delete,3,bug,2024-02-15,https://github.com/stripe/stripe-ruby/issues/1333
+Return consistent result using '[]' and accessor methods of Stripe::StripeObject class,1,"future, feature-request",2024-02-21,https://github.com/stripe/stripe-ruby/issues/1338
+Stripe::SearchResultObject#_search deprecation warning is shown incorrectly,1,bug,2024-02-02,https://github.com/stripe/stripe-ruby/issues/1319
+Handle rate limiting,4,"future, feature-request",2022-08-16,https://github.com/stripe/stripe-ruby/issues/1114
+"Include a representation of the Stripe """"concept"""" and action in instrumentation event payloads",4,"future, feature-request",2023-02-15,https://github.com/stripe/stripe-ruby/issues/1178
+Testing stubs,14,future,2015-04-16,https://github.com/stripe/stripe-ruby/issues/243
+Expose connect account id in Stripe::StripeObject,4,"future, feature-request",2022-07-25,https://github.com/stripe/stripe-ruby/issues/1101
+Multiple query parameters with same key get de-duped,3,bug,2022-06-30,https://github.com/stripe/stripe-ruby/issues/1086
+Configurable HTTP client,11,future,2015-10-02,https://github.com/stripe/stripe-ruby/issues/313
+Simplify version override,11,,2019-10-24,https://github.com/stripe/stripe-ruby/issues/872
+TypeError - no implicit conversion of Hash into String when attempting to pay an invoice,4,,2019-07-10,https://github.com/stripe/stripe-ruby/issues/809
+Safer attribute assignment,3,future,2015-10-08,https://github.com/stripe/stripe-ruby/issues/327
