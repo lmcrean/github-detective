@@ -1,0 +1,33 @@
+# Repository list for GitHub issues collection
+# Generated from .notes/prompts/2.md
+
+repositories:
+  # Stripe repositories
+  - stripe/stripe-node
+  - stripe/stripe-mock
+  - stripe/stripe-react-native
+  - stripe/stripe-terminal-react-native
+  - stripe/stripe-js
+  - stripe/pg-schema-diff
+  - stripe/stripe-dotnet
+  - stripe/stripe-go
+  - stripe/stripe-ruby
+  
+  # Shopify repositories
+  - shopify/cli
+  - shopify/checkout-sheet-kit-swift
+  - shopify/react-native-skia
+  - shopify/hydrogen
+  - shopify/dev-mcp
+  - shopify/roast
+  - shopify/tapioca
+  - shopify/theme-tools
+  - shopify/yjit-metrics
+  - shopify/shopify-app-js
+  - shopify/job-iteration
+  - shopify/flash-list
+  - shopify/toxiproxy
+  - shopify/semian
+  - shopify/cli-ui
+
+# Total: 24 repositories (9 Stripe, 15 Shopify)
