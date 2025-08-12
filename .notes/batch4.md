@@ -13,7 +13,25 @@ For each Org
 
 # script architecture
 
-
+```
+scripts/
+├── org-research/                     # Organization data collection (moved here)
+│   ├── collect_org_repos.py         # Existing collector
+│   └── models.py                    # Data models
+│
+├── merged_prs_30d/                  # PR metrics collection
+│   ├── __init__.py
+│   ├── fetch_merged_prs.py         # Fetch merged PRs for last 30 days
+│   ├── add_pr_column.py            # Add merged_prs_30d column to CSV
+│   └── batch_processor.py          # Process multiple orgs in batch
+│
+├── filters/                         # Data filtering scripts
+│   ├── filter_by_date.py          # Filter1: Remove repos pushed before March 2025
+│   ├── filter_by_pr_activity.py   # Filter2: After adding merged_prs_30d
+│   └── filter_top_percentile.py   # Filter3: Keep top 50%
+│
+└── orchestrator.py                 # Main script to run full pipeline
+```
 
 # expected output
 
