@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from src.github_client.issue_collector import IssueCollector
+from github_client.issue_collector import IssueCollector
 
 
 def read_repositories_from_notes(filepath: str = ".notes/batch1.md") -> list:
