@@ -1,0 +1,75 @@
+org_name,repo_name,open_issue_count,stars_count,forks_count,last_pushed_date,pull_requests_open_count,about_description
+stripe,stripe-ruby,19,2037,578,2025-08-11,3,Ruby library for the Stripe API.    
+stripe,stripe-php,13,3912,880,2025-08-11,2,PHP library for the Stripe API.    
+stripe,stripe-python,21,1848,454,2025-08-11,5,Python library for the Stripe API.    
+stripe,stripe-java,25,885,371,2025-08-11,3,Java library for the Stripe API.    
+stripe,stripe-node,49,4152,805,2025-08-11,10,Node.js library for the Stripe API.    
+stripe,stripe-dotnet,19,1432,578,2025-08-11,4,"Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com."
+stripe,stripe-ios,158,2426,1015,2025-08-12,91,Stripe iOS SDK    
+stripe,stripe-android,128,1407,677,2025-08-12,76,Stripe Android SDK    
+stripe,poncho,4,515,23,2023-05-05,1,Easily create REST APIs      
+stripe,subprocess,6,210,18,2025-07-24,1,A port of Python's subprocess module to Ruby    
+stripe,stripe-reachability,2,32,12,2023-05-05,1,A bash script to test access to the Stripe API    
+stripe,stripe-go,13,2372,487,2025-08-11,2,Go library for the Stripe API.    
+stripe,unilog,1,78,18,2023-05-05,0,A logger for use with daemontools.    
+stripe,example-mobile-backend,13,107,203,2022-09-13,6,"A simple, easy-to-deploy backend that you can use to demo our example mobile apps.           "
+stripe,bonsai,3,140,16,2022-09-20,0,"Beautiful trees, without the landscaping.                          "
+stripe,veneur,62,1743,177,2024-03-20,26,"A distributed, fault-tolerant pipeline for observability data"
+stripe,smokescreen,25,1179,81,2025-08-11,8,A simple HTTP proxy that fogs over naughty URLs    
+stripe,krl,1,30,11,2025-04-03,1,OpenSSH Key Revocation List support for Go          
+stripe,ios-dashboard-ui,2,140,36,2023-05-05,1,[DEPRECATED] UI components from the Stripe Dashboard iOS app          
+stripe,goforit,0,72,15,2023-08-01,0,A feature flags client library for Go          
+stripe,openapi,15,431,130,2025-08-11,0,An OpenAPI specification for the Stripe API.        
+stripe,goproxy,2,23,12,2024-10-22,2,An HTTP proxy library for Go          
+stripe,stripe-connect-rocketrides,22,640,238,2024-03-13,4,"Sample on-demand platform built on Stripe: Connect onboarding for pilots, iOS app for passengers to request rides."
+stripe,ssf-ruby,1,5,11,2023-05-05,1,A Ruby client for the Sensor Sensibility Format
+stripe,stripe-mock,4,1495,120,2025-08-11,0,stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
+stripe,homebrew-stripe-mock,0,6,9,2025-05-19,0,Homebrew tap for stripestub
+stripe,dagon,15,150,19,2022-03-20,11,Tools for rewriting and optimizing DAGs (directed-acyclic graphs) in Scala
+stripe,elements-examples,1,1008,714,2024-08-20,0,Stripe Elements examples.
+stripe,rainier,31,436,45,2023-05-12,3,Bayesian inference in Scala.
+stripe,stripe-billing-typographic,25,217,68,2023-10-03,21,⚡️Typographic is a webfont service (and demo) built with Stripe Billing.
+stripe,stripe-terminal-ios,21,120,71,2025-08-07,0,Stripe Terminal iOS SDK
+stripe,stripe.github.io,1,128,24,2024-09-03,1,A landing page for Stripe's GitHub organization
+stripe,skycfg,10,664,57,2025-06-29,0,Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.
+stripe,stripe-terminal-android,20,113,53,2025-08-01,0,Stripe Terminal Android SDK
+stripe,stripe-terminal-js-demo,6,84,64,2025-01-14,2,Demo app for the Stripe Terminal JS SDK
+stripe,example-terminal-backend,6,98,143,2025-07-22,5,"A simple, easy-to-deploy backend that you can use to run the Stripe Terminal example apps"
+stripe,tracer-objc,0,53,6,2019-06-02,0,Generic record & playback framework for Objective-C
+stripe,stripe-cli,183,1750,405,2025-08-04,11,A command-line tool for Stripe
+stripe,scoop-stripe-cli,4,10,21,2025-07-30,0,
+stripe,homebrew-stripe-cli,2,7,9,2025-07-30,0,
+stripe,stripe-mirakl-connector,6,12,39,2024-08-06,6,Official Stripe Mirakl Connector
+stripe,react-stripe-js,6,1927,294,2025-08-04,2,React components for Stripe.js and Stripe Elements
+stripe,stripe-js,12,700,172,2025-08-01,2,Loading wrapper for Stripe.js
+stripe,stripe-connect-custom-rocketdeliveries,16,73,34,2023-07-10,13,Sample on-demand platform built on Stripe Connect: Custom Accounts and Connect Onboarding for deliveries. https://rocketdeliveries.io
+stripe,checkout-sales-demo,4,13,10,2025-04-01,4,Sales demo of Stripe Checkout with different locales around the world. 
+stripe,vscode-stripe,69,131,38,2025-03-20,23,Stripe for Visual Studio Code
+stripe,.github,0,9,47,2025-07-04,0,Stripe uses the Contributor Covenant Code of Conduct for our open-source community.
+stripe,terminal-js,6,38,15,2025-07-22,3,Loading wrapper for the Terminal JS SDK
+stripe,carbon-removal-source-materials,0,193,24,2022-01-03,0,Source materials supporting Stripe Climate carbon removal purchases (http://stripe.com/climate)
+stripe,stripe-react-native,161,1353,291,2025-08-11,24,React Native library for Stripe.
+stripe,stripe-postman,7,84,107,2025-06-05,1,Postman collection for Stripe's API
+stripe,stripe-apps,330,161,78,2025-08-08,104,Stripe Apps lets you embed custom user experiences directly in the Stripe Dashboard and orchestrate the Stripe API.
+stripe,stripe-ios-spm,0,14,8,2025-08-12,0,Swift Package Manager mirror for the Stripe iOS SDK. See http://github.com/stripe/stripe-ios for details.
+stripe,stripe-magento2-releases,2,38,11,2025-08-05,1,
+stripe,stripe-terminal-react-native,31,138,58,2025-08-12,6,React Native SDK for Stripe Terminal
+stripe,log4j-remediation-tools,2,41,8,2023-03-21,0,Tools for remediating the recent log4j2 RCE vulnerability (CVE-2021-44228)
+stripe,stripe-identity-react-native,13,36,12,2025-07-07,6,React Native library for Stripe Identity
+stripe,salesforce-connector-examples,4,18,12,2025-08-11,1,Stripe Salesforce Connector examples
+stripe,stripe-connect-furever-demo,11,93,41,2025-08-11,0,Code sample demo built on Stripe Connect embedded components.
+stripe,stripe-sfcc-b2c-connector,0,10,12,2025-08-11,0,
+stripe,connect-js,12,27,16,2025-07-30,0,Loading wrapper for Connect.js
+stripe,react-connect-js,4,28,16,2025-07-31,0,React components for Connect.js and Connect embedded components
+stripe,pg-schema-diff,55,558,39,2025-08-11,0,Go library for diffing Postgres schemas and generating SQL migrations
+stripe,vscode-endsmart,4,2,2,2025-02-11,0,vscode extension to smartly add `end` keywords
+stripe,stripe-commercetools-connect-app,5,11,6,2025-08-12,0,Stripe payments integration with commercetools Connect
+stripe,open-banking-v2-docs,0,3,2,2025-05-20,0,Open banking docs for V2 APIs
+stripe,terminal-connector-releases,0,3,1,2025-08-06,0,Release binaries for Stripe Terminal connectors
+stripe,agent-toolkit,12,925,131,2025-08-11,0,Python and TypeScript library for integrating the Stripe API into agentic workflows
+stripe,stripe-commercetools-checkout-app,2,3,3,2025-08-07,0,Stripe payments integration with commercetools Checkout
+stripe,scripts,0,6,2,2025-06-12,0,Stripe Scripts SDK - Types and validations for authoring Stripe Scripts
+stripe,munkisrv,1,1,0,2025-08-07,0,A lightweight Go web server for serving Munki repositories with AWS CloudFront signed URL support for secure package downloads. 
+stripe,memlink,0,6,0,2025-07-14,0,Memlink library for memcache
+stripe,ft3,0,51,3,2025-07-28,0,"FT3: Fraud Tools, Tactics, and Techniques Framework"
+stripe,LibreChat,1,2,0,2025-08-06,0,"Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project."

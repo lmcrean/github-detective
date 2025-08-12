@@ -1,0 +1,1123 @@
+org_name,repo_name,open_issue_count,stars_count,forks_count,last_pushed_date,pull_requests_open_count,about_description
+shopify,active_shipping,55,814,543,2019-12-17,5,ActiveShipping is a simple shipping abstraction library extracted from Shopify
+shopify,delayed_job,0,17,3,2019-06-21,0,Database based asynchronously priority queue system -- Extracted from Shopify 
+shopify,response_bank,2,136,18,2025-06-05,0,Simple response caching for Ruby applications
+shopify,liquid,399,11446,1468,2025-08-12,77,"Liquid markup language. Safe, customer facing template language for flexible web apps. "
+shopify,active_fulfillment,9,154,53,2024-09-24,3,Active Merchant library for integration with order fulfillment services
+shopify,vision,5,79,20,2012-05-04,0,The vision toolkit ( Shopify in a box -- for template designers )
+shopify,shopify_app,32,1834,711,2025-08-11,11,A Rails Engine for building Shopify Apps
+shopify,shopify-api-ruby,26,1077,478,2025-08-12,6,ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.
+shopify,asset_cloud,6,27,8,2025-08-04,2,An abstraction layer around arbitrary and diverse asset stores
+shopify,liquid-tmbundle,0,61,35,2023-08-14,0,Liquid Templates Textmate Bundle
+shopify,ultrasphinx,0,4,2,2012-01-25,0,Ruby on Rails configurator and client to the Sphinx full text search engine
+shopify,money,32,343,44,2025-08-11,14,Manage money in Shopify with a class that won't lose pennies during division
+shopify,connect-googleapps,0,26,14,2025-05-13,0,Google Apps OpenID auth middleware for Connect / Node.js
+shopify,dynect_email,0,5,4,2014-05-27,0,
+shopify,shopify_theme,50,649,135,2018-12-17,11,A console tool for interacting with Shopify Theme Assets.
+shopify,statsd-instrument,13,586,100,2025-08-01,7,A StatsD client for Ruby apps. Provides metaprogramming methods to inject StatsD instrumentation into your code.
+shopify,active_utils,8,93,84,2025-08-11,6,"Active Utils extracts commonly used modules and classes used by Active Merchant, Active Shipping, and Active Fulfillment"
+shopify,shopify_python_api,27,1370,379,2025-06-16,11,ShopifyAPI library allows Python developers to programmatically access the admin section of stores
+shopify,shopify_django_app,15,502,167,2025-05-13,4,Get a Shopify app up and running with Django and Python Shopify API
+shopify,theme-sync,2,10,14,2015-08-03,0,
+shopify,omniauth-shopify-oauth2,17,92,70,2025-08-04,5,Shopify OAuth2 Strategy for OmniAuth 1.0
+shopify,google_auth,2,4,4,2015-03-15,0,
+shopify,ObjectiveRecord,0,4,5,2012-08-01,0,ObjectiveRecord
+shopify,wolverine,4,111,28,2023-03-22,1,Scripting redis with lua made even easier
+shopify,marginalia-resque,0,2,2,2012-10-11,0,
+shopify,rpm,0,3,2,2014-11-04,0,New Relic RPM Ruby Agent
+shopify,Shopify-Developer-Book,1,44,14,2014-03-11,0,An ebook containing Shopify tips
+shopify,chef-ebs,7,31,40,2018-02-15,6,Scalarium's EBS cookbook with added magic
+shopify,multirow_counter,1,8,4,2014-06-23,0,
+shopify,dashing,251,10956,1173,2019-04-29,28,The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+shopify,shopify.github.com,4,520,117,2025-05-23,-1,A collection of the open source projects by Shopify
+shopify,airbrake,1,2,0,2015-01-06,-1,The official Airbrake library for Ruby on Rails. Links to other Airbrake libraries are in the ReadMe. 
+shopify,dukpt,2,45,30,2025-05-13,-1,Implements a decrypter for ciphertext originating from a device using a Derived Unique Key Per Transaction (DUKPT) scheme
+shopify,superdb,7,1148,81,2018-11-06,-1,"The Super Debugger, a realtime wireless debugger for iOS"
+shopify,fmdb,0,4,3,2014-07-30,-1,A Cocoa / Objective-C wrapper around SQLite
+shopify,search_query_parser,0,4,6,2018-12-17,-1,
+shopify,magnet,1,30,14,2023-03-22,-1,Magnetic Track Data parsing library
+shopify,dmca,0,5,4,2014-04-14,-1,dmca
+shopify,identity_cache,41,1940,173,2025-08-04,-1,"IdentityCache is a blob level caching solution to plug into Active Record. Don't #find, #fetch!"
+shopify,brigade,0,42,10,2017-12-04,-1,Parallel S3 bucket-bucket differential sync in Go
+shopify,ohai-system_packages,0,4,1,2017-01-13,-1,
+shopify,rails_parallel,0,44,8,2023-03-22,-1,Makes your Rails tests scale with the number of CPU cores available
+shopify,chef-apt,0,4,2,2013-03-25,-1,Development repository for Opscode Cookbook apt
+shopify,noeq53,0,6,4,2013-06-05,-1,A fault-tolerant network service for meaningful GUID generation
+shopify,s3cmd,0,3,2,2014-06-04,-1,Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+shopify,reprepro,0,3,2,2013-08-26,-1,Development repository for Opscode Cookbook reprepro
+shopify,memcached_store,9,37,18,2025-08-04,-1,ActiveSupport MemcachedStore
+shopify,tinymce,0,11,7,2024-02-20,-1,TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL.
+shopify,roadie,0,7,2,2014-02-16,-1,Making HTML emails comfortable for the Rails rockstars
+shopify,browser_sniffer,3,119,21,2025-08-04,-1,Properly detect what browser you are dealing with
+shopify,chef-keepalived,1,2,2,2014-12-03,-1,Development repository for Opscode Cookbook keepalived
+shopify,opensrs,1,3,4,2022-01-17,-1,Provides support to utilise the OpenSRS API with Ruby/Rails.
+shopify,omnibus_updater,1,2,5,2018-12-17,-1,Omnibus Chef updater (historical fork)
+shopify,chef-client,0,2,5,2018-12-17,-1,Development repository for Opscode Cookbook chef-client
+shopify,locationary,0,4,6,2019-01-14,-1,
+shopify,turbo-sprockets-rails3,0,2,2,2013-09-03,-1,"Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets"
+shopify,sysv_mq,4,86,15,2025-05-13,-1,a Go wrapper for SysV Message Queues
+shopify,chef-collectd,0,2,4,2018-12-17,-1,Chef cookbook for collectd
+shopify,jmxtrans,0,2,2,2013-10-04,-1,jmxtrans
+shopify,sysctl-cookbook,0,3,3,2013-09-21,-1,
+shopify,goreferrer,2,64,14,2025-06-17,-1,Analyzes and classifies different kinds of referrer URLs
+shopify,bcache-tools,0,2,2,2013-11-12,-1,"bcache-tools, part of the bcache hybrid storage project (features, debian packaging)"
+shopify,chef-collectd_plugins,0,4,3,2013-11-13,-1,Chef cookbook for collectd plugins
+shopify,chef-datadog,0,2,2,2018-07-16,-1,Datadog's public cookbooks
+shopify,jzmq,0,2,2,2013-11-14,-1,Frozen version of JZMQ that is tested to work with Storm.
+shopify,hubot-flowdock,0,2,1,2014-08-07,-1,Flowdock adapter for Hubot chat bot
+shopify,hubot,0,4,2,2013-11-18,-1,Chef cookbook for deploying and managing an instance of Github's Hubot.
+shopify,dd-agent,0,1,1,2015-07-28,-1,Datadog Agent
+shopify,poseidon,0,2,2,2014-11-24,-1,A client for Kafka 0.8
+shopify,sky,0,16,6,2014-05-21,-1,":dancer: Sky is an open source, behavioral analytics database."
+shopify,sky.go,0,2,3,2013-11-04,-1,:rocket: The official Go client for the Sky database.
+shopify,activerecord-rescue_from_duplicate,7,91,9,2025-08-04,-1,"Ruby gem to rescue from MySQL, PostgreSQL and Sqlite duplicate errors"
+shopify,pyactiveresource,20,102,46,2025-08-12,-1,
+shopify,rails-bigint-primarykey,0,15,7,2017-08-23,-1,Transparently use 64bit primary keys in rails.
+shopify,redis-rb,0,2,4,2018-12-17,-1,A Ruby client library for Redis
+shopify,giffy,0,11,3,2014-07-04,-1,
+shopify,verdict,4,175,19,2021-02-19,-1,"Framework to define and implement A/B tests in your application, and collect data for analysis purposes."
+shopify,go-lua,50,3321,204,2025-07-18,-1,A Lua VM in Go
+shopify,lhm,7,199,27,2025-07-08,-1,Online MySQL schema migrations
+shopify,keepalived,0,4,3,2014-11-21,-1,Keepalived
+shopify,sky.rb,0,2,3,2014-05-14,-1,The Ruby client for the Sky database.
+shopify,chef-resolver,0,2,2,2014-12-02,-1,Development repository for Opscode Cookbook resolver
+shopify,activeresource,0,9,8,2024-09-09,-1,Connects business objects and REST web services
+shopify,Timber,50,1114,504,2018-07-05,-1,"The ultimate Shopify theme framework, built by Shopify."
+shopify,shipit-engine,71,1451,150,2025-07-22,-1,Deployment coordination
+shopify,turbolinks,0,2,3,2015-05-26,-1,Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)
+shopify,goluago,9,71,15,2024-05-27,-1,Lua wrappers for the Go standard library
+shopify,gomemcache,1,3,6,2021-10-07,-1,Go Memcached client library #golang
+shopify,oauth2_proxy,5,15,8,2022-09-21,-1,A reverse proxy that provides authentication using Google OAuth2
+shopify,tcr,0,3,3,2014-10-30,-1,VCR for TCP
+shopify,hosted-payment-sim,7,74,36,2019-01-22,-1,
+shopify,mailcheck,0,5,2,2014-03-25,-1,Email domain spelling suggester
+shopify,liquid-c,27,115,27,2025-01-16,-1,Liquid performance extension in C.
+shopify,go.grace,0,4,3,2014-05-23,-1,Graceful restart for Go servers.
+shopify,grunt-rails-asset-digest,0,1,2,2014-04-01,-1,grunt-rails-asset-digest
+shopify,partial_search,0,3,3,2014-04-03,-1,Provides a library using the Chef partial search API
+shopify,bolt,0,1,2,2015-06-13,-1,A low-level key/value database for Go.
+shopify,shopify-fulfillment-integration,6,77,22,2023-08-18,-1,Example Fulfillment Service Integration with Shopify
+shopify,cookbook-bind,0,3,3,2014-11-19,-1,Berkeley Internet Name Daemon
+shopify,ejson,5,1433,65,2025-08-11,-1,EJSON is a small library to manage encrypted secrets using asymmetric encryption.
+shopify,mmh3,0,3,3,2014-05-08,-1,"Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions."
+shopify,shopify-css-import,5,84,19,2025-07-22,-1,Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
+shopify,coreos-vagrant,0,3,2,2014-05-08,-1,Minimal Vagrantfile for CoreOS
+shopify,activerecord-pedantmysql2-adapter,2,15,7,2024-04-04,-1,Active Record adapter for MySQL that reports warnings.
+shopify,chef-handler-datadog,0,3,2,2014-05-30,-1,Get chef stats directly into Datadog
+shopify,capistrano-bundler,0,3,3,2014-05-27,-1,Bundler support for Capistrano 3.x
+shopify,camus,3,7,4,2018-06-18,-1,Kafka->HDFS pipeline from LInkedIn. It is a mapreduce job that does distributed data loads out of Kafka.
+shopify,collins,10,5,3,2023-06-09,-1,groovy kind of love
+shopify,alchemy-linux-public,0,10,4,2021-07-29,-1,
+shopify,ipxe,0,3,1,2014-06-13,-1,iPXE network bootloader.  This is a mirror of the iPXE git tree at http://git.ipxe.org/ipxe.git
+shopify,state_machine,2,3,6,2023-04-15,-1,Adds support for creating state machines for attributes on any Ruby class
+shopify,jquery.payment,0,3,3,2014-05-30,-1,"A general purpose library for building credit card forms, validating inputs and formatting numbers."
+shopify,openvpn,0,3,2,2014-07-11,-1,OpenVPN  is  an open source VPN daemon
+shopify,starscream-flake8,1,2,3,2016-12-15,-1,
+shopify,Paralloid,0,1,2,2016-05-02,-1,Paralloid - (Pah-rah-loid) The Android Parallax library.
+shopify,pyreferrer,4,43,18,2023-05-12,-1,"A Python package that analyzes and classifies different kinds of referrer URLs (search, social, ...) :rocket:"
+shopify,minfraud-ruby,1,5,5,2023-08-28,-1,Ruby interface to the MaxMind minFraud API service.
+shopify,go-dogstatsd,0,3,5,2022-07-29,-1,DEPRECATED: Use https://github.com/DataDog/datadog-go
+shopify,minesweeper,2,113,24,2022-07-29,-1,Scans websites; detects bombs
+shopify,toxiproxy,92,11412,471,2025-08-11,-1,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+shopify,azkaban-scheduler-ruby,0,3,6,2018-05-30,-1,
+shopify,turbograft,20,214,29,2024-05-16,-1,"Hard fork of turbolinks, adding partial page replacement strategies, and utilities."
+shopify,twine,17,117,9,2025-05-29,-1,Twine is a minimalistic two-way binding system
+shopify,semian,51,1423,81,2025-08-12,-1,:monkey: Resiliency toolkit for Ruby for failing fast
+shopify,graphicsmagick-backport,0,3,4,2014-10-06,-1,
+shopify,chef-git,5,5,4,2023-03-22,-1,Replacement chef-client that reads directly from a git repository
+shopify,redis-tools,0,2,4,2016-11-15,-1,Tools to monitor Redis servers
+shopify,apache2-cookbook,0,5,1,2014-10-14,-1,Development repository for  the apache2 cookbook
+shopify,shopify-snap,0,14,5,2017-04-20,-1,Website screenshot service powered by node.js and phantomjs
+shopify,themekit,99,1249,406,2025-06-24,-1,Shopify theme development command line tool.
+shopify,chef-smokeping,0,1,0,2014-10-26,-1,Chef recipe for setting up smokeping
+shopify,sv-rollout,0,15,3,2019-02-28,-1,A utility for coordinating service rollouts
+shopify,chocolatechipjs-pub,0,2,2,2014-11-25,-1,
+shopify,toxiproxy-ruby,0,122,15,2025-08-11,-1,A ruby api for Toxiproxy that can be used for resiliency testing.
+shopify,grizzly_ber,3,15,6,2025-08-11,-1,"GrizzlyBer, the fiercest TLV-BER parser!"
+shopify,iptables-ng,0,3,3,2014-12-19,-1,
+shopify,homebrew-shopify,21,49,28,2025-08-06,-1,
+shopify,zeromq-cookbook,0,1,1,2015-01-08,-1,A chef cookbook to install zeromq
+shopify,airbrake-go,0,3,2,2015-04-20,-1,Go library to report errors to airbrake and compatible servers
+shopify,capistrano-ejson,0,12,10,2023-03-22,-1,
+shopify,quantified,2,17,6,2025-08-04,-1,Pretty quantifiable measurements which feel like ActiveSupport::Duration
+shopify,Viking,1,2,3,2023-04-16,-1,A familiar jRuby hdfs wrapper.
+shopify,rack-test,0,1,1,2015-01-28,-1,Rack::Test is a layer on top of Rack's MockRequest similar to Merb's RequestHelper
+shopify,json,0,3,5,2025-03-13,-1,JSON implementation for Ruby
+shopify,azkaban,0,1,2,2015-08-24,-1,Azkaban workflow manager.
+shopify,dogapi-rb,0,2,7,2023-03-22,-1,Ruby client for DataDog's API
+shopify,ssllabs.rb,2,37,15,2017-03-21,-1,
+shopify,lua-tests,0,16,4,2015-02-26,0,A versioned copy of Lua tests
+shopify,measured,13,376,30,2025-08-12,6,Encapsulate measurements and their units in Ruby and Ruby on Rails.
+shopify,measured-rails,2,92,13,2024-04-19,0,Rails adapter for the measured gem. Encapsulate measurements and their units in Ruby and Rails.
+shopify,ruby-libsass,0,2,1,2014-10-02,0,Ruby bindings for libsass
+shopify,qless,5,8,8,2023-04-21,5,Queue / Pipeline Management
+shopify,Hermann,0,2,1,2014-09-11,0,A Ruby gem wrapping the librdkafka library as a C extension.
+shopify,stellar.js,0,4,5,2016-07-04,0,Stellar.js - Parallax scrolling made easy
+shopify,007,3,8,6,2023-04-16,3,An agent which spies on procfs.
+shopify,shopify_api_console,10,27,15,2021-08-19,5,
+shopify,delayed_job_current,0,2,3,2015-03-31,0,"A fork of the official DelayedJob repository, with Shopify's improvements."
+shopify,delayed_job_sqs,0,5,6,2015-03-31,0,Amazon SQS backend for DelayedJob
+shopify,gozk-recipes,3,4,6,2024-05-16,3,"Implementations of some of the common ZooKeeper ""recipes""."
+shopify,tableau-ruby,0,9,6,2023-03-22,0,Unofficial ruby wrapper for the Tableau REST Api
+shopify,stackprof,2,5,5,2023-05-09,2,a sampling call-stack profiler for ruby 2.1+
+shopify,buildkit,0,58,27,2025-05-12,0,API wrapper for buildkite https://buildkite.com/docs/api/
+shopify,wpt-script,0,2,1,2015-05-05,0,Scripts to generate WebPagetest tests and download results
+shopify,vcr,0,8,4,2023-03-22,0,"Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests."
+shopify,ruby-mime-types,0,2,3,2023-03-22,0,Ruby MIME type registry and library
+shopify,ios-snapshot-test-case,0,2,6,2019-09-24,0,Snapshot view unit tests for iOS
+shopify,unicorn,0,7,4,2024-06-05,0,Copy of unicorn webserver
+shopify,coverband,0,1,1,2015-05-22,0,Rack middleware to help measure production code coverage
+shopify,mobile-buy-sdk-ios,99,473,202,2025-08-11,5,"Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using Apple Pay or their credit card."
+shopify,dyn-rb,0,1,2,2015-05-29,0,Dyn SDK for Ruby
+shopify,sprockets,0,1,1,2015-06-26,0,Rack-based asset packaging system
+shopify,gozk,1,7,4,2025-05-13,1,Fork of https://wiki.ubuntu.com/gozk
+shopify,BUYPaymentButton,1,50,9,2016-02-11,1,BUYPaymentButton is a vector-based Apple Pay button for all iOS 8 versions
+shopify,state_machines-activerecord,0,1,1,2015-07-09,0,StateMachines Active Record Integration
+shopify,state_machines,0,1,1,2017-06-20,0,Adds support for creating state machines for attributes on any Ruby class
+shopify,cloudshaper,1,2,2,2015-06-22,1,Terraform stack management workflow
+shopify,pywebhdfs,0,2,3,2015-07-14,0,Pure Python wrapper for the Hadoop WebHDFS Rest API
+shopify,terraform-provider-chef,0,2,3,2016-10-18,-1,
+shopify,pyinter,0,3,2,2016-05-10,-1,A interval package for Python which deals with interval arithmetic 
+shopify,arel,0,1,1,2015-07-10,-1,A Relational Algebra
+shopify,php-resque,0,3,1,2015-08-24,-1,PHP port of resque (Workers and Queueing)
+shopify,terraform-provider-dns,0,7,5,2017-12-04,-1,A terraform plugin that provides read-only resources for DNS records.
+shopify,sassc-rails,0,2,2,2015-09-29,-1,Integrate SassC-Ruby with Rails!
+shopify,terraform,3,4,7,2024-02-06,-1,"Terraform is a tool for building, changing, and combining infrastructure safely and efficiently."
+shopify,oj,1,2,4,2023-12-05,-1,Optimized JSON
+shopify,react-native-cookies,0,2,3,2015-08-27,-1,Cookie manager for React Native
+shopify,rack-utf8_sanitizer,0,1,1,2015-08-15,-1,Rack::UTF8Sanitizer is a Rack middleware which cleans up invalid UTF8 characters in request URI and headers.
+shopify,agent,2,4,2,2024-01-04,-1,The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
+shopify,presto_metrico,0,1,2,2015-08-17,-1,Send Presto DB stats to DataDog 
+shopify,psych,0,1,7,2025-04-30,-1,A libyaml wrapper for Ruby
+shopify,minimoozie,0,1,2,2015-08-24,-1,A delightfuly simple way to just monitor things on oozie.
+shopify,mixpanel-iphone,0,3,2,2015-09-10,-1,iPhone tracking library for Mixpanel Analytics
+shopify,rails-html-sanitizer,0,1,2,2015-06-17,-1,
+shopify,FuelSDK-Ruby,2,2,3,2023-04-12,-1,Fuel SDK for Ruby
+shopify,frozen_record,0,5,2,2017-01-12,-1,Read only ActiveRecord-like interface to query static YAML files
+shopify,doggy,8,38,19,2021-07-29,-1,
+shopify,google-api-ads-ruby,0,2,1,2015-09-16,-1,
+shopify,libgraphqlparser,0,4,1,2016-12-07,-1,A GraphQL query parser in C++ with C and C++ APIs
+shopify,graphql-batch,17,1429,105,2025-08-12,-1,A query batching executor for the graphql gem
+shopify,redlock-rb,0,1,2,2015-09-22,-1,Redlock Redis-based distributed locks implementation in Ruby
+shopify,mobile-buy-sdk-android,106,228,141,2025-08-11,-1,"Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using their credit card."
+shopify,relay,0,4,4,2015-10-13,-1,Relay is a JavaScript framework for building data-driven React applications.
+shopify,fbjs,0,2,3,2015-09-25,-1,A collection of utility libraries used by other Facebook JS projects.
+shopify,ruby-style-guide,10,557,51,2025-08-11,-1,Shopify’s Ruby Style Guide
+shopify,lita,0,3,2,2015-09-29,-1,ChatOps for Ruby.
+shopify,lita-external,1,3,2,2018-10-24,-1,
+shopify,logrus-bugsnag,11,14,19,2025-07-23,-1,logrus-bugsnag is a hook that interfaces Logrus with Bugsnag.
+shopify,oxidized,4,4,4,2016-06-02,-1,"configuration backup software (IOS, JunOS) - silly attempt at rancid"
+shopify,rbeapi,0,2,2,2015-12-17,-1,Ruby client for Arista eAPI
+shopify,OAStackView,0,1,1,2016-06-16,-1,Porting UIStackView to iOS 7+
+shopify,react-native-swipeout,0,5,2,2015-11-19,-1,iOS-style swipeout buttons behind component
+shopify,coffeelint-ruby,0,1,1,2015-11-30,-1,This adds some simple bindings to ruby to enable use of coffeelint
+shopify,vim-fugitive,0,1,2,2015-11-24,-1,"fugitive.vim: a Git wrapper so awesome, it should be illegal"
+shopify,opsworks_sidekiq,0,3,2,2018-07-19,-1,Chef cookbook for configuring an AWS OpsWorks layer of delayed_job workers.
+shopify,openMVS,0,1,2,2015-10-26,-1,open Multi-View Stereo reconstruction library
+shopify,js-buy-sdk,21,1005,267,2025-07-28,-1,"The JS Buy SDK is a lightweight library that allows you to build ecommerce into any website. It is based on Shopify's API and provides the ability to retrieve products and collections from your shop, add products to a cart, and checkout."
+shopify,zygote-gem,10,12,11,2023-04-21,-1,iPXE automation framework
+shopify,linecook-gem,7,8,3,2023-04-16,-1,Build portable Linux system images.
+shopify,javascript,13,258,39,2022-07-14,-1,The home for all things JavaScript at Shopify.
+shopify,rails_stdout_logging,0,1,1,2016-01-18,-1,Logs to stdout so you don't have to
+shopify,docker,0,21,13,2017-07-05,-1,Docker - the open-source application container engine
+shopify,example-ruby-app,8,74,122,2023-04-17,-1,Example application written in Ruby for API documentation.
+shopify,jquery-minicolors,0,3,2,2016-02-29,-1,jQuery MiniColors Plugin
+shopify,oxidized-script,0,2,2,2016-03-21,-1,CLI and LIB for scripting network devices via Oxidized
+shopify,sprockets-commoner,18,182,23,2023-10-24,-1,Use Babel in Sprockets to compile JavaScript modules for the browser
+shopify,css,6,45,4,2020-06-01,-1,Guidelines for writing CSS and SCSS at Shopify.
+shopify,oktakit,21,72,64,2025-08-11,-1,Ruby toolkit for working with the Okta API
+shopify,metasploit-framework,0,3,3,2016-03-15,-1,Metasploit Framework
+shopify,html_tokenizer,1,3,5,2024-03-20,-1,An HTML tokenizer.
+shopify,genesis_collector,4,7,2,2017-04-25,-1,Agent to collect information about bare metal servers and send it to Genesis.
+shopify,schmooze,9,75,14,2025-08-11,-1,Schmooze lets Ruby and Node.js work together intimately.
+shopify,fastclick,0,3,4,2016-02-29,-1,Polyfill to remove click delays on browsers with touch UIs
+shopify,reconnecting-websocket,0,3,2,2016-02-29,-1,A small decorator for the JavaScript WebSocket API that automatically reconnects
+shopify,measurement.js,0,1,2,2016-02-29,-1,Behaviour-driven Unit-of-Measure conversion in javascript nice and easy.
+shopify,prepareTransition,0,2,2,2016-02-29,-1,
+shopify,android-testify,0,232,23,2022-08-08,-1,Add screenshots to your Android tests
+shopify,babelify-jest,0,1,2,2016-03-02,-1,Jest plugin for Babel which handles babelify modules gently
+shopify,onepassword-app-extension,0,3,4,2016-12-12,-1,1Password Extension for iOS Apps
+shopify,fleek,9,35,5,2023-04-12,-1,Keep your styles hot :nail_care:
+shopify,rorybot,4,43,9,2017-12-04,-1,Catch writing that doesn't follow style guide rules.
+shopify,retext-shopify,4,22,15,2023-03-22,-1,Warn about Shopify style guide violations with Retext.
+shopify,linter-rorybot,0,6,6,2023-03-22,-1,Atom linter plugin using rory to catch Shopify style guide violations.
+shopify,sublimelinter-rorybot,2,2,3,2016-05-05,-1,A Sublime linter for the rorybot style guide checker
+shopify,pos-app-sdk-example,14,21,22,2023-05-04,-1,Sample embedded app for Shopify POS for the iPad https://docs.shopify.com/api/sdks/shopify-pos-app-sdk
+shopify,billing-demo-app,9,25,22,2023-05-05,-1,
+shopify,heroku-buildpack-git-deploy-keys,0,4,9,2019-08-23,-1,Heroku buildpack to let you use git deploy keys with your private repositories
+shopify,analytics-api-example,9,13,6,2023-05-04,-1,Example app from March 2016 Unite Talk
+shopify,slate-cli,0,19,8,2017-08-11,-1,This repo has been deprecated. Please open any new issues or PRs in the Shopify/slate repo.
+shopify,decaf,0,6,2,2016-11-24,-1,Coffeescript to ES.next transpiler
+shopify,resque-scheduler,2,2,3,2019-02-15,-1,A light-weight job scheduling system built on top of resque
+shopify,ruby-junos-ez-stdlib,0,2,3,2023-03-22,-1,"A collection of Ruby classes to make Junos automation Easy.  This is the ""standard library"" supported on all devices."
+shopify,hmaclib,0,3,3,2015-06-02,-1,super simple hmac calculator for golang
+shopify,genesis_client,0,3,3,2016-08-10,-1,Ruby client library for the Genesis API
+shopify,chef-zfs,0,2,4,2016-05-21,-1,
+shopify,pytest-random,0,2,3,2016-04-28,-1,randomize your py.test run
+shopify,ckafka,0,3,2,2017-03-30,-1,
+shopify,teaspoon-bundle,3,2,4,2023-07-29,-1,Dynamically create a test bundle for Teaspoon that contains all the files
+shopify,heroku-buildpack-imagemagick,0,2,4,2018-01-16,-1,
+shopify,pytest-redis,0,1,1,2017-05-12,-1,A pytest plugin that reads test paths from a redis instance list
+shopify,analytics.js-integrations-1,0,1,1,2015-06-23,-1,All of the third-party analytics.js integrations.
+shopify,erb_lint,83,727,134,2025-08-11,-1,Lint your ERB or HTML files
+shopify,kitchen-shopify-provisioner,1,4,3,2016-10-13,-1,Shopify quirks for test kitchen
+shopify,better-html,12,456,27,2025-07-15,-1,Better HTML for Rails
+shopify,teaspoon,0,3,4,2023-03-22,-1,"Teaspoon: A Javascript test runner built on top of Rails - use Jasmine, Mocha or QUnit in the browser or headlessly using PhantomJS or with Selenium Webdriver."
+shopify,bootscale,0,3,2,2017-04-03,-1,Speedup applications boot by caching require calls
+shopify,lua-nginx-internals-nginx-module,0,7,2,2018-05-15,-1,
+shopify,rails,11,15,8,2025-08-11,-1,Ruby on Rails
+shopify,aead,0,5,3,2016-07-06,-1,Authenticated Encryption with Associated Data
+shopify,buy-button-js,149,251,122,2025-08-12,-1,BuyButton.js is a highly customizable UI library for adding ecommerce functionality to any website.
+shopify,shopify_apt_get_on_change,5,2,6,2023-04-21,-1,On demand apt-get update
+shopify,livesys,2,8,7,2023-03-22,-1,"A simple ubuntu system, intended to be run as an in-memory live image."
+shopify,livekernel,0,3,5,2016-06-28,-1,A live kernel used for PXE booting a live image.
+shopify,net-ssh,0,3,3,2016-06-27,-1,Pure Ruby implementation of an SSH (protocol 2) client
+shopify,sass-lint,0,2,3,2016-06-29,-1,Pure Node.js Sass linting
+shopify,gulp-sass-lint,0,1,2,2016-10-20,-1,Gulp plugin for Sass Lint
+shopify,ipset-cookbook,0,2,4,2016-07-04,-1,Chef cookbook to manage IPset on Linux
+shopify,record_store,0,72,12,2025-08-05,-1,Manage DNS through a git-based workflow
+shopify,heroku-buildpack-ejson,0,8,10,2018-05-22,-1,A Heroku Buildback that automates the decryption of EJSON secrets on deploy
+shopify,ecfg,2,31,8,2018-06-01,-1,[abandoned] once-planned replacement for github.com/Shopify/ejson
+shopify,heroku-buildpack-recordstore,0,2,3,2016-07-10,-1,Deploy Record Store with Heroku
+shopify,rbtrace,0,1,2,2016-08-09,-1,"like strace, but for ruby code"
+shopify,lua-upstream-nginx-module,1,3,4,2016-07-28,-1,Nginx C module to expose Lua API to ngx_lua for Nginx upstreams
+shopify,koala,0,2,3,2016-07-22,-1,"A lightweight, flexible library for Facebook with support for OAuth authentication, the Graph and REST APIs, realtime updates, and test users."
+shopify,pubsubstub,0,1,1,2016-10-11,-1,
+shopify,nginx-sysv-log,0,2,2,2016-07-20,-1,
+shopify,wappalyzer,0,1,2,2016-11-18,-1,Detect the server side language used for the website
+shopify,em-eventsource,0,1,1,2016-08-03,-1,em-eventsource is an eventmachine library to consume Server-Sent Events streaming API.
+shopify,ecfg-ruby,0,4,2,2017-12-04,-1,WIP
+shopify,heroku-buildpack-mysql,8,8,41,2023-03-22,-1,
+shopify,mruby-engine,3,80,19,2024-01-17,-1,MRuby engine is a sandboxed scripting engine.
+shopify,kafka-connect-hdfs,0,2,1,2016-09-07,-1,Kafka Connect HDFS connector
+shopify,sprockets-svg,0,1,1,2016-09-13,-1,SVG toolchain for sprockets
+shopify,babel-plugin-add-header-comment,1,13,5,2023-03-22,-1,
+shopify,slate,188,1280,362,2021-09-27,-1,"Slate is a toolkit for developing Shopify themes. It's designed to assist your workflow and speed up the process of developing, testing, and deploying themes."
+shopify,lua-nginx-module,0,4,3,2025-02-25,-1,Embed the Power of Lua into NGINX HTTP servers
+shopify,babel-plugin-add-shopify-header,1,4,7,2023-03-22,-1,
+shopify,yuidoc-lucid-theme,0,2,4,2016-10-18,-1,A simple YUIDoc theme for single-module libraries.
+shopify,eslint-test-generator,1,4,2,2018-06-19,-1,
+shopify,babel-plugin-eslint-test-generator,1,3,2,2018-06-19,-1,
+shopify,yuidoc,0,1,1,2016-08-30,-1,YUI Javascript Documentation Tool
+shopify,get-project-version,2,3,7,2023-03-22,-1,
+shopify,node-themekit,22,112,28,2025-07-21,-1,Theme asset interaction library and management tools written in Node.js
+shopify,theme-lint,3,19,8,2021-01-19,-1,A linter for Shopify theme localization written in Node.
+shopify,heroku-buildpack-geoip,0,2,8,2019-01-09,0,
+shopify,hotshot,5,75,6,2022-03-02,3,A teeny tiny keyboard shortcuts library
+shopify,sqlalchemy-redshift,0,2,3,2016-09-25,0,Amazon Redshift SQLAlchemy Dialect
+shopify,graphql-js-schema-fetch,7,31,6,2024-06-10,5,Module that fetches the JSON representation of the GraphQL schema from a live server
+shopify,graphql-js-schema,11,36,12,2024-06-10,6,Transforms the JSON representation of a GraphQL schema into a set of ES6 type modules
+shopify,slate-tools,0,17,33,2017-08-11,0,This repo has been deprecated. Please open any new issues or PRs in the Shopify/slate repo.
+shopify,chroma,0,2,4,2016-11-01,0,Ruby gem for color manipulation and palette generation
+shopify,graphql-js-client,20,196,38,2024-06-10,4,A Relay compliant GraphQL client.
+shopify,ecto_containment_unit,1,23,6,2017-01-11,0,"A sandboxed, read-only Casper agent"
+shopify,annex-29,0,11,5,2025-06-06,0,Unicode text segmentation
+shopify,python-driver,0,1,2,2016-10-26,0,DataStax Python Driver for Apache Cassandra
+shopify,commander.js,0,2,2,2016-11-14,0,node.js command-line interfaces made easy
+shopify,js-uploader,1,3,4,2017-02-17,0,
+shopify,cached_resource,0,1,2,2016-11-14,0,
+shopify,EasyTransitioning,0,7,2,2017-03-29,0,Removing the boilerplate code associated with UIViewControllerAnimatedTransitioning
+shopify,looking_glass,0,1,2,2016-12-06,0,
+shopify,ci-queue,17,179,34,2025-08-11,2,Distribute tests over many workers using a queue
+shopify,docker-api,0,1,1,2016-11-29,0,A lightweight Ruby client for the Docker Remote API
+shopify,graphql_schema,4,17,10,2025-08-12,4,Classes to access the GraphQL instrospection result rather than using the parsed JSON directly as a hash.
+shopify,ae-to-json,0,3,2,2016-05-24,0,will export an After Effects project as a JSON object
+shopify,synvert-core,0,1,2,2016-11-29,0,dsl to convert ruby code
+shopify,heroku-buildpack-awscli,0,3,12,2020-03-19,0,
+shopify,unity-buy-sdk,36,68,23,2023-05-30,1,The Unity Buy SDK allows Unity developers to query and sell products from Shopify directly in Unity.
+shopify,mirrors,3,6,7,2022-07-29,3,Mirrors provides a parallel-world reflection API for ruby
+shopify,rollup-plugin-remap,4,1,5,2024-09-23,2,
+shopify,state_machines-activemodel,0,3,7,2023-03-22,0,StateMachines ActiveModel Integration
+shopify,openid_connect,0,2,4,2016-12-14,0,OpenID Connect Server & Client Library
+shopify,rotoscope,4,201,12,2024-07-31,1,High-performance logger of Ruby method invocations
+shopify,esify,4,4,2,2017-01-31,0,"esify is a combination of various tools that automatically translate Shopify’s CoffeeScript to ESNext. Unless you work at Shopify, you probably don’t need this."
+shopify,pmtud,0,2,3,2016-12-21,0,Path MTU daemon - broadcast lost ICMP packets on ECMP networks
+shopify,publicsuffix-ruby,0,2,3,2017-01-03,-1,Domain name parser for Ruby based on the Public Suffix List.
+shopify,syck,0,1,2,2017-01-06,-1,Syck as a gem. Ability to switch to Psych and back.
+shopify,omr,0,2,2,2017-01-04,-1,"Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes"
+shopify,shopify-codemod,1,11,7,2018-03-07,-1,"A collection of Codemods written with JSCodeshift that will help update our old, crusty JavaScript to nice, clean JavaScript."
+shopify,chai-jscodeshift,2,2,3,2017-01-31,-1,A custom assertion for jscodeshift to check whether a given input fixture matches an output fixture after being transformed by the transformer under test.
+shopify,babel-preset-shopify,0,13,5,2020-03-27,-1,Shopify’s org-wide set of Babel transforms
+shopify,eslint-plugin-shopify,0,75,18,2020-03-27,-1,Shopify’s ESLint rules and configs.
+shopify,sift-partner-ruby,0,1,2,2017-01-05,-1,partner gem
+shopify,krane,67,1397,119,2025-07-16,-1,A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+shopify,lua-resty-upstream-healthcheck,0,3,4,2018-10-25,-1,Health Checker for Nginx Upstream Servers in Pure Lua
+shopify,tslint-config-shopify,28,36,3,2020-07-17,-1,Shopify’s TypeScript rules and configs.
+shopify,ssl_certificate-cookbook,0,4,2,2017-02-20,-1,Chef cookbook to make it easy for other cookbooks to support SSL.
+shopify,esqueleto,0,2,4,2017-01-20,-1,
+shopify,pyoozie,8,11,12,2023-03-21,-1,Library for querying and scheduling with Apache Oozie
+shopify,graphql_java_gen,9,82,40,2025-05-13,-1,GraphQL java client code generator
+shopify,graphql_swift_gen,1,62,22,2023-03-22,-1,GraphQL swift client code generator
+shopify,omniauth-identity,0,10,7,2025-04-01,-1,
+shopify,ruby-bench-suite,1,2,1,2017-07-11,-1,Benchmark suite for RubyBench.org
+shopify,ruby-bench-docker,0,2,2,2017-02-15,-1,Dockerfiles to run Ruby Benchmarks
+shopify,ruby-bench-web,2,3,6,2024-05-14,-1,Long Running Ruby Benchmarks
+shopify,shopify_python,17,65,11,2023-03-21,-1,Python development standards at Shopify
+shopify,octobox,0,6,6,2020-06-30,-1,:postbox: Take back control of your GitHub Notifications
+shopify,pylint,1,2,2,2017-10-06,-1,"A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells"
+shopify,herokuish,0,3,3,2018-08-14,-1,Utility for emulating Heroku build and runtime tasks in containers
+shopify,bootstrap-sass,0,1,2,2017-02-28,-1,Official Sass port of Bootstrap 2 and 3.
+shopify,postcss-shopify,0,18,5,2020-03-27,-1,All of Shopify’s recommended PostCSS plugins in one easy-to-use preset.
+shopify,react-worker-dom,0,3,2,2017-03-14,-1,Experiments to see the advantages of using Web Workers to Render React Virtual DOM
+shopify,babel-plugin-graphql-js-client-transform,15,6,4,2024-06-10,-1,
+shopify,gcp-audit,0,3,1,2017-02-17,-1,A tool for auditing security properties of GCP projects.
+shopify,jsonshema-ios,4,10,3,2017-05-08,-1,Siwft-based framework for static json schema validation in JSON-serializable models.
+shopify,shopify-php,8,58,24,2019-02-06,-1,
+shopify,react-textfit,0,4,3,2017-03-23,-1,React component to fit headlines and paragraphs into elements
+shopify,dead-mans-snitch,1,3,4,2022-10-06,-1,Make working with Dead Man's Snitch as easy as a require.
+shopify,rack-timeout,0,1,2,2017-03-22,-1,Abort requests that are taking too long
+shopify,storefront-api-examples,151,1134,337,2023-11-20,-1,Example custom storefront applications built on Shopify's Storefront API
+shopify,stylelint-config-shopify,0,12,7,2020-03-27,-1,Shopify's stylelint rules and config
+shopify,hindsight,0,2,2,2018-05-23,-1,Hindsight - light weight data processing skeleton
+shopify,heroku-buildpack-go,0,2,7,2023-03-21,-1,Heroku Go Buildpack
+shopify,javascript-utilities,4,45,9,2023-01-16,-1,A set of utilities for JavaScript and TypeScript projects at Shopify.
+shopify,spec,0,1,1,2017-04-04,-1,The Ruby Spec Suite
+shopify,images,0,9,6,2021-03-19,-1,Tools to help us wrangle images at Shopify.
+shopify,redis-semaphore,0,2,2,2017-04-13,-1,A distributed semaphore and mutex built on Redis.
+shopify,heroku-buildpack-ssh-agent,0,2,3,2017-04-18,-1,
+shopify,polaris,182,6018,1228,2025-08-11,-1,Shopify’s design system to help us work together to build a great experience for all of our merchants.
+shopify,simplesurvey,2,2,5,2024-05-20,-1,A pandas dataframe backed survey creation and analysis framework
+shopify,graphql-to-js-client-builder,9,7,6,2024-06-11,-1,"This is a generic function that will take in a GraphQL AST, and produce a javascript AST or code representing the query builder syntax used by graphql-js-client"
+shopify,cloudflare-go,9,6,8,2023-06-13,-1,Go library for the Cloudflare v4 API
+shopify,ess,5,91,21,2025-08-04,-1,Shopify's Enterprise Script Service
+shopify,visualization-tools,6,3,9,2023-03-21,-1,Repo for visualization-tools
+shopify,aws-s3,0,1,4,2017-05-23,-1,AWS-S3 is a Ruby implementation of Amazon's S3 REST API
+shopify,hoodie,7,3,3,2024-05-14,-1,Spark Library for Hadoop Upserts And Incrementals
+shopify,cli-ui,14,1090,57,2025-08-04,-1,CLI tooling framework with simple interactive widgets
+shopify,heroku-buildpack-google-chrome,0,2,4,2020-08-05,-1,Run (headless) Google Chrome on Heroku
+shopify,fission,0,1,1,2017-10-25,-1,Fast Serverless Functions for Kubernetes
+shopify,interledger-payment-app-example,0,26,6,2017-06-20,-1,An implementation of the Interledger spec through an Android's Payment App
+shopify,shopify-node-app,0,331,135,2019-05-31,-1,An example app that uses Polaris components and shopify-express
+shopify,cli-kit,3,155,16,2025-08-04,-1,Framework/Engine for command line interfaces
+shopify,heroku-buildpack-ruby,5,2,5,2023-07-16,-1,Heroku's Ruby Buildpack for Cedar
+shopify,pipa-buildpack-ssh-agent,0,2,2,2018-08-09,-1,"Buildpack for running an ssh agent in a heroku slug, but for pipa, shopify's container builder"
+shopify,graphql-js-client-compiler,4,3,6,2024-06-11,-1,Converts GraphQL files and schema definitions into ES Modules for use with the graphql-js-client
+shopify,doorkeeper-openid_connect,0,2,1,2017-08-31,-1,OpenID Connect extension for Doorkeeper
+shopify,graphql-vigilant-bot,0,1,2,2017-06-27,-1,Github Bot to find breaking changes in your schema.graphql
+shopify,python-whois,0,1,2,2017-07-12,-1,A python module for retrieving and parsing WHOIS data
+shopify,tunemygc,2,2,4,2023-03-22,-1,TuneMyGC - optimal MRI Ruby 2.1+ Garbage Collection
+shopify,promise-kotlin,1,85,12,2023-03-21,-1,Lightweight Promises pattern implementation written on Kotlin
+shopify,lua_sandbox_extensions,0,2,2,2018-10-25,-1,Extension packages (sandboxes and modules) for the lua_sandbox project
+shopify,graphql-ruby-client,1,25,7,2018-12-14,-1,A generic data-drive GraphQL client for Ruby applications.
+shopify,packagecloud-ruby,0,2,2,2017-07-18,-1,Ruby API client library for packagecloud.io
+shopify,msgpack-ruby,0,3,6,2024-11-14,-1,MessagePack implementation for Ruby / msgpack.org[Ruby]
+shopify,FunctionalTableData,12,369,28,2025-08-07,-1,Declarative UITableViewDataSource implementation
+shopify,web-configs,17,481,58,2025-07-29,-1,Common configurations for building web apps at Shopify
+shopify,promise-swift,3,17,9,2022-07-29,-1,Lightweight Promise implementation in swift.
+shopify,ingress,8,19,25,2020-03-11,-1,Ingress controllers
+shopify,rollup-plugin-graphql-js-client-compiler,4,4,4,2024-06-11,-1,"Converts GraphQL files and schema definitions into ES Modules for use with the graphql-js-client during build time, using rollup and graphql-js-client-compiler"
+shopify,metal-workshop,0,8,2,2017-08-30,-1,Code for the Swift Metal Workshop
+shopify,graphql-ruby-demo,0,1,3,2017-02-09,-1,Use graphql-ruby to expose a Rails app
+shopify,heroku-buildpack-run,0,2,2,2017-05-12,-1,Run custom commands during the build of a Heroku app
+shopify,heroku-buildpack-base,0,2,2,2017-08-23,-1,
+shopify,bugsnag-cocoa,6,2,6,2023-07-16,-1,"Bugsnag crash reporting for iOS, macOS, and tvOS apps"
+shopify,KSCrash,0,2,2,2017-09-14,-1,The Ultimate iOS Crash Reporter
+shopify,gctrack,0,6,3,2021-08-05,-1,The GCTrack extension lets you monitor incremental GC information
+shopify,spark,1,5,3,2024-09-19,-1,Mirror of Apache Spark
+shopify,kubeaudit,47,1922,193,2024-08-21,-1,kubeaudit helps you audit your Kubernetes clusters against common security controls
+shopify,draggable,163,18329,1109,2025-06-24,-1,The JavaScript Drag & Drop library your grandparents warned you about.
+shopify,url-polyfill,0,6,2,2017-10-12,-1,URL parser in JavaScript
+shopify,phpunit-parallel-runner,0,2,1,2017-11-17,-1,Parallel Runner for PHPUnit
+shopify,hmacauth,0,1,1,2017-10-24,-1,"HMAC token verification in Go, compatible with ActiveSupport::MessageVerifier"
+shopify,shopify-express,54,139,83,2022-06-24,-1,“Get up and running quickly with Express.js and the Shopify API.”
+shopify,heroku-buildpack-ffmpeg,0,3,6,2019-10-17,-1,Install ffmpeg into heroku
+shopify,godeb,0,2,1,2017-11-04,-1,godeb transforms upstream tarballs for the Go language in deb packages and installs them.
+shopify,bigtable-emulator,6,42,9,2024-04-19,-1,
+shopify,docker-bigtable,0,2,2,2017-11-06,-1,A docker container with an in memory implementation of Google Cloud Bigtable
+shopify,theme-scripts,69,512,133,2023-04-28,-1,Theme Scripts is a collection of utility libraries which help theme developers with problems unique to Shopify Themes.
+shopify,starter-theme,57,488,295,2023-07-18,-1,The Shopify Themes Team opinionated starting point for new a Slate project
+shopify,transfer_jobs,13,9,2,2018-09-10,-1,recover and move background jobs around
+shopify,heroku-buildpack-kubernetes,0,2,2,2017-11-21,-1,
+shopify,mysql2,0,2,4,2024-07-29,-1,"A modern, simple and very fast Mysql library for Ruby - binding to libmysql"
+shopify,polaris-tokens,1,235,30,2022-01-11,-1,"Design tokens for Polaris, Shopify’s design system"
+shopify,polaris-telescope,2,97,14,2019-07-23,-1,A Sketch plugin that lets you quickly search for Polaris guidelines and code snippets.
+shopify,airtable-ruby,0,3,2,2018-01-02,-1,Access Airtable data sheets with ease using ruby
+shopify,heroku-buildpack-multi,0,2,3,2018-01-29,-1,Composable buildpacks
+shopify,react-apollo,9,3,3,2022-06-25,-1,*DEPRECATED* Use the original react-apollo instead
+shopify,lita-slack,1,6,17,2023-03-22,-1,A Slack adapter for Lita.
+shopify,dokku-buildpack-jekyll3-nginx,0,2,1,2018-01-19,-1,Jekyll 3 on Dokku
+shopify,libcidr-shopify,0,3,2,2018-01-24,-1,
+shopify,buildpack-nginx,0,3,8,2023-03-22,-1,Buildpack for static websites on Dokku (nginx)
+shopify,cli-kit-example,0,7,7,2024-06-17,-1,
+shopify,waypoints,0,4,2,2017-10-04,-1,Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
+shopify,sshkit,0,3,2,2018-01-29,-1,"A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way."
+shopify,capistrano,3,2,2,2023-04-12,-1,Remote multi-server automation tool
+shopify,polaris-resource-list-examples,5,17,9,2024-06-03,-1,Example code for the resource list component in Polaris 2.0 and higher
+shopify,pseudolocalization,5,81,14,2025-06-02,-1,Small utility to generate fake pseudotranslations on all I18n.translate calls.
+shopify,kube-lego,0,1,3,2019-10-01,-1,Automatically request certificates for Kubernetes Ingress resources from Let's Encrypt
+shopify,omniauth-facebook,3,2,3,2023-03-22,-1,Facebook OAuth2 Strategy for OmniAuth
+shopify,shopify-php-app,4,47,28,2018-02-09,-1,
+shopify,shopify-scripts,9,146,51,2024-09-03,-1,
+shopify,bevel,14,65,15,2024-05-25,-1,Ordinal regression in Python
+shopify,activerecord-firewall,6,24,5,2022-07-06,-1,
+shopify,kubepacity,0,17,3,2018-03-02,-1,Visualizing kubernetes capacity.
+shopify,deprecation_toolkit,10,509,35,2025-08-08,-1,⚒Eliminate deprecations from your codebase ⚒
+shopify,shopify-utilities,4,7,4,2023-12-19,-1,A set of utilities for JavaScript and TypeScript projects at Shopify.
+shopify,pg2mysql,0,3,1,2018-03-21,-1,Tool for safely migrating from PostgreSQL to MySQL
+shopify,buffered-logger,4,4,5,2023-03-22,-1,
+shopify,socksify-ruby,1,8,5,2019-07-29,-1,Redirect any TCP connection initiated by a Ruby script through a SOCKS5 proxy
+shopify,quilt,128,1690,226,2025-01-10,-1,[⚠️ Deprecated] A loosely related set of packages for JavaScript/TypeScript projects at Shopify
+shopify,i18n-country-translations,1,5,5,2019-12-30,-1,This just contains i18n country translations
+shopify,css_parser,0,2,1,2023-03-22,-1,Ruby CSS Parser
+shopify,ruby-kafka,0,1,5,2023-03-22,0,A Ruby client library for Apache Kafka
+shopify,ghostferry,74,810,78,2025-08-04,28,The swiss army knife of live data migrations
+shopify,presto,0,1,1,2019-03-06,0,Distributed SQL query engine for big data
+shopify,memcached,7,3,6,2025-07-25,7,A Ruby interface to the libmemcached C client
+shopify,octokit.rb,1,2,4,2024-09-17,1,Ruby toolkit for the GitHub API
+shopify,bigdata-interop,1,2,3,2024-09-25,1,Libraries and tools for interoperability between Hadoop-related open-source software and Google Cloud Platform.
+shopify,product-reviews-polaris-example,1,27,17,2019-06-13,0,
+shopify,postmates,0,2,1,2018-04-19,0,Ruby wrapper for the Postmates API
+shopify,NohanaImagePicker,0,3,3,2018-10-25,0,A multiple image picker for iOS app.
+shopify,unite-react-node-app-workshop,3,34,23,2019-07-20,1,
+shopify,livedata-ktx,5,466,29,2023-03-21,1,"Kotlin extension for LiveData, chaining like RxJava"
+shopify,webpack-bugsnag-plugins,6,2,3,2024-06-11,6,Webpack plugins for common Bugsnag actions.
+shopify,Intro_to_GraphQL_Powered_by_Shopify,0,12,10,2023-03-22,0,
+shopify,shopify_transporter,20,100,43,2023-04-27,5,The Transporter tool allows you to convert data from a third-party platform into a format that can be imported into Shopify.
+shopify,salesforce_chunker,6,3,4,2025-08-04,4,
+shopify,skeleton-theme,7,473,222,2025-06-02,3,"A minimal, carefully structured Shopify theme designed to help you quickly get started. Designed with modularity, maintainability, and Shopify's best practices in mind."
+shopify,hello-docker-rails,0,5,4,2018-05-04,0,This is a Docker image project with Rails and MySQL.
+shopify,unite-better-app-resources,0,3,2,2018-05-04,0,
+shopify,graphql-tools-web,1,94,17,2021-03-11,1,
+shopify,ejson-rails,1,25,5,2025-08-11,1,Automatically injects ejson decrypted secrets into your Rails.application.credentials.
+shopify,libzmq,0,2,1,2018-05-26,0,"ZeroMQ core engine in C++, implements ZMTP/3.1"
+shopify,geoserver,0,2,4,2018-05-28,0,Official GeoServer repository
+shopify,QGIS,3,2,2,2023-07-20,3,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)"
+shopify,secret-sender,4,27,6,2025-05-13,2,Send passwords and tokens manually over insecure channels
+shopify,autoload_reloader,0,156,5,2018-12-10,0,Experimental implementation of code reloading using Ruby's autoload
+shopify,condense-number,9,43,6,2025-08-11,6,Locale-aware number condensing
+shopify,job-iteration,49,1245,53,2025-08-11,20,Makes your background jobs interruptible and resumable by design.
+shopify,graphql-metrics,3,172,11,2025-08-04,2,"Extract as much much detail as you want from GraphQL queries, served up from your Ruby app and the graphql gem. "
+shopify,limiter,1,423,23,2025-07-14,1,Simple Ruby rate limiting mechanism.
+shopify,vault-plugin-secrets-ejson,1,14,9,2024-05-24,1,A Vault plugin for submitting EJSON to Hashicorp's Vault
+shopify,netsuite,0,2,6,2024-10-29,-1,NetSuite SuiteTalk API Wrapper
+shopify,OHHTTPStubs,0,2,2,2018-10-25,-1,"Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!"
+shopify,mixpanel-swift,0,2,3,2018-10-25,-1,Mixpanel tracking library for iOS (Swift)
+shopify,ejson2env,7,81,18,2025-08-12,-1,Decrypt EJSON secrets and export them as environment variables.
+shopify,proxysql-go,0,2,1,2018-08-23,-1,A ProxySQL client in go
+shopify,shopify-app-template-node,47,963,417,2025-08-11,-1,
+shopify,graphql-design-tutorial,5,2450,192,2025-01-23,-1,
+shopify,vouch4cluster,7,4,8,2023-10-30,-1,Run all of the images in a cluster through https://github.com/Shopify/voucher
+shopify,bundler,0,2,4,2023-03-22,-1,Manage your Ruby application's gem dependencies
+shopify,docker-ssh-agent-forward,0,2,1,2018-10-18,-1,Forward SSH agent socket into a container
+shopify,go-storage,7,116,16,2024-12-10,-1,"Go package for abstracting local, in-memory, and remote (Google Cloud Storage/S3) filesystems"
+shopify,Burrow,2,3,6,2025-07-18,-1,Kafka Consumer Lag Checking
+shopify,kafka-monitor,0,2,5,2025-04-23,-1,Monitor the availability of Kafka clusters with generated messages. 
+shopify,minitest-reporters,0,2,4,2018-11-26,-1,:page_with_curl: Create customizable MiniTest output formats.
+shopify,cruise-control,1,5,5,2025-07-21,-1,Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.
+shopify,bootboot,12,439,33,2024-11-18,-1,Dualboot your Ruby app made easy
+shopify,istio-client-go,0,2,2,2018-10-02,-1,This repository contains generated Go client for Istio resources
+shopify,yaml,0,2,3,2019-05-28,-1,YAML support for the Go language.
+shopify,mobile_detect,0,2,4,2018-11-27,-1,Mobile browser detection Lua library
+shopify,rollout,0,3,5,2018-06-03,-1,Feature switches or flags for PHP
+shopify,goose,16,85,14,2025-08-11,-1,Curated collection of Go packages that integrate well together
+shopify,shopify-cli,0,1026,206,2023-06-01,-1,Shopify CLI helps you build against the Shopify platform faster.
+shopify,artist-statement-generator,0,1,2,2018-12-13,-1,Playground for generating artist statements using RNN
+shopify,veneur,0,2,2,2018-12-19,-1,"A distributed, fault-tolerant pipeline for observability data"
+shopify,git,0,2,3,2018-12-19,-1,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+shopify,geopyspark,0,1,2,2018-12-12,-1,GeoTrellis for PySpark
+shopify,shadowenv,23,427,20,2025-08-08,-1,reversible directory-local environment variable manipulations
+shopify,terraform-provider-vault,0,2,7,2019-02-05,-1,Terraform Vault provider
+shopify,hookbook,1,10,5,2025-07-08,-1,"Hookbook provides a way to register multiple ""DEBUG"" hooks in bash, and their equivalents in zsh."
+shopify,goldpinger,0,3,2,2019-02-12,-1,Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+shopify,go-netfilter-queue,0,2,8,2019-02-06,-1,Go bindings for libnetfilter_queue (Forked from openshift/geard)
+shopify,bouncifyrn,7,2,3,2024-07-15,-1,Experiment of building the most epic Ballz game in RN
+shopify,i18n,0,2,2,2023-03-22,-1,Internationalization (i18n) library for Ruby
+shopify,ceph-ansible,1,2,3,2024-09-06,-1,"Ansible playbooks to deploy Ceph, the distributed filesystem."
+shopify,libyaml,0,2,3,2019-02-27,-1,Canonical source repository for LibYAML
+shopify,opencensus-service,1,3,4,2019-05-10,-1,OpenCensus service allows OpenCensus libraries to export to an exporter service rather than having to link vendor-specific exports.
+shopify,marginalia,0,2,4,2023-03-22,-1,Attach comments to ActiveRecord's SQL queries
+shopify,shopify-demo-app-node-react,29,444,320,2022-02-17,-1,
+shopify,tainted_love,2,36,8,2021-05-20,-1,Dynamic Security Analysis for Ruby
+shopify,shadowenv.vim,0,9,6,2025-05-13,-1,Shadowenv integration for Vim
+shopify,shadowenv.el,0,24,5,2025-06-04,-1,Shadowenv integration for emacs
+shopify,kafka-python,1,3,5,2023-03-21,-1,Python client for Apache Kafka
+shopify,memory_profiler,0,3,4,2023-03-22,-1,memory_profiler for ruby
+shopify,xcode-install,0,2,2,2023-03-22,-1,🔽 Install and update your Xcodes
+shopify,dylib-capture-closure,4,2,4,2024-10-07,-1,
+shopify,svg2vd,2,9,4,2025-05-13,-1,
+shopify,meerkat,0,2,8,2019-04-03,-1,Fast Code Search
+shopify,git-chain,23,237,15,2025-08-11,-1,Tool to rebase multiple Git branches based on the previous one.
+shopify,whois,0,3,4,2022-03-03,-1,An intelligent — pure Ruby — WHOIS client and parser.
+shopify,graphql-ruby,1,7,8,2025-03-24,-1,Ruby implementation of GraphQL 
+shopify,constant_resolver,4,26,8,2025-08-12,-1,Resolve a partially qualified Ruby constant reference to the fully qualified name and the path of the file defining it.
+shopify,fluentd-benchmark,0,1,1,2018-02-27,-1,Benchmark collection of fluentd use cases
+shopify,responders,1,3,6,2024-05-14,-1,A set of Rails responders to dry up your application
+shopify,nixpkgs,19,4,5,2025-06-25,-1,Nix Packages collection
+shopify,pkcs11key,0,1,2,2018-04-12,-1,An interface to PKCS#11 devices that satisfies the crypto.Signer interface
+shopify,nix-store-repl,1,3,5,2020-05-22,-1,[wip] experiment in browsing a nix store
+shopify,geoip,0,3,5,2023-03-22,-1,"The Ruby gem for querying Maxmind.com's GeoIP database, which returns the geographic location of a server given its IP address"
+shopify,google-auth-library-ruby,0,2,4,2023-03-22,-1,Google Auth Library for Ruby
+shopify,magic-modules,1,2,4,2024-05-13,-1,Magic Modules: Automagically generate Google Cloud Platform support for OSS
+shopify,istio,3,3,5,2023-02-19,-1,Fork that allows us to build our own Istio images (with and without modifications). See .shopify-build/README.md for instructions.
+shopify,escape_utils,0,2,3,2023-03-22,-1,Faster string escaping routines for your ruby apps
+shopify,tapioca,115,794,149,2025-08-12,-1,The swiss army knife of RBI generation
+shopify,unite_hack_session,1,4,8,2019-06-18,-1,"For Unite, partners will use this issue to create tickets to track ideas for a Hack Days-style workshop."
+shopify,opentelemetry-ruby,0,4,4,2025-06-11,-1,
+shopify,app-bridge-tutorial,17,17,11,2024-06-18,-1,
+shopify,keychain-status,0,2,2,2019-06-10,-1,Small utility written in Swift to query the status of a macOS keychain.
+shopify,fraud-filter,1,2,5,2024-08-28,-1,
+shopify,mode-notebook-assets,3,4,5,2023-03-21,-1,
+shopify,addressable,0,2,4,2023-03-22,-1,"Addressable is an alternative implementation to the URI implementation that is part of Ruby's standard library. It is flexible, offers heuristic parsing, and additionally provides extensive support for IRIs and URI templates."
+shopify,rubocop-sorbet,11,186,31,2025-06-25,-1,A collection of RuboCop rules for Sorbet
+shopify,smart_todo,4,160,10,2025-07-17,-1,Enhance TODO comment in your Ruby code
+shopify,react-calendar-timeline,2,6,6,2024-06-12,-1,A modern and responsive react timeline component.
+shopify,heroku-buildpack-jemalloc,1,5,9,2023-03-21,-1,Heroku buildpack that installs the Jemalloc memory allocator
+shopify,lime,1,6,3,2024-08-31,-1,Lime: Explaining the predictions of any machine learning classifier
+shopify,rails-deprecated_sanitizer,0,1,8,2023-03-22,-1,Deprecated sanitizer API extracted from Action View.
+shopify,filament,2,1,3,2024-08-31,-1,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL"
+shopify,terraform-provider-dyn,0,1,7,2020-02-04,-1,Terraform Dyn provider
+shopify,screenshot-glb,32,140,32,2025-07-21,-1,A command line utility for taking screenshots of glTF 2.0 Binary 3D model files
+shopify,vscode-shadowenv,3,22,6,2025-05-13,-1,
+shopify,upload-to-release,11,48,14,2025-08-11,-1,A GitHub Action that uploads a file to a new release.
+shopify,atom-shadowenv,0,2,4,2025-05-13,-1,
+shopify,sublime-shadowenv,1,2,6,2025-05-13,-1,
+shopify,intellij-shadowenv,4,11,6,2025-06-30,-1,
+shopify,faraday-http-cache,0,1,3,2023-03-22,-1,a faraday middleware that respects HTTP cache
+shopify,app-cli-node-generator-helper,14,4,5,2025-07-21,-1,
+shopify,seafoam,8,137,23,2025-08-04,-1,A tool for working with compiler graphs dumped by the GraalVM compiler
+shopify,rails-i18n,4,2,4,2025-03-21,-1,"Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff"
+shopify,restyle,32,3237,146,2025-08-04,-1,A type-enforced system for building UI components in React Native with TypeScript.
+shopify,discoverability-action,6,3,4,2021-02-08,-1,Adds a comment to a pull request with areas of your code to test
+shopify,terraform-provider-cloudflare,0,2,4,2023-01-13,-1,Terraform Cloudflare provider
+shopify,activerecord-databasevalidations,0,5,3,2025-03-06,-1,Add validations to your ActiveRecord models based on your database constraints.
+shopify,ruby,69,43,14,2025-08-12,-1,The Ruby Programming Language [mirror]
+shopify,shopify-theme-inspector,2,166,22,2025-05-13,-1,A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
+shopify,hypernova-ruby,0,2,4,2023-08-30,-1,Ruby client for Hypernova.
+shopify,minitest,0,2,5,2024-04-11,-1,"minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking."
+shopify,stack_frames,4,20,5,2025-08-04,-1,Zero allocation backtraces using MRI ruby’s profile frames API
+shopify,trino,6,1,3,2022-03-12,-1,"Official home of the community managed version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation."
+shopify,terraform-provider-pingdom,0,1,2,2020-09-17,-1,Terraform provider to manage pingdom resources
+shopify,terraform-provider-ns1,1,1,7,2023-09-29,-1,Terraform NS1 provider
+shopify,bundix,0,2,5,2023-03-22,-1,Generates a Nix expression for your Bundler-managed application. [maintainer=@manveru]
+shopify,truffleruby,8,15,9,2025-06-26,-1,A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+shopify,rack-mini-profiler,0,1,3,2023-03-22,-1,Profiler for your development and production Ruby rack apps. 
+shopify,protobuf,3,4,4,2025-07-24,-1,Protocol Buffers - Google's data interchange format
+shopify,graal,3,4,4,2024-04-12,-1,GraalVM: Run Programs Faster Anywhere :rocket:
+shopify,opentelemetry-collector,33,4,4,2024-12-11,-1,OpenTelemetry Service
+shopify,snappy,0,1,5,2019-10-29,-1,A fast compressor/decompressor
+shopify,heroku-buildpack-shell,0,1,1,2018-06-18,-1,
+shopify,letter_opener_web,0,1,8,2023-03-22,-1,A web interface for browsing Ruby on Rails sent emails
+shopify,atelier-application-shopify,17,14,12,2024-06-11,-1,
+shopify,jekyll-lunr-js-search,0,1,0,2018-02-05,-1,[UNSUPPORTED] Jekyll + lunr.js = static websites with powerful full-text search using JavaScript
+shopify,homebrew-core,0,2,4,2021-12-10,-1,🍻 Default formulae for the missing package manager for macOS
+shopify,controller-runtime,0,1,2,2019-11-02,-1,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+shopify,whois-parser,0,2,3,2020-02-21,-1,An intelligent — pure Ruby — WHOIS parser.
+shopify,shap,1,2,4,2024-06-17,-1,A unified approach to explain the output of any machine learning model.
+shopify,tfsec,4,1,5,2024-06-26,-1,:lock::earth_africa: Static analysis powered security scanner for your terraform code
+shopify,merci,1,8,6,2023-03-22,-1,
+shopify,symbol-fstring,1,73,11,2025-05-20,-1,Access symbols internal strings without duplicating them
+shopify,swift-sodium,0,1,3,2020-10-07,-1,Safe and easy to use crypto for iOS and macOS
+shopify,go-cache,11,29,9,2024-05-13,-1,go-cache is a Go package which abstracts cache systems
+shopify,percona-server,5,1,4,2025-07-30,-1,Percona Server
+shopify,tzinfo,0,1,4,2023-03-22,-1,TZInfo - Ruby Timezone Library
+shopify,polaris-viz,100,361,36,2025-06-05,-1,A collection of React and React native components that compose Shopify's data visualization system
+shopify,CUSEC-2020,0,10,6,2020-01-19,-1,Documentation for the Learn to Hack workshop at CUSEC 2020
+shopify,sorbet-runtime-stub,2,3,5,2021-06-01,-1,Stub definitions for Sorbet's `T` namespace
+shopify,gc_tracer,0,1,4,2023-03-22,0,Add GC::Tracer module.
+shopify,shopify-app-bridge,204,97,10,2024-07-17,0,
+shopify,syrup,14,111,9,2025-08-12,5,"A type-safe GraphQL model generator for Kotlin, Swift, and TypeScript."
+shopify,custom-property-analyzer,5,3,3,2025-08-11,4,
+shopify,shopify-app-cli-extensions,0,3,3,2020-06-19,0,Private fork of Shopify/shopify-app-cli for the ongoing App Extensions work.
+shopify,argo-admin-template,5,27,15,2025-08-11,3,Template repository for App Extensions build with Shopify/shopify-app-cli
+shopify,app_profiler,14,253,12,2025-08-11,8,Collect performance profiles for your Rails application.
+shopify,fake-gcs-server,4,1,4,2024-06-17,4,Google Cloud Storage emulator & testing library.
+shopify,jobs,0,3,6,2020-04-14,0,
+shopify,httparty,0,1,3,2024-03-28,0,:tada: Makes http fun again!
+shopify,syrup-gradle,2,9,4,2025-08-11,2,
+shopify,gomail,9,59,14,2024-05-13,7,The best way to send emails in Go.
+shopify,preact-testing,11,17,4,2025-08-11,2,
+shopify,drill,1,0,2,2024-08-26,1,Apache Drill
+shopify,fixture_factory,4,85,5,2025-08-12,4,
+shopify,rbs_parser,9,26,4,2023-01-20,0,Ruby RBS parsing and translation to Sorbet RBI
+shopify,hypernova,1,1,4,2024-05-14,1,A service for server-side rendering your JavaScript views
+shopify,twilio-go,1,1,5,2024-08-06,1,Twilio Go library
+shopify,mobile-buy-sdk-ios-sample,5,31,19,2023-04-11,0,
+shopify,mobile-buy-android-sample,10,19,15,2023-04-11,0,
+shopify,ar_transaction_changes,0,1,4,2025-07-11,0,Store transaction changes for active record objects
+shopify,sorbet,200,10,6,2025-08-11,52,"A fast, powerful type checker designed for Ruby"
+shopify,redirect_safely,1,22,2,2024-05-16,1,Sanitize redirect_to URLs
+shopify,github-authentication,3,6,4,2024-05-16,2,Token management for GitHub apps
+shopify,turbolinks-jwt-sample-app,27,61,23,2024-06-18,5,A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks
+shopify,asls,1,54,4,2022-11-22,0,A front-end independent language server for AssemblyScript
+shopify,ui-extensions,429,301,47,2025-08-11,71,Repo for the public definition of Shopify's UI extension APIs. Please use the community forum to ask questions or report issues: https://community.shopify.dev/c/extensions/5
+shopify,gh-action-hadolint,1,3,6,2020-05-15,0,
+shopify,libra-web-tools,20,4,6,2023-08-30,20,A collection of web tooling for the Libra network.
+shopify,argo-checkout-template,5,4,5,2024-06-18,1,
+shopify,heroku-buildpack-apt,0,1,3,2020-05-27,-1,
+shopify,fixy,0,1,4,2024-02-07,-1,Library for generating fixed width documents
+shopify,next-gen-auth-app-demo,26,76,38,2024-06-18,-1,A sample app made to demo Shopify's Next-Gen Auth flow using JWTs
+shopify,active_model_serializers,0,2,3,2024-05-31,-1,ActiveModel::Serializer implementation and Rails hooks
+shopify,vscode-as,28,16,6,2023-01-06,-1,VSCode Language Client for AssemblyScript
+shopify,minitest-silence,4,7,4,2025-08-12,-1,Minitest plugin to capture stdout/stderr/stdin
+shopify,webmock,0,1,4,2023-03-22,-1,Library for stubbing and setting expectations on HTTP requests in Ruby.
+shopify,mruby,0,1,4,2023-03-21,-1,Lightweight Ruby
+shopify,remote-dom,29,1126,70,2025-07-30,-1,
+shopify,dalli,5,3,5,2025-08-12,-1,High performance memcached client for Ruby
+shopify,gcslock,0,2,6,2020-06-23,-1,"Simple, scalable, distributed mutex for serializing computations anywhere on the Internet (with Go and shell clients)"
+shopify,cloudflare,0,1,3,2023-03-22,-1,An asynchronous Ruby wrapper for the CloudFlare V4 API. 
+shopify,spoom,6,245,25,2025-08-12,-1,Useful tools for Sorbet enthusiasts
+shopify,stripe-terminal-ios,0,2,3,2020-06-18,-1,Stripe Terminal iOS SDK
+shopify,SwiftGraphQLParser,0,5,6,2020-09-03,-1,
+shopify,rack,0,1,3,2024-09-09,-1,A modular Ruby web server interface.
+shopify,terraform-provider-gsuite,0,1,4,2023-03-21,-1,A @HashiCorp Terraform provider for managing G Suite resources.
+shopify,minitest-failure_reporter,2,1,4,2025-08-04,-1,
+shopify,heap-profiler,3,239,8,2024-08-02,-1,Ruby heap profiler
+shopify,checkout-ui,22,46,9,2023-07-11,-1,
+shopify,presto-gateway,0,2,3,2020-07-22,-1,A load balancer / proxy / gateway for prestodb
+shopify,mini_racer,1,1,4,2024-08-31,-1,Minimal embedded v8
+shopify,beam-archived,0,1,3,2020-08-27,-1,Apache Beam is a unified programming model for Batch and Streaming
+shopify,slackify,3,1,2,2020-09-02,-1,Build Slackbot on Rails using Slack Event API
+shopify,koa-shopify-auth,0,81,62,2023-01-30,-1,DEPRECATED Middleware to authenticate a Koa application with Shopify
+shopify,dedup,1,9,4,2025-08-11,-1,Fast recursive string deduplication
+shopify,shopify-api-js,9,949,385,2024-04-11,-1,"Shopify Admin API Library for Node. Accelerate development with support for authentication, graphql proxy, webhooks"
+shopify,maintenance_tasks,7,1168,93,2025-08-12,-1,A Rails engine for queueing and managing data migrations.
+shopify,packwerk,37,1745,119,2025-07-31,-1,Good things come in small packages.
+shopify,zopfli,0,1,2,2020-09-30,-1,
+shopify,shipit-retry-tester,0,1,4,2020-12-08,-1,Used to test a retry feature on shipit-engine
+shopify,sidekiq-unique-jobs,0,1,3,2023-03-22,-1,Ensure uniqueness of your Sidekiq jobs
+shopify,go-encoding,7,8,10,2024-05-13,-1,Go package which abstracts various encoding mechanisms under a unified API.
+shopify,yjit-bench,8,96,28,2025-08-11,-1,Set of benchmarks for the YJIT CRuby JIT compiler and other Ruby implementations.
+shopify,i18n-as,0,2,2,2022-07-18,-1,An i18n implementation for AssemblyScript
+shopify,heroku-buildpack-nmap,0,1,4,2020-11-23,-1,
+shopify,voucher,10,24,9,2023-08-30,-1,🎟 Voucher creates attestations for Binary Authorization
+shopify,theme-check,0,350,94,2024-07-27,-1,The Ultimate Shopify Theme Linter
+shopify,exact_target_rest,0,1,3,2023-03-22,-1,Simple wrapper around ExactTarget REST API
+shopify,theme-check-vscode,0,75,20,2024-06-20,-1,Official Shopify Liquid VS Code extension
+shopify,react-native-android-auto,5,101,32,2024-06-17,-1,
+shopify,lucene-solr,0,1,1,2020-12-04,-1,Apache Lucene and Solr open-source search software
+shopify,avro_turf,0,1,3,2023-03-22,-1,A library that makes it easier to use the Avro serialization format from Ruby.
+shopify,avro,31,2,3,2023-09-04,-1,Apache Avro is a data serialization system.
+shopify,libserdes,0,1,2,2023-03-21,-1,Avro Serialization/Deserialization C/C++ library with Confluent schema-registry support
+shopify,rbi,5,34,12,2025-08-11,-1,RBI generation framework
+shopify,nivo,54,3,5,2024-06-19,-1,"nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries"
+shopify,grocer,0,2,3,2023-03-22,-1,Pushing your Apple notifications since 2012.
+shopify,bigquery-grafana,3,1,3,2024-09-19,-1,Google BigQuery Datasource Plugin for Grafana.
+shopify,grafana,7,4,3,2024-06-11,-1,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. "
+shopify,antlr4-1,11,1,5,2024-06-12,-1,"ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+shopify,sample-django-app,10,73,48,2022-06-01,-1,
+shopify,grpc,40,2,3,2025-08-05,-1,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+shopify,ruby-debug-ide,0,1,4,2023-03-22,-1,"An interface which glues ruby-debug to IDEs like Eclipse (RDT), NetBeans and RubyMine."
+shopify,runit,1,1,3,2022-11-07,-1,Development repository for the Chef Runit Cookbook
+shopify,shopify-api-php,45,440,189,2025-08-11,-1,
+shopify,vitess,2,6,6,2025-08-06,-1,Vitess is a database clustering system for horizontal scaling of MySQL.
+shopify,net-http,2,1,3,2025-06-27,-1,Net::HTTP provides a rich library which can be used to build HTTP user-agents.
+shopify,react-summit-2021-app-workshop,40,3,8,2023-07-19,-1,
+shopify,openssl,0,1,2,2021-03-26,-1,"Provides SSL, TLS and general purpose cryptography."
+shopify,get-repo-images,4,30,9,2024-05-22,-1,An extremely fast repository crawler to find images across multiple repos
+shopify,team-labeler-action-1,15,2,5,2023-07-19,-1,⚡️ Github action to label your pull requests based on the author name ⚡️
+shopify,net-http-persistent,0,1,4,2024-12-04,-1,Thread-safe persistent connections with Net::HTTP
+shopify,assemblyscript,10,1,1,2023-07-19,-1,Definitely not a TypeScript to WebAssembly compiler 🚀
+shopify,splainer-1,0,1,2,2021-03-23,-1,Elasticsearch/Solr Sandbox for exploring explain information and tweaking
+shopify,v8go,2,9,3,2022-06-10,-1,Execute JavaScript from Go
+shopify,telegraf-archived,0,1,1,2021-04-15,-1,The plugin-driven server agent for collecting & reporting metrics.
+shopify,yjit,0,710,23,2024-06-19,-1,Optimizing JIT compiler built inside CRuby
+shopify,feast,10,3,3,2022-10-19,-1,Feature Store for Machine Learning
+shopify,grafana-plugin-sdk-go,7,1,3,2024-05-06,-1,A Go SDK for building backend plugins for Grafana
+shopify,terraform-provider-tencentcloud,2,1,3,2024-02-26,-1,Terraform TencentCloud Provider
+shopify,tencentcloud-sdk-go,0,1,4,2021-04-22,-1,Tencent Cloud API 3.0 SDK for Golang
+shopify,shopify-app-template-php,85,317,104,2024-09-16,-1,
+shopify,xhyve,0,3,2,2023-03-21,-1,"xhyve, a lightweight OS X virtualization solution"
+shopify,storefront-api-feedback,0,60,7,2022-03-27,-1,The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
+shopify,truffleHog-1,1,1,3,2024-04-02,-1,"Searches through git repositories for high entropy strings and secrets, digging deep into commit history"
+shopify,workers-types,0,1,4,2023-03-22,-1,TypeScript type definitions for authoring Cloudflare Workers.
+shopify,go-rspamd,2,10,4,2024-07-17,-1,go-rspamd is a Go client for Rspamd
+shopify,rejectu,0,1,3,2023-03-22,-1,
+shopify,lmdb,0,1,2,2023-08-19,-1,Ruby bindings for the amazing OpenLDAP's Lightning Memory-Mapped Database (LMDB)
+shopify,concurrent-ruby,0,1,2,2023-03-22,-1,"Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns."
+shopify,lighthouse-ci-action,21,117,55,2025-08-12,-1,
+shopify,debug,4,3,2,2024-12-18,-1,Debugging functionality for Ruby
+shopify,scylla-operator,1,1,4,2024-04-02,-1,The Kubernetes Operator for ScyllaDB
+shopify,zeitwerk,0,1,3,2024-10-05,-1,Efficient and thread-safe code loader for Ruby
+shopify,mail,0,1,2,2023-03-22,-1,A Really Ruby Mail Library
+shopify,capybara,0,1,2,2023-03-22,-1,Acceptance test framework for web applications
+shopify,combine_pdf,0,1,3,2023-03-22,-1,"A Pure ruby library to merge PDF files, number pages and maybe more..."
+shopify,opentelemetry-go,7,1,3,2024-04-02,-1,OpenTelemetry Go API and SDK
+shopify,twilio-ruby,0,1,4,2024-09-18,-1,A Ruby gem for communicating with the Twilio API and generating TwiML
+shopify,as-msgpack,0,2,3,2023-03-22,-1,MessagePack package for AssemblyScript
+shopify,admin-ui-extensions-template,1,12,9,2023-10-12,-1,
+shopify,checkout-ui-extensions-template,13,17,6,2022-07-21,-1,
+shopify,argo-cd,0,1,1,2021-06-29,-1,Declarative continuous deployment for Kubernetes.
+shopify,yjit-metrics,14,16,11,2025-08-04,-1,"""Tasks for benchmarking, building and collecting stats for YJIT"""
+shopify,storefront-api-learning-kit,12,408,84,2025-08-12,-1,
+shopify,conventional-changelog,0,1,3,2023-03-22,-1,Generate changelogs and release notes from a project's commit messages and metadata.
+shopify,theme-extension-getting-started,20,117,49,2025-05-13,-1,A theme app extension boilerplate that highlights the basic structure and features that are available to developers who want to integrate their apps with Shopify Online Stores.
+shopify,dawn,11,2781,3959,2025-08-06,-1,"Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in."
+shopify,product-reviews-sample-app,16,366,164,2025-07-29,-1,"A sample Shopify application that creates and stores product reviews for a store, written in Node.js"
+shopify,flink,7,3,4,2025-07-23,-1,Apache Flink
+shopify,fleet,1,2,1,2021-12-07,-1,Manage large fleets of Kubernetes clusters
+shopify,theme-check-action,7,40,17,2025-06-16,-1,Run shopify/theme-check on GitHub pull requests
+shopify,post-purchase-ui,8,10,11,2023-05-12,-1,
+shopify,tree-sitter-liquid,0,9,7,2024-03-27,-1,
+shopify,error_highlight,0,1,2,2023-03-22,-1,
+shopify,cequel,0,1,1,2021-07-19,-1,Ruby ORM for Cassandra with CQL3
+shopify,ghinstallation,0,1,5,2021-07-27,-1,HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
+shopify,task-list-checker,2,39,10,2023-11-22,-1,GitHub Action for checking pull requests for incomplete task list items.
+shopify,gctime,0,5,5,2023-05-12,-1,Exposes a monotonically increasing GC total_time metric.
+shopify,shopify-cli-extensions,65,24,7,2023-03-21,-1,
+shopify,cityhash,0,4,3,2014-06-25,-1,Ruby wrapper for google's cityhash.
+shopify,go-sharedstore,6,1,6,2023-09-11,-1,
+shopify,oxygenctl-action,1,13,10,2025-08-11,-1,
+shopify,github-deployment-action,1,11,7,2025-08-12,-1,
+shopify,tally-1,0,1,2,2023-03-21,-1,A Go metrics interface with fast buffered metrics and third party reporters
+shopify,apparition,1,4,2,2024-07-03,-1,Capybara driver for Chrome using CDP
+shopify,server-components-demo,6,4,5,2024-06-28,-1,Demo app of React Server Components.
+shopify,hydrogen-workshop,4,12,9,2024-06-18,-1,
+shopify,roch-test-public,0,1,3,2023-08-14,-1,
+shopify,function-examples,30,223,66,2025-07-18,-1,
+shopify,channels-ui-docs,1,37,14,2023-03-09,-1,Documentation for Channels UI
+shopify,.github,3,7,17,2025-05-27,-1,
+shopify,tempo,0,2,2,2022-11-14,-1,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
+shopify,httpclient,1,1,3,2024-04-02,-1,'httpclient' gives something like the functionality of libwww-perl (LWP) in Ruby.
+shopify,paquito,1,121,12,2025-07-21,-1,Utility classes to define optimized and evolutive serializers.
+shopify,resty,1,3,4,2024-10-18,1,Simple HTTP and REST client library for Go
+shopify,ruby_memcheck,2,252,16,2025-08-11,1,Use Valgrind memcheck on your native gem without going crazy
+shopify,semgrep-rules-1,1,1,5,2024-06-18,1,Semgrep rules registry
+shopify,ruby-sigstore,21,7,6,2023-05-12,0,Rubygems sigstore signing plugin
+shopify,feast-trino,6,9,7,2022-03-16,0,Trino offline store plugin for Feast. This supports most of the Trino connectors.
+shopify,hydrogen-v1,193,3745,326,2025-03-19,33,"React-based framework for building dynamic, Shopify-powered custom storefronts."
+shopify,react-native-skia,88,7748,527,2025-08-12,20,High-performance React Native Graphics using Skia
+shopify,rubygems.org,71,3,5,2024-09-27,71,The Ruby community's gem hosting service.
+shopify,marketplace-kit-feedback,1,17,5,2021-11-22,0,
+shopify,trino-client-ruby,0,1,2,2023-03-22,0,Trino/Presto client library for Ruby
+shopify,rubygems,16,2,3,2025-06-09,16,Library packaging and distribution for Ruby.
+shopify,zk-1,0,1,2,2023-03-22,0,A High-Level wrapper for Apache's Zookeeper
+shopify,zookeeper,0,1,4,2023-03-22,0,"Zookeeper bindings for Ruby (1.8, 1.9 compatible with watches and callbacks)"
+shopify,fastgcs,0,1,2,2021-11-30,0,
+shopify,android-resource-mover,0,7,4,2023-03-21,0,
+shopify,function-runner,9,79,14,2025-08-11,8,
+shopify,prettier-plugin-liquid,0,98,15,2024-06-20,0,Prettier Liquid/HTML plugin
+shopify,react-native-secure-storage,4,7,3,2024-07-10,4,A secure AsyncStorage implementation
+shopify,shopify-cli-example-app,19,9,6,2023-08-22,18,
+shopify,shopify-cli-action,7,10,5,2023-03-21,1,
+shopify,liquid-tm-grammar,6,18,7,2025-05-22,4,The official syntax highlighting grammar for Shopify Liquid
+shopify,flash-list,214,6497,322,2025-08-11,33,A better list for React Native
+shopify,rfcs,0,6,3,2022-03-21,0,RubyGems + Bundler RFCs
+shopify,cypress-graphql,1,15,4,2024-06-18,1,
+shopify,redis-session-store,0,1,2,2023-03-22,0,A simple session store for Rails based on Redis.
+shopify,annotate_models,0,1,4,2024-09-04,0,Annotate Rails classes with schema and routes info
+shopify,attr_encrypted,2,1,1,2022-05-11,2,Generates attr_accessors that encrypt and decrypt attributes
+shopify,opentelemetry-collector-contrib,184,5,4,2025-08-04,184,Contrib repository for the OpenTelemetry Collector
+shopify,activeadmin,37,3,3,2024-07-01,37,The administration framework for Ruby on Rails applications.
+shopify,google-cloud-go,15,1,2,2024-04-19,15,Google Cloud Client Libraries for Go.
+shopify,client_golang,6,1,4,2024-05-01,-1,Prometheus instrumentation library for Go applications
+shopify,yjit-extra-benchmarks,0,1,3,2022-02-01,-1,
+shopify,cfg2asm,5,5,6,2025-08-04,-1,"A tool for printing assembly from CFG, files dumped by the GraalVM compiler"
+shopify,apollo-kotlin-1,4,2,2,2024-04-26,-1,":robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform."
+shopify,sops,6,1,2,2024-04-19,-1,Simple and flexible tool for managing secrets
+shopify,craftinginterpreters,2,1,3,2024-04-02,-1,"Repository for the book ""Crafting Interpreters"""
+shopify,shopify-marketplaces-admin-app,26,39,44,2024-04-11,-1,
+shopify,shopify-marketplaces-buyer-app,10,52,36,2023-10-24,-1,
+shopify,libvips-1,0,1,2,2022-03-03,-1,A fast image processing library with low memory needs.
+shopify,ulid-native,1,4,1,2022-07-29,-1,
+shopify,ruby-lsp,117,1849,213,2025-08-11,-1,An opinionated language server for Ruby
+shopify,vscode-shopify-ruby,2,190,16,2025-08-11,-1,An opinionated and auto-configured set of extensions for Ruby development
+shopify,vscode-ruby-lsp,1,414,50,2024-05-29,-1,VS Code plugin for connecting with the Ruby LSP
+shopify,fulfillment-order-sample-app,11,18,7,2024-06-19,-1,
+shopify,bramble,3,3,4,2024-06-12,-1,The Movio GraphQL Gateway
+shopify,slack-ruby-block-kit,1,1,2,2024-05-16,-1,A ruby wrapper for Slack's Block Kit
+shopify,postfacto,6,4,5,2024-06-18,-1,Self-hosted retro tool aimed at helping remote teams
+shopify,pip-tools,0,2,2,2023-03-21,-1,A set of tools to keep your pinned Python dependencies fresh.
+shopify,rubygems.github.io,1,1,4,2024-05-16,-1,"the blog, for rubygems!"
+shopify,shopify-frontend-template-react,26,153,76,2025-08-08,-1,
+shopify,awesome-hydrogen,2,171,16,2023-11-13,-1,A curated list of awesome Hydrogen things.
+shopify,seer-prototype,2,13,3,2024-06-03,-1,Security Expert Elicitation of Risks
+shopify,scim_rails,0,1,4,2025-01-21,-1,SCIM Adapter for Rails.
+shopify,shopify-app-examples,22,156,91,2024-09-17,-1,
+shopify,react-native-performance,24,966,51,2025-08-12,-1,Performance monitoring for React Native apps
+shopify,app_store_connect,2,1,3,2024-04-02,-1,A Ruby interface to the App Store Connect API
+shopify,trino-ranger-demo,0,1,1,2021-10-11,-1,
+shopify,liquid-spec,17,0,0,2025-08-12,-1,liquid-spec is a test suite for the Liquid language.
+shopify,hansel,0,22,10,2025-08-08,-1,
+shopify,hoff,9,30,3,2025-08-12,-1,Higher Order Functions (and Friends) using Go 1.18+ Generics
+shopify,kitt,3,8,3,2025-08-11,-1,
+shopify,rbi-central,21,62,45,2025-08-05,-1,
+shopify,revs,2,9,5,2023-03-07,-1,
+shopify,deterministic-wasi-ctx,4,8,5,2025-08-11,-1,Rust crate for creating a wasi-common WASI context that is fully deterministic
+shopify,checkout-branding,0,4,0,2022-05-18,-1,
+shopify,shopify-react-conf-22-app,1,4,4,2024-06-19,-1,
+shopify,ngrok,4,1,5,2024-04-02,-1,Expose your localhost to the web. Node wrapper for ngrok.
+shopify,guides,1,1,4,2024-05-16,-1,An effort to provide awesome documentation for the RubyGems ecosystem.
+shopify,shopify-app-template-ruby,7,141,49,2025-08-05,-1,
+shopify,gvltools,3,131,10,2025-05-20,-1,Set of GVL instrumentation tools
+shopify,discount-app-components,21,85,27,2025-07-22,-1,A library of discounts-focused React components to help in building Shopify apps.
+shopify,wasm-bench,2,6,3,2025-05-13,-1,
+shopify,test-collector-ruby,0,2,2,2023-05-02,-1,Buildkite Test Analytics collector for Ruby test frameworks
+shopify,cli,92,543,197,2025-08-12,-1,"Build apps, themes, and hydrogen storefronts for Shopify"
+shopify,react-native-app-auth,4,4,2,2024-09-12,-1,React native bridge for AppAuth - an SDK for communicating with OAuth2 providers
+shopify,AppAuth-Android,0,1,3,2024-02-23,-1,Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+shopify,ice_cube,0,2,2,2023-03-22,-1,Ruby Date Recurrence Library - Allows easy creation of recurrence rules and fast querying
+shopify,child_subreaper,0,2,4,2024-05-02,-1,Ruby binding to call prctl(PR_SET_CHILD_SUBREAPER)
+shopify,nodejs-mobile-react-native,3,6,7,2024-06-18,-1,Node.js for Mobile Apps React Native plugin
+shopify,shopify-cla-action,8,10,10,2025-02-18,-1,Shopify CLA action
+shopify,zk,7,9,5,2025-08-11,-1,Native ZooKeeper client for Go
+shopify,ngrok-tunnel,0,3,3,2023-03-22,-1,Ngrok-tunnel gem is a simple ruby wrapper for ngrok http://ngrok.com
+shopify,go-leaderelection,0,1,3,2022-07-28,-1,GoLea is a Go library that provides the capability for a set of distributed processes to compete for leadership for a shared resource. 
+shopify,unite-workshop-checkout-ui,1,9,8,2025-05-13,-1,
+shopify,ruby_koans,1,1,2,2023-03-22,-1,Learn Ruby with the Edgecase Ruby Koans
+shopify,bai2,0,1,3,2023-03-22,-1,This gem parses BAI2 files that we receive from a bank.
+shopify,open-in-vscode,2,7,5,2022-12-07,-1,Open GitHub and BuildKite links in VSCode!
+shopify,Charts,0,1,2,2022-12-20,-1,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+shopify,shopify-app-js,111,435,166,2025-08-11,-1,
+shopify,hypernova-ruby-1,0,1,4,2023-03-22,-1,Ruby client for Hypernova.
+shopify,unite-workshop-online-store-performance,0,2,7,2022-10-05,-1,
+shopify,ruby-mmtk-builder,2,7,5,2024-09-03,-1,
+shopify,airbyte,5,3,5,2025-04-10,-1,"Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases."
+shopify,graphql-client-1,0,1,3,2023-03-22,-1,"A Ruby library for declaring, composing and executing GraphQL queries"
+shopify,unite-workshop-learning-liquid,0,4,3,2022-09-11,-1,
+shopify,unite-workshop-shopifyql,1,10,5,2024-09-17,-1,
+shopify,unite-workshop-functions-volume-discount,1,14,7,2024-09-17,-1,
+shopify,shopify-function-rust,10,43,10,2025-08-12,-1,
+shopify,pitchfork,8,795,33,2025-07-28,-1,
+shopify,hydrogen,164,1715,352,2025-08-11,-1,"Hydrogen lets you build faster headless storefronts in less time, on Shopify."
+shopify,shopify-vale,7,1,3,2025-05-13,-1,
+shopify,goqueuesim,0,8,3,2023-03-21,-1,User queueing simulator supporting diverse client config behaviours via Go coroutines
+shopify,theme-liquid-docs,2,61,15,2025-08-12,-1,A reference for liquid documentation
+shopify,hydrogen-react,3,178,13,2023-03-03,-1,Reusable components and utilities for building Shopify-powered custom storefronts.
+shopify,gitcoin-bounties,2,4,3,2022-10-07,-1,
+shopify,mybench,9,10,6,2025-08-11,-1,A high-performance framework for rapid prototyping of database benchmarks
+shopify,test_test,0,1,0,2022-11-10,-1,
+shopify,dbt-spark,0,1,1,2022-11-24,-1,dbt-spark contains all of the code enabling dbt to work with Apache Spark and Databricks
+shopify,ip-masq-agent,3,1,2,2024-07-04,-1,Manage IP masquerade on nodes
+shopify,ruvy,0,307,7,2025-08-01,-1,
+shopify,tree_stand,2,11,3,2024-03-28,-1,A high-level Ruby wrapper for tree-sitter bindings.
+shopify,checkout-ui-extensions-po-box-validator,13,6,6,2025-08-07,-1,
+shopify,checkout-liquid-po-box-validator,1,2,3,2022-12-12,-1,
+shopify,workshop-webhooks-nodejs,6,5,5,2023-07-13,-1,
+shopify,spatial-commerce-projects,2,11,3,2024-05-16,-1,
+shopify,usage-billing-example-shopify-app,6,18,8,2023-07-13,-1,
+shopify,handy,2,147,13,2025-05-13,-1,The easiest way to mocap your hands!
+shopify,shopify-function-javascript,3,32,8,2025-08-04,-1,
+shopify,flink-kubernetes-operator,1,4,3,2025-07-29,-1,Apache Flink Kubernetes Operator
+shopify,ebpf_exporter,0,1,7,2023-03-21,-1, Prometheus exporter for custom eBPF metrics
+shopify,ferrum,0,1,4,2023-12-12,-1,Headless Chrome Ruby API
+shopify,bluejay,4,30,5,2025-08-08,-1,GraphQL tools for Rust
+shopify,zts-dev-test,1,2,4,2023-01-27,-1,
+shopify,levenshtein-ffi,0,2,4,2023-03-22,-1,"Fast string edit distance computation, using the Damerau-Levenshtein algorithm."
+shopify,blockchain-components,9,83,21,2025-01-24,-1,Blockchain related React UI components for Shopify storefronts
+shopify,stringio,0,1,3,2024-06-04,-1,Pseudo `IO` class from/to `String`.
+shopify,tokengating-example-app,3,38,14,2023-08-15,-1,"A Shopify example app that creates and enforces tokengated product discounts, written in Node.js"
+shopify,go-mysql,0,1,4,2023-08-17,-1,a powerful mysql toolset with Go
+shopify,flink-kubernetes-operator-1,0,1,1,2023-02-08,-1,Apache Flink Kubernetes Operator
+shopify,syntax_tree,0,1,4,2024-10-28,-1,A fast Ruby parser and formatter
+shopify,bench,2,1,2,2024-07-24,-1,
+shopify,vscode-rdbg,1,2,4,2024-06-18,-1,VSCode Ruby rdbg Debugger
+shopify,pid_cache,1,40,3,2025-08-11,-1,Cache calls to Process.pid
+shopify,kyverno,1,1,3,2024-06-24,-1,Kubernetes Native Policy Management
+shopify,vscode-docs,1,1,2,2024-09-19,-1,Public documentation for Visual Studio Code
+shopify,tracky,15,380,29,2025-05-13,-1,The easiest way to do motion tracking! 
+shopify,function-runner-javascript,2,7,2,2024-08-14,-1,
+shopify,bb8-memcached,0,0,0,2023-02-28,-1,
+shopify,bundler-install-stats,3,4,1,2025-08-04,-1,A Bundler plugin to measure how long each gem takes to install
+shopify,async-memcached,4,12,5,2025-08-12,-1,
+shopify,cruise-control-1,0,1,0,2023-03-23,-1,Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.
+shopify,opentelemetry-lua,6,0,0,2024-04-19,-1,opentelemetry lua sdk
+shopify,asynq,6,3,2,2024-04-19,-1,"Simple, reliable, and efficient distributed task queue in Go"
+shopify,ruby-lsp-rails,41,639,33,2025-08-12,-1,A Ruby LSP add-on for Rails
+shopify,chatbot-ui,6,16,7,2024-06-18,-1,An open source ChatGPT UI.
+shopify,binaryen-rb,3,1,2,2025-08-04,-1,
+shopify,asynq-1,10,0,2,2024-11-06,-1,"Simple, reliable, and efficient distributed task queue in Go"
+shopify,asynqmon,4,2,3,2024-06-18,-1,Web UI for Asynq task queue
+shopify,shop-minis,4,2,3,2025-08-08,-1,Collection of examples for the Shop Minis platform
+shopify,shopify-app-template-remix,73,503,229,2025-08-12,-1,
+shopify,wasmprof,9,16,5,2025-06-06,-1,
+shopify,i18next-shopify,27,30,5,2025-08-12,-1,
+shopify,tracee-action,1,0,0,2023-04-20,-1,Protect GitHub Actions with Tracee
+shopify,font-awesome-sass,0,0,0,2023-04-21,-1,Font-Awesome Sass gem for use in Ruby/Rails projects
+shopify,ruby-jose,1,0,1,2023-05-15,1,JSON Object Signing and Encryption (JOSE) for Ruby
+shopify,test-collector-ruby-1,0,0,0,2023-04-20,0,Buildkite Test Analytics collector for Ruby test frameworks
+shopify,hydrogen-redirect-theme,5,56,28,2025-08-04,2,
+shopify,checkout-ui-tutorials,2,6,0,2023-07-13,2,A sample app used to build checkout UI extension tutorials
+shopify,extensions-templates,23,90,15,2025-07-30,20,
+shopify,tap-impact,1,0,0,2025-08-11,1,A Shopify fork of the Singer tap for Impact Radius
+shopify,tap-sftp-xml-support,1,0,0,2024-10-04,1,tap-sftp with XML support
+shopify,adyen-ruby-api-library,2,0,0,2023-10-24,2,Adyen API Library for Ruby
+shopify,minitest-reporters-json_reporter,0,0,0,2023-05-18,0,Source of minitest-reporters-json_reporter Gem. An extension to the minitest-reporters Gem that provides JSON output for test runs.
+shopify,vitess-website,0,0,0,2024-03-26,0,vitess.io website and other project management related content
+shopify,gated-hydrogen-example,4,16,4,2024-06-18,3,
+shopify,autotuner,7,569,15,2025-08-11,6,Get suggestions to tune Ruby's garbage collector
+shopify,ruby-definitions,0,58,5,2025-05-20,0,"Definitions to build the Ruby we use at Shopify in development, testing, and production."
+shopify,i18n-ally,0,3,0,2023-07-11,0,🌍 All in one i18n extension for VS Code
+shopify,torch-grammar,8,67,5,2025-08-11,7,
+shopify,example-checkout--product-offer-pre-purchase--react,1,1,4,2024-09-12,1,
+shopify,example-checkout--product-offer-pre-purchase--js,1,5,3,2024-09-11,1,
+shopify,example-checkout--custom-field--react,1,8,4,2024-08-07,1,
+shopify,example-checkout--custom-field--js,1,8,6,2024-08-07,1,
+shopify,tap-prometheus,0,1,1,2023-03-20,0,Singer.io Prometheus tap
+shopify,example-checkout--client-validation--react,2,5,3,2025-01-31,1,
+shopify,shopify-app-template-none,4,15,7,2025-08-11,2,
+shopify,example-checkout--client-validation--js,2,3,1,2024-08-07,0,
+shopify,example-checkout--order-status--react,2,8,3,2024-08-07,0,
+shopify,tap-github,0,1,0,2023-07-17,0,A Singer tap for extracting data from Github. Powered by the Meltano SDK for Singer Taps: https://sdk.meltano.com
+shopify,example-app--qr-code--remix,6,75,55,2025-07-22,3,
+shopify,example-checkout--custom-banner--react,2,3,1,2024-10-21,0,
+shopify,example-checkout--custom-banner--js,1,1,1,2024-08-07,0,
+shopify,percona-server-1,2,0,0,2024-06-17,2,Percona Server
+shopify,flink-connector-gcp-pubsub,1,0,0,2025-01-14,1,Apache flink
+shopify,github-workflows,0,6,2,2025-06-02,-1,GitHub Actions reusable workflows
+shopify,rdoc,1,1,2,2025-06-27,-1,RDoc produces HTML and online documentation for Ruby projects.
+shopify,theme-tools,133,145,52,2025-08-05,-1,Everything developer experience for Shopify themes
+shopify,skypilot,3,9,2,2025-05-29,-1,"SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface."
+shopify,globalid,1,0,1,2024-06-04,-1,Identify app models with a URI
+shopify,discount-app-components-1,6,1,0,2024-04-11,-1,A library of discounts-focused React components to help in building Shopify apps.
+shopify,checkout-sheet-kit-swift,14,52,23,2025-08-12,-1,Shopify’s Checkout Sheet Kit makes it simple to perform a checkout inside your Swift native app.
+shopify,my_new_app,4,1,2,2024-06-04,-1,
+shopify,prisma-engines,5,1,1,2024-04-05,-1,Temporary fork of prisma-engines to address bugs yet to be fixed upstream
+shopify,racecar,1,1,0,2025-01-06,-1,Racecar: a simple framework for Kafka consumers in Ruby
+shopify,opentsdb-bigtable,0,0,0,2023-09-22,-1,
+shopify,influxdb_iox,5,1,0,2024-04-19,-1,"Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow."
+shopify,opentelemetry-ruby-contrib,38,0,0,2025-05-01,-1,Contrib Packages for the OpenTelemetry Ruby API and SDK implementation.
+shopify,example-app--qr-code--remix-1,0,0,0,2023-09-06,-1,
+shopify,example-app--qr-code--remix-2,0,0,1,2023-09-06,-1,
+shopify,vecsearch,1,1,1,2024-05-16,-1,
+shopify,blake3-rb,8,12,3,2025-08-12,-1,
+shopify,checkout-sheet-kit-android,10,18,12,2025-08-12,-1,Shopify’s Checkout Sheet Kit makes it simple to perform a checkout inside your Android app.
+shopify,event_stream_parser,3,34,4,2025-08-11,-1,"A lightweight, fully spec-compliant parser for the event stream format."
+shopify,mobile-kit-feedback,0,3,0,2024-01-30,-1,A place to dicsuss all things Shopify Mobile-Kit
+shopify,minitest-distributed,2,9,1,2025-08-12,-1,minitest-distributed is a plugin for minitest for executing tests on a distributed set of unreliable workers.
+shopify,worldwide,16,83,7,2025-08-12,-1,A gem to assist with the internationalization and localization of ruby code
+shopify,tap-facebook,1,0,0,2025-06-10,-1,Singer.io tap for Facebook Marketing API
+shopify,tap-bing-ads,1,0,0,2025-06-10,-1,A Singer.io tap for extracting data from the Bing Ads API
+shopify,customer-account-tutorials,20,7,2,2025-07-23,-1,Coding tutorials related to customer accounts
+shopify,checkout-sheet-kit-react-native,25,56,11,2025-08-12,-1,Shopify's Checkout Sheet Kit for React Native - simplifying the process of adding checkout to your native apps.
+shopify,example-admin--action-and-block--react,4,8,5,2025-02-20,-1,Contains example code for tutorials at https://shopify.dev/docs/apps/admin/admin-actions-and-blocks
+shopify,rack-sanitizer,3,6,4,2025-05-13,-1,
+shopify,vite_ruby,7,0,0,2024-12-03,-1,"⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience"
+shopify,activerecord-typedstore,0,0,0,2023-08-17,-1,ActiveRecord::Store but with type definition
+shopify,djb2,2,1,1,2025-08-11,-1,Ruby extension to compute djb_hash_2 digests
+shopify,json_api_client,1,0,0,2024-05-02,-1,Build client libraries compliant with specification defined by jsonapi.org
+shopify,opentelemetry-swift,1,1,2,2025-04-04,-1,OpenTelemetry API for Swift
+shopify,dbt-bigquery,0,0,0,2023-12-08,-1,dbt-bigquery contains all of the code required to make dbt operate on a BigQuery database.
+shopify,elasticsearch-learning-to-rank,0,0,0,2023-12-14,-1,Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch
+shopify,clickhouse-operator,4,1,1,2025-03-03,-1,"Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes"
+shopify,example-app--payments-app-template--remix,2,21,12,2025-08-11,-1,
+shopify,example-app--credit-card-payments-app-template--remix,2,14,6,2025-08-11,-1,
+shopify,eng-intern-assessment-data,168,11,230,2025-08-11,-1,A Starter repo for Shopify Data Eng Intern Assessments
+shopify,eng-intern-assessment-rails,241,12,399,2025-08-04,-1,A Starter repo for Shopify Rails Intern assessments
+shopify,eng-intern-assessment-react,272,18,385,2025-07-18,-1,A Starter repo for Shopify React Intern assessments
+shopify,eng-intern-assessment-react-native,69,5,89,2025-08-07,-1,A Starter repo for Shopify React Native intern assessments
+shopify,gruf,0,0,0,2024-01-03,-1,gRPC Ruby Framework
+shopify,infra-intern-assessment,115,5,151,2025-08-12,-1,A Starter repo for Shopify Infrastructure Intern assessments
+shopify,example-checkout--custom-header-footer--react,1,0,0,2024-01-22,-1,This repo contains an example app that uses checkout UI extensions to build a custom header using React
+shopify,reference-theme,0,149,58,2025-04-30,-1,A developer reference theme for Shopify online store themes
+shopify,flow-code-examples,2,40,3,2025-08-06,-1,Examples for Flow's Run code action
+shopify,example-checkout--custom-header--react,0,1,1,2024-04-18,-1,This repo contains an example app that uses Checkout UI Extensions to build a custom header using React
+shopify,example-checkout--custom-header--js,0,1,1,2024-04-18,-1,This repo contains an example app that uses Checkout UI Extensions to build a custom header using JavaScript
+shopify,example-checkout--custom-footer--react,0,0,0,2024-06-21,-1,This repo contains an example app that uses Checkout UI Extensions to build a custom footer using React
+shopify,example-checkout--custom-footer--js,0,1,0,2024-02-05,-1,This repo contains an example app that uses Checkout UI Extensions to build a custom footer using JavaScript
+shopify,grpc-mock,5,0,0,2024-04-19,-1,Run a gRPC mock server by using protobuf reflection.
+shopify,reasonableai,17,8,4,2024-07-05,-1,An auditable generative AI framework
+shopify,product-taxonomy,65,186,48,2025-08-11,-1,Shopify's standardized product taxonomy.
+shopify,protoboeuf,19,46,8,2025-08-04,-1,A pure Ruby implementation of Protobuf designed to optimize well with JIT compilers.
+shopify,flink-connector-kafka,1,0,0,2025-07-25,-1,Apache flink
+shopify,connect-swift,0,0,0,2024-02-16,-1,The Swift implementation of Connect: Protobuf RPC that works.
+shopify,libsql,0,4,2,2025-06-13,-1,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions."
+shopify,hydrogen-demo-store,30,189,86,2025-08-11,-1,"This template contains a full-featured setup of components, queries and tooling to get started with Hydrogen. It is deployed to https://hydrogen.shop"
+shopify,snapit,10,5,3,2025-08-12,-1,Create a snapshot NPM release with /snapit comment in a PR
+shopify,filediff,7,4,0,2025-08-12,-1,Create a filediff comment to compare file size changes
+shopify,example-checkout--read-custom-data--react,0,3,0,2024-12-19,-1,Checkout UI Extensions tutorial for reading metafield data
+shopify,graphql-codegen,8,35,2,2025-08-12,-1,A codegen preset for generating TypeScript types from GraphQL queries without AST wrappers.
+shopify,discovery-apache-beam,5,1,1,2025-03-06,-1,Apache Beam is a unified programming model for Batch and Streaming data processing.
+shopify,example-app--embedded-auth--js,1,1,1,2024-10-10,-1,Example app for demonstrating authorization/authentication for embedded apps
+shopify,Templates,0,0,1,2024-03-06,-1,Templates for use in the Domain Connect Protocol
+shopify,ClickHouse,6,0,2,2025-05-26,-1,ClickHouse® is a free analytics DBMS for big data
+shopify,onigmo,1,16,1,2025-08-04,-1,A Ruby wrapper around the onigmo regular expression library
+shopify,active_analytics,0,1,1,2024-02-28,-1,"First-party, privacy-focused traffic analytics for Ruby on Rails applications."
+shopify,active_analytics-1,0,0,0,2024-02-28,-1,"First-party, privacy-focused traffic analytics for Ruby on Rails applications."
+shopify,terraform-exec,1,2,1,2025-02-27,-1,Terraform CLI commands via Go.
+shopify,mteb,0,0,0,2024-04-08,-1,MTEB: Massive Text Embedding Benchmark
+shopify,prism,3,1,2,2025-07-29,-1,Prism Ruby parser
+shopify,tap-youtube-analytics,1,0,0,2024-05-20,-1,
+shopify,rubocop,0,2,2,2025-06-18,-1,"A Ruby static code analyzer and formatter, based on the community Ruby style guide."
+shopify,partnerpayouts,0,2,0,2024-04-05,-1,Track Partner Manual One-Time Payout Requests
+shopify,mocha,0,0,0,2024-12-19,-1,Mocha is a mocking and stubbing library for Ruby
+shopify,ulid-ruby,1,0,0,2024-10-28,-1,Universally Unique Lexicographically-sortable time-based Identifiers for Ruby projects
+shopify,spring,0,1,1,2025-07-21,-1,Rails application preloader
+shopify,eng-internship-challenge,311,15,351,2025-08-12,-1,A Technical Challenge for Engineering Internship applicants
+shopify,rquickjs,1,0,0,2024-09-03,-1,High level bindings to the quickjs javascript engine
+shopify,editions-dev-2024-workshop-functions,0,1,0,2024-06-20,-1,Code for the 2024 Editions.dev workshop on functions development workflow.
+shopify,rb-inotify,1,0,1,2024-09-05,-1,A thorough inotify wrapper for Ruby using FFI.
+shopify,skypilot-1,1,1,1,2025-04-29,-1,"SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface."
+shopify,terraform-provider-catchpoint,1,0,1,2024-07-10,-1,
+shopify,editions-dev-2024-workshop-hydrogen,1,2,1,2025-02-12,-1,Editions.dev 2024 Hydrogen workshop
+shopify,editions-dev-2k-variants,0,2,0,2024-06-14,-1,Demonstration app to show REST migration
+shopify,listen,0,0,1,2024-06-17,-1,The Listen gem listens to file modifications and notifies you about the changes.
+shopify,editions-dev-2024-workshop-extensibility,0,7,1,2024-06-11,-1,app to be used for editions.dev workshop
+shopify,editions-dev-2024-workshop-customer-account,1,3,0,2024-09-11,-1,Editions.dev 2024 customer account workshop
+shopify,twirp-ruby,2,0,0,2024-09-19,-1,Twirp services in Ruby
+shopify,example-checkout--address-autocomplete--js,0,2,0,2024-08-07,-1,Code example used for Address Autocomplete tutorial
+shopify,catchpoint-prometheus-exporter,1,0,0,2024-06-13,-1,
+shopify,agi,1,0,1,2024-07-06,-1,A Hack Days experiment in AGI
+shopify,rb-inotify-1,0,0,0,2024-05-19,-1,A thorough inotify wrapper for Ruby using FFI.
+shopify,hypertest,1,1,1,2024-08-16,-1,run tests fast
+shopify,tutorial-discount-functions-with-remix,0,11,3,2024-09-12,-1,Build a discount with GraphQL tutorial
+shopify,shop-minis-ui-extensions,3,3,7,2025-04-30,-1,Reusable Minis UI Extensions Components for the Shop Minis Platform
+shopify,metaflow,1,0,4,2024-08-30,-1,":rocket: Build and manage real-life ML, AI, and data science projects with ease!"
+shopify,octokit.rb-1,0,0,0,2024-07-18,-1,Ruby toolkit for the GitHub API
+shopify,webrick,0,0,1,2024-07-23,-1,HTTP server toolkit
+shopify,grpc_fork_safety,3,5,2,2025-08-04,-1,
+shopify,open-webui,2,0,1,2024-08-30,-1,User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+shopify,active_merchant,1,4,2,2024-08-02,-1,Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.
+shopify,example-checkout--format-suggestion--js,0,1,0,2024-08-14,-1,Example tutorial code for format suggestion
+shopify,aws-sdk-ruby,1,0,2,2024-09-06,-1,The official AWS SDK for Ruby.
+shopify,clickhouse-rs,1,0,1,2024-08-30,-1,Asynchronous ClickHouse client library for Rust programming language.
+shopify,lz4-flex-rb,7,9,1,2025-08-12,-1,Modern LZ4 for Ruby
+shopify,tophat,1,784,29,2025-08-11,-1,Easily install and test mobile applications with a single click.
+shopify,apache-kafka,1,1,1,2025-06-10,-1,Fork of Apache Kafka
+shopify,hack-the-north-scavenger-hunt,0,2,0,2024-09-14,-1,A digital scavenger hunt created for Hack the North 2024
+shopify,bazel-toolchain,0,0,1,2024-09-19,-1,LLVM toolchain for bazel
+shopify,twirp-ruby-1,1,0,0,2024-09-19,-1,Twirp services in Ruby
+shopify,subscriptions-reference-app,0,127,26,2025-07-17,-1,Shopify Subscriptions Reference app
+shopify,ruby-spanner-activerecord,1,0,0,2024-10-21,-1,Spanner<->ActiveRecord adapter for Ruby
+shopify,rbs,4,1,2,2025-07-25,-1,Type Signature for Ruby
+shopify,opentelemetry-instrumentation-grpc,2,0,0,2024-10-25,-1,
+shopify,faiss-ruby,0,1,1,2025-08-02,-1,Efficient similarity search and clustering for Ruby
+shopify,profiler,3,1,0,2025-04-15,-1,Firefox Profiler — Web app for Firefox performance analysis
+shopify,example-discount-function-settings-extension,2,1,2,2024-11-08,-1,A sample discount function settings extension
+shopify,mcliquid-theme,1,14,11,2025-03-25,-1,A liquid theme to demo platform capabilities
+shopify,vscode-shopify-dev-assistant,2,5,3,2025-06-03,-1,A VSCode Copilot chat extension for the shopify.dev assistant
+shopify,loyalty-extension-example,4,0,2,2025-01-22,-1,Tutorial code on Shopify-dev
+shopify,json-1,0,0,0,2024-11-29,-1,JSON implementation for Ruby
+shopify,liquid-docs-code-samples,0,3,1,2025-05-19,-1,Code samples used in Shopify.dev Liquid tutorials
+shopify,irb,0,1,0,2025-01-20,-1,interactive Ruby
+shopify,zincsearch,5,1,2,2025-03-12,5,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go."
+shopify,zincsearch-1,6,1,1,2025-03-12,6,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go."
+shopify,gltf-compressor,0,297,9,2025-08-08,0,The easiest way to compress glTF files!
+shopify,loupe,0,12,2,2025-05-13,0,Type analysis of a simplified Ruby-like IR
+shopify,kubernetes-sample-apps,6,1,1,2025-03-21,6,Example DigitalOcean Kubernetes workload with service exposed through a DO load-balancer.
+shopify,debezium-connector-yugabytedb,1,0,0,2025-08-11,1,A Debezium CDC connector for the YugabyteDB database 
+shopify,zjit,7,2,0,2025-05-14,4,"Next-gen Ruby JIT, now in upstream CRuby"
+shopify,minitest-difftastic,0,1,0,2025-02-11,0,Minitest Plugin to use difftastic for failed assertions.
+shopify,discounts-reference-app,5,4,1,2025-07-29,3,A collection of discount sample apps.
+shopify,gh-ost,1,1,1,2025-08-07,1,GitHub's Online Schema-migration Tool for MySQL
+shopify,shopify-function-wasm-api,10,6,0,2025-08-12,10,A WebAssembly programming interface for Shopify Functions
+shopify,yugabyte-db,5,0,2,2025-07-14,5,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+shopify,json-rpc-handler,2,6,4,2025-08-11,2,"A lightweight, fully spec-compliant handler for JSON-RPC 2.0 requests"
+shopify,dev-mcp,28,464,52,2025-08-12,17,Shopify.dev MCP server
+shopify,jest-junit,1,2,1,2025-06-03,1,A Jest reporter that creates compatible junit xml files
+shopify,pipeline-studio-app,2,2,2,2025-07-22,2,WIP: Cloud Pipelines Editor is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.
+shopify,activerecord-yugabytedb-adapter,0,1,1,2025-04-14,0,YugabyteDB adapter for ActiveRecord
+shopify,ruby-pg,0,1,1,2025-04-14,0,A YugabyteDB client library for Ruby
+shopify,tidb,1,1,1,2025-04-08,1,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications."
+shopify,argo-cd-1,8,1,2,2025-08-06,8,Declarative Continuous Deployment for Kubernetes
+shopify,mcp-net,6,0,0,2025-04-10,0,A proxy server and tools manager for the Model Context Protocol (MCP) that facilitates communication between LLM applications and remote MCP-compatible services.
+shopify,roast,168,799,38,2025-08-11,12,Structured AI workflows made easy
+shopify,example-admin-action-and-block-preact,0,0,0,2025-06-04,0,Contains example code for tutorials at https://shopify.dev/docs/apps/admin/admin-actions-and-blocks
+shopify,shopify-app-template-react-router,3,34,3,2025-08-11,0,An template for building Shopify Apps using React Router v7 and above
+shopify,toml-patch,6,3,1,2025-08-11,6,"A JS library using WebAssembly to patch TOML files, preserving formatting"
+shopify,consumer-agent-mcp,1,2,1,2025-07-07,0,The Consumer Agent MCP Bridge
+shopify,editions-dev-2025-masterclass-declarative-data,0,1,0,2025-05-28,0,Source code for the Editions.dev 2025 masterclass on declarative custom data and the new `app dev`.
+shopify,shop-chat-agent,16,44,35,2025-07-22,8,A reference app for storefront chat agent
+shopify,autosizes,0,44,2,2025-05-07,0,A sizes=auto polyfill
+shopify,editions-dev-2025-workshop-customer-account,2,2,2,2025-07-18,2,Editions.dev customer accounts workshop
+shopify,rocksdb,2,0,0,2025-07-30,-1,"A library that provides an embeddable, persistent key-value store for fast storage."
+shopify,claude-code-action,0,1,0,2025-05-28,-1,
+shopify,claude-code-base-action,0,0,0,2025-05-27,-1,
+shopify,psql-wire,3,0,0,2025-06-27,-1,PostgreSQL server wire protocol. Build your own server and start serving connections.
+shopify,position-observer,2,118,3,2025-08-05,-1,"Asynchronously observe changes in the position, size and intersection of elements without polling."
+shopify,propshaft,0,0,1,2025-06-23,-1,Deliver assets for Rails
+shopify,DataflowTemplates,3,0,0,2025-08-06,-1,Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
+shopify,changesets-action,1,0,0,2025-07-23,-1,
+shopify,horizon,1,173,32,2025-08-06,-1,Shopify's Horizon theme source code
+shopify,rocksdb-1,0,0,0,2025-07-28,-1,"A library that provides an embeddable, persistent key-value store for fast storage."
+shopify,ruby-environments,0,1,0,2025-08-06,-1,
+shopify,raindrops,0,0,0,2023-09-23,-1,
