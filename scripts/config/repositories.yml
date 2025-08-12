@@ -1,0 +1,13 @@
+repositories:
+  AI_and_ML:
+    - tensorflow/tensorflow
+    - pytorch/pytorch
+    - scikit-learn/scikit-learn
+  JavaScript:
+    - facebook/react
+    - microsoft/vscode
+    - nodejs/node
+  Python:
+    - python/cpython
+    - pallets/flask
+    - django/django

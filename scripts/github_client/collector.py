@@ -91,7 +91,7 @@ def main():
     
     # Load repository configuration
     import yaml
-    with open('src/config/repositories.yml', 'r') as f:
+    with open('scripts/config/repositories.yml', 'r') as f:
         repositories_config = yaml.safe_load(f)['repositories']
     
     print("Starting data collection...")
