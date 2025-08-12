@@ -1,0 +1,1 @@
+"""Merged PRs collection module for GitHub repositories."""
