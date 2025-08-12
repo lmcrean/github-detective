@@ -9,7 +9,7 @@ A GitHub statistics collection tool designed to work as an extension of Claude C
 When a user asks for GitHub statistics about specific repositories:
 
 1. **Add repositories to configuration**: 
-   - Edit `src/config/repositories.yml` to add the requested repositories
+   - Edit `scripts/config/repositories.yml` to add the requested repositories
    - Use format: `owner/repo` (e.g., `facebook/react`)
 
 2. **Run data collection**:
@@ -31,14 +31,14 @@ When a user asks for GitHub statistics about specific repositories:
 For ad-hoc repository analysis:
 ```python
 # Example: Collect data for a single repository
-from src.github_client.client import GitHubClient
+from scripts.github_client.client import GitHubClient
 client = GitHubClient()
 stats = client.get_repository_stats("owner/repo")
 ```
 
 ## Key Files & Structure
-- `src/github_client/` - Core GitHub API client and data collection logic
-- `src/config/repositories.yml` - Repository configuration (dynamically updated)
+- `scripts/github_client/` - Core GitHub API client and data collection logic
+- `scripts/config/repositories.yml` - Repository configuration (dynamically updated)
 - `scripts/run_collection.py` - Main entry point for batch data collection
 - `data/output/` - CSV and JSON output files with collected statistics
 - `tests/` - Unit and integration tests
@@ -61,7 +61,7 @@ The tool collects:
 ## Usage Examples
 
 ### Example 1: User asks for stats on AI/ML repositories
-1. Add requested repos to `src/config/repositories.yml`
+1. Add requested repos to `scripts/config/repositories.yml`
 2. Run `python scripts/run_collection.py`
 3. Read and analyze the CSV output to provide insights
 

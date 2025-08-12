@@ -11,7 +11,7 @@ sys.path.insert(0, str(project_root))
 
 import sys
 import os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
 
 from github_client.client import GitHubClient
 from github_client.collector import RepositoryCollector
@@ -89,7 +89,7 @@ class TestConfigurationLoading:
     
     def test_yaml_config_exists(self):
         """Test that repositories.yml exists and is readable."""  
-        config_path = Path(__file__).parent.parent / 'src' / 'config' / 'repositories.yml'
+        config_path = Path(__file__).parent.parent / 'scripts' / 'config' / 'repositories.yml'
         assert config_path.exists(), "repositories.yml should exist"
         
         import yaml
@@ -108,7 +108,7 @@ class TestDataPersistence:
         """Test that required directories exist."""
         github_repo_root = Path(__file__).parent.parent
         assert (github_repo_root / 'data' / 'output').exists()
-        assert (github_repo_root / 'src').exists()
+        assert (github_repo_root / 'scripts').exists()
         assert (github_repo_root / 'scripts').exists()
         assert (github_repo_root / 'tests').exists()
 
