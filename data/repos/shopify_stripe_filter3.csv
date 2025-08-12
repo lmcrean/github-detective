@@ -268,3 +268,42 @@ shopify,roast,Inconsistent `.roast` usage,2.0,Bug,2025-06-03,https://github.com/
 shopify,tapioca,"ActiveModelAttributes compiler does not allow calling """"super"""" from attribute method overrides.",1.0,,2025-06-03,https://github.com/shopify/tapioca/issues/2307
 shopify,tapioca,Add-on crashes if `sorbet/rbi/gems` doesn't exist,0.0,bug,2025-06-03,https://github.com/shopify/tapioca/issues/2308
 shopify,cli,[Bug]: The script file generated for the `javascript` Liquid tags has a syntax error. It is missing a closing brace and parentheses,0.0,"Severity: 3, Type: Bug, Area: @shopify/theme",2025-06-02,https://github.com/shopify/cli/issues/5921
+stripe,stripe-terminal-react-native,client_secret not exposed following createPaymentIntent,2.0,feature-request,2025-06-02,https://github.com/stripe/stripe-terminal-react-native/issues/957
+shopify,cli,[Feature]: GraphiQL Explorer to shopify cli app scaffold,4.0,"Type: Enhancement, Area: @shopify/app",2025-06-02,https://github.com/shopify/cli/issues/5928
+shopify,roast,Mocha deprecation warnings,0.0,Bug,2025-06-02,https://github.com/shopify/roast/issues/127
+shopify,roast,Circular dependencie in test,2.0,Bug,2025-06-02,https://github.com/shopify/roast/issues/128
+stripe,stripe-react-native,'StripeSdk' could not be found,16.0,,2025-06-02,https://github.com/stripe/stripe-react-native/issues/1962
+shopify,roast,Many  method redefined warnings during tests from raix,0.0,,2025-05-31,https://github.com/shopify/roast/issues/120
+shopify,roast,"loading in progress, circular require considered harmful",0.0,,2025-05-31,https://github.com/shopify/roast/issues/116
+shopify,flash-list,"[Bug] [v2] """"contentContainerStyle"""" prop shows error when passing a """"ViewStyle"""" value",1.0,"bug, v2.0",2025-05-31,https://github.com/shopify/flash-list/issues/1683
+shopify,roast,Parallelization output concatenated?,0.0,Bug,2025-05-30,https://github.com/shopify/roast/issues/109
+stripe,stripe-react-native,confirmPayment not sending full billingDetails and shippingDetails (missing carrier and phone),2.0,,2025-05-30,https://github.com/stripe/stripe-react-native/issues/1959
+shopify,cli,[Feature]: Configurable hot-reload delay for full page reload,3.0,"Type: Enhancement, Area: @shopify/theme",2025-05-30,https://github.com/shopify/cli/issues/5913
+shopify,roast,Feature request - Add option to turn off output file generation for sessions in roast,0.0,,2025-05-30,https://github.com/shopify/roast/issues/110
+shopify,tapioca,User-defined routes missing from generated path/URL helper RBI files after upgrading to Rails 8,2.0,help-wanted,2025-05-29,https://github.com/shopify/tapioca/issues/2295
+stripe,stripe-react-native,Including the library without using it breaks expo web,7.0,,2025-05-29,https://github.com/stripe/stripe-react-native/issues/1954
+shopify,roast,Roast MCP Server mode,0.0,enhancement,2025-05-29,https://github.com/shopify/roast/issues/101
+shopify,roast,Better example for how to create custom tools / Repository for custom tools,0.0,,2025-05-29,https://github.com/shopify/roast/issues/103
+stripe,stripe-react-native,Billie support,2.0,,2025-05-28,https://github.com/stripe/stripe-react-native/issues/1953
+shopify,roast,Replay appears to not work with repeated (iterator) steps,0.0,Bug,2025-05-28,https://github.com/shopify/roast/issues/88
+shopify,flash-list,"When loading new, Can not show RefreshControl",1.0,bug,2025-05-28,https://github.com/shopify/flash-list/issues/1678
+shopify,roast,ENV['DEBUG'] vs Logger's log_level,1.0,,2025-05-26,https://github.com/shopify/roast/issues/81
+stripe,stripe-react-native,Postal Code Error Not Throwing,0.0,,2025-05-25,https://github.com/stripe/stripe-react-native/issues/1946
+shopify,flash-list,"[Bug] [v2] When pagination is triggered in both directions, autoscroll to bottom doesn't work",0.0,"bug, P1, v2.0",2025-05-23,https://github.com/shopify/flash-list/issues/1671
+shopify,cli,502 Bad Gateway Error When Using HTTP Proxy with `shopify theme dev`,10.0,"Type: Bug, Area: @shopify/cli, Area: @shopify/cli-kit",2025-05-23,https://github.com/shopify/cli/issues/5890
+shopify,cli,[Feature]: Command-Specific Environment Flags,1.0,"Type: Enhancement, Area: @shopify/theme",2025-05-22,https://github.com/shopify/cli/issues/5889
+shopify,react-native-skia,[Android] gl::Context::makeCurrent Segfault error,6.0,bug,2025-05-22,https://github.com/shopify/react-native-skia/issues/3156
+shopify,shopify-app-js,Support Next.js caching options in the GraphQL client,1.0,Stale,2025-05-21,https://github.com/shopify/shopify-app-js/issues/2489
+shopify,roast,Broken wiith workflow.yaml extension,0.0,Bug,2025-05-21,https://github.com/shopify/roast/issues/69
+stripe,pg-schema-diff,[QUESTION] Can I compare 2 schemas named differently?,0.0,,2025-05-20,https://github.com/stripe/pg-schema-diff/issues/210
+shopify,flash-list,[Bug] [v2] Visible content position is not maintained when items are added and removed at the same time,5.0,"bug, P1, v2.0",2025-05-20,https://github.com/shopify/flash-list/issues/1667
+shopify,flash-list,[Bug] [v2] Autoscroll to bottom doesn't work when items are changing its size,6.0,"bug, P1, v2.0",2025-05-20,https://github.com/shopify/flash-list/issues/1666
+stripe,stripe-react-native,In Android app crash in release mode,11.0,,2025-05-20,https://github.com/stripe/stripe-react-native/issues/1938
+shopify,flash-list,ERROR  Warning: TypeError: Cannot read property 'bubblingEventTypes' of null,0.0,bug,2025-05-20,https://github.com/shopify/flash-list/issues/1668
+stripe,pg-schema-diff,[FEATURE] Support for policies on partitions,0.0,enhancement,2025-05-19,https://github.com/stripe/pg-schema-diff/issues/209
+stripe,stripe-react-native,@stripe/stripe-react-native build fails with Kotlin 1.8.0 – Incompatible with Compose Compiler 1.3.2,12.0,,2025-05-18,https://github.com/stripe/stripe-react-native/issues/1937
+stripe,stripe-react-native,Exclude Apple pay or PassKit framework from the generated binary,1.0,,2025-05-17,https://github.com/stripe/stripe-react-native/issues/1936
+shopify,roast,Enhanced Control Flow for Roast Workflows,0.0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/46
+shopify,roast,Limit tool output size,0.0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/52
+shopify,roast,Context Size Management / Auto-Compaction for Workflows,0.0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/45
+shopify,roast,Implement Parameterized Subroutines for Workflows,0.0,enhancement,2025-05-17,https://github.com/shopify/roast/issues/51
