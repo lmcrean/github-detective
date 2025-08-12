@@ -1,0 +1,13 @@
+
+PR Count Repair Report
+=====================
+File: C:\Projects\github-library\data\orgs\shopify_stripe_filter4.csv
+Timestamp: 2025-08-12 16:02:57
+
+Statistics:
+- Total repositories processed: 98
+- Successfully fixed: 32
+- Failed to fix: 66
+- API calls made: 98
+
+Success rate: 32.7%

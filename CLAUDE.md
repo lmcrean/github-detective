@@ -37,7 +37,8 @@ stats = client.get_repository_stats("owner/repo")
 ```
 
 ## Key Files & Structure
-- `scripts/github_client/` - Core GitHub API client and data collection logic
+- `scripts/github_client/` - Core GitHub API client and data collection logic see `.env` in the root
+- `.env` uses API_GITHUB_TOKEN 
 - `scripts/config/repositories.yml` - Repository configuration (dynamically updated)
 - `scripts/run_collection.py` - Main entry point for batch data collection
 - `data/output/` - CSV and JSON output files with collected statistics
