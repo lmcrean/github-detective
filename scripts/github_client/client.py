@@ -246,3 +246,71 @@ class GitHubClient:
                 break
         
         return issues
+    
+    def get_issue_details(self, owner: str, repo: str, issue_number: int) -> Optional[Dict[str, Any]]:
+        """Fetch detailed information for a specific issue."""
+        issue_url = f'{self.base_url}/repos/{owner}/{repo}/issues/{issue_number}'
+        
+        try:
+            response = requests.get(issue_url, headers=self.headers)
+            
+            if response.status_code == 404:
+                print(f"Issue {owner}/{repo}#{issue_number} not found (404)")
+                return None
+            elif response.status_code == 429:
+                print(f"Rate limit exceeded. Waiting 60 seconds...")
+                time.sleep(60)
+                return self.get_issue_details(owner, repo, issue_number)
+            elif response.status_code != 200:
+                print(f"Error fetching issue {owner}/{repo}#{issue_number}: Status {response.status_code}")
+                return None
+            
+            return response.json()
+            
+        except Exception as e:
+            print(f"Error fetching issue {owner}/{repo}#{issue_number}: {str(e)}")
+            return None
+    
+    def get_issue_comments(self, owner: str, repo: str, issue_number: int) -> List[Dict[str, Any]]:
+        """Fetch all comments for a specific issue."""
+        comments = []
+        page = 1
+        per_page = 100
+        
+        while True:
+            comments_url = f'{self.base_url}/repos/{owner}/{repo}/issues/{issue_number}/comments'
+            params = {
+                'per_page': per_page,
+                'page': page
+            }
+            
+            try:
+                response = requests.get(comments_url, headers=self.headers, params=params)
+                
+                if response.status_code == 429:
+                    print(f"Rate limit exceeded. Waiting 60 seconds...")
+                    time.sleep(60)
+                    continue
+                elif response.status_code != 200:
+                    print(f"Error fetching comments for {owner}/{repo}#{issue_number}: Status {response.status_code}")
+                    break
+                
+                page_comments = response.json()
+                
+                if not page_comments:
+                    break
+                
+                comments.extend(page_comments)
+                
+                # Check if there are more pages
+                if len(page_comments) < per_page:
+                    break
+                
+                page += 1
+                time.sleep(0.5)  # Be respectful to the API
+                
+            except Exception as e:
+                print(f"Error fetching comments for {owner}/{repo}#{issue_number}: {str(e)}")
+                break
+        
+        return comments
