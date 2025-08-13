@@ -8,8 +8,8 @@ from typing import Dict, List, Optional
 from dotenv import load_dotenv
 
 from .client import GitHubClient
-from .models import RepositoryStats, CollectionMetadata
-from .markdown_generator import MarkdownGenerator
+from ..models.github_models import RepositoryStats, CollectionMetadata
+from ..utils.markdown_utils import MarkdownUtils
 
 
 class RepositoryCollector:
@@ -116,8 +116,26 @@ def main():
     
     # Generate markdown documentation
     print("\nGenerating markdown documentation...")
-    markdown_gen = MarkdownGenerator(csv_path)
-    markdown_gen.generate_markdown_files()
+    # Load the CSV data for markdown generation
+    df = pd.read_csv(csv_path)
+    grouped = df.groupby('Field')
+    
+    os.makedirs('docs', exist_ok=True)
+    for field, group_df in grouped:
+        sorted_df = group_df.sort_values('Stars', ascending=False)
+        repos_data = sorted_df.to_dict('records')
+        
+        # Generate markdown content
+        summary = MarkdownUtils.generate_summary_section(repos_data, f"{field} Repositories")
+        table = MarkdownUtils.generate_repo_table(repos_data)
+        content = f"{summary}\n{table}"
+        
+        # Save to file
+        filename = MarkdownUtils.generate_filename(field)
+        filepath = os.path.join('docs', filename)
+        MarkdownUtils.write_markdown_file(content, filepath)
+        
+        print(f"Generated docs/{filename}")
     print("Markdown documentation generated in docs/ directory")
 
 

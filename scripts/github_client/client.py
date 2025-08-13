@@ -1,10 +1,12 @@
-"""GitHub API client for repository statistics."""
+"""Refactored GitHub API client for repository statistics."""
 
 import requests
-import time
 import re
 from typing import Optional, Dict, Any, List
-from .models import RepositoryStats, IssueData
+from ..models.github_models import RepositoryStats, IssueData
+from .auth import GitHubAuth
+from .rate_limiter import RateLimiter
+from .exceptions import GitHubAPIError, RateLimitError, RepositoryNotFoundError, AccessDeniedError
 
 
 class GitHubClient:
@@ -12,16 +14,46 @@ class GitHubClient:
     
     def __init__(self, token: Optional[str] = None):
         """Initialize client with optional authentication token."""
-        self.token = token
-        self.headers = {'Authorization': f'token {token}'} if token else {}
+        self.auth = GitHubAuth(token)
+        self.rate_limiter = RateLimiter()
         self.base_url = 'https://api.github.com'
+    
+    def _make_request(self, url: str, params: Dict[str, Any] = None) -> requests.Response:
+        """
+        Make authenticated request with rate limiting.
+        
+        Args:
+            url: API endpoint URL
+            params: Optional query parameters
+        
+        Returns:
+            HTTP response
+        
+        Raises:
+            GitHubAPIError: For various API errors
+        """
+        self.rate_limiter.wait_if_needed()
+        
+        try:
+            response = requests.get(url, headers=self.auth.get_headers(), params=params)
+            
+            # Handle rate limiting
+            if response.status_code == 429:
+                self.rate_limiter.handle_rate_limit_response(response)
+                # Retry after waiting
+                response = requests.get(url, headers=self.auth.get_headers(), params=params)
+            
+            return response
+            
+        except requests.exceptions.RequestException as e:
+            raise GitHubAPIError(f"Request failed: {str(e)}")
     
     def get_repo_stats(self, owner: str, repo: str) -> Optional[RepositoryStats]:
         """Fetch complete repository statistics."""
         repo_url = f'{self.base_url}/repos/{owner}/{repo}'
         
         try:
-            response = requests.get(repo_url, headers=self.headers)
+            response = self._make_request(repo_url)
             
             if response.status_code == 404:
                 print(f"Warning: Repository {owner}/{repo} not found (404)")
@@ -29,10 +61,6 @@ class GitHubClient:
             elif response.status_code == 403:
                 print(f"Warning: Access denied to {owner}/{repo} (403 - private repo?)")
                 return None
-            elif response.status_code == 429:
-                print(f"Warning: Rate limit exceeded. Waiting 60 seconds...")
-                time.sleep(60)
-                return self.get_repo_stats(owner, repo)
             
             response.raise_for_status()
             repo_data = response.json()
@@ -63,7 +91,7 @@ class GitHubClient:
         """Get accurate contributors count with pagination support."""
         try:
             contributors_url = f'{self.base_url}/repos/{owner}/{repo}/contributors?per_page=100&anon=true'
-            response = requests.get(contributors_url, headers=self.headers)
+            response = self._make_request(contributors_url)
             
             if response.status_code == 200:
                 contributors = response.json()
@@ -76,7 +104,7 @@ class GitHubClient:
                     if last_page_match:
                         last_page = int(last_page_match.group(1))
                         last_page_url = f'{contributors_url}&page={last_page}'
-                        last_response = requests.get(last_page_url, headers=self.headers)
+                        last_response = self._make_request(last_page_url)
                         if last_response.status_code == 200:
                             last_page_contributors = len(last_response.json())
                             total_count = (last_page - 1) * 100 + last_page_contributors
@@ -93,7 +121,7 @@ class GitHubClient:
         try:
             # Use search API for direct total count
             search_url = f'{self.base_url}/search/issues?q=is:pr+is:open+repo:{owner}/{repo}'
-            response = requests.get(search_url, headers=self.headers)
+            response = self._make_request(search_url)
             
             if response.status_code == 200:
                 data = response.json()
@@ -101,7 +129,7 @@ class GitHubClient:
             
             # Fallback to pulls endpoint with pagination
             prs_url = f'{self.base_url}/repos/{owner}/{repo}/pulls?state=open&per_page=100'
-            response = requests.get(prs_url, headers=self.headers)
+            response = self._make_request(prs_url)
             
             if response.status_code == 200:
                 prs = response.json()
@@ -114,7 +142,7 @@ class GitHubClient:
                     if last_page_match:
                         last_page = int(last_page_match.group(1))
                         last_page_url = f'{prs_url}&page={last_page}'
-                        last_response = requests.get(last_page_url, headers=self.headers)
+                        last_response = self._make_request(last_page_url)
                         if last_response.status_code == 200:
                             last_page_prs = len(last_response.json())
                             total_count = (last_page - 1) * 100 + last_page_prs
@@ -130,7 +158,7 @@ class GitHubClient:
         """Get top 5 programming languages used in repository with percentages."""
         try:
             languages_url = f'{self.base_url}/repos/{owner}/{repo}/languages'
-            response = requests.get(languages_url, headers=self.headers)
+            response = self._make_request(languages_url)
             
             if response.status_code == 200:
                 languages_data = response.json()
@@ -150,10 +178,8 @@ class GitHubClient:
                 formatted_langs = []
                 for lang, bytes_count in sorted_languages:
                     percentage = (bytes_count / total_bytes) * 100
-                    # Format with 1 decimal place to match GitHub's display
                     formatted_langs.append(f"{lang} ({percentage:.1f}%)")
                     
-                    # Only include top 5 languages
                     if len(formatted_langs) >= 5:
                         break
                 
@@ -167,8 +193,6 @@ class GitHubClient:
     def get_issues(self, owner: str, repo: str, max_issues: int = 500) -> List[IssueData]:
         """Fetch repository issues (both open and closed, sorted by creation date)."""
         issues = []
-        per_page = 100
-        max_pages = (max_issues + per_page - 1) // per_page
         
         # First, collect all open issues
         open_issues = self._collect_issues_by_state(owner, repo, 'open', max_issues // 2)
@@ -200,12 +224,7 @@ class GitHubClient:
             }
             
             try:
-                response = requests.get(issues_url, headers=self.headers, params=params)
-                
-                if response.status_code == 429:
-                    print(f"Rate limit exceeded. Waiting 60 seconds...")
-                    time.sleep(60)
-                    response = requests.get(issues_url, headers=self.headers, params=params)
+                response = self._make_request(issues_url, params)
                 
                 if response.status_code != 200:
                     print(f"Error fetching {state} issues for {owner}/{repo}: Status {response.status_code}")
@@ -239,8 +258,6 @@ class GitHubClient:
                     if len(issues) >= max_issues:
                         return issues[:max_issues]
                 
-                time.sleep(0.5)
-                
             except Exception as e:
                 print(f"Error fetching {state} issues page {page} for {owner}/{repo}: {str(e)}")
                 break
@@ -252,15 +269,11 @@ class GitHubClient:
         issue_url = f'{self.base_url}/repos/{owner}/{repo}/issues/{issue_number}'
         
         try:
-            response = requests.get(issue_url, headers=self.headers)
+            response = self._make_request(issue_url)
             
             if response.status_code == 404:
                 print(f"Issue {owner}/{repo}#{issue_number} not found (404)")
                 return None
-            elif response.status_code == 429:
-                print(f"Rate limit exceeded. Waiting 60 seconds...")
-                time.sleep(60)
-                return self.get_issue_details(owner, repo, issue_number)
             elif response.status_code != 200:
                 print(f"Error fetching issue {owner}/{repo}#{issue_number}: Status {response.status_code}")
                 return None
@@ -270,47 +283,3 @@ class GitHubClient:
         except Exception as e:
             print(f"Error fetching issue {owner}/{repo}#{issue_number}: {str(e)}")
             return None
-    
-    def get_issue_comments(self, owner: str, repo: str, issue_number: int) -> List[Dict[str, Any]]:
-        """Fetch all comments for a specific issue."""
-        comments = []
-        page = 1
-        per_page = 100
-        
-        while True:
-            comments_url = f'{self.base_url}/repos/{owner}/{repo}/issues/{issue_number}/comments'
-            params = {
-                'per_page': per_page,
-                'page': page
-            }
-            
-            try:
-                response = requests.get(comments_url, headers=self.headers, params=params)
-                
-                if response.status_code == 429:
-                    print(f"Rate limit exceeded. Waiting 60 seconds...")
-                    time.sleep(60)
-                    continue
-                elif response.status_code != 200:
-                    print(f"Error fetching comments for {owner}/{repo}#{issue_number}: Status {response.status_code}")
-                    break
-                
-                page_comments = response.json()
-                
-                if not page_comments:
-                    break
-                
-                comments.extend(page_comments)
-                
-                # Check if there are more pages
-                if len(page_comments) < per_page:
-                    break
-                
-                page += 1
-                time.sleep(0.5)  # Be respectful to the API
-                
-            except Exception as e:
-                print(f"Error fetching comments for {owner}/{repo}#{issue_number}: {str(e)}")
-                break
-        
-        return comments
