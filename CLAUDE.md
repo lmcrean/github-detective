@@ -36,13 +36,18 @@ client = GitHubClient()
 stats = client.get_repository_stats("owner/repo")
 ```
 
-## Key Files & Structure
-- `scripts/github_client/` - Core GitHub API client and data collection logic see `.env` in the root
-- `.env` uses API_GITHUB_TOKEN 
-- `scripts/config/repositories.yml` - Repository configuration (dynamically updated)
+## Key Files & Structure (Refactored Modular Architecture)
+- `scripts/github_client/` - Core GitHub API client with auth, rate limiting, and exception handling
+- `scripts/issues/` - Issue collection, analysis, and export functionality
+- `scripts/repos/` - Repository analysis, filtering, and metrics
+- `scripts/orgs/` - Organization-level data collection and analysis
+- `scripts/pipeline/` - Workflow orchestration for complex data processing
+- `scripts/models/` - Shared data models and base classes
+- `scripts/utils/` - Common utilities (CSV, file, date, validation)
+- `scripts/config/` - Configuration files for repositories and settings
 - `scripts/run_collection.py` - Main entry point for batch data collection
 - `data/output/` - CSV and JSON output files with collected statistics
-- `tests/` - Unit and integration tests
+- `.env` uses API_GITHUB_TOKEN (in project root)
 - `requirements.txt` - Python dependencies
 
 ## Available Data Points
@@ -55,9 +60,23 @@ The tool collects:
 - Topics/tags
 
 ## Commands for Claude
-- **Collect data for configured repos**: `python scripts/run_collection.py`
-- **Run tests**: `python -m pytest tests/ -v`
+
+### Core Data Collection
+- **Collect repository stats**: `python scripts/run_collection.py`
 - **Install dependencies**: `pip install -r requirements.txt`
+
+### Module-Specific Operations
+- **Issue analysis**: Use `scripts.issues.collector.IssueCollector`
+- **Repository analysis**: Use `scripts.repos.collector.RepositoryCollector`  
+- **Organization analysis**: Use `scripts.orgs.collector.OrganizationCollector`
+- **Pipeline processing**: Use `scripts.pipeline.orchestrator.PipelineOrchestrator`
+
+### Available Modules
+- **GitHub Client**: `from scripts.github_client.client import GitHubClient`
+- **Issue Collection**: `from scripts.issues.collector import IssueCollector`
+- **Repository Collection**: `from scripts.repos.collector import RepositoryCollector`
+- **Data Models**: `from scripts.models.github_models import RepositoryStats, IssueData`
+- **Utilities**: `from scripts.utils.csv_utils import CSVUtils`
 
 ## Usage Examples
 
