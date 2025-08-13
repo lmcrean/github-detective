@@ -1,4 +1,5 @@
 org_name,repo_name,issue_title,comments_count,labels,opened_date,hyperlink
+stripe,stripe-ruby,Add additional headers on request,0,feature-request,2025-08-13,https://github.com/stripe/stripe-ruby/issues/1634
 shopify,flash-list,V2: Invalid attribute disableRecycling,0.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1831
 shopify,flash-list,still have blank cells in V2，RN 0.79.2,0.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1833
 shopify,flash-list,Jest mock returns `undefined`,1.0,bug,2025-08-12,https://github.com/shopify/flash-list/issues/1834

@@ -1,10 +1,10 @@
-# Issues Total: 73
+# Issues Total: 72
 # Repository: https://github.com/stripe/stripe-go
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
-.Metadata field for InvoiceVoidInvoiceParams and SubscriptionCancelParams,1,bug,2025-08-11,https://github.com/stripe/stripe-go/issues/2105
-Add Opentelemetry support,2,feature-request,2025-08-08,https://github.com/stripe/stripe-go/issues/2104
+Add Opentelemetry support,6,"future, feature-request",2025-08-08,https://github.com/stripe/stripe-go/issues/2104
+.Metadata field for InvoiceVoidInvoiceParams and SubscriptionCancelParams,2,bug,2025-08-11,https://github.com/stripe/stripe-go/issues/2105
 Unable to create BankAccount,2,bug,2025-07-28,https://github.com/stripe/stripe-go/issues/2093
 Missing .Metadata field for BankAccountCreateParams,4,bug,2025-07-28,https://github.com/stripe/stripe-go/issues/2092
 TerminalReaderCollectInputsInputSelectionParams server-side validation issue,9,bug,2025-07-29,https://github.com/stripe/stripe-go/issues/2095
@@ -72,7 +72,6 @@ Encode payloads deterministically,1,feature-request,2023-02-09,https://github.co
 No way to manually resume a paused subscription,1,bug,2023-02-02,https://github.com/stripe/stripe-go/issues/1602
 Can't set metadata during object creation,1,feature-request,2023-02-02,https://github.com/stripe/stripe-go/issues/1599
 CloudQuery Source Plugin?,1,feature-request,2023-01-18,https://github.com/stripe/stripe-go/issues/1594
-Missing Refund Status Definition,1,bug,2023-01-17,https://github.com/stripe/stripe-go/issues/1592
 Webhook had no valid signature,1,bug,2023-01-17,https://github.com/stripe/stripe-go/issues/1593
 [Feature Request] Enable stripe event listener via sdk,1,future,2021-11-09,https://github.com/stripe/stripe-go/issues/1372
 Support bidirectional marshalling/unmarshalling,2,future,2020-10-06,https://github.com/stripe/stripe-go/issues/1198

@@ -1,6 +1,6 @@
 # Issues Total: 168
 # Repository: https://github.com/shopify/tapioca
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 ActiveRecordColumnTypes - Create a 'Mixed' option,1,enhancement,2025-08-06,https://github.com/shopify/tapioca/issues/2369

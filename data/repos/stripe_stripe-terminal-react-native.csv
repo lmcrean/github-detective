@@ -1,12 +1,12 @@
 # Issues Total: 230
 # Repository: https://github.com/stripe/stripe-terminal-react-native
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 EAS build with fresh install on Expo 52 fails,7,,2025-03-20,https://github.com/stripe/stripe-terminal-react-native/issues/898
+Changing Terminal Tokens,5,,2025-06-29,https://github.com/stripe/stripe-terminal-react-native/issues/982
 Add ability to simulate terminal error codes,3,feature-request,2025-08-01,https://github.com/stripe/stripe-terminal-react-native/issues/1007
 "Facing issue with react native version 0.77.2,",7,Tap to Pay,2025-05-09,https://github.com/stripe/stripe-terminal-react-native/issues/936
-Changing Terminal Tokens,5,,2025-06-29,https://github.com/stripe/stripe-terminal-react-native/issues/982
 "Issue with Implementing """"Tap to Pay"""" using Stripe Terminal in React Native App",11,,2023-12-12,https://github.com/stripe/stripe-terminal-react-native/issues/589
 ERROR  First initialize the Stripe Terminal SDK before performing any action,13,bug,2024-04-05,https://github.com/stripe/stripe-terminal-react-native/issues/659
 Missing tapZoneIndicator option for NFC readers located to the right of the screen,5,"enhancement, Tap to Pay",2025-06-18,https://github.com/stripe/stripe-terminal-react-native/issues/970

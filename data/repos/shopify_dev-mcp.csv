@@ -1,6 +1,6 @@
 # Issues Total: 11
 # Repository: https://github.com/shopify/dev-mcp
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 "Bug: `@shopify/dev-mcp@latest` fails to run due to `import ... with { type: """"json"""" }` — works with `1.0.2`",1,Stale,2025-06-11,https://github.com/shopify/dev-mcp/issues/47

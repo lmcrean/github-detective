@@ -1,6 +1,6 @@
 # Issues Total: 95
 # Repository: https://github.com/stripe/pg-schema-diff
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 Add support for Materialized Views,8,enhancement,2024-09-10,https://github.com/stripe/pg-schema-diff/issues/173

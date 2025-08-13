@@ -1,8 +1,10 @@
 # Issues Total: 80
 # Repository: https://github.com/shopify/shopify-app-js
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+Add support for `enumsAsConst` to api-codegen-preset,4,,2025-02-03,https://github.com/shopify/shopify-app-js/issues/2056
+Store additional session metadata,3,Stale,2025-04-13,https://github.com/shopify/shopify-app-js/issues/2333
 How to deactivate default webhooks console logs?,1,,2025-08-07,https://github.com/shopify/shopify-app-js/issues/2694
 Add `shopify-app-next` package,1,,2025-07-14,https://github.com/shopify/shopify-app-js/issues/2681
 "shopify app remix: how to hook into """"install"""" event",8,Stale,2025-02-08,https://github.com/shopify/shopify-app-js/issues/2081
@@ -27,7 +29,6 @@ Allow access token overridding via Graphql client options,2,Stale,2025-04-16,htt
 "App Proxy authenticate.public.appProxy Fails Signature Validation with Specific Query Parameter Names (e.g., consented, consentGiven)",2,Stale,2025-04-23,https://github.com/shopify/shopify-app-js/issues/2374
 [shopify-app-remix] Allow to add dynamic webhooks in `afterAuth()`,12,,2024-06-09,https://github.com/shopify/shopify-app-js/issues/1030
 Shopify Remix app installation returns 500 Internal Server error during the oauth process.,4,Waiting for response,2025-06-03,https://github.com/shopify/shopify-app-js/issues/2520
-Store additional session metadata,2,,2025-04-13,https://github.com/shopify/shopify-app-js/issues/2333
 How to redirect to a resource in Shopify Admin,13,Stale,2025-02-28,https://github.com/shopify/shopify-app-js/issues/2166
 Public shopify-app-session-storage-test-utils npm,4,"SEV-4, Stale",2024-12-09,https://github.com/shopify/shopify-app-js/issues/1837
 Export the GraphQL client,2,,2025-04-29,https://github.com/shopify/shopify-app-js/issues/2399
@@ -45,7 +46,6 @@ npm warn deprecated @shopify/network@3.3.0: Package no longer supported.,2,Stale
 redirectToBouncePage looses query params when clicking NavMenu Link,9,,2025-05-02,https://github.com/shopify/shopify-app-js/issues/2417
 Update Drizzle Adapter to Store User Info for Online Tokens,2,Stale,2025-02-16,https://github.com/shopify/shopify-app-js/issues/2111
 Codegen doesn't work out of the box with direct access graphql client,2,Stale,2025-01-17,https://github.com/shopify/shopify-app-js/issues/1981
-Add support for `enumsAsConst` to api-codegen-preset,2,Stale,2025-02-03,https://github.com/shopify/shopify-app-js/issues/2056
 Support React Router v7!,1,,2025-04-08,https://github.com/shopify/shopify-app-js/issues/2317
 Add a redirect helper to AppProxy context,2,Stale,2024-12-03,https://github.com/shopify/shopify-app-js/issues/1823
 A new release of the Shopify API is due soon,0,automated,2025-03-01,https://github.com/shopify/shopify-app-js/issues/2167

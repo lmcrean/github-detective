@@ -1,43 +1,194 @@
-# Issues Total: 38
+# Issues Total: 189
 # Repository: https://github.com/shopify/hydrogen
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+Error while running locally an hydrogen app for first time on Windows,2,,2024-10-15,https://github.com/shopify/hydrogen/issues/2604
+Can't upgrade to latest version of Hydrogen using Shopify CLI,4,,2025-06-04,https://github.com/shopify/hydrogen/issues/2975
 View GraphiQL API browser down,3,,2025-06-24,https://github.com/shopify/hydrogen/issues/2996
+Hydrogen redirect theme seised to work for customer account pages,0,untriaged,2025-07-25,https://github.com/shopify/hydrogen/issues/3031
 "isOptimistic for CartLineItem only works when added to cart, not when updating or removing the line",4,,2024-12-12,https://github.com/shopify/hydrogen/issues/2673
+Hydrogen app doesn't work with custom plans,9,Feature,2025-07-18,https://github.com/shopify/hydrogen/issues/3020
+Codegen stops working after installing the official prettier-plugin-tailwindcss plugin,2,untriaged,2025-06-19,https://github.com/shopify/hydrogen/issues/2994
 GraphiQL API browser not loading,3,,2025-07-16,https://github.com/shopify/hydrogen/issues/3019
+Product Bundles - Not showing in Storefront API on Headless Site,6,"Bug, SEV-3",2024-06-18,https://github.com/shopify/hydrogen/issues/2259
+Hydrogen dev codegen fails on Windows with double-“Users” path causing EPERM,5,,2025-06-07,https://github.com/shopify/hydrogen/issues/2980
+Improve the image component,2,Feature,2024-07-15,https://github.com/shopify/hydrogen/issues/2329
+Invalid hook call,3,,2025-04-30,https://github.com/shopify/hydrogen/issues/2901
 `useOptimisticCart` not optimistically updating total cost amounts,1,,2025-07-16,https://github.com/shopify/hydrogen/issues/3018
+Submitting a form built with the remix-form library triggers the following error: 'A ReadableStream branch was created but never consumed.',0,untriaged,2025-06-09,https://github.com/shopify/hydrogen/issues/2981
+CSP nonce incompatibility between Hydrogen 2025.5.0 and React Router v7.6.0 hydration scripts when deployed to Oxygen,1,"untriaged, can't reproduce",2025-06-27,https://github.com/shopify/hydrogen/issues/3003
 Streaming/Suspense don't work in Shopify/hydrogen,8,"Bug, SEV-3",2025-04-17,https://github.com/shopify/hydrogen/issues/2867
 localhost:3000/graphiql not working,1,,2025-07-15,https://github.com/shopify/hydrogen/issues/3016
 Browser extensions that modify the DOM cause Hydrogen to crash,2,,2025-07-01,https://github.com/shopify/hydrogen/issues/3004
+Add to cart is failing in preview,4,,2025-05-21,https://github.com/shopify/hydrogen/issues/2959
 Local `https` not working,4,,2025-05-26,https://github.com/shopify/hydrogen/issues/2964
 "Oxygen broken on all environments, including production, preview and local environments.",3,,2025-06-04,https://github.com/shopify/hydrogen/issues/2974
+React router's prerender/SSG functionality not working,2,Feature,2025-06-27,https://github.com/shopify/hydrogen/issues/3002
+Using `Script` in combination with `json+ld` in SEO meta leads to hydration errors,0,,2025-07-14,https://github.com/shopify/hydrogen/issues/3014
+Analytics subscriptions stop firing if you go from checkout to store via back button,0,analytics,2025-05-17,https://github.com/shopify/hydrogen/issues/2937
+Customer API Order.fulfillmentstatus is typed to the wrong ENUM data,0,Customer Account API,2025-07-02,https://github.com/shopify/hydrogen/issues/3005
 Shopify Hydrogen Deploy deletes sourcemaps before Sentry Vite plugin runs,5,Bug,2025-05-28,https://github.com/shopify/hydrogen/issues/2965
 "Googlebot gets error 500 """"unable to decode turbo-stream response""""",0,,2025-06-27,https://github.com/shopify/hydrogen/issues/3001
+Graphql Validation Errors for Customer Account Queries,4,,2025-03-08,https://github.com/shopify/hydrogen/issues/2789
+Incompatibility of react-compiler-runtime with Vite app,1,,2024-12-06,https://github.com/shopify/hydrogen/issues/2664
 `customerEmailMarketingSubscribe` mutation ignores double opt-in setting,1,,2025-05-12,https://github.com/shopify/hydrogen/issues/2919
+Shop Pay Installments component,5,"Blocked, @shopify/hydrogen-react, Storefront API",2022-11-03,https://github.com/shopify/hydrogen/issues/628
+`Money` component and `useMoney` hook don’t respect app language format,1,"Bug, SEV-3",2024-09-09,https://github.com/shopify/hydrogen/issues/2507
+`page_viewed` Analytics events not firing when expected,23,"Bug, analytics, SEV-3",2024-08-27,https://github.com/shopify/hydrogen/issues/2475
+[Bug]: `node_modules` not getting updated while upgrading shopify hydrogen version using yarn,1,,2025-03-16,https://github.com/shopify/hydrogen/issues/2830
+"MiniflareCoreError [ERR_RUNTIME_FAILURE] When Running """"npm run dev"""" in Hydrogen Storefront",9,,2025-03-19,https://github.com/shopify/hydrogen/issues/2799
+Oversized cookie error on account creation,0,,2025-06-03,https://github.com/shopify/hydrogen/issues/2973
+cartCreate buyer identity and discount codes do not persist to checkout,0,,2025-06-03,https://github.com/shopify/hydrogen/issues/2972
+"Error: """"Cannot redefine property: Shopify"""" when run Hydrogen on local",8,,2024-09-19,https://github.com/shopify/hydrogen/issues/2549
+"MiniOxygen: Error during evaluation: Error: write EPIPE (Hydrogen 2025.5.0, Node 18/20/22, Ubuntu 5.15)",0,,2025-05-29,https://github.com/shopify/hydrogen/issues/2968
+Express hangs when attempting to run production server,1,,2025-05-29,https://github.com/shopify/hydrogen/issues/2966
+ErrorBoundary not rendering on account_.authorize.jsx,2,"Bug, SEV-4",2024-11-14,https://github.com/shopify/hydrogen/issues/2644
+[Bug] Error building express remix after updating hydrogen to version 2025.1.3,2,,2025-04-09,https://github.com/shopify/hydrogen/issues/2846
+MiniOxygen encountered an error while running your app's entry point,1,,2025-05-06,https://github.com/shopify/hydrogen/issues/2908
+Better custom cart fragment typing,2,Feature,2024-08-15,https://github.com/shopify/hydrogen/issues/2440
+GET  500  render  /service-worker.js after clean npm create @shopify/hydrogen@latest -- --quickstart,1,,2025-03-29,https://github.com/shopify/hydrogen/issues/2825
+Shopify Oxygen fails to load the latest changes to SVGs when making updates in /public/svgs,1,,2025-05-01,https://github.com/shopify/hydrogen/issues/2902
+Update GTM example with real events,1,,2025-01-09,https://github.com/shopify/hydrogen/issues/2699
 Directory import 'x/Y/Z/node_modules/vite' is not supported resolving es modules,4,,2025-03-27,https://github.com/shopify/hydrogen/issues/2811
 ReferenceError: process is not defined when using Shapediver,3,,2025-04-11,https://github.com/shopify/hydrogen/issues/2858
 Uncaught Error: Disallowed operation called within global scope.,7,wont-fix,2025-03-23,https://github.com/shopify/hydrogen/issues/2805
 "Error """"SelectPrompt requires at least one choice"""" when try to connect to storefront",3,,2025-02-21,https://github.com/shopify/hydrogen/issues/2772
 Upgrade to 2025.1.2 resulted in hydrogen project not being found,3,"Blocked, can't reproduce",2025-04-01,https://github.com/shopify/hydrogen/issues/2835
+MiniOxygen encountered an error while running your app's entry point,14,"Bug, SEV-3",2024-07-25,https://github.com/shopify/hydrogen/issues/2366
+CLI Upgrade command can't detect the package manager in monorepos with single lock file at the root,0,,2025-04-01,https://github.com/shopify/hydrogen/issues/2834
+Hydrogen CLI does not support Yarn v4 with Hydrogen upgrade,3,Blocked,2024-06-04,https://github.com/shopify/hydrogen/issues/2191
+npm error code ERESOLVE While resolving: @shopify/mini-oxygen@3.1.2 when running `npx shopify hydrogen upgrade`,1,,2025-03-28,https://github.com/shopify/hydrogen/issues/2820
 Unable to run server after clean install with npm create @shopify/hydrogen@latest,4,,2025-03-27,https://github.com/shopify/hydrogen/issues/2812
 Weird Behavior with Filters from Storefront API returning 0 results when filter is selected,5,,2025-02-21,https://github.com/shopify/hydrogen/issues/2774
+Vite and MiniOxygen errors when using `vanilla-extract` and `formik`,1,Bug,2024-08-26,https://github.com/shopify/hydrogen/issues/2468
+Error while running Hydrogen on Windows 11,7,,2025-03-19,https://github.com/shopify/hydrogen/issues/2798
+Brand new hydrogen project issue with VITE import of Tailwindcss v4,5,"Bug, SEV-4",2024-09-23,https://github.com/shopify/hydrogen/issues/2557
+Ability to purchase with Apple|Google|PayPal,10,"Blocked, @shopify/hydrogen-react, Storefront API",2021-07-13,https://github.com/shopify/hydrogen/issues/618
+Cart Id / Cookie is not reset on checkout completed,19,checkout,2024-09-12,https://github.com/shopify/hydrogen/issues/2524
 Generated sitemap.xml weirdness,3,,2025-02-25,https://github.com/shopify/hydrogen/issues/2777
+Trouble creating a hydrogen project on Windows 11,9,"Bug, SEV-3",2024-09-30,https://github.com/shopify/hydrogen/issues/2578
 Shopify Oxygen Preview Deployments w/ Invalid Links,1,,2025-02-24,https://github.com/shopify/hydrogen/issues/2775
+ESLint v8.x is end of life,7,"Bug, SEV-3",2024-10-16,https://github.com/shopify/hydrogen/issues/2606
 Unable to Initiate a New Storefront,3,,2025-02-14,https://github.com/shopify/hydrogen/issues/2757
 Certain Vite HMR updates break when the components index.ts file passes a certain threshold of exports,8,,2025-02-20,https://github.com/shopify/hydrogen/issues/2768
+Markets locale looks outdated in the documentation,1,documentation,2025-02-14,https://github.com/shopify/hydrogen/issues/2756
+Vite Shopify Hydrogen Deploy Hardcodes the Removal of Client Source Maps,2,,2024-08-27,https://github.com/shopify/hydrogen/issues/2474
+Feature Proposal: Picture Component,1,"Feature, @shopify/hydrogen-react",2023-10-12,https://github.com/shopify/hydrogen/issues/1414
 "[vite:css-post] css content for """""""" was not found",4,,2024-11-18,https://github.com/shopify/hydrogen/issues/2646
+Vitest failed to find the current suite.,4,"Bug, SEV-4",2024-10-01,https://github.com/shopify/hydrogen/issues/2579
 hydrogen installation keeps on error,1,,2025-01-24,https://github.com/shopify/hydrogen/issues/2727
 CartProvider causes SSR warning in the terminal,9,wont-fix,2024-12-05,https://github.com/shopify/hydrogen/issues/2663
 `getProductOptions` throws an error on deleted variants,7,"Bug, SEV-3",2025-01-09,https://github.com/shopify/hydrogen/issues/2698
+Cannot read properties of undefined (reading 'exportMode'),10,can't reproduce,2024-09-20,https://github.com/shopify/hydrogen/issues/2552
+Error: failed to execute 'insertBefore' on 'Node',7,"Bug, SEV-3",2024-10-04,https://github.com/shopify/hydrogen/issues/2586
 [API Bug Report] Checking `customerUserErrors` on the `customerCreate` mutation will prompt an email verification despite a successful response ,1,can't reproduce,2024-12-16,https://github.com/shopify/hydrogen/issues/2681
 Issue With New Accounts Login,3,"Bug, SEV-2",2024-11-11,https://github.com/shopify/hydrogen/issues/2641
+context.customerAccount.authorize doesn't not redirect to the route that initiated the login,1,"Bug, Customer Account API, SEV-2",2024-10-16,https://github.com/shopify/hydrogen/issues/2607
 Add Address feature does not work in the account page,1,can't reproduce,2024-10-28,https://github.com/shopify/hydrogen/issues/2622
 postLogoutRedirectUri on customerAccount.logout() is not working,1,,2024-12-20,https://github.com/shopify/hydrogen/issues/2684
 The shopping cart checkout button redirects back to the previous page,1,,2024-12-02,https://github.com/shopify/hydrogen/issues/2661
 References not resolved on Customer Account Api for Metafield Objects.,1,,2024-12-29,https://github.com/shopify/hydrogen/issues/2689
 Can't use remix-run/node and run the dev server with Hydrogen,1,,2024-12-21,https://github.com/shopify/hydrogen/issues/2686
+Possible error in data deserialization on CartForm,2,,2024-10-01,https://github.com/shopify/hydrogen/issues/2581
 Unable to start new project,1,,2024-11-24,https://github.com/shopify/hydrogen/issues/2652
 Support Remix Single Fetch in @shopify/oxygen-remix,6,,2024-10-28,https://github.com/shopify/hydrogen/issues/2623
 "Oxygen: Deployment failed, error: Uncaught ReferenceError: window is not defined",1,,2024-11-18,https://github.com/shopify/hydrogen/issues/2647
+Multiple issue with Shopify Checkout,6,"Bug, checkout, SEV-3, Fine Print",2023-08-08,https://github.com/shopify/hydrogen/issues/1203
+CA API token not valid for cart buyerIdentity update,5,"Bug, SEV-3",2024-09-04,https://github.com/shopify/hydrogen/issues/2495
 Shopify Hydrogen inventory issue - Storefront API returning 0 stock despite stock availability in Shopify Dashboard,0,,2024-11-12,https://github.com/shopify/hydrogen/issues/2642
+Vanilla Extract - Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) error,6,"Bug, SEV-3",2024-06-19,https://github.com/shopify/hydrogen/issues/2266
+Add Doc for Monorepo Support,1,documentation,2023-10-26,https://github.com/shopify/hydrogen/issues/1459
+Support localized redirect url in storefrontRedirect,1,,2024-09-25,https://github.com/shopify/hydrogen/issues/2564
+cant install/import @sengrid/mail package into resource route,6,,2024-10-09,https://github.com/shopify/hydrogen/issues/2599
+Error when using html-react-parser,10,,2024-09-11,https://github.com/shopify/hydrogen/issues/2517
+Hydrogen Sales Channel changes and Ruby Scripts are not being applied,12,,2024-10-07,https://github.com/shopify/hydrogen/issues/2595
+404 (Not Found) pages break Analytics,3,"Bug, analytics, SEV-2",2024-09-30,https://github.com/shopify/hydrogen/issues/2576
+`<Image />` component throws `TypeError` with imported local assets during development,7,"Bug, SEV-4",2024-09-17,https://github.com/shopify/hydrogen/issues/2540
+Can't register consent in the Customer Privacy API,3,,2024-09-20,https://github.com/shopify/hydrogen/issues/2553
+Infinite scrolling breaks on page refresh,2,wont-fix,2024-09-09,https://github.com/shopify/hydrogen/issues/2505
+Unexpected Server Error: atob() called with invalid base64-encoded data. in authorize->getNonce->decodeJwt,7,Bug,2024-09-05,https://github.com/shopify/hydrogen/issues/2498
+Vite error while updating dependencies,1,"Bug, SEV-2",2024-09-20,https://github.com/shopify/hydrogen/issues/2554
+Hydration errors when using `cart.get()` from context,2,"Bug, SEV-4",2024-09-23,https://github.com/shopify/hydrogen/issues/2560
+Skeleton - Blog - Paged results -  Prop `href` did not match (+tsx variables not typed),2,,2024-09-19,https://github.com/shopify/hydrogen/issues/2550
+"Hydrogen / Windows 11 """"The specified module could not be found""""",4,"Bug, SEV-3",2024-09-12,https://github.com/shopify/hydrogen/issues/2523
+TypeError: Inter-TransformStream ReadableStream.pipeTo() is not implemented,5,,2024-09-12,https://github.com/shopify/hydrogen/issues/2526
+[Bug]: Hydrogen CLI Deploy Deployment Tokens Not Supported,4,,2024-09-10,https://github.com/shopify/hydrogen/issues/2515
+CSP nonce grows when using const passed from another file,0,"Bug, SEV-2",2024-09-05,https://github.com/shopify/hydrogen/issues/2499
+QraphQL response from useLoaderData is always undefined on first render,2,can't reproduce,2024-09-01,https://github.com/shopify/hydrogen/issues/2489
+Build fails when customizing SSR entrypoint due to hardcoded deletion of SSR build `assets/` (chunks) directory,1,"Bug, SEV-4",2024-09-04,https://github.com/shopify/hydrogen/issues/2497
+Build fails when overriding Vite `build.rollupOptions.output.entryFileNames` with templated string,1,"Bug, SEV-4",2024-09-04,https://github.com/shopify/hydrogen/issues/2496
+CUSTOMER ACCOUNT API Integration authorize always leads to 401,10,,2024-08-30,https://github.com/shopify/hydrogen/issues/2486
+Prevent <Image> from generating srcset which doesn't support image size,2,Feature,2024-08-20,https://github.com/shopify/hydrogen/issues/2456
+Query injection possible in `urlRedirects` handler,0,"Bug, SEV-3",2024-08-30,https://github.com/shopify/hydrogen/issues/2485
+Hydrogen quickstart is not working properly,4,Bug,2024-07-25,https://github.com/shopify/hydrogen/issues/2371
+Source map for Customer Privacy API is outdated,0,"Bug, SEV-4",2024-07-12,https://github.com/shopify/hydrogen/issues/2326
+Issue with Tracking Pixel Events Using Shopify Documentation,4,"Bug, SEV-3",2024-07-15,https://github.com/shopify/hydrogen/issues/2328
+"Calling """"npx shopify hydrogen deploy"""" in pipeline always shows the """"Log in to Shopify"""" popup in Azure Pipelines",1,,2024-08-23,https://github.com/shopify/hydrogen/issues/2465
+Shopify Auth cookies are not being cleared customerAccount.logout();,0,,2024-08-26,https://github.com/shopify/hydrogen/issues/2467
+"""""npx shopify hydrogen debug cpu"""" is not working",3,"Bug, SEV-4",2024-08-22,https://github.com/shopify/hydrogen/issues/2463
+href attribute mismatch using the Pagination Component,7,"Bug, SEV-3",2024-07-17,https://github.com/shopify/hydrogen/issues/2342
+VariantSelector return isAvailable true for missed variants,4,"Feature, Blocked",2024-05-28,https://github.com/shopify/hydrogen/issues/2155
+model-viewer is behind by 2 major versions,1,"dependencies, @shopify/hydrogen-react",2023-02-23,https://github.com/shopify/hydrogen/issues/635
+Customer Account API integration not working when logging out from hosted pages,2,Customer Account API,2024-07-25,https://github.com/shopify/hydrogen/issues/2368
+useOptimisticCart doesn't add isOptimistic to cart and cart line item,3,Feature,2024-07-23,https://github.com/shopify/hydrogen/issues/2357
+Inconsitent cart items when using browser's back and forward navigation,2,"Bug, cart, SEV-4",2024-01-26,https://github.com/shopify/hydrogen/issues/1691
+Modelviewer throws SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data,2,"Bug, SEV-4",2024-07-01,https://github.com/shopify/hydrogen/issues/2276
+Allow empty alt text on the Image component,7,"Bug, @shopify/hydrogen-react, SEV-4",2022-09-08,https://github.com/shopify/hydrogen/issues/623
+Add `<track>` element to the Video component for accessiblity,1,"Bug, @shopify/hydrogen-react, SEV-4",2022-05-06,https://github.com/shopify/hydrogen/issues/619
+[Bug]: Discount code in cart doesn't update subtotal value,1,"Bug, skeleton template, SEV-3",2022-12-01,https://github.com/shopify/hydrogen/issues/286
+hyrogen-react: CheckoutUrl appending a single discount code,0,"Bug, @shopify/hydrogen-react, checkout, SEV-3",2023-09-25,https://github.com/shopify/hydrogen/issues/1371
+buyerIdentityUpdate is not passing data to checkout,6,"Bug, Storefront API, SEV-3",2023-11-25,https://github.com/shopify/hydrogen/issues/1527
+Picture Component,4,Idea,2022-10-21,https://github.com/shopify/hydrogen/issues/115
+Checkout Return URL is incorrect,12,checkout,2023-10-03,https://github.com/shopify/hydrogen/issues/1390
+[Auth] Login with Shop button,2,"Blocked, @shopify/hydrogen-react, Storefront API",2022-05-09,https://github.com/shopify/hydrogen/issues/620
+Need working demo of metaobjects,9,"Resource: Docs, Examples, Storefront API",2023-02-24,https://github.com/shopify/hydrogen/issues/636
+WebPixel integration,0,"Feature, analytics",2023-05-09,https://github.com/shopify/hydrogen/issues/865
+Generated types for .env files,0,Feature,2023-05-12,https://github.com/shopify/hydrogen/issues/880
+Redirect: Order Status page,0,"Feature, Magic Routes",2023-05-12,https://github.com/shopify/hydrogen/issues/881
+Search abstraction,0,Feature,2023-05-15,https://github.com/shopify/hydrogen/issues/885
+Recursive `flattenConnection`,7,"Feature, @shopify/hydrogen-react",2023-05-18,https://github.com/shopify/hydrogen/issues/907
+Demo Store: advanced cart functionality,0,Feature,2023-05-26,https://github.com/shopify/hydrogen/issues/957
+`@link` in TSDoc/JSDoc for all components/abstractions with a link to the reference doc on shopify.dev/api/hydrogen,0,Feature,2023-06-22,https://github.com/shopify/hydrogen/issues/1025
+Having the useCart returns promises would improve my DX a lot,0,Feature,2023-06-26,https://github.com/shopify/hydrogen/issues/1041
+Pass hydrogen-react version to StorefrontClient,0,Feature,2023-06-30,https://github.com/shopify/hydrogen/issues/1063
+Unable to set referralCode for order,1,Feature,2023-08-15,https://github.com/shopify/hydrogen/issues/1232
+Draft product preview from admin turns url into 404,0,"Feature, Storefront API",2023-09-18,https://github.com/shopify/hydrogen/issues/1346
+"msw with worker runtime: Your worker created multiple branches of a single stream (for instance, by calling `response.clone()` or `request.clone()`)",0,Feature,2024-02-14,https://github.com/shopify/hydrogen/issues/1757
+[Hydrogen Skeleton] There is no collections/all page in the Hydrogen skeleton like there is for Liquid,2,"Feature, skeleton template",2024-02-14,https://github.com/shopify/hydrogen/issues/1761
+ShopPayButton component should redirect to localized checkout,0,"Feature, checkout",2024-02-22,https://github.com/shopify/hydrogen/issues/1788
+`init` command doesn't work with npx,2,Feature,2024-03-15,https://github.com/shopify/hydrogen/issues/1861
+Add fetchPriority type to Image component,0,Feature,2024-05-30,https://github.com/shopify/hydrogen/issues/2167
+Vite renderToReadableStream error after upgrading cli-hydrogen from 7 to 8.0.4,4,discussion,2024-05-30,https://github.com/shopify/hydrogen/issues/2174
+Simplify & improve Shop Pay Button DX,0,Feature,2024-05-30,https://github.com/shopify/hydrogen/issues/2176
+`cartQueryFragment` returns metafield-referenced product variants that are not in Hydrogen channel,1,discussion,2024-05-30,https://github.com/shopify/hydrogen/issues/2177
+VariantSelector only support full locale identifier format,3,Feature,2024-06-06,https://github.com/shopify/hydrogen/issues/2218
+Feature - Use `forwardRef` on primitive components that return HTML,8,@shopify/hydrogen-react,2022-10-24,https://github.com/shopify/hydrogen/issues/625
+Add getter/setter methods to the session to simply loaders,0,Idea,2022-10-21,https://github.com/shopify/hydrogen/issues/112
+Examples directory,0,"Resource: Docs, Idea",2023-05-08,https://github.com/shopify/hydrogen/issues/855
+Hydrogen Reference Docs,2,Resource: Docs,2023-05-01,https://github.com/shopify/hydrogen/issues/837
+Add image for ShopPayButton docs,1,"Resource: Docs, @shopify/hydrogen-react",2023-02-21,https://github.com/shopify/hydrogen/issues/634
+E2E localization design,3,"Resource: Docs, @shopify/hydrogen-react",2022-10-25,https://github.com/shopify/hydrogen/issues/626
+Customer Privacy & GDPR Compliance,0,"Resource: UX, Resource: Docs, analytics",2022-10-27,https://github.com/shopify/hydrogen/issues/137
+ShopPayButton not customizable with className prop provided,8,Blocked,2023-04-25,https://github.com/shopify/hydrogen/issues/818
+Setting up Tailwind ... documentation / maybe bugs,4,Remix,2023-05-02,https://github.com/shopify/hydrogen/issues/842
+Sitemap.xml Generation,2,Idea,2023-05-08,https://github.com/shopify/hydrogen/issues/856
+GraphQL Fragments / Help,1,Idea,2023-05-08,https://github.com/shopify/hydrogen/issues/857
+[Docs] Oxygen/Workers Compatibility + Better Errors,0,Idea,2023-05-08,https://github.com/shopify/hydrogen/issues/859
+Shop-based i18n Defaults,0,,2023-01-26,https://github.com/shopify/hydrogen/issues/391
+Progressive Enhancement for mini cart (navigate to /cart),0,skeleton template,2022-11-07,https://github.com/shopify/hydrogen/issues/155
+Refresh product media gallery,1,"Resource: UX, skeleton template",2022-10-20,https://github.com/shopify/hydrogen/issues/111
+create-app bugs and improvements,4,@shopoify/cli-hydrogen,2023-02-01,https://github.com/shopify/hydrogen/issues/426
+Add gift_cart template for QR generation,0,"Feature, skeleton template",2022-12-05,https://github.com/shopify/hydrogen/issues/302
+"cart data in hydrogen react project is not removed realtime, only removed when refresh page",0,@shopify/hydrogen-react,2023-03-22,https://github.com/shopify/hydrogen/issues/712
+Internal SFAPI error on metaobject reference (all versions),1,"Blocked, Storefront API",2023-04-08,https://github.com/shopify/hydrogen/issues/768
+Allow components to _either_ use context provider or use props,5,@shopify/hydrogen-react,2022-12-01,https://github.com/shopify/hydrogen/issues/629
+ProductProvider needs to warn about missing `variants`,1,@shopify/hydrogen-react,2023-03-29,https://github.com/shopify/hydrogen/issues/736
+SEO Title/Description null for collection in storefront API,3,skeleton template,2023-03-23,https://github.com/shopify/hydrogen/issues/718
+Medium & Small screen magnifying glass icon is expected to expand search entry dropdown,0,skeleton template,2022-10-20,https://github.com/shopify/hydrogen/issues/109
+[BUG] Product title not wrapping,0,skeleton template,2022-11-03,https://github.com/shopify/hydrogen/issues/145
+Modal that suggests what country and language the buyer likely wants to see,0,skeleton template,2022-11-07,https://github.com/shopify/hydrogen/issues/158
+Cannot call multiple useCart callbacks consecutively,6,@shopify/hydrogen-react,2023-03-14,https://github.com/shopify/hydrogen/issues/685
+"Add `user-agent` and """"storefront id"""" to the generated headers",2,"@shopify/hydrogen-react, Storefront API",2023-02-15,https://github.com/shopify/hydrogen/issues/633
+Consider converting `useMoney` into a JS function,0,@shopify/hydrogen-react,2023-02-15,https://github.com/shopify/hydrogen/issues/631
+Think through data prop feedback,11,@shopify/hydrogen-react,2023-01-05,https://github.com/shopify/hydrogen/issues/630

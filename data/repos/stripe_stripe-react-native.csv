@@ -1,6 +1,6 @@
-# Issues Total: 344
+# Issues Total: 341
 # Repository: https://github.com/stripe/stripe-react-native
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 Sync with latest klarna requirements,1,,2025-08-02,https://github.com/stripe/stripe-react-native/issues/2031
@@ -317,10 +317,7 @@ The `onBlur` method on the `<CardField>` element isn't being triggered on iOS,2,
 facing issue in pods,1,,2023-10-31,https://github.com/stripe/stripe-react-native/issues/1550
 cant determine  macro tag android,1,,2023-10-28,https://github.com/stripe/stripe-react-native/issues/1549
 Shipping details is not sending all parameters to the sdk,0,,2023-10-26,https://github.com/stripe/stripe-react-native/issues/1548
-Release for new Google Pay button UI?,5,,2023-10-18,https://github.com/stripe/stripe-react-native/issues/1539
 attachPaymentMethod for CustomerAdapter / CustomerSheet never fired,2,,2023-10-24,https://github.com/stripe/stripe-react-native/issues/1543
-"Stripe API returns """"Payment Cancelled"""" after confirmPlatformPayPayment (Apple Pay)",3,,2023-10-18,https://github.com/stripe/stripe-react-native/issues/1540
-The operation couldn’t be completed. (StripePaymentSheet.PaymentSheetError error 0.),2,,2023-10-17,https://github.com/stripe/stripe-react-native/issues/1535
 Google Pay Platform Pay existingPaymentMethodRequired is inconsistent,3,,2023-09-28,https://github.com/stripe/stripe-react-native/issues/1517
 PaymentSheet: Allow `setup_future_usage` value to be customizable,0,,2023-10-17,https://github.com/stripe/stripe-react-native/issues/1536
 Free trials are active after payment sheet is open before collecting card details.,5,,2023-09-17,https://github.com/stripe/stripe-react-native/issues/1509

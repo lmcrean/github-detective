@@ -1,6 +1,6 @@
 # Issues Total: 198
 # Repository: https://github.com/shopify/yjit-metrics
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 Use rustup to get 1.85+ and rebuild servers,0,,2025-05-15,https://github.com/shopify/yjit-metrics/issues/405

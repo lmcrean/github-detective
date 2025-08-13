@@ -1,9 +1,13 @@
-# Issues Total: 132
+# Issues Total: 131
 # Repository: https://github.com/shopify/cli
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
-[Bug]: Theme commands hitting network issues,27,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-07-03,https://github.com/shopify/cli/issues/6062
+[Bug]: Version couldn't be created,3,"Type: Bug, Area: @shopify/app",2025-08-05,https://github.com/shopify/cli/issues/6210
+[Bug]: Theme commands hitting network issues,34,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-07-03,https://github.com/shopify/cli/issues/6062
+[Feature]: Hot Reload Event,8,"Type: Enhancement, Area: @shopify/theme, no-issue-activity",2025-05-09,https://github.com/shopify/cli/issues/5778
+[Bug]: Failed to perform the initial theme synchronization,31,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-05-31,https://github.com/shopify/cli/issues/5917
+[Bug]: UI Extension Metafield Config has Higher Minimum Length For Key String Than Admin API or Admin Web UI- Blocks Extension Access To Metafield,1,Type: Bug,2025-07-24,https://github.com/shopify/cli/issues/6159
 [Feature]: Configurable hot-reload delay for full page reload,3,"Type: Enhancement, Area: @shopify/theme",2025-05-30,https://github.com/shopify/cli/issues/5913
 [Bug]: `shopify app dev` doesn't server the host theme as expected with theme app extensions,1,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-08-08,https://github.com/shopify/cli/issues/6224
 [Bug]: Your development session could not be created because the store password is invalid.,27,"Type: Bug, Area: @shopify/theme",2025-07-22,https://github.com/shopify/cli/issues/6145
@@ -21,7 +25,6 @@ Deploy fails with useless error message,11,"Type: Enhancement, good first issue,
 [Bug]: Logged in customer session issues while developing theme app blocks,0,"Type: Bug, Area: @shopify/theme",2025-08-06,https://github.com/shopify/cli/issues/6218
 Using --only flag with theme pull does not fetch new files,5,"Type: Bug, Area: @shopify/theme",2025-07-24,https://github.com/shopify/cli/issues/6160
 [Bug] Customer Account UI Extension does not render in dev preview,2,"Type: Bug, no-issue-activity",2025-06-16,https://github.com/shopify/cli/issues/5988
-[Bug]: Version couldn't be created,2,"Type: Bug, Area: @shopify/app",2025-08-05,https://github.com/shopify/cli/issues/6210
 [Bug]: Flow Action Template Creates Internal Error,2,"Type: Bug, Area: @shopify/app",2025-07-30,https://github.com/shopify/cli/issues/6187
 [Feature]: Feedback for shopify app build & shopify app deploy --no-build,1,"Type: Enhancement, Area: @shopify/app",2025-07-31,https://github.com/shopify/cli/issues/6195
 [Bug]: App deployment animation broken in CI,2,"Type: Bug, Area: @shopify/app",2025-07-31,https://github.com/shopify/cli/issues/6194
@@ -44,7 +47,6 @@ Using --only flag with theme pull does not fetch new files,5,"Type: Bug, Area: @
 New template install issues shopify issues,7,,2025-07-20,https://github.com/shopify/cli/issues/6162
 [Bug]: CLI attempts to match with removed extension,1,Type: Bug,2025-07-24,https://github.com/shopify/cli/issues/6155
 Theme ID mismatch error,3,"Type: Bug, Area: @shopify/theme",2025-04-30,https://github.com/shopify/cli/issues/5733
-[Bug]: Extension Metafield Config has Higher Minimum Length For Key String Than Admin API or UI - Blocks Extension Access To Metafield,0,Type: Bug,2025-07-24,https://github.com/shopify/cli/issues/6159
 [Bug]: Shopify Theme Console keeps logging me out,3,"Type: Bug, Area: @shopify/theme",2025-06-17,https://github.com/shopify/cli/issues/5995
 "[Feature]: Add support for """"Automatic Workspace Folders""""",0,"Type: Enhancement, Area: @shopify/theme",2025-07-23,https://github.com/shopify/cli/issues/6151
 Equivalent of `metafields.json` for `metaobjects.json`,1,Area: @shopify/theme,2025-07-23,https://github.com/shopify/cli/issues/6154
@@ -83,17 +85,14 @@ Flow Actions are not updating,12,Type: Bug,2025-07-13,https://github.com/shopify
 [Bug]: `shopify theme package` error since Shopify CLI `3.81.0`,5,"Type: Bug, Area: @shopify/theme",2025-06-27,https://github.com/shopify/cli/issues/6033
 [Bug]: `profile` command not working on Windows on WSL,10,"Severity: 3, Type: Bug, Area: @shopify/theme",2025-02-18,https://github.com/shopify/cli/issues/5414
 graphql endpoint for `shopify theme push` intermittently unavailable,7,Area: @shopify/theme,2025-05-16,https://github.com/shopify/cli/issues/5819
-[Bug]: shopify theme dev issue,6,"Type: Bug, Area: @shopify/theme",2025-04-17,https://github.com/shopify/cli/issues/5661
 Failed to perform the initial theme synchronization.,6,"Type: Bug, Area: @shopify/theme",2025-04-20,https://github.com/shopify/cli/issues/5667
 [Bug]: `shopify theme dev` Error while polling for changes.,3,"Type: Bug, Area: @shopify/theme",2025-05-07,https://github.com/shopify/cli/issues/5760
-[Bug]: Failed to perform the initial theme synchronization,30,"Severity: 2, Type: Bug, Area: @shopify/theme",2025-05-31,https://github.com/shopify/cli/issues/5917
 [Feature]: Command-Specific Environment Flags,1,"Type: Enhancement, Area: @shopify/theme",2025-05-22,https://github.com/shopify/cli/issues/5889
 [Bug]: The item counter of the cart always shows 0,1,"Type: Bug, Area: @shopify/hydrogen",2025-06-17,https://github.com/shopify/cli/issues/5993
 "[Bug]: Shopify CLI v3.79.0: theme push Silently Fails (Reports Success, File Not Updated - Verified via Pull)",2,"Type: Bug, Area: @shopify/theme, no-issue-activity",2025-05-05,https://github.com/shopify/cli/issues/5749
 [Bug]: `shopify theme dev` styles.css compiled asset returns 500 Internal Server Error in local dev,11,"Type: Bug, Area: @shopify/theme",2025-06-22,https://github.com/shopify/cli/issues/6005
 [Bug]: Deploying app succeeds but does not update the web pixel,1,Type: Bug,2025-06-27,https://github.com/shopify/cli/issues/6034
 [Bug]: Minified React error #31 on Admin Block Extension,0,Type: Bug,2025-06-30,https://github.com/shopify/cli/issues/6039
-[Feature]: Hot Reload Event,7,"Type: Enhancement, Area: @shopify/theme",2025-05-09,https://github.com/shopify/cli/issues/5778
 [Feature]: Remove the mutable behaviour of the default http tunnel,9,Type: Enhancement,2025-06-24,https://github.com/shopify/cli/issues/6013
 [Bug]: Shopify CLI rejects read_shopify_payments scope on custom app version creation,4,"Type: Bug, Area: @shopify/app",2025-04-21,https://github.com/shopify/cli/issues/5670
 [Bug]: Auth Issue,3,"Type: Bug, Area: @shopify/app",2025-06-11,https://github.com/shopify/cli/issues/5971

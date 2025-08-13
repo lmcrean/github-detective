@@ -1,8 +1,9 @@
-# Issues Total: 95
+# Issues Total: 96
 # Repository: https://github.com/stripe/stripe-dotnet
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+"Documentation states that new """"surcharge"""" fields should be present in new beta versions, but they do not exist.",1,bug,2025-08-12,https://github.com/stripe/stripe-dotnet/issues/3161
 STJUnixDateTimeConverter does not handle nullable DateTime properties correctly,5,bug,2025-07-31,https://github.com/stripe/stripe-dotnet/issues/3157
 "Unable to Access UsBankAccount.VerificationStatus Property from PaymentMethod of  Type = """"us_bank_account"""",",1,bug,2025-07-30,https://github.com/stripe/stripe-dotnet/issues/3154
 Difficulty to obtain the invoice/intent/charge connections,3,bug,2025-07-21,https://github.com/stripe/stripe-dotnet/issues/3149

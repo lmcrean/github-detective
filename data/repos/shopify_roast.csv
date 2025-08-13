@@ -1,6 +1,6 @@
 # Issues Total: 208
 # Repository: https://github.com/shopify/roast
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 No explicit ordering of initializer load,0,deficiency,2025-07-23,https://github.com/shopify/roast/issues/332

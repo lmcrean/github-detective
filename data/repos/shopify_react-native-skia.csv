@@ -1,12 +1,26 @@
-# Issues Total: 68
+# Issues Total: 203
 # Repository: https://github.com/shopify/react-native-skia
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+Add support for react-native-reanimated v4 peer dependency,0,bug,2025-08-12,https://github.com/shopify/react-native-skia/issues/3285
+"void setColorSpace(SkiaPictureView view, @Nullable String value) build error",2,bug,2025-08-05,https://github.com/shopify/react-native-skia/issues/3261
+Bug Using Skia with Web Expo Project,4,bug,2025-07-24,https://github.com/shopify/react-native-skia/issues/3247
+"Error exception in hostfunction non whitespace character found after end of conversion : """"%""""",1,bug,2025-08-07,https://github.com/shopify/react-native-skia/issues/3266
+"[Expo] [Web] Can't access property """"onSize"""", this is undefined",2,"bug, released",2025-08-08,https://github.com/shopify/react-native-skia/issues/3274
 "[Expo 53] """"useColorBuffer"""" throwing """" Value is undefined, expected an Object, js engine: hermes""""",0,bug,2025-08-08,https://github.com/shopify/react-native-skia/issues/3275
 Different Issues (Android and iOS) with useSkiaFrameProcessor,10,bug,2025-02-17,https://github.com/shopify/react-native-skia/issues/2964
 [iOS] Image re-rendering with potential memory leak,22,bug,2025-01-23,https://github.com/shopify/react-native-skia/issues/2909
+Why can't it run on the release version when drawing through this API on the debug version is normal,4,"bug, released",2025-07-02,https://github.com/shopify/react-native-skia/issues/3222
+[Android] onLayout not be called on <Canvas /> in release mode,2,"bug, released",2025-04-29,https://github.com/shopify/react-native-skia/issues/3116
+[2.2.0] [Android Only] method does not override or implement a method from a supertype,1,"bug, released",2025-08-05,https://github.com/shopify/react-native-skia/issues/3257
+[Regression] [2.2.0] [Android Only] Can't build with error method does not override or implement a method from a supertype,6,"bug, released",2025-08-04,https://github.com/shopify/react-native-skia/issues/3255
+Opacity doesn't work with Skottie.,4,"bug, released",2025-07-31,https://github.com/shopify/react-native-skia/issues/3250
+Update in Expo SDK 53 Project - Path color,11,"bug, released",2025-05-23,https://github.com/shopify/react-native-skia/issues/3158
+Color rendered by react-native-skia is inconsistent with native rendering,7,"bug, released",2025-07-24,https://github.com/shopify/react-native-skia/issues/3246
 Using alpha mask over a group of radialgradient shaders leads to some weird compositing,0,bug,2025-08-02,https://github.com/shopify/react-native-skia/issues/3254
+Big regression after upgrading to v2 on react native 0.79,28,bug,2025-04-15,https://github.com/shopify/react-native-skia/issues/3098
+Delay in animation,13,bug,2025-07-23,https://github.com/shopify/react-native-skia/issues/3245
 "ReanimatedError: Exception in HostFunction: bad_optional_access, js engine: reanimated",1,bug,2025-07-18,https://github.com/shopify/react-native-skia/issues/3242
 Image after zoom is pixelated on Android Emulator,0,,2025-07-17,https://github.com/shopify/react-native-skia/issues/3240
 [Android] gl::Context::makeCurrent Segfault error,6,bug,2025-05-22,https://github.com/shopify/react-native-skia/issues/3156
@@ -16,42 +30,163 @@ Delay in Skia Components Rendering While Mounting in RN v0.78.0,3,bug,2025-03-18
 LineHeight property on Paragraph,4,enhancement,2024-08-01,https://github.com/shopify/react-native-skia/issues/2561
 SVG's from react-native-svg don't appear in skia snapshots (makeImageFromView) only Android,12,bug,2024-07-30,https://github.com/shopify/react-native-skia/issues/2555
 [iOS] Canvas is cut off from the bottom,1,bug,2025-07-01,https://github.com/shopify/react-native-skia/issues/3220
+Animated element freeze the app when it out off-screen,9,,2024-12-26,https://github.com/shopify/react-native-skia/issues/2837
 HLS Support for Video,4,enhancement,2025-05-17,https://github.com/shopify/react-native-skia/issues/3147
+[iOS] The colorType of the image was parsed incorrectly,2,bug,2025-06-26,https://github.com/shopify/react-native-skia/issues/3210
+"[iOS] """"Multiple commands produce""""",3,"bug, released",2025-06-25,https://github.com/shopify/react-native-skia/issues/3209
+BackdropBlur not working as intended,3,bug,2025-06-23,https://github.com/shopify/react-native-skia/issues/3196
+16 KB Support Android,3,bug,2025-05-08,https://github.com/shopify/react-native-skia/issues/3134
+"animation start time for """"@shopify/react-native-skia"""";",5,enhancement,2025-06-14,https://github.com/shopify/react-native-skia/issues/3181
+Skia Paragraph and Skia Image not rendering randomly for some users,4,"bug, released on @next",2025-05-07,https://github.com/shopify/react-native-skia/issues/3126
+"rn 0.70.15 Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'RNSkiaModule' could not be found. Verify that a module by this name is registered in the native binary., js engine: hermes",7,bug,2025-01-15,https://github.com/shopify/react-native-skia/issues/2898
+Snack demo in getting-started/web/ is broken for iOS and Android,1,bug,2025-03-09,https://github.com/shopify/react-native-skia/issues/3010
+Skia Text doesn't render special characters,2,bug,2025-03-03,https://github.com/shopify/react-native-skia/issues/2994
+Canvas disappears when updating style prop of its parent `View` element,3,bug,2025-02-25,https://github.com/shopify/react-native-skia/issues/2976
+App Crash on Reload with expo `reloadAppAsync`,10,,2024-12-23,https://github.com/shopify/react-native-skia/issues/2834
+node_modules\@shopify\react-native-skia\src\sksg\Recorder\DrawingContext.ts line 41 to error,1,bug,2025-02-17,https://github.com/shopify/react-native-skia/issues/2965
+Why is text not supported when rendering svg string?,1,documentation,2024-12-12,https://github.com/shopify/react-native-skia/issues/2803
+App crashes when using Atlas Api,2,bug,2024-10-13,https://github.com/shopify/react-native-skia/issues/2689
+BackdropBlur looks weird and doesn't affect text?,5,bug,2025-06-16,https://github.com/shopify/react-native-skia/issues/3188
+Stuttering Animations with withDecay in Newer Versions of Skia,8,bug,2025-03-04,https://github.com/shopify/react-native-skia/issues/2999
+Replace react-native/Libraries/Image/AssetRegistry with @react-native/assets-registry/registry,2,bug,2024-10-24,https://github.com/shopify/react-native-skia/issues/2702
+Random build error ld: error: undefined symbol: RNJsi::JsiHostObject::JsiHostObject(),3,bug,2024-10-28,https://github.com/shopify/react-native-skia/issues/2708
+Skia build fails for build from master,1,bug,2025-05-12,https://github.com/shopify/react-native-skia/issues/3139
+Why is the Skia image not displaying the same as the original image?,4,,2025-03-12,https://github.com/shopify/react-native-skia/issues/3015
+Unexpected token: punc ()),1,bug,2025-01-22,https://github.com/shopify/react-native-skia/issues/2906
+Canvas rendering issue with React Navigation and StrictMode in v2,2,"bug, released",2025-06-16,https://github.com/shopify/react-native-skia/issues/3186
+2.0.3: Can no longer set opacity of SVG via Group or Paint,8,"bug, released",2025-06-12,https://github.com/shopify/react-native-skia/issues/3180
 [android] Canvas disappear in Modal when app is resumed from background,6,bug,2024-01-12,https://github.com/shopify/react-native-skia/issues/2135
+ReferenceError: SkiaViewApi is not defined in React Native Web w/ react-native-skia 1.8.0,9,"bug, released",2025-01-25,https://github.com/shopify/react-native-skia/issues/2914
+`pthread_mutex_lock` invalid memory crash during SkiaUIView `dealloc`,3,"bug, released",2025-03-15,https://github.com/shopify/react-native-skia/issues/3032
+Crashes on App reload during dev or OTA Update with RN 0.79,6,"bug, released",2025-04-28,https://github.com/shopify/react-native-skia/issues/3114
 App Crash on Reload with expo reloadAppAsync,11,bug,2025-02-17,https://github.com/shopify/react-native-skia/issues/2966
+A React.memo component inside of a Group in a Canvas causes canvas content to disappear on first re-render,7,"bug, released",2025-05-23,https://github.com/shopify/react-native-skia/issues/3159
+"[Android] Black area occurred in release mode, React Native Skia 2.0.0.",8,"bug, released",2025-05-19,https://github.com/shopify/react-native-skia/issues/3151
+How to Share the Skia Module in a Third-Party C++ Library?,4,enhancement,2025-05-29,https://github.com/shopify/react-native-skia/issues/3167
+Text jittering/shaking during scaling animation,1,bug,2025-05-27,https://github.com/shopify/react-native-skia/issues/3164
+2.0.0-next.3 on expo 53 and new arch fails to render images in some cases,6,"bug, released on @next",2025-05-07,https://github.com/shopify/react-native-skia/issues/3128
 Support loading 16-bit PNGs,1,enhancement,2025-05-15,https://github.com/shopify/react-native-skia/issues/3145
+Support for p3 color space,1,released,2025-05-19,https://github.com/shopify/react-native-skia/issues/3152
 [ iOS 18 Simulator regression] Scrolling Freezes When Canvas is offscreen,4,,2025-04-26,https://github.com/shopify/react-native-skia/issues/3112
+ReactCurrentOwner undefined,2,bug,2025-05-14,https://github.com/shopify/react-native-skia/issues/3141
 SkiaApi.Context() fails if not ran on the main thread,4,,2025-05-10,https://github.com/shopify/react-native-skia/issues/3137
+iOS build getting rejected in version 1.12.4,12,bug,2025-04-26,https://github.com/shopify/react-native-skia/issues/3111
+Displaying a skImage made with makeImageSnapshot only show black pixels,3,bug,2025-05-11,https://github.com/shopify/react-native-skia/issues/3138
+"2.0.0-next.4 Colors array must have at least 2 colors, js engine: reanimated",4,"bug, released on @next",2025-05-08,https://github.com/shopify/react-native-skia/issues/3135
+`useTexture` performance regression,4,"bug, released on @next",2025-05-07,https://github.com/shopify/react-native-skia/issues/3127
+Crash when using Group layer prop in v2,3,bug,2025-05-02,https://github.com/shopify/react-native-skia/issues/3118
 makeImageFromView doesn’t work properly on Android when the status bar is translucent,1,,2024-11-26,https://github.com/shopify/react-native-skia/issues/2773
+drawParagraph is not available in Offscreen mode – need support for rendering paragraphs offscreen,1,enhancement,2025-04-23,https://github.com/shopify/react-native-skia/issues/3109
+Crash SkiaSGRoot,1,bug,2025-04-19,https://github.com/shopify/react-native-skia/issues/3107
+Alternative to useDrawCallback?,1,documentation,2025-04-03,https://github.com/shopify/react-native-skia/issues/3079
+`useImage()` not work on Android + `StaticContainer`,4,bug,2025-04-09,https://github.com/shopify/react-native-skia/issues/3092
 Is there a simple and quick way to use react-native-skia directly on the web?,1,documentation,2025-04-06,https://github.com/shopify/react-native-skia/issues/3084
+feat: update typing for useCanvasRef,1,,2025-04-09,https://github.com/shopify/react-native-skia/issues/3090
+Grant the user the authority to use `StaticContainer` while Reanimated 3 is installed.,4,enhancement,2025-03-14,https://github.com/shopify/react-native-skia/issues/3030
+Is React Native Skia safe with race condition?,10,,2025-04-07,https://github.com/shopify/react-native-skia/issues/3085
 Replace `NativeBufferFactory` with a more secure implementation,2,enhancement,2025-03-26,https://github.com/shopify/react-native-skia/issues/3062
 [Web] Error: Couldn't create typeface for,7,,2024-12-03,https://github.com/shopify/react-native-skia/issues/2784
 First frame renders transparent canvas,10,"bug, released, released on @next",2025-02-18,https://github.com/shopify/react-native-skia/issues/2968
+The example in apps/remotion is broken,2,"bug, released on @next",2025-03-12,https://github.com/shopify/react-native-skia/issues/3016
+Any state change breaks animation,3,"bug, released, released on @next",2025-03-25,https://github.com/shopify/react-native-skia/issues/3049
+Thread safety issue on `NativeReanimatedContainer`,3,"bug, released, released on @next",2025-03-14,https://github.com/shopify/react-native-skia/issues/3029
+potential memory leak in `performStreamOperation`,3,"bug, released, released on @next",2025-03-25,https://github.com/shopify/react-native-skia/issues/3051
+TurboModuleRegistry.getEnforcing (...): 'RNSkiaModule' could not be found. Verify that a module by this name is registered in the native binary.,11,"bug, released, released on @next",2025-03-25,https://github.com/shopify/react-native-skia/issues/3056
+ColorType is mapped incorrectly when running CanvasKit/headless,8,"bug, released, released on @next",2025-03-26,https://github.com/shopify/react-native-skia/issues/3060
+Web Animations Broken,22,bug,2025-02-05,https://github.com/shopify/react-native-skia/issues/2943
+Context Re-injection Fails,3,bug,2025-03-10,https://github.com/shopify/react-native-skia/issues/3013
+TypeError: Skia.Recorder is not a function (it is undefined),1,bug,2025-03-10,https://github.com/shopify/react-native-skia/issues/3012
+Getting these crashes on Playstore app.,1,bug,2025-03-10,https://github.com/shopify/react-native-skia/issues/3011
+React Native 78/ React 19 support - currently not work,11,bug,2025-02-20,https://github.com/shopify/react-native-skia/issues/2974
 Memory leak in the SpeedTest example (Skia.Color),4,bug,2025-03-03,https://github.com/shopify/react-native-skia/issues/2992
 Applying inner drop shadow on a shape with opacity destaturates the shape,0,bug,2025-03-02,https://github.com/shopify/react-native-skia/issues/2990
+"Module '""""@shopify/react-native-skia""""' has no exported member 'useTouchHandler'.",2,bug,2025-02-24,https://github.com/shopify/react-native-skia/issues/2975
 """""library 'skia' not found"""" when run in macCatalyst",0,bug,2025-02-19,https://github.com/shopify/react-native-skia/issues/2970
 App crash with EGL_BAD_ATTRIBUTE error in Logcat when using canvas to draw after makeImageFromView was called,0,bug,2025-02-19,https://github.com/shopify/react-native-skia/issues/2969
+"""""default"""" is not exported by NativeSkiaModule.web.js",5,"bug, released",2025-02-13,https://github.com/shopify/react-native-skia/issues/2960
 [iOS] RoundedRect clipping bug,12,bug,2023-04-06,https://github.com/shopify/react-native-skia/issues/1480
 useVideo Causes Hot Reload Crash On Fresh Expo App,5,bug,2025-01-09,https://github.com/shopify/react-native-skia/issues/2878
+Returning a reference to a temporary,2,"bug, released",2025-01-24,https://github.com/shopify/react-native-skia/issues/2911
 measureText not implemented for React Native Web,3,enhancement,2024-09-19,https://github.com/shopify/react-native-skia/issues/2639
+"Exception in HostFunction: Value is undefined, expected a number",7,bug,2025-01-12,https://github.com/shopify/react-native-skia/issues/2888
+State management issue,1,,2025-01-15,https://github.com/shopify/react-native-skia/issues/2901
+[Regression] Headless requires `react-native` after v1.11.0,3,"bug, released",2025-02-04,https://github.com/shopify/react-native-skia/issues/2935
+[docs] Broken example link,1,"documentation, released",2025-01-24,https://github.com/shopify/react-native-skia/issues/2913
+"Still seeing decreased performance, please keep CanvasOld",14,bug,2025-01-29,https://github.com/shopify/react-native-skia/issues/2930
+iOS build failed,3,"bug, released",2025-01-29,https://github.com/shopify/react-native-skia/issues/2931
+TypeError: href.indexOf is not a function (it is undefined),0,bug,2025-01-31,https://github.com/shopify/react-native-skia/issues/2932
+[Android] Build fail with React native 0.77 version,5,"bug, released",2025-01-23,https://github.com/shopify/react-native-skia/issues/2908
+Build with Graphite failed on tvos build step,6,bug,2025-01-27,https://github.com/shopify/react-native-skia/issues/2917
+The new canvas will render an svg once and only once,5,bug,2025-01-27,https://github.com/shopify/react-native-skia/issues/2918
+"Build error , ios",4,"bug, released",2025-01-29,https://github.com/shopify/react-native-skia/issues/2923
+Severe performance decrease after 1.10.2 update,7,"bug, released",2025-01-21,https://github.com/shopify/react-native-skia/issues/2904
+Camera Screen goes black when using Skia Frame Processors with VisionCamera (doesn't happen with normal frame processors),14,bug,2025-01-14,https://github.com/shopify/react-native-skia/issues/2897
 Atlas is not working with large spritesheet,0,bug,2025-01-22,https://github.com/shopify/react-native-skia/issues/2907
 Support Android Custom Fonts,1,enhancement,2024-09-13,https://github.com/shopify/react-native-skia/issues/2633
+SVG Disappears Outside SafeAreaView on Tab Switch in react-native-skia,6,bug,2024-11-01,https://github.com/shopify/react-native-skia/issues/2718
 error in web Cannot read properties of null (reading 'rangeMin'),2,bug,2024-05-13,https://github.com/shopify/react-native-skia/issues/2426
+"Rendering Path with start and end properties not rendering correctly in 0/90/180/270 degree angles,",2,,2024-12-20,https://github.com/shopify/react-native-skia/issues/2826
 Breaking Change: makeImageFromView API incompatibility between versions 1.90 and 1.10.1,0,bug,2025-01-16,https://github.com/shopify/react-native-skia/issues/2902
+New issues in 1.9.0,18,"bug, released",2025-01-13,https://github.com/shopify/react-native-skia/issues/2893
+"""""React Native Skia Compatibility Issue: Working on Galaxy A5, Failing on Galaxy S22 Ultra""""",3,,2025-01-15,https://github.com/shopify/react-native-skia/issues/2900
+Nullpointer in  librnskia.so (SIGSEGV 0x0000000000000008),3,bug,2025-01-13,https://github.com/shopify/react-native-skia/issues/2892
+[v1.10.0] LinearGradient does not work anymore when passing colors as number[][],2,"bug, released",2025-01-12,https://github.com/shopify/react-native-skia/issues/2890
+BoxShadow opacity not animating,2,released,2024-12-04,https://github.com/shopify/react-native-skia/issues/2792
+feature request: download artifacts,2,"enhancement, released",2024-11-19,https://github.com/shopify/react-native-skia/issues/2745
 Crash when painting empty color on a svg,2,bug,2024-10-10,https://github.com/shopify/react-native-skia/issues/2683
+Rasterizing SVG with Skia appears much thicker than rasterizing with WebView,3,,2024-12-21,https://github.com/shopify/react-native-skia/issues/2829
 VisionOS Support,1,enhancement,2024-03-12,https://github.com/shopify/react-native-skia/issues/2280
+[Discussion] Migrate to Nitro?,0,enhancement,2024-11-11,https://github.com/shopify/react-native-skia/issues/2730
 Text / Paragraph / Image is not rendering on canvas,5,bug,2024-09-27,https://github.com/shopify/react-native-skia/issues/2656
+"Pictures sometimes render with incorrect proportions, starting with 1.7.2 [Android only]",11,,2024-12-22,https://github.com/shopify/react-native-skia/issues/2831
 App Crashes When Scrolling with FlatList,3,bug,2024-02-19,https://github.com/shopify/react-native-skia/issues/2227
+"TypeError: 0, _reactNativeSkia.useClockValue is not a function (it is undefined)",1,,2024-12-15,https://github.com/shopify/react-native-skia/issues/2807
+How can I write my own pathEffect?,1,documentation,2024-12-20,https://github.com/shopify/react-native-skia/issues/2825
+[New Arch] [Contexts] Error Re-Injecting/Sharing Contexts between renderers,3,released,2024-11-28,https://github.com/shopify/react-native-skia/issues/2777
+incorrect paths rendering,6,released,2024-12-17,https://github.com/shopify/react-native-skia/issues/2814
+[iOS] Error trying to build for iOS,15,,2024-12-07,https://github.com/shopify/react-native-skia/issues/2796
 "pointerEvents=""""none"""" on <Canvas /> not working on android?",7,bug,2024-07-27,https://github.com/shopify/react-native-skia/issues/2551
+Recording SkiaDomView to video file,2,enhancement,2024-12-17,https://github.com/shopify/react-native-skia/issues/2817
+Android build fails due to missing facebook::jsi namespace import in JniPlatformContext.h,11,released,2024-12-12,https://github.com/shopify/react-native-skia/issues/2804
+SIGSEGV on Android in production,14,,2024-12-10,https://github.com/shopify/react-native-skia/issues/2800
+invalid current EGLDisplay in android/cpp/rnskia-android/gl/Context.h:33,4,,2024-12-09,https://github.com/shopify/react-native-skia/issues/2799
+Backdrop Filter Not Working on Mobile,1,,2024-11-17,https://github.com/shopify/react-native-skia/issues/2741
+Implement inverting matrices,3,"enhancement, released",2024-12-03,https://github.com/shopify/react-native-skia/issues/2789
+Picture not rerendering on iOS,10,released,2024-11-12,https://github.com/shopify/react-native-skia/issues/2732
+"evaluating '_$$_REQUIRE(_dependencyMap[6], """"@shopify/react-native-skia"""").useCanvasRef' - React Native 0.69.12",1,bug,2024-10-09,https://github.com/shopify/react-native-skia/issues/2680
+Render Text with mixed languages/fonts ?,1,enhancement,2024-10-10,https://github.com/shopify/react-native-skia/issues/2681
 App Hang on RenderCommandEncoder in iOS,4,bug,2024-05-22,https://github.com/shopify/react-native-skia/issues/2439
+feature request on makesum and makecompose,5,enhancement,2024-10-26,https://github.com/shopify/react-native-skia/issues/2706
+Does not work in the context of an iOS share extension,3,bug,2024-10-12,https://github.com/shopify/react-native-skia/issues/2686
+perspective (processTransform3d) not work,4,bug,2024-10-06,https://github.com/shopify/react-native-skia/issues/2678
+failed to create webgl context,4,,2024-11-19,https://github.com/shopify/react-native-skia/issues/2748
 Atlas Api performs worse than Picture Api,2,bug,2024-10-13,https://github.com/shopify/react-native-skia/issues/2688
 Packaged fonts show as system fonts on iOS but not Android,4,,2024-06-27,https://github.com/shopify/react-native-skia/issues/2503
 currentTime and video playback time are inconsistent,5,bug,2024-07-15,https://github.com/shopify/react-native-skia/issues/2535
+Android crash with new arch,2,released,2024-11-24,https://github.com/shopify/react-native-skia/issues/2767
 makeImageFromView doesn't work with SectionGrid,0,,2024-11-23,https://github.com/shopify/react-native-skia/issues/2764
+"[1.5.6] Android Crash (""""Failed to create window surface"""")",4,,2024-11-22,https://github.com/shopify/react-native-skia/issues/2762
+Failed to create window surface native crash on android,16,,2024-11-20,https://github.com/shopify/react-native-skia/issues/2754
+Instant Crash on iOS version : 1.5.6,1,,2024-11-20,https://github.com/shopify/react-native-skia/issues/2755
+Crash on iOS version : 1.5.5,11,released,2024-11-20,https://github.com/shopify/react-native-skia/issues/2751
+Significant performance degradation in Group transform from v1.5.1 to v1.5.2,10,released,2024-11-18,https://github.com/shopify/react-native-skia/issues/2743
+Firestore iOS build error,2,bug,2024-10-23,https://github.com/shopify/react-native-skia/issues/2700
 "ReferenceError: Property 'SkiaApi' doesn't exist, js engine: hermes",20,bug,2023-12-09,https://github.com/shopify/react-native-skia/issues/2039
 "When I start the Android emulator, I encounter an error during launch",1,bug,2024-10-11,https://github.com/shopify/react-native-skia/issues/2684
+Text component draws Chinese garbled characters,2,documentation,2024-10-18,https://github.com/shopify/react-native-skia/issues/2695
+`WithSkiaWeb` crashing when props are updated,4,"bug, released",2024-10-29,https://github.com/shopify/react-native-skia/issues/2715
+CMake Error - Required Libraries Set to NOTFOUND,2,"bug, released",2024-11-01,https://github.com/shopify/react-native-skia/issues/2719
+Installation issue after upgrade to 1.4.0,9,"bug, released",2024-09-30,https://github.com/shopify/react-native-skia/issues/2664
+"(0 , _$$_REQUIRE(...).useTouchHandler) is not a function",1,bug,2024-10-28,https://github.com/shopify/react-native-skia/issues/2711
 Can only color Paragraph via `pushStyle` in builder,1,bug,2024-09-30,https://github.com/shopify/react-native-skia/issues/2666
+"after updating to 1.5.0 from 1.2.3 --> (0 , _$$_REQUIRE(...).useTouchHandler) is not a function",1,bug,2024-10-24,https://github.com/shopify/react-native-skia/issues/2703
+getting the following error in an inconsistent manner: Error: text node are not supported yet,1,bug,2024-10-13,https://github.com/shopify/react-native-skia/issues/2687
+Android build broken on React Native 0.76 New Architecture,1,"bug, released",2024-10-14,https://github.com/shopify/react-native-skia/issues/2692
 Crash when getting image height during hot reload,3,bug,2023-12-31,https://github.com/shopify/react-native-skia/issues/2104
+App crashing after skia animation for both android and ios,5,"bug, released",2024-09-30,https://github.com/shopify/react-native-skia/issues/2661
+RN0.74 ios build error,3,"bug, released",2024-10-01,https://github.com/shopify/react-native-skia/issues/2672
+1.4.1 build issue — Undefined symbols for architecture arm64,2,"bug, released",2024-10-01,https://github.com/shopify/react-native-skia/issues/2670
+Video frames black screen flickering,2,bug,2024-09-26,https://github.com/shopify/react-native-skia/issues/2647
 Display Density change is ignored (Android),0,bug,2024-09-15,https://github.com/shopify/react-native-skia/issues/2635
 ImageFilter.MakeRuntimeShader with array of children,0,enhancement,2024-08-29,https://github.com/shopify/react-native-skia/issues/2601
 Some frames are missing at the very end of a video,4,bug,2024-06-24,https://github.com/shopify/react-native-skia/issues/2493

@@ -1,21 +1,33 @@
-# Issues Total: 30
+# Issues Total: 61
 # Repository: https://github.com/shopify/semian
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+`error_threshold_timeout_enabled` can open too aggressively,4,,2025-06-03,https://github.com/shopify/semian/issues/634
+Add configuration validation for Semian,0,,2025-06-03,https://github.com/shopify/semian/issues/633
+Thread Safety,0,,2024-11-21,https://github.com/shopify/semian/issues/566
+Any plan for supports Faraday adapter?,0,,2024-07-05,https://github.com/shopify/semian/issues/526
+How about disabling bulkhead by default?,3,Semian,2017-09-06,https://github.com/shopify/semian/issues/166
 Semian incompatible with redis-rb 5.0.7,0,,2023-08-10,https://github.com/shopify/semian/issues/500
 Failed to compile ext with multiple definition errors,7,,2020-03-06,https://github.com/shopify/semian/issues/261
 Support per-request HTTP Resource naming,4,,2023-02-16,https://github.com/shopify/semian/issues/480
+Automate create github release,2,Semian,2023-02-15,https://github.com/shopify/semian/issues/476
 Release 0.19.0,0,,2023-02-15,https://github.com/shopify/semian/issues/477
+Update HTTP examples to handle 500,0,"Semian, documentation",2023-02-15,https://github.com/shopify/semian/issues/478
 Release 0.18.0,0,Semian,2023-02-06,https://github.com/shopify/semian/issues/470
 Investigate in Segmetation fault for AR Trilogy,1,,2023-02-08,https://github.com/shopify/semian/issues/471
 Semian does not open circuit immediately and waits for redis pool's reconnection attempts which uses exponential backoff timeout,2,"question, Semian",2022-11-24,https://github.com/shopify/semian/issues/448
 Release 0.17.0,3,Semian,2022-12-13,https://github.com/shopify/semian/issues/458
+Extract bulkheading ENV settings to configuration part,2,Semian,2022-11-11,https://github.com/shopify/semian/issues/442
+Investigate possobility when resource is acquired,0,Semian,2022-11-14,https://github.com/shopify/semian/issues/446
 Postgresql Adapter,4,,2019-04-05,https://github.com/shopify/semian/issues/218
 How do I use Semian (for dummies),1,question,2022-04-22,https://github.com/shopify/semian/issues/312
 Bulkhead resource count produces error,1,,2022-09-25,https://github.com/shopify/semian/issues/414
 Semian sysv semaphores are not supported on x86_64-darwin21 ,2,,2022-04-26,https://github.com/shopify/semian/issues/313
 Ruby type RBS vs Sorbet RBI,0,Semian,2022-09-14,https://github.com/shopify/semian/issues/407
+Review tests to cover ActiveRecord problems,0,,2022-09-13,https://github.com/shopify/semian/issues/406
+Feature: support static config for Semian::NetHTTP and Semian::GRPC,0,"help wanted, Semian",2022-06-20,https://github.com/shopify/semian/issues/350
+Random failed tests,0,"help wanted, Semian",2022-09-12,https://github.com/shopify/semian/issues/401
 Release v0.14.0,1,Semian,2022-09-06,https://github.com/shopify/semian/issues/394
 Update all development / test gems ,2,Semian,2022-09-01,https://github.com/shopify/semian/issues/383
 Compatibility issues with Redis 5.X,1,Semian,2022-09-01,https://github.com/shopify/semian/issues/385
@@ -23,6 +35,8 @@ Circuit not open for GRPC::ActiveCall::Operation failures,0,Semian,2022-06-19,ht
 Slow GRPC tests,0,Semian,2022-04-28,https://github.com/shopify/semian/issues/315
 Update instrumentation docs,0,,2021-04-08,https://github.com/shopify/semian/issues/290
 Test against ruby 3.1,0,ci/cd,2022-06-09,https://github.com/shopify/semian/issues/343
+Automate PR approving with AI,0,,2022-05-28,https://github.com/shopify/semian/issues/334
+Make TestResource#test_acquire_timeout_override work,0,,2022-05-23,https://github.com/shopify/semian/issues/329
 "Semian for MySQL ignores error `Query execution was interrupted, maximum statement execution time exceeded`",1,,2022-05-17,https://github.com/shopify/semian/issues/316
 Net::ResourceBusyError Permission denied,5,,2018-10-17,https://github.com/shopify/semian/issues/201
 Ruby deprecation warning: rb_tainted_str_new_cstr,2,,2022-01-05,https://github.com/shopify/semian/issues/305
@@ -31,5 +45,22 @@ Ruby 2.7 Warnings,0,,2020-05-11,https://github.com/shopify/semian/issues/265
 Updating the docs to specifically call out some common error messages,3,,2021-02-02,https://github.com/shopify/semian/issues/287
 Broken subscribe interface,1,,2019-09-04,https://github.com/shopify/semian/issues/253
 "mysql2: Exceptions are """"wrapped"""" infinitely",1,,2018-12-07,https://github.com/shopify/semian/issues/211
+Audit list of things that can raise ResolveError,1,,2019-07-04,https://github.com/shopify/semian/issues/249
+Feature Request: Percentage Based Error Thresholds,1,,2019-07-02,https://github.com/shopify/semian/issues/245
+Feature Request: Throttle half_open -> closed attempts,0,,2019-07-02,https://github.com/shopify/semian/issues/244
+Configure Semian for Sidekiq,1,,2019-06-17,https://github.com/shopify/semian/issues/232
+Disappearing semaphore array,2,,2019-05-27,https://github.com/shopify/semian/issues/224
 Adapters should be loaded automatically,2,question,2019-05-31,https://github.com/shopify/semian/issues/226
+Simulator,1,enhancement,2015-09-17,https://github.com/shopify/semian/issues/49
+Fault injection,6,,2018-06-09,https://github.com/shopify/semian/issues/187
 "When using the quota option, how is the total tickets available count calculated?",1,,2018-03-06,https://github.com/shopify/semian/issues/178
+"Travis is failing, unable to push a new build to RubyGems",0,,2017-11-02,https://github.com/shopify/semian/issues/169
+Throw exception when protected resource deligate is nil.,0,,2017-07-12,https://github.com/shopify/semian/issues/159
+Exponential backoff,2,,2017-05-29,https://github.com/shopify/semian/issues/146
+Possible concurrency issues,7,,2016-08-09,https://github.com/shopify/semian/issues/86
+Investigate a possible Memcached adapter.,9,enhancement,2015-02-20,https://github.com/shopify/semian/issues/29
+DNS over TCP adapter,0,,2015-10-09,https://github.com/shopify/semian/issues/55
+Drop openssl dependency,0,,2015-09-22,https://github.com/shopify/semian/issues/53
+How long did a worker block on getting a ticket?,0,,2015-09-22,https://github.com/shopify/semian/issues/52
+Proxy,4,enhancement,2015-03-22,https://github.com/shopify/semian/issues/44
+Share circuit breaker between workers,0,enhancement,2015-02-19,https://github.com/shopify/semian/issues/27

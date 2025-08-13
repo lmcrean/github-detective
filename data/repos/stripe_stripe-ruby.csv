@@ -1,8 +1,9 @@
-# Issues Total: 52
+# Issues Total: 65
 # Repository: https://github.com/stripe/stripe-ruby
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
+Add additional headers on request,0,feature-request,2025-08-13,https://github.com/stripe/stripe-ruby/issues/1634
 Cannot add expand parmeter to Price,3,bug,2025-07-25,https://github.com/stripe/stripe-ruby/issues/1628
 API Documentation is showing deprecated examples,2,"bug, future",2025-02-11,https://github.com/stripe/stripe-ruby/issues/1532
 APIResource#refresh does not work if object is from a webhook event,2,bug,2025-06-03,https://github.com/stripe/stripe-ruby/issues/1616
@@ -32,6 +33,17 @@ Wiki: Version 13 of migration guide contains error,1,bug,2024-10-02,https://gith
 Will support Update an invoice's line item method?,6,feature-request,2024-02-08,https://github.com/stripe/stripe-ruby/issues/1325
 Unable to retrieve Transfer Reversal while expanding the transfer object,6,bug,2024-05-02,https://github.com/stripe/stripe-ruby/issues/1393
 Inconsistent error format,2,future,2021-09-04,https://github.com/stripe/stripe-ruby/issues/999
+7.0.0 Event Type Callback Clarification?,1,,2022-08-05,https://github.com/stripe/stripe-ruby/issues/1108
+NoMethodError: undefined method `auto_paging_each' when listing,4,,2022-08-08,https://github.com/stripe/stripe-ruby/issues/1110
+Getting error 500 while retrieving Payment Method with expand `card.generated_from.setup_attempt` option,1,support,2022-11-02,https://github.com/stripe/stripe-ruby/issues/1140
+Invalid requests causing ArgumentError,5,,2022-11-14,https://github.com/stripe/stripe-ruby/issues/1147
+Clearing default_payment_method doesn't work with update method,3,docs,2022-11-21,https://github.com/stripe/stripe-ruby/issues/1151
+Fetch blocked by CORS policy,1,support,2022-12-27,https://github.com/stripe/stripe-ruby/issues/1160
+Stripe::Charge.create error (when passing existing customer's default source),4,,2023-01-04,https://github.com/stripe/stripe-ruby/issues/1161
+Migration guide syntax error,2,docs,2023-01-12,https://github.com/stripe/stripe-ruby/issues/1166
+Success refund to expired PaymentMethod,2,support,2023-02-15,https://github.com/stripe/stripe-ruby/issues/1177
+Undefined method cancel for Stripe::Subscription:Class,2,,2023-02-22,https://github.com/stripe/stripe-ruby/issues/1180
+Logging not working with STRIPE_LOG=info,2,,2023-03-28,https://github.com/stripe/stripe-ruby/issues/1199
 Safe Navigation Operator (&) not working on Stripe::Account,0,,2023-06-19,https://github.com/stripe/stripe-ruby/issues/1236
 Account Retrieve For Nil return value,2,,2023-08-11,https://github.com/stripe/stripe-ruby/issues/1258
 Incomplete data for Stripe::Account.list_external_accounts,1,support,2024-03-08,https://github.com/stripe/stripe-ruby/issues/1358
@@ -49,6 +61,7 @@ Stripe::SearchResultObject#_search deprecation warning is shown incorrectly,1,bu
 Handle rate limiting,4,"future, feature-request",2022-08-16,https://github.com/stripe/stripe-ruby/issues/1114
 "Include a representation of the Stripe """"concept"""" and action in instrumentation event payloads",4,"future, feature-request",2023-02-15,https://github.com/stripe/stripe-ruby/issues/1178
 Testing stubs,14,future,2015-04-16,https://github.com/stripe/stripe-ruby/issues/243
+Invalid warning message on deprecated method Stripe::Subscription#save,1,bug,2023-03-29,https://github.com/stripe/stripe-ruby/issues/1200
 Expose connect account id in Stripe::StripeObject,4,"future, feature-request",2022-07-25,https://github.com/stripe/stripe-ruby/issues/1101
 Multiple query parameters with same key get de-duped,3,bug,2022-06-30,https://github.com/stripe/stripe-ruby/issues/1086
 Configurable HTTP client,11,future,2015-10-02,https://github.com/stripe/stripe-ruby/issues/313

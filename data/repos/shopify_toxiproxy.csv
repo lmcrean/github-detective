@@ -1,6 +1,6 @@
 # Issues Total: 190
 # Repository: https://github.com/shopify/toxiproxy
-# Generated: 2025-08-12
+# Generated: 2025-08-13
 #
 issue_title,comments_count,labels,opened_date,hyperlink
 Latency toxic is not bidirectional (and this is undocumented),0,,2025-07-20,https://github.com/shopify/toxiproxy/issues/655
