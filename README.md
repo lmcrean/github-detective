@@ -56,12 +56,23 @@ Interact with Claude Code as your research partner to find issues
 
 6. Manually crawl through 50 most recent issues against engagement criteria (User deletes irrelevant files)
 
+## input
+
+input can be a CSV with
+
+```
+github org / github hyperlink / revenue (USD) / 5 tags / revenue hyperlink (confirm not a hallucination)
+```
+
 ## methodology
+
 
 100 Highest 2024 Revenue Orgs on github --> Repo's with Highest 30d Merge Rate, sorted by highest.money and time
 
 the scope ends at repos to avoid complexity overheads of comparing tickets generally the repos will be manually chosen and examined from there
 
+
+## output
 Table output can be CSV with
 
 ```
