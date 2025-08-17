@@ -55,3 +55,15 @@ Interact with Claude Code as your research partner to find issues
 5. Define engagement criteria
 
 6. Manually crawl through 50 most recent issues against engagement criteria (User deletes irrelevant files)
+
+## methodology
+
+100 Highest 2024 Revenue Orgs on github --> Repo's with Highest 30d Merge Rate, sorted by highest.money and time
+
+the scope ends at repos to avoid complexity overheads of comparing tickets generally the repos will be manually chosen and examined from there
+
+Table output can be CSV with
+
+```
+org; repo; hyperlink; 30d_merge_rate
+```
