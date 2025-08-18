@@ -363,5 +363,120 @@ const ORGS = {
       tags: ["data", "ai", "analytics", "lakehouse"],
       revenue: "$2.4B",
       github: ["github.com/databricks"]
+    },
+    "HSBC": {
+        tags: ["banking", "financial-services", "retail-banking", "commercial-banking", "wealth-management"],
+        revenue: "$65.9B",
+        github: ["github.com/hsbc"]
+    },
+    "London Stock Exchange Group": {
+        tags: ["financial-markets", "trading", "capital-markets", "data-analytics", "clearing"],
+        revenue: "$8.7B",
+        github: ["github.com/LSEG"]
+    },
+    "Barclays": {
+        tags: ["investment-banking", "retail-banking", "credit-cards", "wealth-management"],
+        revenue: "$33.6B",
+        github: ["github.com/Barclays"]
+    },
+    "Lloyds Banking Group": {
+        tags: ["retail-banking", "commercial-banking", "insurance", "mortgages"],
+        revenue: "$23.8B",
+        github: ["github.com/lloyds-banking-group"]
+    },
+    "NatWest Group": {
+        tags: ["retail-banking", "commercial-banking", "private-banking", "mortgages"],
+        revenue: "$14.6B",
+        github: ["github.com/natwest-group"]
+    },
+    "Standard Chartered": {
+        tags: ["international-banking", "emerging-markets", "trade-finance", "transaction-banking"],
+        revenue: "$16.7B",
+        github: ["github.com/standard-chartered"]
+    },
+    "Hargreaves Lansdown": {
+        tags: ["investment-platform", "wealth-management", "stockbroking", "pensions"],
+        revenue: "$0.8B",
+        github: ["github.com/hargreaves-lansdown"]
+    },
+    "AstraZeneca": {
+        tags: ["pharmaceuticals", "biotechnology", "oncology", "vaccines", "r&d"],
+        revenue: "$45.8B",
+        github: ["github.com/AstraZeneca", "github.com/AstraZeneca-NGS"]
+    },
+    "GlaxoSmithKline": {
+        tags: ["pharmaceuticals", "vaccines", "consumer-healthcare", "r&d"],
+        revenue: "$38.3B",
+        github: ["github.com/GSK"]
+    },
+    "The Sage Group": {
+        tags: ["business-software", "accounting", "erp", "cloud", "smb"],
+        revenue: "$2.3B",
+        github: ["github.com/sage"]
+    },
+    "AVEVA": {
+        tags: ["industrial-software", "engineering", "digital-transformation", "iot"],
+        revenue: "$1.2B",
+        github: ["github.com/AVEVA"]
+    },
+    "Ocado Group": {
+        tags: ["ecommerce", "robotics", "automation", "logistics-tech", "retail-tech"],
+        revenue: "$3.2B",
+        github: ["github.com/ocadotechnology"]
+    },
+    "Auto Trader Group": {
+        tags: ["digital-marketplace", "automotive", "classifieds", "data-analytics"],
+        revenue: "$0.6B",
+        github: ["github.com/autotraderuk"]
+    },
+    "Rightmove": {
+        tags: ["property-portal", "real-estate", "marketplace", "proptech"],
+        revenue: "$0.5B",
+        github: ["github.com/rightmove"]
+    },
+    "Just Eat Takeaway.com": {
+        tags: ["food-delivery", "marketplace", "logistics", "ecommerce"],
+        revenue: "$5.9B",
+        github: ["github.com/justeattakeaway", "github.com/justeat"]
+    },
+    "RELX": {
+        tags: ["information-services", "analytics", "scientific-publishing", "legal-information"],
+        revenue: "$11.0B",
+        github: ["github.com/relx-group"]
+    },
+    "Experian": {
+        tags: ["credit-reporting", "data-analytics", "financial-services", "identity-verification"],
+        revenue: "$6.6B",
+        github: ["github.com/experianplc"]
+    },
+    "BAE Systems": {
+        tags: ["defense", "aerospace", "cybersecurity", "naval-systems"],
+        revenue: "$33.0B",
+        github: ["github.com/baesystemsdigital"]
+    },
+    "Rolls-Royce": {
+        tags: ["aerospace", "defense", "power-systems", "engineering"],
+        revenue: "$23.7B",
+        github: ["github.com/rolls-royce", "github.com/rropen"]
+    },
+    "National Grid": {
+        tags: ["utilities", "electricity-transmission", "gas-distribution", "energy-infrastructure"],
+        revenue: "$25.4B",
+        github: ["github.com/National-Grid"]
+    },
+    "SSE": {
+        tags: ["energy", "renewables", "electricity-generation", "utilities"],
+        revenue: "$12.5B",
+        github: ["github.com/sse-energy"]
+    },
+    "Pearson": {
+        tags: ["education", "publishing", "edtech", "assessment"],
+        revenue: "$5.2B",
+        github: ["github.com/pearsondevelopersnetwork"]
+    },
+    "WPP": {
+        tags: ["advertising", "marketing", "communications", "digital-services"],
+        revenue: "$18.9B",
+        github: ["github.com/WPPOpen"]
     }
-  };
+};
