@@ -1,0 +1,359 @@
+[2025-08-18 16:59:40] === Starting Meta Merge Rate Collection ===
+[2025-08-18 16:59:40] Input file: data/repos/batch_Aug_18/big_three_recent_commits.csv
+[2025-08-18 16:59:40] Output file: data/output/merge_rates_meta.csv
+[2025-08-18 16:59:41] Starting collection for 177 repositories from company Meta
+[2025-08-18 16:59:41] Processing 1550/177: facebook/rocksdb
+[2025-08-18 16:59:41] OK facebook/rocksdb: 0 merges in 30 days
+[2025-08-18 16:59:41] Processing 1551/177: facebook/hhvm
+[2025-08-18 16:59:42] OK facebook/hhvm: 0 merges in 30 days
+[2025-08-18 16:59:42] Processing 1552/177: facebook/react-native
+[2025-08-18 16:59:43] OK facebook/react-native: 0 merges in 30 days
+[2025-08-18 16:59:43] Processing 1553/177: facebook/react
+[2025-08-18 16:59:44] OK facebook/react: 0 merges in 30 days
+[2025-08-18 16:59:44] Processing 1554/177: facebook/Ax
+[2025-08-18 16:59:45] OK facebook/Ax: 0 merges in 30 days
+[2025-08-18 16:59:45] Processing 1555/177: facebook/fbthrift
+[2025-08-18 16:59:46] OK facebook/fbthrift: 0 merges in 30 days
+[2025-08-18 16:59:46] Processing 1556/177: facebook/docusaurus
+[2025-08-18 16:59:47] OK facebook/docusaurus: 0 merges in 30 days
+[2025-08-18 16:59:47] Processing 1557/177: facebook/fboss
+[2025-08-18 16:59:48] OK facebook/fboss: 0 merges in 30 days
+[2025-08-18 16:59:48] Processing 1558/177: facebook/sapling
+[2025-08-18 16:59:49] OK facebook/sapling: 0 merges in 30 days
+[2025-08-18 16:59:49] Processing 1559/177: facebook/prophet
+[2025-08-18 16:59:50] OK facebook/prophet: 0 merges in 30 days
+[2025-08-18 16:59:50] Processing 1560/177: facebook/pyrefly
+[2025-08-18 16:59:52] OK facebook/pyrefly: 0 merges in 30 days
+[2025-08-18 16:59:52] Processing 1561/177: facebook/igl
+[2025-08-18 16:59:53] OK facebook/igl: 0 merges in 30 days
+[2025-08-18 16:59:53] Processing 1562/177: facebook/lexical
+[2025-08-18 16:59:54] OK facebook/lexical: 0 merges in 30 days
+[2025-08-18 16:59:54] Processing 1563/177: facebook/ktfmt
+[2025-08-18 16:59:55] OK facebook/ktfmt: 0 merges in 30 days
+[2025-08-18 16:59:55] Processing 1564/177: facebook/ThreatExchange
+[2025-08-18 16:59:56] OK facebook/ThreatExchange: 0 merges in 30 days
+[2025-08-18 16:59:56] Processing 1565/177: facebook/CacheLib
+[2025-08-18 16:59:57] OK facebook/CacheLib: 0 merges in 30 days
+[2025-08-18 16:59:57] Processing 1566/177: facebook/buck2
+[2025-08-18 16:59:59] OK facebook/buck2: 0 merges in 30 days
+[2025-08-18 16:59:59] Processing 1567/177: facebook/infer
+[2025-08-18 17:00:00] OK facebook/infer: 0 merges in 30 days
+[2025-08-18 17:00:00] Processing 1568/177: facebook/react-native-devtools-frontend
+[2025-08-18 17:00:01] OK facebook/react-native-devtools-frontend: 0 merges in 30 days
+[2025-08-18 17:00:01] Processing 1569/177: facebook/zstd
+[2025-08-18 17:00:02] OK facebook/zstd: 0 merges in 30 days
+[2025-08-18 17:00:02] Processing 1570/177: facebook/hermes
+[2025-08-18 17:00:03] OK facebook/hermes: 0 merges in 30 days
+[2025-08-18 17:00:03] Processing 1571/177: facebook/chef-cookbooks
+[2025-08-18 17:00:04] OK facebook/chef-cookbooks: 0 merges in 30 days
+[2025-08-18 17:00:04] Processing 1572/177: facebook/metro
+[2025-08-18 17:00:05] OK facebook/metro: 0 merges in 30 days
+[2025-08-18 17:00:05] Processing 1573/177: facebook/fresco
+[2025-08-18 17:00:06] OK facebook/fresco: 0 merges in 30 days
+[2025-08-18 17:00:06] Processing 1574/177: facebook/idb
+[2025-08-18 17:00:07] OK facebook/idb: 0 merges in 30 days
+[2025-08-18 17:00:07] Processing 1575/177: facebook/yoga
+[2025-08-18 17:00:08] OK facebook/yoga: 0 merges in 30 days
+[2025-08-18 17:00:08] Processing 1576/177: facebook/facebook-java-business-sdk
+[2025-08-18 17:00:09] OK facebook/facebook-java-business-sdk: 0 merges in 30 days
+[2025-08-18 17:00:09] Processing 1577/177: facebook/jscodeshift
+[2025-08-18 17:00:10] OK facebook/jscodeshift: 0 merges in 30 days
+[2025-08-18 17:00:10] Processing 1578/177: facebook/relay
+[2025-08-18 17:00:11] OK facebook/relay: 0 merges in 30 days
+[2025-08-18 17:00:11] Processing 1579/177: facebook/litho
+[2025-08-18 17:00:12] OK facebook/litho: 0 merges in 30 days
+[2025-08-18 17:00:12] Processing 1580/177: facebook/buck2-prelude
+[2025-08-18 17:00:13] OK facebook/buck2-prelude: 0 merges in 30 days
+[2025-08-18 17:00:13] Processing 1581/177: facebook/kuduraft
+[2025-08-18 17:00:14] OK facebook/kuduraft: 0 merges in 30 days
+[2025-08-18 17:00:15] Processing 1582/177: facebook/redex
+[2025-08-18 17:00:16] OK facebook/redex: 0 merges in 30 days
+[2025-08-18 17:00:16] Processing 1583/177: facebook/mcrouter
+[2025-08-18 17:00:17] OK facebook/mcrouter: 0 merges in 30 days
+[2025-08-18 17:00:17] Processing 1584/177: facebook/flow
+[2025-08-18 17:00:18] OK facebook/flow: 0 merges in 30 days
+[2025-08-18 17:00:18] Processing 1585/177: facebook/watchman
+[2025-08-18 17:00:19] OK facebook/watchman: 0 merges in 30 days
+[2025-08-18 17:00:19] Processing 1586/177: facebook/mvfst
+[2025-08-18 17:00:20] OK facebook/mvfst: 0 merges in 30 days
+[2025-08-18 17:00:20] Processing 1587/177: facebook/starlark-rust
+[2025-08-18 17:00:21] OK facebook/starlark-rust: 0 merges in 30 days
+[2025-08-18 17:00:21] Processing 1588/177: facebook/facebook-android-sdk
+[2025-08-18 17:00:22] OK facebook/facebook-android-sdk: 0 merges in 30 days
+[2025-08-18 17:00:22] Processing 1589/177: facebook/facebook-ios-sdk
+[2025-08-18 17:00:23] OK facebook/facebook-ios-sdk: 0 merges in 30 days
+[2025-08-18 17:00:23] Processing 1590/177: facebook/stylex
+[2025-08-18 17:00:24] OK facebook/stylex: 0 merges in 30 days
+[2025-08-18 17:00:24] Processing 1591/177: facebook/bpfilter
+[2025-08-18 17:00:25] OK facebook/bpfilter: 0 merges in 30 days
+[2025-08-18 17:00:25] Processing 1592/177: facebook/memlab
+[2025-08-18 17:00:26] OK facebook/memlab: 0 merges in 30 days
+[2025-08-18 17:00:26] Processing 1593/177: facebook/proxygen
+[2025-08-18 17:00:27] OK facebook/proxygen: 0 merges in 30 days
+[2025-08-18 17:00:27] Processing 1594/177: facebook/akd
+[2025-08-18 17:00:28] OK facebook/akd: 0 merges in 30 days
+[2025-08-18 17:00:28] Processing 1595/177: facebook/folly
+[2025-08-18 17:00:29] OK facebook/folly: 0 merges in 30 days
+[2025-08-18 17:00:29] Processing 1596/177: facebook/fb303
+[2025-08-18 17:00:30] OK facebook/fb303: 0 merges in 30 days
+[2025-08-18 17:00:31] Processing 1597/177: facebook/openr
+[2025-08-18 17:00:32] OK facebook/openr: 0 merges in 30 days
+[2025-08-18 17:00:32] Processing 1598/177: facebook/wangle
+[2025-08-18 17:00:33] OK facebook/wangle: 0 merges in 30 days
+[2025-08-18 17:00:33] Processing 1599/177: facebook/pyre-check
+[2025-08-18 17:00:34] OK facebook/pyre-check: 0 merges in 30 days
+[2025-08-18 17:00:34] Processing 1600/177: facebook/openbmc
+[2025-08-18 17:00:34] OK facebook/openbmc: 0 merges in 30 days
+[2025-08-18 17:00:35] Processing 1601/177: facebook/screenshot-tests-for-android
+[2025-08-18 17:00:35] OK facebook/screenshot-tests-for-android: 0 merges in 30 days
+[2025-08-18 17:00:35] Processing 1602/177: facebook/react-strict-dom
+[2025-08-18 17:00:36] OK facebook/react-strict-dom: 0 merges in 30 days
+[2025-08-18 17:00:36] Processing 1603/177: facebook/react-native-website
+[2025-08-18 17:00:37] OK facebook/react-native-website: 0 merges in 30 days
+[2025-08-18 17:00:37] Processing 1604/177: facebook/dotslash
+[2025-08-18 17:00:38] OK facebook/dotslash: 0 merges in 30 days
+[2025-08-18 17:00:38] Processing 1605/177: facebook/jemalloc
+[2025-08-18 17:00:39] OK facebook/jemalloc: 0 merges in 30 days
+[2025-08-18 17:00:39] Processing 1606/177: facebook/pake-kem
+[2025-08-18 17:00:40] OK facebook/pake-kem: 0 merges in 30 days
+[2025-08-18 17:00:40] Processing 1607/177: facebook/facebook-python-business-sdk
+[2025-08-18 17:00:41] OK facebook/facebook-python-business-sdk: 0 merges in 30 days
+[2025-08-18 17:00:41] Processing 1608/177: facebook/mariana-trench
+[2025-08-18 17:00:42] OK facebook/mariana-trench: 0 merges in 30 days
+[2025-08-18 17:00:42] Processing 1609/177: facebook/time
+[2025-08-18 17:00:42] OK facebook/time: 0 merges in 30 days
+[2025-08-18 17:00:42] Processing 1610/177: facebook/ocamlrep
+[2025-08-18 17:00:43] OK facebook/ocamlrep: 0 merges in 30 days
+[2025-08-18 17:00:43] Processing 1611/177: facebook/facebook-for-woocommerce
+[2025-08-18 17:00:44] OK facebook/facebook-for-woocommerce: 0 merges in 30 days
+[2025-08-18 17:00:44] Processing 1612/177: facebook/hyperion
+[2025-08-18 17:00:45] OK facebook/hyperion: 0 merges in 30 days
+[2025-08-18 17:00:45] Processing 1613/177: facebook/fatal
+[2025-08-18 17:00:46] OK facebook/fatal: 0 merges in 30 days
+[2025-08-18 17:00:46] Processing 1614/177: facebook/facebook-nodejs-business-sdk
+[2025-08-18 17:00:47] OK facebook/facebook-nodejs-business-sdk: 0 merges in 30 days
+[2025-08-18 17:00:47] Processing 1615/177: facebook/facebook360_dep
+[2025-08-18 17:00:48] OK facebook/facebook360_dep: 0 merges in 30 days
+[2025-08-18 17:00:48] Processing 1616/177: facebook/facebook-ruby-business-sdk
+[2025-08-18 17:00:49] OK facebook/facebook-ruby-business-sdk: 0 merges in 30 days
+[2025-08-18 17:00:49] Processing 1617/177: facebook/sapp
+[2025-08-18 17:00:49] OK facebook/sapp: 0 merges in 30 days
+[2025-08-18 17:00:50] Processing 1618/177: facebook/FAI-PEP
+[2025-08-18 17:00:50] OK facebook/FAI-PEP: 0 merges in 30 days
+[2025-08-18 17:00:50] Processing 1619/177: facebook/Rapid
+[2025-08-18 17:00:51] OK facebook/Rapid: 0 merges in 30 days
+[2025-08-18 17:00:51] Processing 1620/177: facebook/wdt
+[2025-08-18 17:00:52] OK facebook/wdt: 0 merges in 30 days
+[2025-08-18 17:00:52] Processing 1621/177: facebook/bookworm
+[2025-08-18 17:00:53] OK facebook/bookworm: 0 merges in 30 days
+[2025-08-18 17:00:53] Processing 1622/177: facebook/winterfell
+[2025-08-18 17:00:54] OK facebook/winterfell: 0 merges in 30 days
+[2025-08-18 17:00:54] Processing 1623/177: facebook/IT-CPE
+[2025-08-18 17:00:55] OK facebook/IT-CPE: 0 merges in 30 days
+[2025-08-18 17:00:55] Processing 1624/177: facebook/squangle
+[2025-08-18 17:00:56] OK facebook/squangle: 0 merges in 30 days
+[2025-08-18 17:00:56] Processing 1625/177: facebook/netconsd
+[2025-08-18 17:00:57] OK facebook/netconsd: 0 merges in 30 days
+[2025-08-18 17:00:57] Processing 1626/177: facebook/facebook-php-business-sdk
+[2025-08-18 17:00:58] OK facebook/facebook-php-business-sdk: 0 merges in 30 days
+[2025-08-18 17:00:58] Processing 1627/177: facebook/SoLoader
+[2025-08-18 17:00:58] OK facebook/SoLoader: 0 merges in 30 days
+[2025-08-18 17:00:58] Processing 1628/177: facebook/OpenBIC
+[2025-08-18 17:00:59] OK facebook/OpenBIC: 0 merges in 30 days
+[2025-08-18 17:00:59] Processing 1629/177: facebook/bunnylol.rs
+[2025-08-18 17:01:00] OK facebook/bunnylol.rs: 1 merges in 30 days
+[2025-08-18 17:01:00] Processing 1630/177: facebook/buck2-shims-meta
+[2025-08-18 17:01:01] OK facebook/buck2-shims-meta: 0 merges in 30 days
+[2025-08-18 17:01:01] Processing 1631/177: facebook/dns
+[2025-08-18 17:01:02] OK facebook/dns: 0 merges in 30 days
+[2025-08-18 17:01:02] Processing 1632/177: facebook/capi-param-builder
+[2025-08-18 17:01:03] OK facebook/capi-param-builder: 0 merges in 30 days
+[2025-08-18 17:01:03] Processing 1633/177: facebook/gfxreconstruct
+[2025-08-18 17:01:04] OK facebook/gfxreconstruct: 0 merges in 30 days
+[2025-08-18 17:01:04] Processing 1634/177: facebook/facebook-business-sdk-codegen
+[2025-08-18 17:01:04] OK facebook/facebook-business-sdk-codegen: 0 merges in 30 days
+[2025-08-18 17:01:05] Processing 1635/177: facebookresearch/dinov3
+[2025-08-18 17:01:05] OK facebookresearch/dinov3: 3 merges in 30 days
+[2025-08-18 17:01:05] Processing 1636/177: facebookresearch/faiss
+[2025-08-18 17:01:06] OK facebookresearch/faiss: 0 merges in 30 days
+[2025-08-18 17:01:06] Processing 1637/177: facebookresearch/hydra
+[2025-08-18 17:01:07] OK facebookresearch/hydra: 0 merges in 30 days
+[2025-08-18 17:01:07] Processing 1638/177: facebookresearch/vjepa2
+[2025-08-18 17:01:08] OK facebookresearch/vjepa2: 0 merges in 30 days
+[2025-08-18 17:01:08] Processing 1639/177: facebookresearch/SONAR
+[2025-08-18 17:01:09] OK facebookresearch/SONAR: 0 merges in 30 days
+[2025-08-18 17:01:09] Processing 1640/177: facebookresearch/exca
+[2025-08-18 17:01:10] OK facebookresearch/exca: 0 merges in 30 days
+[2025-08-18 17:01:10] Processing 1641/177: facebookresearch/dinov2
+[2025-08-18 17:01:11] OK facebookresearch/dinov2: 0 merges in 30 days
+[2025-08-18 17:01:11] Processing 1642/177: facebookresearch/vggt
+[2025-08-18 17:01:12] OK facebookresearch/vggt: 0 merges in 30 days
+[2025-08-18 17:01:12] Processing 1643/177: facebookresearch/seamless_interaction
+[2025-08-18 17:01:13] OK facebookresearch/seamless_interaction: 0 merges in 30 days
+[2025-08-18 17:01:13] Processing 1644/177: facebookresearch/pytorch3d
+[2025-08-18 17:01:14] OK facebookresearch/pytorch3d: 0 merges in 30 days
+[2025-08-18 17:01:14] Processing 1645/177: facebookresearch/detectron2
+[2025-08-18 17:01:15] OK facebookresearch/detectron2: 0 merges in 30 days
+[2025-08-18 17:01:15] Processing 1646/177: facebookresearch/algonauts-2025
+[2025-08-18 17:01:16] OK facebookresearch/algonauts-2025: 0 merges in 30 days
+[2025-08-18 17:01:16] Processing 1647/177: facebookresearch/PhysicsLM4
+[2025-08-18 17:01:17] OK facebookresearch/PhysicsLM4: 0 merges in 30 days
+[2025-08-18 17:01:17] Processing 1648/177: facebookresearch/Ego4d
+[2025-08-18 17:01:17] OK facebookresearch/Ego4d: 0 merges in 30 days
+[2025-08-18 17:01:18] Processing 1649/177: facebookresearch/community-alignment-dataset
+[2025-08-18 17:01:18] OK facebookresearch/community-alignment-dataset: 0 merges in 30 days
+[2025-08-18 17:01:18] Processing 1650/177: facebookresearch/Kats
+[2025-08-18 17:01:19] OK facebookresearch/Kats: 0 merges in 30 days
+[2025-08-18 17:01:19] Processing 1651/177: facebookresearch/projectaria_tools
+[2025-08-18 17:01:20] OK facebookresearch/projectaria_tools: 0 merges in 30 days
+[2025-08-18 17:01:20] Processing 1652/177: facebookresearch/AugLy
+[2025-08-18 17:01:21] OK facebookresearch/AugLy: 0 merges in 30 days
+[2025-08-18 17:01:21] Processing 1653/177: facebookresearch/RAM
+[2025-08-18 17:01:22] OK facebookresearch/RAM: 0 merges in 30 days
+[2025-08-18 17:01:22] Processing 1654/177: facebookresearch/BenchMARL
+[2025-08-18 17:01:22] OK facebookresearch/BenchMARL: 0 merges in 30 days
+[2025-08-18 17:01:23] Processing 1655/177: facebookresearch/fairseq2
+[2025-08-18 17:01:23] OK facebookresearch/fairseq2: 0 merges in 30 days
+[2025-08-18 17:01:23] Processing 1656/177: facebookresearch/MetaCLIP
+[2025-08-18 17:01:24] OK facebookresearch/MetaCLIP: 6 merges in 30 days
+[2025-08-18 17:01:24] Processing 1657/177: facebookresearch/habitat-lab
+[2025-08-18 17:01:25] OK facebookresearch/habitat-lab: 0 merges in 30 days
+[2025-08-18 17:01:25] Processing 1658/177: facebookresearch/habitat-sim
+[2025-08-18 17:01:26] OK facebookresearch/habitat-sim: 0 merges in 30 days
+[2025-08-18 17:01:26] Processing 1659/177: facebookresearch/generic-neuromotor-interface
+[2025-08-18 17:01:27] OK facebookresearch/generic-neuromotor-interface: 0 merges in 30 days
+[2025-08-18 17:01:27] Processing 1660/177: facebookresearch/fairchem
+[2025-08-18 17:01:28] OK facebookresearch/fairchem: 0 merges in 30 days
+[2025-08-18 17:01:28] Processing 1662/177: facebookresearch/wasp
+[2025-08-18 17:01:28] OK facebookresearch/wasp: 0 merges in 30 days
+[2025-08-18 17:01:29] Processing 1663/177: facebookresearch/univlg
+[2025-08-18 17:01:29] OK facebookresearch/univlg: 0 merges in 30 days
+[2025-08-18 17:01:29] Processing 1664/177: facebookresearch/coconut
+[2025-08-18 17:01:30] OK facebookresearch/coconut: 0 merges in 30 days
+[2025-08-18 17:01:30] Processing 1665/177: facebookresearch/perception_models
+[2025-08-18 17:01:31] OK facebookresearch/perception_models: 0 merges in 30 days
+[2025-08-18 17:01:31] Processing 1666/177: facebookresearch/xformers
+[2025-08-18 17:01:31] OK facebookresearch/xformers: 0 merges in 30 days
+[2025-08-18 17:01:32] Processing 1667/177: facebookresearch/Pearl
+[2025-08-18 17:01:32] OK facebookresearch/Pearl: 0 merges in 30 days
+[2025-08-18 17:01:32] Processing 1668/177: facebookresearch/optimizers
+[2025-08-18 17:01:33] OK facebookresearch/optimizers: 0 merges in 30 days
+[2025-08-18 17:01:33] Processing 1669/177: facebookresearch/bcos
+[2025-08-18 17:01:34] OK facebookresearch/bcos: 0 merges in 30 days
+[2025-08-18 17:01:34] Processing 1670/177: facebookresearch/AbstentionBench
+[2025-08-18 17:01:34] OK facebookresearch/AbstentionBench: 1 merges in 30 days
+[2025-08-18 17:01:35] Processing 1671/177: facebookresearch/nwm
+[2025-08-18 17:01:35] OK facebookresearch/nwm: 0 merges in 30 days
+[2025-08-18 17:01:35] Processing 1672/177: facebookresearch/Meta_SecAlign
+[2025-08-18 17:01:36] OK facebookresearch/Meta_SecAlign: 1 merges in 30 days
+[2025-08-18 17:01:36] Processing 1673/177: facebookresearch/llm-speedrunner
+[2025-08-18 17:01:37] OK facebookresearch/llm-speedrunner: 0 merges in 30 days
+[2025-08-18 17:01:37] Processing 1674/177: facebookresearch/fvcore
+[2025-08-18 17:01:39] OK facebookresearch/fvcore: 0 merges in 30 days
+[2025-08-18 17:01:39] Processing 1675/177: facebookresearch/pyvrs
+[2025-08-18 17:01:40] OK facebookresearch/pyvrs: 0 merges in 30 days
+[2025-08-18 17:01:40] Processing 1676/177: facebookresearch/AcousticRooms
+[2025-08-18 17:01:41] OK facebookresearch/AcousticRooms: 0 merges in 30 days
+[2025-08-18 17:01:41] Processing 1677/177: facebookresearch/HolisticTraceAnalysis
+[2025-08-18 17:01:41] OK facebookresearch/HolisticTraceAnalysis: 0 merges in 30 days
+[2025-08-18 17:01:41] Processing 1678/177: facebookresearch/vrs
+[2025-08-18 17:01:42] OK facebookresearch/vrs: 0 merges in 30 days
+[2025-08-18 17:01:42] Processing 1679/177: facebookresearch/moodist
+[2025-08-18 17:01:43] OK facebookresearch/moodist: 0 merges in 30 days
+[2025-08-18 17:01:43] Processing 1680/177: facebookresearch/egocentric_splats
+[2025-08-18 17:01:44] OK facebookresearch/egocentric_splats: 1 merges in 30 days
+[2025-08-18 17:01:44] Processing 1681/177: facebookresearch/momentum
+[2025-08-18 17:01:44] OK facebookresearch/momentum: 0 merges in 30 days
+[2025-08-18 17:01:45] Processing 1682/177: facebookresearch/matrix
+[2025-08-18 17:01:45] OK facebookresearch/matrix: 0 merges in 30 days
+[2025-08-18 17:01:45] Processing 1683/177: facebookresearch/videoseal
+[2025-08-18 17:01:46] OK facebookresearch/videoseal: 0 merges in 30 days
+[2025-08-18 17:01:46] Processing 1684/177: facebookresearch/diffh2o
+[2025-08-18 17:01:47] OK facebookresearch/diffh2o: 0 merges in 30 days
+[2025-08-18 17:01:47] Processing 1685/177: facebookresearch/ocean
+[2025-08-18 17:01:47] OK facebookresearch/ocean: 0 merges in 30 days
+[2025-08-18 17:01:48] Processing 1686/177: facebookresearch/ACT
+[2025-08-18 17:01:48] OK facebookresearch/ACT: 0 merges in 30 days
+[2025-08-18 17:01:48] Processing 1687/177: facebookresearch/iphg
+[2025-08-18 17:01:49] OK facebookresearch/iphg: 0 merges in 30 days
+[2025-08-18 17:01:49] Processing 1688/177: facebookresearch/DCPerf
+[2025-08-18 17:01:50] OK facebookresearch/DCPerf: 0 merges in 30 days
+[2025-08-18 17:01:50] Processing 1689/177: facebookresearch/clusterscope
+[2025-08-18 17:01:50] OK facebookresearch/clusterscope: 0 merges in 30 days
+[2025-08-18 17:01:51] Processing 1690/177: facebookresearch/SecAlign
+[2025-08-18 17:01:51] OK facebookresearch/SecAlign: 0 merges in 30 days
+[2025-08-18 17:01:51] Processing 1691/177: facebookresearch/adjoint_sampling
+[2025-08-18 17:01:52] OK facebookresearch/adjoint_sampling: 0 merges in 30 days
+[2025-08-18 17:01:52] Processing 1692/177: facebookresearch/GCD
+[2025-08-18 17:01:53] OK facebookresearch/GCD: 0 merges in 30 days
+[2025-08-18 17:01:53] Processing 1693/177: facebookresearch/hot3d
+[2025-08-18 17:01:53] OK facebookresearch/hot3d: 0 merges in 30 days
+[2025-08-18 17:01:53] Processing 1694/177: facebookresearch/polymath
+[2025-08-18 17:01:54] OK facebookresearch/polymath: 0 merges in 30 days
+[2025-08-18 17:01:54] Processing 1695/177: facebookresearch/balance
+[2025-08-18 17:01:55] OK facebookresearch/balance: 0 merges in 30 days
+[2025-08-18 17:01:55] Processing 1697/177: facebookresearch/nymeria_dataset
+[2025-08-18 17:01:56] OK facebookresearch/nymeria_dataset: 0 merges in 30 days
+[2025-08-18 17:01:56] Processing 1698/177: facebookresearch/mvdust3r
+[2025-08-18 17:01:56] OK facebookresearch/mvdust3r: 0 merges in 30 days
+[2025-08-18 17:01:56] Processing 1699/177: facebookresearch/multimodal
+[2025-08-18 17:01:57] OK facebookresearch/multimodal: 0 merges in 30 days
+[2025-08-18 17:01:57] Processing 1700/177: facebookresearch/A2B
+[2025-08-18 17:01:58] OK facebookresearch/A2B: 0 merges in 30 days
+[2025-08-18 17:01:58] Processing 1701/177: facebookresearch/aira-dojo
+[2025-08-18 17:01:59] OK facebookresearch/aira-dojo: 1 merges in 30 days
+[2025-08-18 17:01:59] Processing 1702/177: facebookresearch/MLGym
+[2025-08-18 17:01:59] OK facebookresearch/MLGym: 0 merges in 30 days
+[2025-08-18 17:02:00] Processing 1703/177: facebookresearch/GeoRT
+[2025-08-18 17:02:00] OK facebookresearch/GeoRT: 0 merges in 30 days
+[2025-08-18 17:02:00] Processing 1704/177: facebookresearch/aepsych
+[2025-08-18 17:02:01] OK facebookresearch/aepsych: 0 merges in 30 days
+[2025-08-18 17:02:01] Processing 1705/177: facebookresearch/spdl
+[2025-08-18 17:02:02] OK facebookresearch/spdl: 0 merges in 30 days
+[2025-08-18 17:02:02] Processing 1706/177: facebookresearch/audioseal
+[2025-08-18 17:02:03] OK facebookresearch/audioseal: 0 merges in 30 days
+[2025-08-18 17:02:03] Processing 1707/177: facebookresearch/gni
+[2025-08-18 17:02:04] OK facebookresearch/gni: 0 merges in 30 days
+[2025-08-18 17:02:04] Processing 1708/177: facebookresearch/Aria_data_tools
+[2025-08-18 17:02:04] OK facebookresearch/Aria_data_tools: 0 merges in 30 days
+[2025-08-18 17:02:04] Processing 1709/177: facebookresearch/digit360
+[2025-08-18 17:02:05] OK facebookresearch/digit360: 0 merges in 30 days
+[2025-08-18 17:02:05] Processing 1710/177: facebookresearch/PyTEI
+[2025-08-18 17:02:06] OK facebookresearch/PyTEI: 0 merges in 30 days
+[2025-08-18 17:02:06] Processing 1711/177: facebookresearch/Qinco
+[2025-08-18 17:02:07] OK facebookresearch/Qinco: 0 merges in 30 days
+[2025-08-18 17:02:07] Processing 1712/177: facebookresearch/param
+[2025-08-18 17:02:07] OK facebookresearch/param: 0 merges in 30 days
+[2025-08-18 17:02:08] Processing 1713/177: facebookresearch/iopath
+[2025-08-18 17:02:08] OK facebookresearch/iopath: 0 merges in 30 days
+[2025-08-18 17:02:08] Processing 1714/177: facebookresearch/veet
+[2025-08-18 17:02:09] OK facebookresearch/veet: 0 merges in 30 days
+[2025-08-18 17:02:09] Processing 1715/177: facebookresearch/fbcdgraph
+[2025-08-18 17:02:10] OK facebookresearch/fbcdgraph: 0 merges in 30 days
+[2025-08-18 17:02:10] Processing 1716/177: facebookresearch/cumbiostats
+[2025-08-18 17:02:10] OK facebookresearch/cumbiostats: 0 merges in 30 days
+[2025-08-18 17:02:11] Processing 1717/177: facebookresearch/metapaired
+[2025-08-18 17:02:11] OK facebookresearch/metapaired: 0 merges in 30 days
+[2025-08-18 17:02:11] Processing 1718/177: facebookresearch/cdeets
+[2025-08-18 17:02:12] OK facebookresearch/cdeets: 0 merges in 30 days
+[2025-08-18 17:02:12] Processing 1719/177: facebookresearch/metamulti
+[2025-08-18 17:02:13] OK facebookresearch/metamulti: 0 merges in 30 days
+[2025-08-18 17:02:13] Processing 1720/177: facebookresearch/ecevecce
+[2025-08-18 17:02:13] OK facebookresearch/ecevecce: 0 merges in 30 days
+[2025-08-18 17:02:13] Processing 1721/177: facebookresearch/fbcddisgraph
+[2025-08-18 17:02:14] OK facebookresearch/fbcddisgraph: 0 merges in 30 days
+[2025-08-18 17:02:14] Processing 1722/177: facebookresearch/recipes
+[2025-08-18 17:02:15] OK facebookresearch/recipes: 0 merges in 30 days
+[2025-08-18 17:02:15] Processing 1723/177: facebookresearch/luckmatters
+[2025-08-18 17:02:16] OK facebookresearch/luckmatters: 0 merges in 30 days
+[2025-08-18 17:02:16] Processing 1724/177: facebookresearch/unibench
+[2025-08-18 17:02:16] OK facebookresearch/unibench: 0 merges in 30 days
+[2025-08-18 17:02:16] Processing 1725/177: facebookresearch/veripy
+[2025-08-18 17:02:17] OK facebookresearch/veripy: 0 merges in 30 days
+[2025-08-18 17:02:17] Processing 1726/177: facebookresearch/fairemg
+[2025-08-18 17:02:18] OK facebookresearch/fairemg: 0 merges in 30 days
+[2025-08-18 17:02:18] Processing 1727/177: facebookresearch/ax-paper
+[2025-08-18 17:02:19] OK facebookresearch/ax-paper: 0 merges in 30 days
+[2025-08-18 17:02:19] Processing 1728/177: facebookresearch/preference_discerning
+[2025-08-18 17:02:19] OK facebookresearch/preference_discerning: 0 merges in 30 days
+[2025-08-18 17:02:19] Collection completed successfully!

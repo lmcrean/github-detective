@@ -1,0 +1,426 @@
+[2025-08-18 16:59:41] === Starting Small Orgs Merge Rate Collection ===
+[2025-08-18 16:59:41] Input file: data/repos/batch_Aug_18/org_repo_counts_small.csv
+[2025-08-18 16:59:41] Output file: data/output/merge_rates_small_orgs.csv
+[2025-08-18 16:59:41] Starting repo extraction for 61 organizations
+[2025-08-18 16:59:41] Processing org 1/61: Samsung (samsungds)
+[2025-08-18 16:59:44]   OK samsungds/unvme-cli: 0 merges
+[2025-08-18 16:59:45]   OK samsungds/libvfn: 0 merges
+[2025-08-18 16:59:45]   OK samsungds/vmctl: 0 merges
+[2025-08-18 16:59:46]   OK samsungds/exynos-eco: 0 merges
+[2025-08-18 16:59:46] Processing org 2/61: General Motors (generalmotors)
+[2025-08-18 16:59:49] Processing org 3/61: JPMorgan Chase (jpmorganchase)
+[2025-08-18 16:59:54]   OK jpmorganchase/salt-ds: 0 merges
+[2025-08-18 16:59:55]   OK jpmorganchase/fusion: 0 merges
+[2025-08-18 16:59:55]   OK jpmorganchase/nbcelltests: 2 merges
+[2025-08-18 16:59:57]   OK jpmorganchase/jupyter-fs: 6 merges
+[2025-08-18 16:59:58]   OK jpmorganchase/mosaic: 0 merges
+[2025-08-18 16:59:59]   OK jpmorganchase/QOKit: 4 merges
+[2025-08-18 17:00:00]   OK jpmorganchase/fusion-3.7: 7 merges
+[2025-08-18 17:00:01]   OK jpmorganchase/anu: 2 merges
+[2025-08-18 17:00:02]   OK jpmorganchase/fusion-java-sdk: 0 merges
+[2025-08-18 17:00:02] Processing org 4/61: Ford (ford)
+[2025-08-18 17:00:05]   OK ford/hoppscotch: 0 merges
+[2025-08-18 17:00:05] Processing org 5/61: Verizon (verizon)
+[2025-08-18 17:00:08]   OK verizon/verizon-geofeed: 6 merges
+[2025-08-18 17:00:08] Processing org 6/61: Verizon (verizonconnect)
+[2025-08-18 17:00:10] Processing org 7/61: AT&T (att-comdev)
+[2025-08-18 17:00:13]   OK att-comdev/charts: 0 merges
+[2025-08-18 17:00:14]   OK att-comdev/cicd: 0 merges
+[2025-08-18 17:00:14] Processing org 8/61: Tesla (teslamotors)
+[2025-08-18 17:00:18]   OK teslamotors/zephyr: 0 merges
+[2025-08-18 17:00:20]   OK teslamotors/LVCS: 0 merges
+[2025-08-18 17:00:21]   OK teslamotors/vehicle-command: 0 merges
+[2025-08-18 17:00:22]   OK teslamotors/fixed-containers: 0 merges
+[2025-08-18 17:00:23]   OK teslamotors/fleet-telemetry: 0 merges
+[2025-08-18 17:00:24]   OK teslamotors/ansible_puller: 0 merges
+[2025-08-18 17:00:24] Processing org 9/61: Tencent (tencent-hunyuan)
+[2025-08-18 17:00:27]   OK tencent-hunyuan/Hunyuan-GameCraft-1.0: 2 merges
+[2025-08-18 17:00:28]   OK tencent-hunyuan/Hunyuan3D-2: 1 merges
+[2025-08-18 17:00:29]   OK tencent-hunyuan/HunyuanWorld-1.0: 2 merges
+[2025-08-18 17:00:30]   OK tencent-hunyuan/MixGRPO: 1 merges
+[2025-08-18 17:00:31]   OK tencent-hunyuan/AutoCodeBenchmark: 0 merges
+[2025-08-18 17:00:31]   OK tencent-hunyuan/ArtifactsBenchmark: 0 merges
+[2025-08-18 17:00:32]   OK tencent-hunyuan/Hunyuan-7B: 1 merges
+[2025-08-18 17:00:33]   OK tencent-hunyuan/HunyuanVideo: 1 merges
+[2025-08-18 17:00:34]   OK tencent-hunyuan/Hunyuan-4B: 0 merges
+[2025-08-18 17:00:35]   OK tencent-hunyuan/Hunyuan-1.8B: 0 merges
+[2025-08-18 17:00:36]   OK tencent-hunyuan/Hunyuan-0.5B: 0 merges
+[2025-08-18 17:00:37]   OK tencent-hunyuan/Hunyuan3D-2.1: 0 merges
+[2025-08-18 17:00:38]   OK tencent-hunyuan/bpt: 0 merges
+[2025-08-18 17:00:39]   OK tencent-hunyuan/FlashVDM: 0 merges
+[2025-08-18 17:00:39]   OK tencent-hunyuan/Hunyuan3D-1: 0 merges
+[2025-08-18 17:00:39] Processing org 10/61: Disney (disney)
+[2025-08-18 17:00:44]   OK disney/terraform-aws-lambda-at-edge-cognito-authentication: 0 merges
+[2025-08-18 17:00:44] Processing org 11/61: Disney (disneystreaming)
+[2025-08-18 17:00:47]   OK disneystreaming/aws-sdk-smithy-specs: 0 merges
+[2025-08-18 17:00:48]   OK disneystreaming/smithy4s: 0 merges
+[2025-08-18 17:00:49]   OK disneystreaming/smithy-translate: 1 merges
+[2025-08-18 17:00:50]   OK disneystreaming/alloy: 2 merges
+[2025-08-18 17:00:51]   OK disneystreaming/automated-cloud-advisor: 0 merges
+[2025-08-18 17:00:51] Processing org 12/61: Sony (sonymobile)
+[2025-08-18 17:00:52] Processing org 13/61: Dell (dellhpc)
+[2025-08-18 17:00:54] Processing org 14/61: HP (hpinc)
+[2025-08-18 17:00:57]   OK hpinc/AI-Blueprints: 31 merges
+[2025-08-18 17:00:58]   OK hpinc/jipp: 0 merges
+[2025-08-18 17:00:59]   OK hpinc/tcli: 3 merges
+[2025-08-18 17:01:00]   OK hpinc/printos-composer-api-samples: 0 merges
+[2025-08-18 17:01:01]   OK hpinc/krypton-scheduler: 0 merges
+[2025-08-18 17:01:02]   OK hpinc/krypton-dsts: 0 merges
+[2025-08-18 17:01:03]   OK hpinc/rsc-cli: 0 merges
+[2025-08-18 17:01:03]   OK hpinc/krypton-utils: 0 merges
+[2025-08-18 17:01:04]   OK hpinc/krypton-iot-authorizer: 0 merges
+[2025-08-18 17:01:05]   OK hpinc/Anyware-Certification: 0 merges
+[2025-08-18 17:01:06]   OK hpinc/oneflow-sdk-js: 0 merges
+[2025-08-18 17:01:06] Processing org 15/61: Cisco (cisco)
+[2025-08-18 17:01:10]   OK cisco/multilingual-speech-testing: 0 merges
+[2025-08-18 17:01:11]   OK cisco/ChezScheme: 0 merges
+[2025-08-18 17:01:12]   OK cisco/libsrtp: 1 merges
+[2025-08-18 17:01:13]   OK cisco/mercury: 27 merges
+[2025-08-18 17:01:14]   OK cisco/cisco-mibs: 1 merges
+[2025-08-18 17:01:15]   OK cisco/hash-sigs: 0 merges
+[2025-08-18 17:01:15]   OK cisco/libamvp: 4 merges
+[2025-08-18 17:01:16]   OK cisco/cisco-network-chef-cookbook: 0 merges
+[2025-08-18 17:01:17]   OK cisco/libacvp: 4 merges
+[2025-08-18 17:01:18]   OK cisco/OpenOSC: 0 merges
+[2025-08-18 17:01:18] Processing org 16/61: Goldman Sachs (goldmansachs)
+[2025-08-18 17:01:22]   OK goldmansachs/legend-engine: 0 merges
+[2025-08-18 17:01:22]   OK goldmansachs/gs-quant: 0 merges
+[2025-08-18 17:01:23]   OK goldmansachs/legend-studio: 0 merges
+[2025-08-18 17:01:24]   OK goldmansachs/legend-depot: 0 merges
+[2025-08-18 17:01:25]   OK goldmansachs/legend-pure: 0 merges
+[2025-08-18 17:01:26]   OK goldmansachs/common: 1 merges
+[2025-08-18 17:01:26]   OK goldmansachs/prometheus: 17 merges
+[2025-08-18 17:01:27]   OK goldmansachs/jdmn: 0 merges
+[2025-08-18 17:01:28]   OK goldmansachs/legend: 0 merges
+[2025-08-18 17:01:29]   OK goldmansachs/gpt-codegen: 0 merges
+[2025-08-18 17:01:31]   OK goldmansachs/legend-shared: 0 merges
+[2025-08-18 17:01:32]   OK goldmansachs/legend-sdlc: 0 merges
+[2025-08-18 17:01:32]   OK goldmansachs/thanos: 0 merges
+[2025-08-18 17:01:32] Processing org 17/61: Broadcom (broadcom)
+[2025-08-18 17:01:36]   OK broadcom/HOL-2601: 8 merges
+[2025-08-18 17:01:37]   OK broadcom/HOL-2602: 2 merges
+[2025-08-18 17:01:37]   OK broadcom/OpenMDK: 0 merges
+[2025-08-18 17:01:38]   OK broadcom/HOL-2670: 9 merges
+[2025-08-18 17:01:39]   OK broadcom/HOL-2671: 9 merges
+[2025-08-18 17:01:40]   OK broadcom/HOL-2637: 2 merges
+[2025-08-18 17:01:40]   OK broadcom/HOL-2636: 1 merges
+[2025-08-18 17:01:41]   OK broadcom/HOL-2633: 0 merges
+[2025-08-18 17:01:42]   OK broadcom/HOL-2608: 4 merges
+[2025-08-18 17:01:43]   OK broadcom/HOL-2634: 1 merges
+[2025-08-18 17:01:43]   OK broadcom/terraform-provider-luminate: 0 merges
+[2025-08-18 17:01:44]   OK broadcom/HOL-2649: 1 merges
+[2025-08-18 17:01:45]   OK broadcom/HOL-2610: 2 merges
+[2025-08-18 17:01:45]   OK broadcom/HOLFY26-MGR-HOLUSER: 0 merges
+[2025-08-18 17:01:46]   OK broadcom/HOL-2630: 1 merges
+[2025-08-18 17:01:47]   OK broadcom/stblinux: 0 merges
+[2025-08-18 17:01:48]   OK broadcom/HOL-8807: 0 merges
+[2025-08-18 17:01:48]   OK broadcom/HOL-8805: 0 merges
+[2025-08-18 17:01:48] Processing org 18/61: Vodafone (vodafone)
+[2025-08-18 17:01:50] Processing org 19/61: Schneider Electric (schneider-electric)
+[2025-08-18 17:01:52]   OK schneider-electric/edgex-go: 2 merges
+[2025-08-18 17:01:53]   OK schneider-electric/node-red-contrib-edgex-connector: 0 merges
+[2025-08-18 17:01:54]   OK schneider-electric/device-sdk-go: 0 merges
+[2025-08-18 17:01:54] Processing org 20/61: GE (generalelectric)
+[2025-08-18 17:01:56] Processing org 21/61: Honeywell (nan)
+[2025-08-18 17:01:56] Processing org 22/61: Qualcomm (qualcomm)
+[2025-08-18 17:01:59]   OK qualcomm/eld: 0 merges
+[2025-08-18 17:01:59]   OK qualcomm/fastrpc: 4 merges
+[2025-08-18 17:02:00]   OK qualcomm/kleidiai: 0 merges
+[2025-08-18 17:02:01]   OK qualcomm/qcom-test-automation-controller: 7 merges
+[2025-08-18 17:02:02]   OK qualcomm/PatchWise: 0 merges
+[2025-08-18 17:02:03]   OK qualcomm/Startup-Demos: 8 merges
+[2025-08-18 17:02:03]   OK qualcomm/XNNPACK: 0 merges
+[2025-08-18 17:02:04]   OK qualcomm/fastboot.efi: 0 merges
+[2025-08-18 17:02:05]   OK qualcomm/bt-rviz: 0 merges
+[2025-08-18 17:02:06]   OK qualcomm/csm-utils: 2 merges
+[2025-08-18 17:02:06]   OK qualcomm/fastrpc-image: 2 merges
+[2025-08-18 17:02:07]   OK qualcomm/dragonwing-iot-samples: 1 merges
+[2025-08-18 17:02:08]   OK qualcomm/qdlrs: 6 merges
+[2025-08-18 17:02:09]   OK qualcomm/onnxruntime: 0 merges
+[2025-08-18 17:02:09]   OK qualcomm/.github: 0 merges
+[2025-08-18 17:02:10]   OK qualcomm/minkipc: 1 merges
+[2025-08-18 17:02:11]   OK qualcomm/AvxToNeon: 0 merges
+[2025-08-18 17:02:11]   OK qualcomm/snapdragon-compute-samples: 0 merges
+[2025-08-18 17:02:12]   OK qualcomm/awesome-qualcomm-developer: 1 merges
+[2025-08-18 17:02:12] Processing org 23/61: Qualcomm (quic)
+[2025-08-18 17:02:16]   OK quic/qemu: 0 merges
+[2025-08-18 17:02:17]   OK quic/efficient-transformers: 0 merges
+[2025-08-18 17:02:17]   OK quic/aimet: 0 merges
+[2025-08-18 17:02:18]   OK quic/ai-hub-models: 0 merges
+[2025-08-18 17:02:19]   OK quic/wos-ai-demos: 0 merges
+[2025-08-18 17:02:19]   OK quic/ai-engine-direct-helper: 0 merges
+[2025-08-18 17:02:20]   OK quic/qbox: 0 merges
+[2025-08-18 17:02:21]   OK quic/v4l-video-test-app: 0 merges
+[2025-08-18 17:02:22]   OK quic/crash-plugins: 1 merges
+[2025-08-18 17:02:23]   OK quic/aimet-pages: 0 merges
+[2025-08-18 17:02:23]   OK quic/ufs-tools: 1 merges
+[2025-08-18 17:02:24]   OK quic/sample-apps-for-qualcomm-linux: 0 merges
+[2025-08-18 17:02:25]   OK quic/cloud-ai-containers: 0 merges
+[2025-08-18 17:02:25]   OK quic/aic-operator: 0 merges
+[2025-08-18 17:02:26]   OK quic/cloud-ai-sdk: 0 merges
+[2025-08-18 17:02:27]   OK quic/toolchain_for_hexagon: 0 merges
+[2025-08-18 17:02:28]   OK quic/cloud-ai-sdk-pages: 0 merges
+[2025-08-18 17:02:28]   OK quic/XNNPACK: 0 merges
+[2025-08-18 17:02:29]   OK quic/OpenBLAS: 0 merges
+[2025-08-18 17:02:30]   OK quic/ai-hub-apps: 0 merges
+[2025-08-18 17:02:31]   OK quic/eud: 0 merges
+[2025-08-18 17:02:31]   OK quic/riscv-elf-psabi-quic-extensions: 0 merges
+[2025-08-18 17:02:32]   OK quic/qmi-framework: 0 merges
+[2025-08-18 17:02:32] Processing org 24/61: ABB (abb-iss)
+[2025-08-18 17:02:34] Processing org 25/61: ASML (asml-labs)
+[2025-08-18 17:02:36]   OK asml-labs/MATFrost.jl: 0 merges
+[2025-08-18 17:02:37]   OK asml-labs/dagster-delta: 0 merges
+[2025-08-18 17:02:37] Processing org 26/61: HPE (hpenetworking)
+[2025-08-18 17:02:39]   OK hpenetworking/topology: 0 merges
+[2025-08-18 17:02:39] Processing org 27/61: BT Group (bt-opensource)
+[2025-08-18 17:02:41] Processing org 28/61: AMD (amd)
+[2025-08-18 17:02:44]   OK amd/node-scraper: 0 merges
+[2025-08-18 17:02:45]   OK amd/onnxruntime: 0 merges
+[2025-08-18 17:02:46]   OK amd/esmi_ib_library: 0 merges
+[2025-08-18 17:02:47]   OK amd/HPCTrainingExamples: 3 merges
+[2025-08-18 17:02:48]   OK amd/HPCTrainingDock: 0 merges
+[2025-08-18 17:02:49]   OK amd/xdna-driver: 0 merges
+[2025-08-18 17:02:50]   OK amd/RyzenAI-SW: 5 merges
+[2025-08-18 17:02:51]   OK amd/ama-sdk: 0 merges
+[2025-08-18 17:02:52]   OK amd/ryzen-ai-documentation: 2 merges
+[2025-08-18 17:02:53]   OK amd/ZenDNN: 0 merges
+[2025-08-18 17:02:54]   OK amd/ADA: 0 merges
+[2025-08-18 17:02:54]   OK amd/blis: 0 merges
+[2025-08-18 17:02:55]   OK amd/amd_energy: 0 merges
+[2025-08-18 17:02:56]   OK amd/amd_hsmp: 0 merges
+[2025-08-18 17:02:57]   OK amd/ZenDNN-pytorch-plugin: 0 merges
+[2025-08-18 17:02:58]   OK amd/opencv: 0 merges
+[2025-08-18 17:02:59]   OK amd/virtio-npu: 0 merges
+[2025-08-18 17:02:59]   OK amd/pensando-elk: 1 merges
+[2025-08-18 17:03:00]   OK amd/Quark: 0 merges
+[2025-08-18 17:03:00] Processing org 29/61: Block (block)
+[2025-08-18 17:03:03]   OK block/goose: 0 merges
+[2025-08-18 17:03:04]   OK block/ospo: 0 merges
+[2025-08-18 17:03:05]   OK block/kotlin-formatter: 4 merges
+[2025-08-18 17:03:06]   OK block/example-jvm-maven: 0 merges
+[2025-08-18 17:03:06]   OK block/stoic: 1 merges
+[2025-08-18 17:03:07]   OK block/docs-site-kickstarter: 3 merges
+[2025-08-18 17:03:08]   OK block/elasticgraph: 23 merges
+[2025-08-18 17:03:09]   OK block/gradle-monorepo-ij-plugin: 0 merges
+[2025-08-18 17:03:10]   OK block/scaffolder: 0 merges
+[2025-08-18 17:03:10]   OK block/bitcoin-augur-reference: 1 merges
+[2025-08-18 17:03:11]   OK block/.github: 0 merges
+[2025-08-18 17:03:12]   OK block/oss-project-template: 0 merges
+[2025-08-18 17:03:13]   OK block/kfsm: 0 merges
+[2025-08-18 17:03:14]   OK block/spirit: 3 merges
+[2025-08-18 17:03:14]   OK block/goose-discord: 1 merges
+[2025-08-18 17:03:15]   OK block/mcp-jupyter: 1 merges
+[2025-08-18 17:03:16]   OK block/quiver: 0 merges
+[2025-08-18 17:03:17]   OK block/protobuf.js: 0 merges
+[2025-08-18 17:03:18]   OK block/mdx-daemon-plugin: 4 merges
+[2025-08-18 17:03:19]   OK block/ftl: 0 merges
+[2025-08-18 17:03:20]   OK block/ftl-golang-tools: 0 merges
+[2025-08-18 17:03:21]   OK block/bitcoin-treasury: 1 merges
+[2025-08-18 17:03:22]   OK block/ln-invoice: 0 merges
+[2025-08-18 17:03:23]   OK block/picocert: 1 merges
+[2025-08-18 17:03:24]   OK block/bitcoin-augur: 1 merges
+[2025-08-18 17:03:24]   OK block/etre: 0 merges
+[2025-08-18 17:03:25]   OK block/bitcoin-augur-benchmarking: 1 merges
+[2025-08-18 17:03:26]   OK block/blip: 0 merges
+[2025-08-18 17:03:27]   OK block/finch: 0 merges
+[2025-08-18 17:03:28]   OK block/goose-mobile: 0 merges
+[2025-08-18 17:03:29]   OK block/homebrew-tap: 0 merges
+[2025-08-18 17:03:30]   OK block/trailblaze: 0 merges
+[2025-08-18 17:03:31]   OK block/xcode-index-mcp: 2 merges
+[2025-08-18 17:03:31]   OK block/vscode-goose: 0 merges
+[2025-08-18 17:03:31] Processing org 30/61: Western Digital (nan)
+[2025-08-18 17:03:32] Processing org 31/61: DoorDash (doordash)
+[2025-08-18 17:03:35] Processing org 32/61: Workday (workday)
+[2025-08-18 17:03:38]   OK workday/canvas-kit: 0 merges
+[2025-08-18 17:03:38]   OK workday/cuestomize: 0 merges
+[2025-08-18 17:03:39]   OK workday/canvas-tokens: 0 merges
+[2025-08-18 17:03:40]   OK workday/canvas-tokens-studio: 0 merges
+[2025-08-18 17:03:41]   OK workday/warp-core: 0 merges
+[2025-08-18 17:03:41] Processing org 33/61: Marvell (marvellembeddedprocessors)
+[2025-08-18 17:03:44]   OK marvellembeddedprocessors/marvell-dpdk: 0 merges
+[2025-08-18 17:03:46]   OK marvellembeddedprocessors/packages: 0 merges
+[2025-08-18 17:03:47]   OK marvellembeddedprocessors/dao: 0 merges
+[2025-08-18 17:03:48]   OK marvellembeddedprocessors/marvell-octeon-roc: 0 merges
+[2025-08-18 17:03:49]   OK marvellembeddedprocessors/vpp: 0 merges
+[2025-08-18 17:03:49]   OK marvellembeddedprocessors/pcie_ep_octeon_target: 0 merges
+[2025-08-18 17:03:50]   OK marvellembeddedprocessors/marvell-openssl-engine: 0 merges
+[2025-08-18 17:03:51]   OK marvellembeddedprocessors/linux-marvell: 0 merges
+[2025-08-18 17:03:52]   OK marvellembeddedprocessors/marvell-dpdk-sdk: 0 merges
+[2025-08-18 17:03:52]   OK marvellembeddedprocessors/pcie_ep_octeon_host: 0 merges
+[2025-08-18 17:03:53]   OK marvellembeddedprocessors/marvell-firmware: 0 merges
+[2025-08-18 17:03:53] Processing org 34/61: Stripe (stripe)
+[2025-08-18 17:03:57]   OK stripe/stripe-android: 0 merges
+[2025-08-18 17:03:58]   OK stripe/stripe-react-native: 0 merges
+[2025-08-18 17:03:59]   OK stripe/stripe-ios: 0 merges
+[2025-08-18 17:04:00]   OK stripe/LibreChat: 1 merges
+[2025-08-18 17:04:01]   OK stripe/stripe-mock: 0 merges
+[2025-08-18 17:04:02]   OK stripe/openapi: 0 merges
+[2025-08-18 17:04:03]   OK stripe/react-connect-js: 0 merges
+[2025-08-18 17:04:03]   OK stripe/smokescreen: 0 merges
+[2025-08-18 17:04:04]   OK stripe/stripe-terminal-react-native: 0 merges
+[2025-08-18 17:04:05]   OK stripe/stripe-ruby: 0 merges
+[2025-08-18 17:04:06]   OK stripe/stripe-java: 0 merges
+[2025-08-18 17:04:07]   OK stripe/stripe-dotnet: 0 merges
+[2025-08-18 17:04:07]   OK stripe/stripe-php: 0 merges
+[2025-08-18 17:04:08]   OK stripe/stripe-python: 0 merges
+[2025-08-18 17:04:09]   OK stripe/stripe-go: 0 merges
+[2025-08-18 17:04:09]   OK stripe/stripe-node: 0 merges
+[2025-08-18 17:04:10]   OK stripe/connect-js: 0 merges
+[2025-08-18 17:04:11]   OK stripe/stripe-commercetools-connect-app: 4 merges
+[2025-08-18 17:04:12]   OK stripe/react-stripe-js: 0 merges
+[2025-08-18 17:04:12]   OK stripe/agent-toolkit: 0 merges
+[2025-08-18 17:04:13]   OK stripe/stripe-connect-furever-demo: 0 merges
+[2025-08-18 17:04:14]   OK stripe/stripe-js: 0 merges
+[2025-08-18 17:04:15]   OK stripe/stripe-ios-spm: 0 merges
+[2025-08-18 17:04:15]   OK stripe/salesforce-connector-examples: 0 merges
+[2025-08-18 17:04:16]   OK stripe/stripe-sfcc-b2c-connector: 0 merges
+[2025-08-18 17:04:17]   OK stripe/pg-schema-diff: 0 merges
+[2025-08-18 17:04:18]   OK stripe/stripe-apps: 0 merges
+[2025-08-18 17:04:19]   OK stripe/stripe-commercetools-checkout-app: 1 merges
+[2025-08-18 17:04:20]   OK stripe/munkisrv: 1 merges
+[2025-08-18 17:04:21]   OK stripe/stripe-terminal-ios: 0 merges
+[2025-08-18 17:04:22]   OK stripe/terminal-connector-releases: 0 merges
+[2025-08-18 17:04:22]   OK stripe/stripe-magento2-releases: 0 merges
+[2025-08-18 17:04:23]   OK stripe/stripe-cli: 0 merges
+[2025-08-18 17:04:24]   OK stripe/stripe-terminal-android: 0 merges
+[2025-08-18 17:04:25]   OK stripe/scoop-stripe-cli: 0 merges
+[2025-08-18 17:04:26]   OK stripe/homebrew-stripe-cli: 0 merges
+[2025-08-18 17:04:27]   OK stripe/ft3: 0 merges
+[2025-08-18 17:04:28]   OK stripe/subprocess: 0 merges
+[2025-08-18 17:04:28]   OK stripe/example-terminal-backend: 0 merges
+[2025-08-18 17:04:29]   OK stripe/terminal-js: 0 merges
+[2025-08-18 17:04:29] Processing org 35/61: Pinterest (pinterest)
+[2025-08-18 17:04:33]   OK pinterest/thriftcheck: 0 merges
+[2025-08-18 17:04:34]   OK pinterest/ws-gtm-template: 0 merges
+[2025-08-18 17:04:35]   OK pinterest/mojito: 0 merges
+[2025-08-18 17:04:36]   OK pinterest/gprofiler: 0 merges
+[2025-08-18 17:04:37]   OK pinterest/teletraan: 0 merges
+[2025-08-18 17:04:38]   OK pinterest/singer: 0 merges
+[2025-08-18 17:04:38]   OK pinterest/PINRemoteImage: 0 merges
+[2025-08-18 17:04:39]   OK pinterest/PINOperation: 0 merges
+[2025-08-18 17:04:40]   OK pinterest/PINCache: 0 merges
+[2025-08-18 17:04:41]   OK pinterest/PINFuture: 0 merges
+[2025-08-18 17:04:42]   OK pinterest/ktlint: 0 merges
+[2025-08-18 17:04:43]   OK pinterest/orion: 0 merges
+[2025-08-18 17:04:44]   OK pinterest/pinterest-python-sdk: 0 merges
+[2025-08-18 17:04:45]   OK pinterest/typespec: 0 merges
+[2025-08-18 17:04:46]   OK pinterest/api-description: 0 merges
+[2025-08-18 17:04:47]   OK pinterest/memq: 3 merges
+[2025-08-18 17:04:47]   OK pinterest/superset: 0 merges
+[2025-08-18 17:04:48]   OK pinterest/gprofiler-performance-studio: 0 merges
+[2025-08-18 17:04:49]   OK pinterest/tiered-storage: 0 merges
+[2025-08-18 17:04:50]   OK pinterest/alloy: 0 merges
+[2025-08-18 17:04:51]   OK pinterest/psc: 3 merges
+[2025-08-18 17:04:52]   OK pinterest/gestalt: 0 merges
+[2025-08-18 17:04:52]   OK pinterest/starrocks: 0 merges
+[2025-08-18 17:04:53]   OK pinterest/atg-research: 3 merges
+[2025-08-18 17:04:54]   OK pinterest/terraform-aws-eks: 0 merges
+[2025-08-18 17:04:55]   OK pinterest/ray: 0 merges
+[2025-08-18 17:04:55] Processing org 36/61: Snowflake (snowflakedb)
+[2025-08-18 17:04:58]   OK snowflakedb/snowflake-cli: 0 merges
+[2025-08-18 17:04:59]   OK snowflakedb/snowflake-jdbc: 0 merges
+[2025-08-18 17:04:59]   OK snowflakedb/snowflake-connector-python: 0 merges
+[2025-08-18 17:05:00]   OK snowflakedb/snowpark-python: 0 merges
+[2025-08-18 17:05:01]   OK snowflakedb/gosnowflake: 0 merges
+[2025-08-18 17:05:02]   OK snowflakedb/snowflake-cli-templates: 0 merges
+[2025-08-18 17:05:02]   OK snowflakedb/snowflake-connector-nodejs: 0 merges
+[2025-08-18 17:05:03]   OK snowflakedb/snowflake-connector-net: 0 merges
+[2025-08-18 17:05:04]   OK snowflakedb/homebrew-snowflake-cli: 0 merges
+[2025-08-18 17:05:05]   OK snowflakedb/snowflake-cli-action: 0 merges
+[2025-08-18 17:05:05]   OK snowflakedb/spark-snowflake: 0 merges
+[2025-08-18 17:05:06]   OK snowflakedb/libsnowflakeclient: 0 merges
+[2025-08-18 17:05:07]   OK snowflakedb/snowflake-ingest-java: 0 merges
+[2025-08-18 17:05:07]   OK snowflakedb/snowpark-java-scala: 0 merges
+[2025-08-18 17:05:08]   OK snowflakedb/terraform-provider-snowflake: 5 merges
+[2025-08-18 17:05:09]   OK snowflakedb/ArcticInference: 0 merges
+[2025-08-18 17:05:09]   OK snowflakedb/snowflake-kafka-connector: 0 merges
+[2025-08-18 17:05:10]   OK snowflakedb/pdo_snowflake: 0 merges
+[2025-08-18 17:05:11]   OK snowflakedb/snowflake-ml-python: 0 merges
+[2025-08-18 17:05:12]   OK snowflakedb/ec2-plugin: 0 merges
+[2025-08-18 17:05:12]   OK snowflakedb/ArcticTraining: 0 merges
+[2025-08-18 17:05:13]   OK snowflakedb/snowpark-checkpoints: 0 merges
+[2025-08-18 17:05:14]   OK snowflakedb/PowerPlatformConnectors: 0 merges
+[2025-08-18 17:05:15]   OK snowflakedb/snowflake-telemetry-python: 0 merges
+[2025-08-18 17:05:15]   OK snowflakedb/snowflake-sqlalchemy: 0 merges
+[2025-08-18 17:05:16]   OK snowflakedb/reusable-workflows: 2 merges
+[2025-08-18 17:05:16] Processing org 37/61: HSBC (hsbc)
+[2025-08-18 17:05:18]   OK hsbc/go-api-pagination: 0 merges
+[2025-08-18 17:05:19]   OK hsbc/jdbc-inquirer: 0 merges
+[2025-08-18 17:05:20]   OK hsbc/bqtools: 0 merges
+[2025-08-18 17:05:21]   OK hsbc/encryption-helper-python: 0 merges
+[2025-08-18 17:05:21]   OK hsbc/cost-manager: 0 merges
+[2025-08-18 17:05:22] Processing org 38/61: London Stock Exchange Group (lseg)
+[2025-08-18 17:05:23] Processing org 39/61: Barclays (barclays)
+[2025-08-18 17:05:24] Processing org 40/61: Lloyds Banking Group (lloyds-banking-group)
+[2025-08-18 17:05:25] Processing org 41/61: NatWest Group (nan)
+[2025-08-18 17:05:26] Processing org 42/61: Standard Chartered (standard-chartered)
+[2025-08-18 17:05:27] Processing org 43/61: Hargreaves Lansdown (nan)
+[2025-08-18 17:05:28] Processing org 44/61: AstraZeneca (astrazeneca)
+[2025-08-18 17:05:33]   OK astrazeneca/jazzy: 0 merges
+[2025-08-18 17:05:33]   OK astrazeneca/runnable: 0 merges
+[2025-08-18 17:05:34]   OK astrazeneca/persist-seq-galaxy-tools-setup: 0 merges
+[2025-08-18 17:05:35]   OK astrazeneca/cellatria: 0 merges
+[2025-08-18 17:05:36]   OK astrazeneca/maraca: 0 merges
+[2025-08-18 17:05:36]   OK astrazeneca/multimodal-python-course: 0 merges
+[2025-08-18 17:05:37]   OK astrazeneca/peptide-tools: 0 merges
+[2025-08-18 17:05:38]   OK astrazeneca/ToPModel: 0 merges
+[2025-08-18 17:05:38] Processing org 45/61: AstraZeneca (astrazeneca-ngs)
+[2025-08-18 17:05:39] Processing org 46/61: GlaxoSmithKline (gsk)
+[2025-08-18 17:05:41] Processing org 47/61: AVEVA (aveva)
+[2025-08-18 17:05:44]   OK aveva/CONNECT-data-services-developer-docs: 7 merges
+[2025-08-18 17:05:45]   OK aveva/.github: 1 merges
+[2025-08-18 17:05:46]   OK aveva/sample-adh-time_series-python: 0 merges
+[2025-08-18 17:05:47]   OK aveva/sample-adh-sample_libraries-python: 0 merges
+[2025-08-18 17:05:48]   OK aveva/sample-adh-grafana_backend_plugin-datasource: 0 merges
+[2025-08-18 17:05:48] Processing org 48/61: Ocado Group (ocadotechnology)
+[2025-08-18 17:05:52]   OK ocadotechnology/rapid-router: 0 merges
+[2025-08-18 17:05:53]   OK ocadotechnology/codeforlife-portal: 0 merges
+[2025-08-18 17:05:54]   OK ocadotechnology/codeforlife-workspace: 0 merges
+[2025-08-18 17:05:54]   OK ocadotechnology/cmq: 0 merges
+[2025-08-18 17:05:55]   OK ocadotechnology/codeforlife-portal-backend: 0 merges
+[2025-08-18 17:05:56]   OK ocadotechnology/codeforlife-sso-backend: 0 merges
+[2025-08-18 17:05:57]   OK ocadotechnology/codeforlife-sso-frontend: 0 merges
+[2025-08-18 17:05:58]   OK ocadotechnology/codeforlife-package-python: 0 merges
+[2025-08-18 17:05:59]   OK ocadotechnology/codeforlife-contributor-frontend: 0 merges
+[2025-08-18 17:05:59]   OK ocadotechnology/codeforlife-package-javascript: 0 merges
+[2025-08-18 17:06:00]   OK ocadotechnology/codeforlife-deploy-appengine: 0 merges
+[2025-08-18 17:06:01]   OK ocadotechnology/codeforlife-rapid-router-frontend: 0 merges
+[2025-08-18 17:06:02]   OK ocadotechnology/codeforlife-portal-frontend: 0 merges
+[2025-08-18 17:06:02]   OK ocadotechnology/codeforlife-template-frontend: 0 merges
+[2025-08-18 17:06:03]   OK ocadotechnology/Ocava: 0 merges
+[2025-08-18 17:06:04]   OK ocadotechnology/pass4s: 0 merges
+[2025-08-18 17:06:04]   OK ocadotechnology/codeforlife-rapid-router-backend: 0 merges
+[2025-08-18 17:06:05]   OK ocadotechnology/codeforlife-scheduler-backend: 0 merges
+[2025-08-18 17:06:06]   OK ocadotechnology/codeforlife-template-backend: 0 merges
+[2025-08-18 17:06:06]   OK ocadotechnology/test-arranger: 0 merges
+[2025-08-18 17:06:07] Processing org 49/61: Auto Trader Group (autotraderuk)
+[2025-08-18 17:06:11]   OK autotraderuk/Flowise: 0 merges
+[2025-08-18 17:06:12]   OK autotraderuk/traverson4j: 0 merges
+[2025-08-18 17:06:12] Processing org 50/61: Rightmove (rightmove)
+[2025-08-18 17:06:13] Processing org 51/61: Just Eat Takeaway.com (justeattakeaway)
+[2025-08-18 17:06:16]   OK justeattakeaway/pie-aperture: 0 merges
+[2025-08-18 17:06:17]   OK justeattakeaway/pie: 0 merges
+[2025-08-18 17:06:18]   OK justeattakeaway/LocalSqsSnsMessaging: 0 merges
+[2025-08-18 17:06:19]   OK justeattakeaway/AwsWatchman: 0 merges
+[2025-08-18 17:06:20]   OK justeattakeaway/JustSaying: 1 merges
+[2025-08-18 17:06:21]   OK justeattakeaway/ApplePayJSSample: 0 merges
+[2025-08-18 17:06:22]   OK justeattakeaway/JustEat.StatsD: 0 merges
+[2025-08-18 17:06:23]   OK justeattakeaway/httpclient-interception: 0 merges
+[2025-08-18 17:06:23]   OK justeattakeaway/pie-iconography: 0 merges
+[2025-08-18 17:06:24] Processing org 52/61: Just Eat Takeaway.com (justeat)
+[2025-08-18 17:06:26] Processing org 53/61: RELX (nan)
+[2025-08-18 17:06:27] Processing org 54/61: Experian (experianplc)
+[2025-08-18 17:06:29]   OK experianplc/Experian-Address-Validation: 0 merges
+[2025-08-18 17:06:30]   OK experianplc/edq-data-validation-sdks: 0 merges
+[2025-08-18 17:06:30] Processing org 55/61: BAE Systems (baesystemsdigital)
+[2025-08-18 17:06:31] Processing org 56/61: Rolls-Royce (rolls-royce)
+[2025-08-18 17:06:32] Processing org 57/61: Rolls-Royce (rropen)
+[2025-08-18 17:06:36]   OK rropen/absense-planner: 0 merges
+[2025-08-18 17:06:37]   OK rropen/terraform-provider-cscdm: 2 merges
+[2025-08-18 17:06:38]   OK rropen/provider-cscdm: 0 merges
+[2025-08-18 17:06:39]   OK rropen/.github: 0 merges
+[2025-08-18 17:06:39] Processing org 58/61: National Grid (national-grid)
+[2025-08-18 17:06:40] Processing org 59/61: SSE (nan)
+[2025-08-18 17:06:40] Processing org 60/61: Pearson (pearsondevelopersnetwork)
+[2025-08-18 17:06:42] Processing org 61/61: WPP (nan)
+[2025-08-18 17:06:43] Collection completed! Processed 360 repositories

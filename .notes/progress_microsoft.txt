@@ -1,0 +1,2217 @@
+[2025-08-18 16:59:41] === Starting Microsoft Merge Rate Collection ===
+[2025-08-18 16:59:41] Input file: data/repos/batch_Aug_18/big_three_recent_commits.csv
+[2025-08-18 16:59:41] Output file: data/output/merge_rates_microsoft.csv
+[2025-08-18 16:59:41] Starting collection for 1106 repositories from company Microsoft
+[2025-08-18 16:59:41] Processing 1/1106: microsoft/mcp-for-beginners
+[2025-08-18 16:59:42] OK microsoft/mcp-for-beginners: 51 merges in 30 days
+[2025-08-18 16:59:42] Processing 2/1106: microsoft/winget-pkgs
+[2025-08-18 16:59:43] OK microsoft/winget-pkgs: 0 merges in 30 days
+[2025-08-18 16:59:43] Processing 3/1106: microsoft/fluentui
+[2025-08-18 16:59:44] OK microsoft/fluentui: 0 merges in 30 days
+[2025-08-18 16:59:44] Processing 4/1106: microsoft/mcsmcp
+[2025-08-18 16:59:45] OK microsoft/mcsmcp: 0 merges in 30 days
+[2025-08-18 16:59:45] Processing 5/1106: microsoft/vscode
+[2025-08-18 16:59:46] OK microsoft/vscode: 28 merges in 30 days
+[2025-08-18 16:59:46] Processing 6/1106: microsoft/generative-ai-for-beginners
+[2025-08-18 16:59:47] OK microsoft/generative-ai-for-beginners: 6 merges in 30 days
+[2025-08-18 16:59:47] Processing 7/1106: microsoft/PowerToys
+[2025-08-18 16:59:49] OK microsoft/PowerToys: 0 merges in 30 days
+[2025-08-18 16:59:49] Processing 8/1106: microsoft/TypeScript
+[2025-08-18 16:59:50] OK microsoft/TypeScript: 0 merges in 30 days
+[2025-08-18 16:59:50] Processing 9/1106: microsoft/vscode-anycode
+[2025-08-18 16:59:52] OK microsoft/vscode-anycode: 6 merges in 30 days
+[2025-08-18 16:59:52] Processing 10/1106: microsoft/magentic-ui
+[2025-08-18 16:59:53] OK microsoft/magentic-ui: 0 merges in 30 days
+[2025-08-18 16:59:53] Processing 11/1106: microsoft/azure-devops-mcp
+[2025-08-18 16:59:54] OK microsoft/azure-devops-mcp: 0 merges in 30 days
+[2025-08-18 16:59:55] Processing 12/1106: microsoft/playwright-mcp
+[2025-08-18 16:59:56] OK microsoft/playwright-mcp: 0 merges in 30 days
+[2025-08-18 16:59:56] Processing 13/1106: microsoft/confidential-aci-testing
+[2025-08-18 16:59:57] OK microsoft/confidential-aci-testing: 0 merges in 30 days
+[2025-08-18 16:59:57] Processing 14/1106: microsoft/RIFT
+[2025-08-18 16:59:58] OK microsoft/RIFT: 1 merges in 30 days
+[2025-08-18 16:59:59] Processing 15/1106: microsoft/ai-agents-for-beginners
+[2025-08-18 17:00:00] OK microsoft/ai-agents-for-beginners: 7 merges in 30 days
+[2025-08-18 17:00:00] Processing 16/1106: microsoft/semantic-kernel
+[2025-08-18 17:00:01] OK microsoft/semantic-kernel: 0 merges in 30 days
+[2025-08-18 17:00:01] Processing 17/1106: microsoft/terminal
+[2025-08-18 17:00:03] OK microsoft/terminal: 0 merges in 30 days
+[2025-08-18 17:00:03] Processing 18/1106: microsoft/edit
+[2025-08-18 17:00:04] OK microsoft/edit: 0 merges in 30 days
+[2025-08-18 17:00:04] Processing 19/1106: microsoft/playwright
+[2025-08-18 17:00:06] OK microsoft/playwright: 0 merges in 30 days
+[2025-08-18 17:00:06] Processing 20/1106: microsoft/rnx-kit
+[2025-08-18 17:00:07] OK microsoft/rnx-kit: 0 merges in 30 days
+[2025-08-18 17:00:07] Processing 21/1106: microsoft/vscode-copilot-chat
+[2025-08-18 17:00:08] OK microsoft/vscode-copilot-chat: 0 merges in 30 days
+[2025-08-18 17:00:08] Processing 22/1106: microsoft/AI-For-Beginners
+[2025-08-18 17:00:09] OK microsoft/AI-For-Beginners: 1 merges in 30 days
+[2025-08-18 17:00:09] Processing 23/1106: microsoft/markitdown
+[2025-08-18 17:00:10] OK microsoft/markitdown: 0 merges in 30 days
+[2025-08-18 17:00:10] Processing 24/1106: microsoft/Web-Dev-For-Beginners
+[2025-08-18 17:00:11] OK microsoft/Web-Dev-For-Beginners: 1 merges in 30 days
+[2025-08-18 17:00:11] Processing 25/1106: microsoft/playwright-python
+[2025-08-18 17:00:13] OK microsoft/playwright-python: 0 merges in 30 days
+[2025-08-18 17:00:13] Processing 26/1106: microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+[2025-08-18 17:00:14] OK microsoft/Mastering-GitHub-Copilot-for-Paired-Programming: 10 merges in 30 days
+[2025-08-18 17:00:14] Processing 27/1106: microsoft/planetary-computer-tasks
+[2025-08-18 17:00:16] OK microsoft/planetary-computer-tasks: 0 merges in 30 days
+[2025-08-18 17:00:16] Processing 28/1106: microsoft/playwright-dotnet
+[2025-08-18 17:00:17] OK microsoft/playwright-dotnet: 0 merges in 30 days
+[2025-08-18 17:00:17] Processing 29/1106: microsoft/playwright-java
+[2025-08-18 17:00:19] OK microsoft/playwright-java: 0 merges in 30 days
+[2025-08-18 17:00:19] Processing 30/1106: microsoft/poml
+[2025-08-18 17:00:20] OK microsoft/poml: 0 merges in 30 days
+[2025-08-18 17:00:20] Processing 31/1106: microsoft/playwright-pytest
+[2025-08-18 17:00:21] OK microsoft/playwright-pytest: 0 merges in 30 days
+[2025-08-18 17:00:21] Processing 32/1106: microsoft/TimeCraft
+[2025-08-18 17:00:22] OK microsoft/TimeCraft: 1 merges in 30 days
+[2025-08-18 17:00:22] Processing 33/1106: microsoft/winget-cli
+[2025-08-18 17:00:23] OK microsoft/winget-cli: 0 merges in 30 days
+[2025-08-18 17:00:23] Processing 34/1106: microsoft/playwright-vscode
+[2025-08-18 17:00:25] OK microsoft/playwright-vscode: 0 merges in 30 days
+[2025-08-18 17:00:25] Processing 35/1106: microsoft/Security-101
+[2025-08-18 17:00:26] OK microsoft/Security-101: 1 merges in 30 days
+[2025-08-18 17:00:26] Processing 36/1106: microsoft/clrmd
+[2025-08-18 17:00:27] OK microsoft/clrmd: 0 merges in 30 days
+[2025-08-18 17:00:27] Processing 37/1106: microsoft/RD-Agent
+[2025-08-18 17:00:29] OK microsoft/RD-Agent: 0 merges in 30 days
+[2025-08-18 17:00:29] Processing 38/1106: microsoft/vscode-docs
+[2025-08-18 17:00:30] OK microsoft/vscode-docs: 34 merges in 30 days
+[2025-08-18 17:00:30] Processing 39/1106: microsoft/qlib
+[2025-08-18 17:00:31] OK microsoft/qlib: 0 merges in 30 days
+[2025-08-18 17:00:31] Processing 40/1106: microsoft/react-native-windows
+[2025-08-18 17:00:32] OK microsoft/react-native-windows: 0 merges in 30 days
+[2025-08-18 17:00:32] Processing 41/1106: microsoft/scitt-ccf-ledger
+[2025-08-18 17:00:33] OK microsoft/scitt-ccf-ledger: 0 merges in 30 days
+[2025-08-18 17:00:33] Processing 42/1106: microsoft/autogen
+[2025-08-18 17:00:34] OK microsoft/autogen: 0 merges in 30 days
+[2025-08-18 17:00:35] Processing 43/1106: microsoft/AI-Red-Teaming-Playground-Labs
+[2025-08-18 17:00:36] OK microsoft/AI-Red-Teaming-Playground-Labs: 0 merges in 30 days
+[2025-08-18 17:00:36] Processing 44/1106: microsoft/mssql-python
+[2025-08-18 17:00:37] OK microsoft/mssql-python: 0 merges in 30 days
+[2025-08-18 17:00:37] Processing 45/1106: microsoft/presidio
+[2025-08-18 17:00:38] OK microsoft/presidio: 0 merges in 30 days
+[2025-08-18 17:00:38] Processing 46/1106: microsoft/clarity-apps
+[2025-08-18 17:00:39] OK microsoft/clarity-apps: 0 merges in 30 days
+[2025-08-18 17:00:39] Processing 47/1106: microsoft/WindowsAppSDK
+[2025-08-18 17:00:40] OK microsoft/WindowsAppSDK: 0 merges in 30 days
+[2025-08-18 17:00:40] Processing 48/1106: microsoft/go
+[2025-08-18 17:00:41] OK microsoft/go: 0 merges in 30 days
+[2025-08-18 17:00:41] Processing 49/1106: microsoft/JARVIS
+[2025-08-18 17:00:42] OK microsoft/JARVIS: 1 merges in 30 days
+[2025-08-18 17:00:42] Processing 50/1106: microsoft/data-formulator
+[2025-08-18 17:00:43] OK microsoft/data-formulator: 0 merges in 30 days
+[2025-08-18 17:00:43] Processing 51/1106: microsoft/ML-For-Beginners
+[2025-08-18 17:00:44] OK microsoft/ML-For-Beginners: 1 merges in 30 days
+[2025-08-18 17:00:44] Processing 52/1106: microsoft/DirectML
+[2025-08-18 17:00:45] OK microsoft/DirectML: 0 merges in 30 days
+[2025-08-18 17:00:45] Processing 53/1106: microsoft/windows-rs
+[2025-08-18 17:00:46] OK microsoft/windows-rs: 0 merges in 30 days
+[2025-08-18 17:00:47] Processing 54/1106: microsoft/opensource.microsoft.com
+[2025-08-18 17:00:48] OK microsoft/opensource.microsoft.com: 31 merges in 30 days
+[2025-08-18 17:00:48] Processing 55/1106: microsoft/vs-streamjsonrpc
+[2025-08-18 17:00:49] OK microsoft/vs-streamjsonrpc: 22 merges in 30 days
+[2025-08-18 17:00:49] Processing 56/1106: microsoft/microsoft-ui-xaml
+[2025-08-18 17:00:50] OK microsoft/microsoft-ui-xaml: 0 merges in 30 days
+[2025-08-18 17:00:50] Processing 57/1106: microsoft/windows-ai-studio-templates
+[2025-08-18 17:00:51] OK microsoft/windows-ai-studio-templates: 15 merges in 30 days
+[2025-08-18 17:00:51] Processing 58/1106: microsoft/mu_common_intel_min_platform
+[2025-08-18 17:00:52] OK microsoft/mu_common_intel_min_platform: 0 merges in 30 days
+[2025-08-18 17:00:52] Processing 59/1106: microsoft/terraform-provider-msgraph
+[2025-08-18 17:00:53] OK microsoft/terraform-provider-msgraph: 0 merges in 30 days
+[2025-08-18 17:00:54] Processing 60/1106: microsoft/mu_plus
+[2025-08-18 17:00:54] OK microsoft/mu_plus: 0 merges in 30 days
+[2025-08-18 17:00:55] Processing 61/1106: microsoft/ai-dev-gallery
+[2025-08-18 17:00:56] OK microsoft/ai-dev-gallery: 23 merges in 30 days
+[2025-08-18 17:00:56] Processing 62/1106: microsoft/mu_tiano_plus
+[2025-08-18 17:00:57] OK microsoft/mu_tiano_plus: 0 merges in 30 days
+[2025-08-18 17:00:57] Processing 63/1106: microsoft/mu_basecore
+[2025-08-18 17:00:58] OK microsoft/mu_basecore: 0 merges in 30 days
+[2025-08-18 17:00:58] Processing 64/1106: microsoft/onnxruntime
+[2025-08-18 17:00:59] OK microsoft/onnxruntime: 0 merges in 30 days
+[2025-08-18 17:00:59] Processing 65/1106: microsoft/mastering-github-copilot-for-dotnet-csharp-developers
+[2025-08-18 17:01:00] OK microsoft/mastering-github-copilot-for-dotnet-csharp-developers: 1 merges in 30 days
+[2025-08-18 17:01:00] Processing 66/1106: microsoft/CCF
+[2025-08-18 17:01:01] OK microsoft/CCF: 0 merges in 30 days
+[2025-08-18 17:01:01] Processing 67/1106: microsoft/inshellisense
+[2025-08-18 17:01:02] OK microsoft/inshellisense: 0 merges in 30 days
+[2025-08-18 17:01:02] Processing 68/1106: microsoft/CSS-Exchange
+[2025-08-18 17:01:03] OK microsoft/CSS-Exchange: 13 merges in 30 days
+[2025-08-18 17:01:04] Processing 69/1106: microsoft/Microsoft365DSC
+[2025-08-18 17:01:04] OK microsoft/Microsoft365DSC: 0 merges in 30 days
+[2025-08-18 17:01:05] Processing 70/1106: microsoft/wslg
+[2025-08-18 17:01:06] OK microsoft/wslg: 0 merges in 30 days
+[2025-08-18 17:01:06] Processing 71/1106: microsoft/graphrag
+[2025-08-18 17:01:07] OK microsoft/graphrag: 0 merges in 30 days
+[2025-08-18 17:01:07] Processing 72/1106: microsoft/Policy-Weaver
+[2025-08-18 17:01:08] OK microsoft/Policy-Weaver: 7 merges in 30 days
+[2025-08-18 17:01:08] Processing 73/1106: microsoft/homebrew-git
+[2025-08-18 17:01:09] OK microsoft/homebrew-git: 0 merges in 30 days
+[2025-08-18 17:01:09] Processing 74/1106: microsoft/typescript-go
+[2025-08-18 17:01:10] OK microsoft/typescript-go: 0 merges in 30 days
+[2025-08-18 17:01:10] Processing 75/1106: microsoft/react-native-test-app
+[2025-08-18 17:01:11] OK microsoft/react-native-test-app: 0 merges in 30 days
+[2025-08-18 17:01:11] Processing 76/1106: microsoft/xdp-for-windows
+[2025-08-18 17:01:12] OK microsoft/xdp-for-windows: 0 merges in 30 days
+[2025-08-18 17:01:12] Processing 77/1106: microsoft/OpenAPI.NET
+[2025-08-18 17:01:13] OK microsoft/OpenAPI.NET: 9 merges in 30 days
+[2025-08-18 17:01:13] Processing 78/1106: microsoft/wassette
+[2025-08-18 17:01:15] OK microsoft/wassette: 21 merges in 30 days
+[2025-08-18 17:01:15] Processing 79/1106: microsoft/Generative-AI-for-beginners-java
+[2025-08-18 17:01:16] OK microsoft/Generative-AI-for-beginners-java: 26 merges in 30 days
+[2025-08-18 17:01:16] Processing 80/1106: microsoft/agent-lightning
+[2025-08-18 17:01:17] OK microsoft/agent-lightning: 0 merges in 30 days
+[2025-08-18 17:01:17] Processing 81/1106: microsoft/genaiscript
+[2025-08-18 17:01:18] OK microsoft/genaiscript: 0 merges in 30 days
+[2025-08-18 17:01:18] Processing 82/1106: microsoft/fluentui-contrib
+[2025-08-18 17:01:19] OK microsoft/fluentui-contrib: 0 merges in 30 days
+[2025-08-18 17:01:19] Processing 83/1106: microsoft/documentdb
+[2025-08-18 17:01:20] OK microsoft/documentdb: 0 merges in 30 days
+[2025-08-18 17:01:21] Processing 84/1106: microsoft/semantic-kernel-java
+[2025-08-18 17:01:22] OK microsoft/semantic-kernel-java: 1 merges in 30 days
+[2025-08-18 17:01:22] Processing 85/1106: microsoft/UFO
+[2025-08-18 17:01:23] OK microsoft/UFO: 2 merges in 30 days
+[2025-08-18 17:01:23] Processing 86/1106: microsoft/go-mssqldb
+[2025-08-18 17:01:24] OK microsoft/go-mssqldb: 0 merges in 30 days
+[2025-08-18 17:01:24] Processing 87/1106: microsoft/vscode-commander
+[2025-08-18 17:01:25] OK microsoft/vscode-commander: 0 merges in 30 days
+[2025-08-18 17:01:25] Processing 88/1106: microsoft/kiota
+[2025-08-18 17:01:26] OK microsoft/kiota: 51 merges in 30 days
+[2025-08-18 17:01:27] Processing 89/1106: microsoft/MoGe
+[2025-08-18 17:01:27] OK microsoft/MoGe: 0 merges in 30 days
+[2025-08-18 17:01:28] Processing 90/1106: microsoft/bioemu
+[2025-08-18 17:01:28] OK microsoft/bioemu: 0 merges in 30 days
+[2025-08-18 17:01:29] Processing 91/1106: microsoft/OptiGuide
+[2025-08-18 17:01:29] OK microsoft/OptiGuide: 1 merges in 30 days
+[2025-08-18 17:01:29] Processing 92/1106: microsoft/smtpoauth2
+[2025-08-18 17:01:30] OK microsoft/smtpoauth2: 1 merges in 30 days
+[2025-08-18 17:01:30] Processing 93/1106: microsoft/language-server-protocol
+[2025-08-18 17:01:31] OK microsoft/language-server-protocol: 0 merges in 30 days
+[2025-08-18 17:01:31] Processing 94/1106: microsoft/AnthropomorphicIntelligence
+[2025-08-18 17:01:32] OK microsoft/AnthropomorphicIntelligence: 5 merges in 30 days
+[2025-08-18 17:01:32] Processing 95/1106: microsoft/lets-learn-mcp-javascript
+[2025-08-18 17:01:33] OK microsoft/lets-learn-mcp-javascript: 4 merges in 30 days
+[2025-08-18 17:01:33] Processing 96/1106: microsoft/lets-learn-mcp-python
+[2025-08-18 17:01:34] OK microsoft/lets-learn-mcp-python: 0 merges in 30 days
+[2025-08-18 17:01:34] Processing 97/1106: microsoft/BCApps
+[2025-08-18 17:01:35] OK microsoft/BCApps: 0 merges in 30 days
+[2025-08-18 17:01:35] Processing 98/1106: microsoft/vcpkg
+[2025-08-18 17:01:36] OK microsoft/vcpkg: 0 merges in 30 days
+[2025-08-18 17:01:36] Processing 99/1106: microsoft/vscode-python-environments
+[2025-08-18 17:01:37] OK microsoft/vscode-python-environments: 0 merges in 30 days
+[2025-08-18 17:01:38] Processing 100/1106: microsoft/navcontainerhelper
+[2025-08-18 17:01:38] OK microsoft/navcontainerhelper: 0 merges in 30 days
+[2025-08-18 17:01:38] Processing 101/1106: microsoft/IoT-For-Beginners
+[2025-08-18 17:01:39] OK microsoft/IoT-For-Beginners: 0 merges in 30 days
+[2025-08-18 17:01:39] Processing 102/1106: microsoft/monaco-editor
+[2025-08-18 17:01:40] OK microsoft/monaco-editor: 0 merges in 30 days
+[2025-08-18 17:01:40] Processing 103/1106: microsoft/Data-Science-For-Beginners
+[2025-08-18 17:01:41] OK microsoft/Data-Science-For-Beginners: 1 merges in 30 days
+[2025-08-18 17:01:41] Processing 104/1106: microsoft/PowerApps-Samples
+[2025-08-18 17:01:42] OK microsoft/PowerApps-Samples: 0 merges in 30 days
+[2025-08-18 17:01:42] Processing 105/1106: microsoft/VbsEnclaveTooling
+[2025-08-18 17:01:43] OK microsoft/VbsEnclaveTooling: 0 merges in 30 days
+[2025-08-18 17:01:43] Processing 106/1106: microsoft/WSL
+[2025-08-18 17:01:44] OK microsoft/WSL: 0 merges in 30 days
+[2025-08-18 17:01:44] Processing 107/1106: microsoft/vscode-extension-samples
+[2025-08-18 17:01:45] OK microsoft/vscode-extension-samples: 9 merges in 30 days
+[2025-08-18 17:01:45] Processing 108/1106: microsoft/PowerAppsCodeApps
+[2025-08-18 17:01:46] OK microsoft/PowerAppsCodeApps: 5 merges in 30 days
+[2025-08-18 17:01:46] Processing 109/1106: microsoft/fluentui-charting-contrib
+[2025-08-18 17:01:47] OK microsoft/fluentui-charting-contrib: 0 merges in 30 days
+[2025-08-18 17:01:47] Processing 110/1106: microsoft/openaivec
+[2025-08-18 17:01:48] OK microsoft/openaivec: 17 merges in 30 days
+[2025-08-18 17:01:48] Processing 111/1106: microsoft/WinUI-Gallery
+[2025-08-18 17:01:49] OK microsoft/WinUI-Gallery: 0 merges in 30 days
+[2025-08-18 17:01:50] Processing 112/1106: microsoft/PowerPlatformConnectors
+[2025-08-18 17:01:50] OK microsoft/PowerPlatformConnectors: 0 merges in 30 days
+[2025-08-18 17:01:50] Processing 113/1106: microsoft/go-images-versions
+[2025-08-18 17:01:51] OK microsoft/go-images-versions: 0 merges in 30 days
+[2025-08-18 17:01:51] Processing 114/1106: microsoft/AL-Go
+[2025-08-18 17:01:52] OK microsoft/AL-Go: 0 merges in 30 days
+[2025-08-18 17:01:52] Processing 115/1106: microsoft/RetrievalAttention
+[2025-08-18 17:01:53] OK microsoft/RetrievalAttention: 0 merges in 30 days
+[2025-08-18 17:01:53] Processing 116/1106: microsoft/AzureLinuxVulnerabilityData
+[2025-08-18 17:01:54] OK microsoft/AzureLinuxVulnerabilityData: 0 merges in 30 days
+[2025-08-18 17:01:54] Processing 117/1106: microsoft/TinyTroupe
+[2025-08-18 17:01:55] OK microsoft/TinyTroupe: 1 merges in 30 days
+[2025-08-18 17:01:55] Processing 118/1106: microsoft/fluentui-system-icons
+[2025-08-18 17:01:56] OK microsoft/fluentui-system-icons: 0 merges in 30 days
+[2025-08-18 17:01:56] Processing 119/1106: microsoft/.github
+[2025-08-18 17:01:57] OK microsoft/.github: 1 merges in 30 days
+[2025-08-18 17:01:57] Processing 120/1106: microsoft/monosize
+[2025-08-18 17:01:58] OK microsoft/monosize: 0 merges in 30 days
+[2025-08-18 17:01:58] Processing 121/1106: microsoft/azure-pipelines-tasks
+[2025-08-18 17:01:59] OK microsoft/azure-pipelines-tasks: 0 merges in 30 days
+[2025-08-18 17:01:59] Processing 122/1106: microsoft/vscode-pull-request-github
+[2025-08-18 17:02:01] OK microsoft/vscode-pull-request-github: 0 merges in 30 days
+[2025-08-18 17:02:01] Processing 123/1106: microsoft/VSExtensibility
+[2025-08-18 17:02:02] OK microsoft/VSExtensibility: 1 merges in 30 days
+[2025-08-18 17:02:02] Processing 124/1106: microsoft/MSBuildCache
+[2025-08-18 17:02:03] OK microsoft/MSBuildCache: 0 merges in 30 days
+[2025-08-18 17:02:03] Processing 125/1106: microsoft/benchmark-qed
+[2025-08-18 17:02:03] OK microsoft/benchmark-qed: 0 merges in 30 days
+[2025-08-18 17:02:04] Processing 126/1106: microsoft/Tutel
+[2025-08-18 17:02:04] OK microsoft/Tutel: 0 merges in 30 days
+[2025-08-18 17:02:05] Processing 127/1106: microsoft/vscode-gulp-electron
+[2025-08-18 17:02:06] OK microsoft/vscode-gulp-electron: 0 merges in 30 days
+[2025-08-18 17:02:06] Processing 128/1106: microsoft/regorus
+[2025-08-18 17:02:07] OK microsoft/regorus: 0 merges in 30 days
+[2025-08-18 17:02:07] Processing 129/1106: microsoft/Build-your-own-copilot-Solution-Accelerator
+[2025-08-18 17:02:08] OK microsoft/Build-your-own-copilot-Solution-Accelerator: 6 merges in 30 days
+[2025-08-18 17:02:08] Processing 130/1106: microsoft/amudai
+[2025-08-18 17:02:09] OK microsoft/amudai: 0 merges in 30 days
+[2025-08-18 17:02:09] Processing 131/1106: microsoft/vscode-loc
+[2025-08-18 17:02:10] OK microsoft/vscode-loc: 0 merges in 30 days
+[2025-08-18 17:02:10] Processing 132/1106: microsoft/FLAML
+[2025-08-18 17:02:11] OK microsoft/FLAML: 0 merges in 30 days
+[2025-08-18 17:02:11] Processing 133/1106: microsoft/windows-drivers-rs
+[2025-08-18 17:02:12] OK microsoft/windows-drivers-rs: 0 merges in 30 days
+[2025-08-18 17:02:12] Processing 134/1106: microsoft/MInference
+[2025-08-18 17:02:13] OK microsoft/MInference: 0 merges in 30 days
+[2025-08-18 17:02:13] Processing 135/1106: microsoft/renderformer
+[2025-08-18 17:02:14] OK microsoft/renderformer: 0 merges in 30 days
+[2025-08-18 17:02:14] Processing 136/1106: microsoft/FIVE-UI-Evol
+[2025-08-18 17:02:15] OK microsoft/FIVE-UI-Evol: 0 merges in 30 days
+[2025-08-18 17:02:15] Processing 137/1106: microsoft/vscode-atom-keybindings
+[2025-08-18 17:02:16] OK microsoft/vscode-atom-keybindings: 0 merges in 30 days
+[2025-08-18 17:02:16] Processing 138/1106: microsoft/testfx
+[2025-08-18 17:02:17] OK microsoft/testfx: 10 merges in 30 days
+[2025-08-18 17:02:17] Processing 139/1106: microsoft/msbuild-lab328-cea-agentssdk
+[2025-08-18 17:02:18] OK microsoft/msbuild-lab328-cea-agentssdk: 8 merges in 30 days
+[2025-08-18 17:02:18] Processing 140/1106: microsoft/vscode-languageserver-node
+[2025-08-18 17:02:19] OK microsoft/vscode-languageserver-node: 0 merges in 30 days
+[2025-08-18 17:02:19] Processing 141/1106: microsoft/vscode-eslint
+[2025-08-18 17:02:20] OK microsoft/vscode-eslint: 0 merges in 30 days
+[2025-08-18 17:02:20] Processing 142/1106: microsoft/DeepVideoDiscovery
+[2025-08-18 17:02:21] OK microsoft/DeepVideoDiscovery: 1 merges in 30 days
+[2025-08-18 17:02:21] Processing 143/1106: microsoft/LightGBM
+[2025-08-18 17:02:22] OK microsoft/LightGBM: 0 merges in 30 days
+[2025-08-18 17:02:22] Processing 144/1106: microsoft/promptflow
+[2025-08-18 17:02:23] OK microsoft/promptflow: 0 merges in 30 days
+[2025-08-18 17:02:23] Processing 145/1106: microsoft/proxy
+[2025-08-18 17:02:24] OK microsoft/proxy: 0 merges in 30 days
+[2025-08-18 17:02:24] Processing 146/1106: microsoft/TaskWeaver
+[2025-08-18 17:02:25] OK microsoft/TaskWeaver: 0 merges in 30 days
+[2025-08-18 17:02:25] Processing 147/1106: microsoft/playwright.dev
+[2025-08-18 17:02:26] OK microsoft/playwright.dev: 0 merges in 30 days
+[2025-08-18 17:02:26] Processing 148/1106: microsoft/fluentui-blazor
+[2025-08-18 17:02:27] OK microsoft/fluentui-blazor: 0 merges in 30 days
+[2025-08-18 17:02:27] Processing 149/1106: microsoft/fabric-toolbox
+[2025-08-18 17:02:28] OK microsoft/fabric-toolbox: 20 merges in 30 days
+[2025-08-18 17:02:28] Processing 150/1106: microsoft/DirectXMath
+[2025-08-18 17:02:29] OK microsoft/DirectXMath: 0 merges in 30 days
+[2025-08-18 17:02:29] Processing 151/1106: microsoft/pyright
+[2025-08-18 17:02:30] OK microsoft/pyright: 0 merges in 30 days
+[2025-08-18 17:02:30] Processing 152/1106: microsoft/CopilotChatAnalytics
+[2025-08-18 17:02:31] OK microsoft/CopilotChatAnalytics: 1 merges in 30 days
+[2025-08-18 17:02:31] Processing 153/1106: microsoft/Generative-AI-for-beginners-dotnet
+[2025-08-18 17:02:32] OK microsoft/Generative-AI-for-beginners-dotnet: 21 merges in 30 days
+[2025-08-18 17:02:32] Processing 154/1106: microsoft/DAViD
+[2025-08-18 17:02:33] OK microsoft/DAViD: 0 merges in 30 days
+[2025-08-18 17:02:33] Processing 155/1106: microsoft/aurora
+[2025-08-18 17:02:34] OK microsoft/aurora: 9 merges in 30 days
+[2025-08-18 17:02:34] Processing 156/1106: microsoft/semantic-link-labs
+[2025-08-18 17:02:35] OK microsoft/semantic-link-labs: 13 merges in 30 days
+[2025-08-18 17:02:35] Processing 157/1106: microsoft/Detours
+[2025-08-18 17:02:36] OK microsoft/Detours: 0 merges in 30 days
+[2025-08-18 17:02:36] Processing 158/1106: microsoft/SeerAttention
+[2025-08-18 17:02:37] OK microsoft/SeerAttention: 0 merges in 30 days
+[2025-08-18 17:02:37] Processing 159/1106: microsoft/AzureTRE
+[2025-08-18 17:02:38] OK microsoft/AzureTRE: 0 merges in 30 days
+[2025-08-18 17:02:38] Processing 160/1106: microsoft/Windows-Cross-Device
+[2025-08-18 17:02:39] OK microsoft/Windows-Cross-Device: 2 merges in 30 days
+[2025-08-18 17:02:39] Processing 161/1106: microsoft/GUI-Actor
+[2025-08-18 17:02:40] OK microsoft/GUI-Actor: 0 merges in 30 days
+[2025-08-18 17:02:40] Processing 162/1106: microsoft/react-native-windows-samples
+[2025-08-18 17:02:41] OK microsoft/react-native-windows-samples: 0 merges in 30 days
+[2025-08-18 17:02:41] Processing 163/1106: microsoft/mimalloc
+[2025-08-18 17:02:42] OK microsoft/mimalloc: 0 merges in 30 days
+[2025-08-18 17:02:42] Processing 164/1106: microsoft/rushstack
+[2025-08-18 17:02:43] OK microsoft/rushstack: 0 merges in 30 days
+[2025-08-18 17:02:43] Processing 165/1106: microsoft/fluentui-react-native
+[2025-08-18 17:02:44] OK microsoft/fluentui-react-native: 0 merges in 30 days
+[2025-08-18 17:02:44] Processing 166/1106: microsoft/Microsoft-Win32-Content-Prep-Tool
+[2025-08-18 17:02:45] OK microsoft/Microsoft-Win32-Content-Prep-Tool: 0 merges in 30 days
+[2025-08-18 17:02:45] Processing 167/1106: microsoft/mssql-django
+[2025-08-18 17:02:46] OK microsoft/mssql-django: 0 merges in 30 days
+[2025-08-18 17:02:46] Processing 168/1106: microsoft/fabric-rti-mcp
+[2025-08-18 17:02:47] OK microsoft/fabric-rti-mcp: 1 merges in 30 days
+[2025-08-18 17:02:47] Processing 169/1106: microsoft/mattergen
+[2025-08-18 17:02:48] OK microsoft/mattergen: 1 merges in 30 days
+[2025-08-18 17:02:48] Processing 170/1106: microsoft/PhiCookBook
+[2025-08-18 17:02:49] OK microsoft/PhiCookBook: 0 merges in 30 days
+[2025-08-18 17:02:49] Processing 171/1106: microsoft/WPF-Samples
+[2025-08-18 17:02:50] OK microsoft/WPF-Samples: 0 merges in 30 days
+[2025-08-18 17:02:50] Processing 172/1106: microsoft/component-detection
+[2025-08-18 17:02:51] OK microsoft/component-detection: 0 merges in 30 days
+[2025-08-18 17:02:52] Processing 173/1106: microsoft/SCXcore-osskits
+[2025-08-18 17:02:53] OK microsoft/SCXcore-osskits: 0 merges in 30 days
+[2025-08-18 17:02:53] Processing 174/1106: microsoft/crescent-credentials
+[2025-08-18 17:02:54] OK microsoft/crescent-credentials: 0 merges in 30 days
+[2025-08-18 17:02:54] Processing 175/1106: microsoft/TypeScript-DOM-lib-generator
+[2025-08-18 17:02:55] OK microsoft/TypeScript-DOM-lib-generator: 0 merges in 30 days
+[2025-08-18 17:02:55] Processing 176/1106: microsoft/demikernel
+[2025-08-18 17:02:56] OK microsoft/demikernel: 0 merges in 30 days
+[2025-08-18 17:02:56] Processing 177/1106: microsoft/mcp-dotnet-samples
+[2025-08-18 17:02:57] OK microsoft/mcp-dotnet-samples: 0 merges in 30 days
+[2025-08-18 17:02:57] Processing 178/1106: microsoft/dion
+[2025-08-18 17:02:58] OK microsoft/dion: 2 merges in 30 days
+[2025-08-18 17:02:58] Processing 179/1106: microsoft/powerbi-desktop-samples
+[2025-08-18 17:02:59] OK microsoft/powerbi-desktop-samples: 0 merges in 30 days
+[2025-08-18 17:02:59] Processing 180/1106: microsoft/PEACE
+[2025-08-18 17:03:00] OK microsoft/PEACE: 0 merges in 30 days
+[2025-08-18 17:03:00] Processing 181/1106: microsoft/vscode-ts-customized-language-service
+[2025-08-18 17:03:01] OK microsoft/vscode-ts-customized-language-service: 2 merges in 30 days
+[2025-08-18 17:03:01] Processing 182/1106: microsoft/vscode-debug-value-editor
+[2025-08-18 17:03:02] OK microsoft/vscode-debug-value-editor: 2 merges in 30 days
+[2025-08-18 17:03:03] Processing 183/1106: microsoft/vscode-ts-file-path-support
+[2025-08-18 17:03:03] OK microsoft/vscode-ts-file-path-support: 1 merges in 30 days
+[2025-08-18 17:03:03] Processing 184/1106: microsoft/vscode-diagnostic-tools
+[2025-08-18 17:03:04] OK microsoft/vscode-diagnostic-tools: 2 merges in 30 days
+[2025-08-18 17:03:04] Processing 185/1106: microsoft/vscode-python
+[2025-08-18 17:03:05] OK microsoft/vscode-python: 0 merges in 30 days
+[2025-08-18 17:03:05] Processing 186/1106: microsoft/azuredatastudio
+[2025-08-18 17:03:06] OK microsoft/azuredatastudio: 0 merges in 30 days
+[2025-08-18 17:03:06] Processing 187/1106: microsoft/Document-Knowledge-Mining-Solution-Accelerator
+[2025-08-18 17:03:07] OK microsoft/Document-Knowledge-Mining-Solution-Accelerator: 4 merges in 30 days
+[2025-08-18 17:03:07] Processing 188/1106: microsoft/snmalloc
+[2025-08-18 17:03:08] OK microsoft/snmalloc: 0 merges in 30 days
+[2025-08-18 17:03:08] Processing 189/1106: microsoft/mssql-jdbc
+[2025-08-18 17:03:09] OK microsoft/mssql-jdbc: 0 merges in 30 days
+[2025-08-18 17:03:09] Processing 190/1106: microsoft/coe-starter-kit
+[2025-08-18 17:03:10] OK microsoft/coe-starter-kit: 0 merges in 30 days
+[2025-08-18 17:03:10] Processing 191/1106: microsoft/HeurAgenix
+[2025-08-18 17:03:11] OK microsoft/HeurAgenix: 0 merges in 30 days
+[2025-08-18 17:03:11] Processing 192/1106: microsoft/Conversation-Knowledge-Mining-Solution-Accelerator
+[2025-08-18 17:03:12] OK microsoft/Conversation-Knowledge-Mining-Solution-Accelerator: 19 merges in 30 days
+[2025-08-18 17:03:13] Processing 193/1106: microsoft/promptbench
+[2025-08-18 17:03:13] OK microsoft/promptbench: 0 merges in 30 days
+[2025-08-18 17:03:14] Processing 194/1106: microsoft/Nova
+[2025-08-18 17:03:15] OK microsoft/Nova: 0 merges in 30 days
+[2025-08-18 17:03:15] Processing 195/1106: microsoft/triton-shared
+[2025-08-18 17:03:16] OK microsoft/triton-shared: 0 merges in 30 days
+[2025-08-18 17:03:16] Processing 196/1106: microsoft/api-guidelines
+[2025-08-18 17:03:17] OK microsoft/api-guidelines: 0 merges in 30 days
+[2025-08-18 17:03:17] Processing 197/1106: microsoft/vscode-python-web-wasm
+[2025-08-18 17:03:18] OK microsoft/vscode-python-web-wasm: 2 merges in 30 days
+[2025-08-18 17:03:18] Processing 198/1106: microsoft/fast
+[2025-08-18 17:03:19] OK microsoft/fast: 0 merges in 30 days
+[2025-08-18 17:03:19] Processing 199/1106: microsoft/Foundry-Local
+[2025-08-18 17:03:20] OK microsoft/Foundry-Local: 0 merges in 30 days
+[2025-08-18 17:03:20] Processing 200/1106: microsoft/connected-workbooks
+[2025-08-18 17:03:21] OK microsoft/connected-workbooks: 6 merges in 30 days
+[2025-08-18 17:03:21] Processing 201/1106: microsoft/rust-guidelines
+[2025-08-18 17:03:22] OK microsoft/rust-guidelines: 0 merges in 30 days
+[2025-08-18 17:03:22] Processing 202/1106: microsoft/SynapseML
+[2025-08-18 17:03:23] OK microsoft/SynapseML: 0 merges in 30 days
+[2025-08-18 17:03:23] Processing 203/1106: microsoft/openjdk-jdk
+[2025-08-18 17:03:25] OK microsoft/openjdk-jdk: 0 merges in 30 days
+[2025-08-18 17:03:25] Processing 204/1106: microsoft/pylance-release
+[2025-08-18 17:03:26] OK microsoft/pylance-release: 0 merges in 30 days
+[2025-08-18 17:03:26] Processing 205/1106: microsoft/TRELLIS
+[2025-08-18 17:03:27] OK microsoft/TRELLIS: 0 merges in 30 days
+[2025-08-18 17:03:27] Processing 206/1106: microsoft/vscode-mssql
+[2025-08-18 17:03:28] OK microsoft/vscode-mssql: 0 merges in 30 days
+[2025-08-18 17:03:28] Processing 207/1106: microsoft/Power-CAT-Copilot-Studio-Kit
+[2025-08-18 17:03:29] OK microsoft/Power-CAT-Copilot-Studio-Kit: 6 merges in 30 days
+[2025-08-18 17:03:29] Processing 208/1106: microsoft/VS-Code-Dev-Days
+[2025-08-18 17:03:30] OK microsoft/VS-Code-Dev-Days: 5 merges in 30 days
+[2025-08-18 17:03:30] Processing 209/1106: microsoft/STL
+[2025-08-18 17:03:31] OK microsoft/STL: 0 merges in 30 days
+[2025-08-18 17:03:31] Processing 210/1106: microsoft/CopilotAdventures
+[2025-08-18 17:03:32] OK microsoft/CopilotAdventures: 3 merges in 30 days
+[2025-08-18 17:03:32] Processing 211/1106: microsoft/CopilotStudioSamples
+[2025-08-18 17:03:33] OK microsoft/CopilotStudioSamples: 0 merges in 30 days
+[2025-08-18 17:03:33] Processing 212/1106: microsoft/copilot-camp
+[2025-08-18 17:03:34] OK microsoft/copilot-camp: 28 merges in 30 days
+[2025-08-18 17:03:34] Processing 213/1106: microsoft/MarS
+[2025-08-18 17:03:35] OK microsoft/MarS: 0 merges in 30 days
+[2025-08-18 17:03:35] Processing 214/1106: microsoft/RulesEngine
+[2025-08-18 17:03:36] OK microsoft/RulesEngine: 0 merges in 30 days
+[2025-08-18 17:03:36] Processing 215/1106: microsoft/pxt-microbit
+[2025-08-18 17:03:37] OK microsoft/pxt-microbit: 0 merges in 30 days
+[2025-08-18 17:03:37] Processing 216/1106: microsoft/onnxruntime-swift-package-manager
+[2025-08-18 17:03:38] OK microsoft/onnxruntime-swift-package-manager: 1 merges in 30 days
+[2025-08-18 17:03:38] Processing 217/1106: microsoft/DirectX-Graphics-Samples
+[2025-08-18 17:03:39] OK microsoft/DirectX-Graphics-Samples: 0 merges in 30 days
+[2025-08-18 17:03:39] Processing 218/1106: microsoft/mdatp-xplat
+[2025-08-18 17:03:39] OK microsoft/mdatp-xplat: 0 merges in 30 days
+[2025-08-18 17:03:40] Processing 219/1106: microsoft/Modernize-your-code-solution-accelerator
+[2025-08-18 17:03:41] OK microsoft/Modernize-your-code-solution-accelerator: 11 merges in 30 days
+[2025-08-18 17:03:41] Processing 220/1106: microsoft/GitHub-Copilot-for-Azure
+[2025-08-18 17:03:42] OK microsoft/GitHub-Copilot-for-Azure: 0 merges in 30 days
+[2025-08-18 17:03:42] Processing 221/1106: microsoft/vscode-react-native
+[2025-08-18 17:03:43] OK microsoft/vscode-react-native: 0 merges in 30 days
+[2025-08-18 17:03:43] Processing 222/1106: microsoft/BiomedParse
+[2025-08-18 17:03:44] OK microsoft/BiomedParse: 0 merges in 30 days
+[2025-08-18 17:03:44] Processing 223/1106: microsoft/sql-server-samples
+[2025-08-18 17:03:45] OK microsoft/sql-server-samples: 0 merges in 30 days
+[2025-08-18 17:03:45] Processing 224/1106: microsoft/copilot-intellij-feedback
+[2025-08-18 17:03:46] OK microsoft/copilot-intellij-feedback: 0 merges in 30 days
+[2025-08-18 17:03:46] Processing 225/1106: microsoft/Xbox-GDK-Samples
+[2025-08-18 17:03:46] OK microsoft/Xbox-GDK-Samples: 0 merges in 30 days
+[2025-08-18 17:03:47] Processing 226/1106: microsoft/SQLCallStackResolver
+[2025-08-18 17:03:48] OK microsoft/SQLCallStackResolver: 0 merges in 30 days
+[2025-08-18 17:03:48] Processing 227/1106: microsoft/Kusto-Query-Language
+[2025-08-18 17:03:49] OK microsoft/Kusto-Query-Language: 0 merges in 30 days
+[2025-08-18 17:03:49] Processing 228/1106: microsoft/VirtualClient
+[2025-08-18 17:03:50] OK microsoft/VirtualClient: 0 merges in 30 days
+[2025-08-18 17:03:50] Processing 229/1106: microsoft/WindowsAppSDK-Samples
+[2025-08-18 17:03:51] OK microsoft/WindowsAppSDK-Samples: 0 merges in 30 days
+[2025-08-18 17:03:51] Processing 230/1106: microsoft/agenthonseoul2025
+[2025-08-18 17:03:52] OK microsoft/agenthonseoul2025: 0 merges in 30 days
+[2025-08-18 17:03:52] Processing 231/1106: microsoft/onnxruntime-inference-examples
+[2025-08-18 17:03:53] OK microsoft/onnxruntime-inference-examples: 0 merges in 30 days
+[2025-08-18 17:03:53] Processing 232/1106: microsoft/DiskANN
+[2025-08-18 17:03:54] OK microsoft/DiskANN: 0 merges in 30 days
+[2025-08-18 17:03:54] Processing 233/1106: microsoft/promptpex
+[2025-08-18 17:03:55] OK microsoft/promptpex: 1 merges in 30 days
+[2025-08-18 17:03:55] Processing 234/1106: microsoft/MIDI
+[2025-08-18 17:03:56] OK microsoft/MIDI: 16 merges in 30 days
+[2025-08-18 17:03:56] Processing 235/1106: microsoft/vidur
+[2025-08-18 17:03:57] OK microsoft/vidur: 0 merges in 30 days
+[2025-08-18 17:03:57] Processing 236/1106: microsoft/azure-pipelines-agent
+[2025-08-18 17:03:58] OK microsoft/azure-pipelines-agent: 0 merges in 30 days
+[2025-08-18 17:03:58] Processing 237/1106: microsoft/FeatureManagement
+[2025-08-18 17:03:59] OK microsoft/FeatureManagement: 0 merges in 30 days
+[2025-08-18 17:03:59] Processing 238/1106: microsoft/TypeAgent
+[2025-08-18 17:04:01] OK microsoft/TypeAgent: 0 merges in 30 days
+[2025-08-18 17:04:01] Processing 239/1106: microsoft/azurelinux
+[2025-08-18 17:04:02] OK microsoft/azurelinux: 0 merges in 30 days
+[2025-08-18 17:04:02] Processing 240/1106: microsoft/Power-Fx
+[2025-08-18 17:04:03] OK microsoft/Power-Fx: 0 merges in 30 days
+[2025-08-18 17:04:03] Processing 241/1106: microsoft/typespec
+[2025-08-18 17:04:04] OK microsoft/typespec: 0 merges in 30 days
+[2025-08-18 17:04:05] Processing 242/1106: microsoft/vscode-jupyter
+[2025-08-18 17:04:05] OK microsoft/vscode-jupyter: 0 merges in 30 days
+[2025-08-18 17:04:06] Processing 243/1106: microsoft/DirectX-SDK-Samples
+[2025-08-18 17:04:06] OK microsoft/DirectX-SDK-Samples: 0 merges in 30 days
+[2025-08-18 17:04:06] Processing 244/1106: microsoft/BitBLAS
+[2025-08-18 17:04:07] OK microsoft/BitBLAS: 0 merges in 30 days
+[2025-08-18 17:04:07] Processing 245/1106: microsoft/Windows-driver-samples
+[2025-08-18 17:04:08] OK microsoft/Windows-driver-samples: 2 merges in 30 days
+[2025-08-18 17:04:08] Processing 246/1106: microsoft/vscode-java-pack
+[2025-08-18 17:04:09] OK microsoft/vscode-java-pack: 0 merges in 30 days
+[2025-08-18 17:04:09] Processing 247/1106: microsoft/garnet
+[2025-08-18 17:04:10] OK microsoft/garnet: 0 merges in 30 days
+[2025-08-18 17:04:11] Processing 248/1106: microsoft/Olive
+[2025-08-18 17:04:12] OK microsoft/Olive: 0 merges in 30 days
+[2025-08-18 17:04:12] Processing 249/1106: microsoft/multilspy
+[2025-08-18 17:04:13] OK microsoft/multilspy: 3 merges in 30 days
+[2025-08-18 17:04:13] Processing 250/1106: microsoft/vscode-java-debug
+[2025-08-18 17:04:14] OK microsoft/vscode-java-debug: 0 merges in 30 days
+[2025-08-18 17:04:14] Processing 251/1106: microsoft/vscode-java-dependency
+[2025-08-18 17:04:15] OK microsoft/vscode-java-dependency: 0 merges in 30 days
+[2025-08-18 17:04:15] Processing 252/1106: microsoft/perfview
+[2025-08-18 17:04:16] OK microsoft/perfview: 0 merges in 30 days
+[2025-08-18 17:04:16] Processing 253/1106: microsoft/vscode-pgsql
+[2025-08-18 17:04:17] OK microsoft/vscode-pgsql: 0 merges in 30 days
+[2025-08-18 17:04:17] Processing 254/1106: microsoft/prompty
+[2025-08-18 17:04:18] OK microsoft/prompty: 4 merges in 30 days
+[2025-08-18 17:04:18] Processing 255/1106: microsoft/DKI_LLM
+[2025-08-18 17:04:19] OK microsoft/DKI_LLM: 0 merges in 30 days
+[2025-08-18 17:04:19] Processing 256/1106: microsoft/purview-data-governance-masterclass
+[2025-08-18 17:04:20] OK microsoft/purview-data-governance-masterclass: 1 merges in 30 days
+[2025-08-18 17:04:21] Processing 257/1106: microsoft/Semi-supervised-learning
+[2025-08-18 17:04:21] OK microsoft/Semi-supervised-learning: 0 merges in 30 days
+[2025-08-18 17:04:22] Processing 258/1106: microsoft/mineworld
+[2025-08-18 17:04:22] OK microsoft/mineworld: 0 merges in 30 days
+[2025-08-18 17:04:22] Processing 259/1106: microsoft/azure-roles
+[2025-08-18 17:04:23] OK microsoft/azure-roles: 0 merges in 30 days
+[2025-08-18 17:04:23] Processing 260/1106: microsoft/vscode-typescript-next
+[2025-08-18 17:04:24] OK microsoft/vscode-typescript-next: 0 merges in 30 days
+[2025-08-18 17:04:25] Processing 261/1106: microsoft/agent-academy
+[2025-08-18 17:04:26] OK microsoft/agent-academy: 39 merges in 30 days
+[2025-08-18 17:04:26] Processing 262/1106: microsoft/HydraLab
+[2025-08-18 17:04:27] OK microsoft/HydraLab: 0 merges in 30 days
+[2025-08-18 17:04:27] Processing 263/1106: microsoft/mcp
+[2025-08-18 17:04:28] OK microsoft/mcp: 0 merges in 30 days
+[2025-08-18 17:04:28] Processing 264/1106: microsoft/ai-developer
+[2025-08-18 17:04:29] OK microsoft/ai-developer: 0 merges in 30 days
+[2025-08-18 17:04:29] Processing 265/1106: microsoft/lsprotocol
+[2025-08-18 17:04:30] OK microsoft/lsprotocol: 0 merges in 30 days
+[2025-08-18 17:04:30] Processing 266/1106: microsoft/pdb-rs
+[2025-08-18 17:04:31] OK microsoft/pdb-rs: 0 merges in 30 days
+[2025-08-18 17:04:31] Processing 267/1106: microsoft/Agents
+[2025-08-18 17:04:32] OK microsoft/Agents: 20 merges in 30 days
+[2025-08-18 17:04:32] Processing 268/1106: microsoft/fabric-samples
+[2025-08-18 17:04:33] OK microsoft/fabric-samples: 5 merges in 30 days
+[2025-08-18 17:04:33] Processing 269/1106: microsoft/vscode-ai-toolkit
+[2025-08-18 17:04:34] OK microsoft/vscode-ai-toolkit: 1 merges in 30 days
+[2025-08-18 17:04:34] Processing 270/1106: microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator
+[2025-08-18 17:04:36] OK microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator: 16 merges in 30 days
+[2025-08-18 17:04:36] Processing 271/1106: microsoft/xbox-live-trace-analyzer
+[2025-08-18 17:04:37] OK microsoft/xbox-live-trace-analyzer: 0 merges in 30 days
+[2025-08-18 17:04:37] Processing 272/1106: microsoft/azure-quantum-python
+[2025-08-18 17:04:38] OK microsoft/azure-quantum-python: 0 merges in 30 days
+[2025-08-18 17:04:38] Processing 273/1106: microsoft/generative-ai-with-javascript
+[2025-08-18 17:04:39] OK microsoft/generative-ai-with-javascript: 0 merges in 30 days
+[2025-08-18 17:04:39] Processing 274/1106: microsoft/onnxruntime-genai
+[2025-08-18 17:04:40] OK microsoft/onnxruntime-genai: 0 merges in 30 days
+[2025-08-18 17:04:40] Processing 275/1106: microsoft/cheriot-safe
+[2025-08-18 17:04:41] OK microsoft/cheriot-safe: 1 merges in 30 days
+[2025-08-18 17:04:41] Processing 276/1106: microsoft/debugpy
+[2025-08-18 17:04:42] OK microsoft/debugpy: 0 merges in 30 days
+[2025-08-18 17:04:42] Processing 277/1106: microsoft/PromptWizard
+[2025-08-18 17:04:43] OK microsoft/PromptWizard: 0 merges in 30 days
+[2025-08-18 17:04:43] Processing 278/1106: microsoft/DevSkim
+[2025-08-18 17:04:44] OK microsoft/DevSkim: 0 merges in 30 days
+[2025-08-18 17:04:44] Processing 279/1106: microsoft/chartifact
+[2025-08-18 17:04:45] OK microsoft/chartifact: 6 merges in 30 days
+[2025-08-18 17:04:46] Processing 280/1106: microsoft/CsWin32
+[2025-08-18 17:04:47] OK microsoft/CsWin32: 0 merges in 30 days
+[2025-08-18 17:04:47] Processing 281/1106: microsoft/XmlNotepad
+[2025-08-18 17:04:48] OK microsoft/XmlNotepad: 0 merges in 30 days
+[2025-08-18 17:04:48] Processing 282/1106: microsoft/SdnDiagnostics
+[2025-08-18 17:04:49] OK microsoft/SdnDiagnostics: 0 merges in 30 days
+[2025-08-18 17:04:49] Processing 283/1106: microsoft/sbom-tool
+[2025-08-18 17:04:50] OK microsoft/sbom-tool: 0 merges in 30 days
+[2025-08-18 17:04:50] Processing 284/1106: microsoft/vscode-perf-bot
+[2025-08-18 17:04:51] OK microsoft/vscode-perf-bot: 2 merges in 30 days
+[2025-08-18 17:04:51] Processing 285/1106: microsoft/igvm
+[2025-08-18 17:04:52] OK microsoft/igvm: 0 merges in 30 days
+[2025-08-18 17:04:52] Processing 286/1106: microsoft/ebpf-for-windows
+[2025-08-18 17:04:53] OK microsoft/ebpf-for-windows: 0 merges in 30 days
+[2025-08-18 17:04:53] Processing 287/1106: microsoft/CameraTraps
+[2025-08-18 17:04:54] OK microsoft/CameraTraps: 1 merges in 30 days
+[2025-08-18 17:04:54] Processing 288/1106: microsoft/winget-cli-restsource
+[2025-08-18 17:04:55] OK microsoft/winget-cli-restsource: 0 merges in 30 days
+[2025-08-18 17:04:55] Processing 289/1106: microsoft/call-center-ai
+[2025-08-18 17:04:56] OK microsoft/call-center-ai: 0 merges in 30 days
+[2025-08-18 17:04:56] Processing 290/1106: microsoft/libsyncrpc
+[2025-08-18 17:04:57] OK microsoft/libsyncrpc: 0 merges in 30 days
+[2025-08-18 17:04:57] Processing 291/1106: microsoft/Microsoft.Unity.Analyzers
+[2025-08-18 17:04:58] OK microsoft/Microsoft.Unity.Analyzers: 0 merges in 30 days
+[2025-08-18 17:04:58] Processing 292/1106: microsoft/KBLaM
+[2025-08-18 17:04:59] OK microsoft/KBLaM: 0 merges in 30 days
+[2025-08-18 17:04:59] Processing 293/1106: microsoft/GSL
+[2025-08-18 17:05:00] OK microsoft/GSL: 0 merges in 30 days
+[2025-08-18 17:05:00] Processing 294/1106: microsoft/vscode-wiki
+[2025-08-18 17:05:01] OK microsoft/vscode-wiki: 2 merges in 30 days
+[2025-08-18 17:05:01] Processing 295/1106: microsoft/cppwinrt
+[2025-08-18 17:05:02] OK microsoft/cppwinrt: 0 merges in 30 days
+[2025-08-18 17:05:02] Processing 296/1106: microsoft/Windows-Machine-Learning
+[2025-08-18 17:05:02] OK microsoft/Windows-Machine-Learning: 0 merges in 30 days
+[2025-08-18 17:05:03] Processing 297/1106: microsoft/dynamics365patternspractices
+[2025-08-18 17:05:03] OK microsoft/dynamics365patternspractices: 1 merges in 30 days
+[2025-08-18 17:05:04] Processing 298/1106: microsoft/bpf_performance
+[2025-08-18 17:05:04] OK microsoft/bpf_performance: 5 merges in 30 days
+[2025-08-18 17:05:04] Processing 299/1106: microsoft/vsmarketplace
+[2025-08-18 17:05:05] OK microsoft/vsmarketplace: 6 merges in 30 days
+[2025-08-18 17:05:05] Processing 300/1106: microsoft/vscode-generator-code
+[2025-08-18 17:05:06] OK microsoft/vscode-generator-code: 0 merges in 30 days
+[2025-08-18 17:05:06] Processing 301/1106: microsoft/villa-x
+[2025-08-18 17:05:07] OK microsoft/villa-x: 0 merges in 30 days
+[2025-08-18 17:05:07] Processing 302/1106: microsoft/sample-app-aoai-chatGPT
+[2025-08-18 17:05:08] OK microsoft/sample-app-aoai-chatGPT: 0 merges in 30 days
+[2025-08-18 17:05:08] Processing 303/1106: microsoft/livedrbench
+[2025-08-18 17:05:09] OK microsoft/livedrbench: 0 merges in 30 days
+[2025-08-18 17:05:09] Processing 304/1106: microsoft/TypeScript-Website
+[2025-08-18 17:05:10] OK microsoft/TypeScript-Website: 0 merges in 30 days
+[2025-08-18 17:05:10] Processing 305/1106: microsoft/onnxruntime-extensions
+[2025-08-18 17:05:11] OK microsoft/onnxruntime-extensions: 0 merges in 30 days
+[2025-08-18 17:05:11] Processing 306/1106: microsoft/agent-for-rfp-response-solution-accelerator
+[2025-08-18 17:05:12] OK microsoft/agent-for-rfp-response-solution-accelerator: 0 merges in 30 days
+[2025-08-18 17:05:12] Processing 307/1106: microsoft/msquic
+[2025-08-18 17:05:13] OK microsoft/msquic: 0 merges in 30 days
+[2025-08-18 17:05:13] Processing 308/1106: microsoft/SLiCE
+[2025-08-18 17:05:14] OK microsoft/SLiCE: 8 merges in 30 days
+[2025-08-18 17:05:14] Processing 309/1106: microsoft/node-pty
+[2025-08-18 17:05:15] OK microsoft/node-pty: 0 merges in 30 days
+[2025-08-18 17:05:15] Processing 310/1106: microsoft/BotFramework-WebChat
+[2025-08-18 17:05:16] OK microsoft/BotFramework-WebChat: 0 merges in 30 days
+[2025-08-18 17:05:16] Processing 311/1106: microsoft/symphony
+[2025-08-18 17:05:17] OK microsoft/symphony: 0 merges in 30 days
+[2025-08-18 17:05:17] Processing 312/1106: microsoft/FluidFramework
+[2025-08-18 17:05:18] OK microsoft/FluidFramework: 0 merges in 30 days
+[2025-08-18 17:05:18] Processing 313/1106: microsoft/codespace-features
+[2025-08-18 17:05:19] OK microsoft/codespace-features: 0 merges in 30 days
+[2025-08-18 17:05:19] Processing 314/1106: microsoft/CMake
+[2025-08-18 17:05:20] OK microsoft/CMake: 0 merges in 30 days
+[2025-08-18 17:05:20] Processing 315/1106: microsoft/openvmm
+[2025-08-18 17:05:21] OK microsoft/openvmm: 0 merges in 30 days
+[2025-08-18 17:05:21] Processing 316/1106: microsoft/AIOpsLab
+[2025-08-18 17:05:22] OK microsoft/AIOpsLab: 5 merges in 30 days
+[2025-08-18 17:05:22] Processing 317/1106: microsoft/DirectXShaderCompiler
+[2025-08-18 17:05:23] OK microsoft/DirectXShaderCompiler: 0 merges in 30 days
+[2025-08-18 17:05:23] Processing 318/1106: microsoft/slow-cheetah
+[2025-08-18 17:05:24] OK microsoft/slow-cheetah: 0 merges in 30 days
+[2025-08-18 17:05:24] Processing 319/1106: microsoft/Solution-Accelerators
+[2025-08-18 17:05:25] OK microsoft/Solution-Accelerators: 1 merges in 30 days
+[2025-08-18 17:05:25] Processing 320/1106: microsoft/Microsoft.IO.RecyclableMemoryStream
+[2025-08-18 17:05:26] OK microsoft/Microsoft.IO.RecyclableMemoryStream: 0 merges in 30 days
+[2025-08-18 17:05:26] Processing 321/1106: microsoft/mstic
+[2025-08-18 17:05:26] OK microsoft/mstic: 0 merges in 30 days
+[2025-08-18 17:05:27] Processing 322/1106: microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop
+[2025-08-18 17:05:27] OK microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop: 0 merges in 30 days
+[2025-08-18 17:05:27] Processing 323/1106: microsoft/vscode-containers
+[2025-08-18 17:05:28] OK microsoft/vscode-containers: 0 merges in 30 days
+[2025-08-18 17:05:28] Processing 324/1106: microsoft/vscode-js-debug
+[2025-08-18 17:05:29] OK microsoft/vscode-js-debug: 0 merges in 30 days
+[2025-08-18 17:05:29] Processing 325/1106: microsoft/ctsTraffic
+[2025-08-18 17:05:30] OK microsoft/ctsTraffic: 0 merges in 30 days
+[2025-08-18 17:05:30] Processing 326/1106: microsoft/maker.js
+[2025-08-18 17:05:31] OK microsoft/maker.js: 0 merges in 30 days
+[2025-08-18 17:05:31] Processing 327/1106: microsoft/react-native-macos
+[2025-08-18 17:05:32] OK microsoft/react-native-macos: 0 merges in 30 days
+[2025-08-18 17:05:33] Processing 328/1106: microsoft/vscode-dotnettools
+[2025-08-18 17:05:33] OK microsoft/vscode-dotnettools: 3 merges in 30 days
+[2025-08-18 17:05:34] Processing 329/1106: microsoft/Qcodes
+[2025-08-18 17:05:35] OK microsoft/Qcodes: 49 merges in 30 days
+[2025-08-18 17:05:35] Processing 330/1106: microsoft/debug-adapter-protocol
+[2025-08-18 17:05:36] OK microsoft/debug-adapter-protocol: 0 merges in 30 days
+[2025-08-18 17:05:36] Processing 331/1106: microsoft/model-mondays
+[2025-08-18 17:05:37] OK microsoft/model-mondays: 16 merges in 30 days
+[2025-08-18 17:05:37] Processing 332/1106: microsoft/document-generation-solution-accelerator
+[2025-08-18 17:05:38] OK microsoft/document-generation-solution-accelerator: 18 merges in 30 days
+[2025-08-18 17:05:38] Processing 333/1106: microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator
+[2025-08-18 17:05:39] OK microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator: 2 merges in 30 days
+[2025-08-18 17:05:39] Processing 334/1106: microsoft/content-processing-solution-accelerator
+[2025-08-18 17:05:40] OK microsoft/content-processing-solution-accelerator: 7 merges in 30 days
+[2025-08-18 17:05:40] Processing 335/1106: microsoft/agent-for-hr-service-solution-accelerator
+[2025-08-18 17:05:41] OK microsoft/agent-for-hr-service-solution-accelerator: 0 merges in 30 days
+[2025-08-18 17:05:41] Processing 336/1106: microsoft/Agent-for-Contract-Processing-Solution-Accelerator
+[2025-08-18 17:05:42] OK microsoft/Agent-for-Contract-Processing-Solution-Accelerator: 1 merges in 30 days
+[2025-08-18 17:05:42] Processing 337/1106: microsoft/recipe-tool
+[2025-08-18 17:05:43] OK microsoft/recipe-tool: 4 merges in 30 days
+[2025-08-18 17:05:43] Processing 338/1106: microsoft/pxt
+[2025-08-18 17:05:44] OK microsoft/pxt: 0 merges in 30 days
+[2025-08-18 17:05:44] Processing 339/1106: microsoft/vscode-vsce
+[2025-08-18 17:05:45] OK microsoft/vscode-vsce: 1 merges in 30 days
+[2025-08-18 17:05:45] Processing 340/1106: microsoft/SuiGeneris
+[2025-08-18 17:05:46] OK microsoft/SuiGeneris: 0 merges in 30 days
+[2025-08-18 17:05:46] Processing 341/1106: microsoft/Reversible-App-Sample
+[2025-08-18 17:05:47] OK microsoft/Reversible-App-Sample: 1 merges in 30 days
+[2025-08-18 17:05:47] Processing 342/1106: microsoft/secureboot_objects
+[2025-08-18 17:05:48] OK microsoft/secureboot_objects: 0 merges in 30 days
+[2025-08-18 17:05:48] Processing 343/1106: microsoft/moodle-local_copilot
+[2025-08-18 17:05:49] OK microsoft/moodle-local_copilot: 0 merges in 30 days
+[2025-08-18 17:05:49] Processing 344/1106: microsoft/mu_feature_debugger
+[2025-08-18 17:05:50] OK microsoft/mu_feature_debugger: 0 merges in 30 days
+[2025-08-18 17:05:50] Processing 345/1106: microsoft/mu_feature_dfci
+[2025-08-18 17:05:51] OK microsoft/mu_feature_dfci: 0 merges in 30 days
+[2025-08-18 17:05:51] Processing 346/1106: microsoft/mu_tiano_platforms
+[2025-08-18 17:05:52] OK microsoft/mu_tiano_platforms: 0 merges in 30 days
+[2025-08-18 17:05:52] Processing 347/1106: microsoft/mu_feature_config
+[2025-08-18 17:05:53] OK microsoft/mu_feature_config: 0 merges in 30 days
+[2025-08-18 17:05:53] Processing 348/1106: microsoft/mu_oem_sample
+[2025-08-18 17:05:54] OK microsoft/mu_oem_sample: 0 merges in 30 days
+[2025-08-18 17:05:54] Processing 349/1106: microsoft/mu_feature_ipmi
+[2025-08-18 17:05:55] OK microsoft/mu_feature_ipmi: 0 merges in 30 days
+[2025-08-18 17:05:55] Processing 350/1106: microsoft/clarity-mcp-server
+[2025-08-18 17:05:56] OK microsoft/clarity-mcp-server: 5 merges in 30 days
+[2025-08-18 17:05:56] Processing 351/1106: microsoft/vscode-codicons
+[2025-08-18 17:05:57] OK microsoft/vscode-codicons: 2 merges in 30 days
+[2025-08-18 17:05:57] Processing 352/1106: microsoft/DirectXTK
+[2025-08-18 17:05:58] OK microsoft/DirectXTK: 0 merges in 30 days
+[2025-08-18 17:05:58] Processing 353/1106: microsoft/sca-fuzzer
+[2025-08-18 17:05:59] OK microsoft/sca-fuzzer: 0 merges in 30 days
+[2025-08-18 17:05:59] Processing 354/1106: microsoft/mfcmapi
+[2025-08-18 17:06:01] OK microsoft/mfcmapi: 0 merges in 30 days
+[2025-08-18 17:06:01] Processing 355/1106: microsoft/vscode-mypy
+[2025-08-18 17:06:02] OK microsoft/vscode-mypy: 0 merges in 30 days
+[2025-08-18 17:06:02] Processing 356/1106: microsoft/java-debug
+[2025-08-18 17:06:03] OK microsoft/java-debug: 0 merges in 30 days
+[2025-08-18 17:06:03] Processing 357/1106: microsoft/FeatureManagement-Dotnet
+[2025-08-18 17:06:03] OK microsoft/FeatureManagement-Dotnet: 0 merges in 30 days
+[2025-08-18 17:06:04] Processing 358/1106: microsoft/vscode-cmake-tools
+[2025-08-18 17:06:04] OK microsoft/vscode-cmake-tools: 0 merges in 30 days
+[2025-08-18 17:06:04] Processing 359/1106: microsoft/DirectXMesh
+[2025-08-18 17:06:05] OK microsoft/DirectXMesh: 0 merges in 30 days
+[2025-08-18 17:06:06] Processing 360/1106: microsoft/DirectXTK12
+[2025-08-18 17:06:06] OK microsoft/DirectXTK12: 0 merges in 30 days
+[2025-08-18 17:06:07] Processing 361/1106: microsoft/synapse-spark-runtime
+[2025-08-18 17:06:07] OK microsoft/synapse-spark-runtime: 0 merges in 30 days
+[2025-08-18 17:06:07] Processing 362/1106: microsoft/pxt-jacdac
+[2025-08-18 17:06:08] OK microsoft/pxt-jacdac: 0 merges in 30 days
+[2025-08-18 17:06:08] Processing 363/1106: microsoft/semanticworkbench
+[2025-08-18 17:06:09] OK microsoft/semanticworkbench: 0 merges in 30 days
+[2025-08-18 17:06:09] Processing 364/1106: microsoft/PSRule
+[2025-08-18 17:06:10] OK microsoft/PSRule: 0 merges in 30 days
+[2025-08-18 17:06:10] Processing 365/1106: microsoft/ai-agent-evals
+[2025-08-18 17:06:11] OK microsoft/ai-agent-evals: 0 merges in 30 days
+[2025-08-18 17:06:12] Processing 366/1106: microsoft/vscode-python-debugger
+[2025-08-18 17:06:13] OK microsoft/vscode-python-debugger: 0 merges in 30 days
+[2025-08-18 17:06:13] Processing 367/1106: microsoft/CsWinRT
+[2025-08-18 17:06:14] OK microsoft/CsWinRT: 0 merges in 30 days
+[2025-08-18 17:06:14] Processing 368/1106: microsoft/slngen
+[2025-08-18 17:06:15] OK microsoft/slngen: 0 merges in 30 days
+[2025-08-18 17:06:15] Processing 369/1106: microsoft/json-schemas
+[2025-08-18 17:06:16] OK microsoft/json-schemas: 11 merges in 30 days
+[2025-08-18 17:06:16] Processing 370/1106: microsoft/jacdac-docs
+[2025-08-18 17:06:17] OK microsoft/jacdac-docs: 0 merges in 30 days
+[2025-08-18 17:06:17] Processing 371/1106: microsoft/z3guide
+[2025-08-18 17:06:18] OK microsoft/z3guide: 0 merges in 30 days
+[2025-08-18 17:06:18] Processing 373/1106: microsoft/TaskTracker
+[2025-08-18 17:06:19] OK microsoft/TaskTracker: 1 merges in 30 days
+[2025-08-18 17:06:19] Processing 374/1106: microsoft/AttackSurfaceAnalyzer
+[2025-08-18 17:06:20] OK microsoft/AttackSurfaceAnalyzer: 0 merges in 30 days
+[2025-08-18 17:06:20] Processing 375/1106: microsoft/BuildXL
+[2025-08-18 17:06:21] OK microsoft/BuildXL: 0 merges in 30 days
+[2025-08-18 17:06:21] Processing 376/1106: microsoft/dev-tunnels
+[2025-08-18 17:06:22] OK microsoft/dev-tunnels: 0 merges in 30 days
+[2025-08-18 17:06:22] Processing 377/1106: microsoft/Agents-for-net
+[2025-08-18 17:06:23] OK microsoft/Agents-for-net: 19 merges in 30 days
+[2025-08-18 17:06:23] Processing 378/1106: microsoft/SetupBench
+[2025-08-18 17:06:24] OK microsoft/SetupBench: 0 merges in 30 days
+[2025-08-18 17:06:24] Processing 379/1106: microsoft/Spartan2
+[2025-08-18 17:06:25] OK microsoft/Spartan2: 0 merges in 30 days
+[2025-08-18 17:06:25] Processing 380/1106: microsoft/MSBuildSdks
+[2025-08-18 17:06:26] OK microsoft/MSBuildSdks: 0 merges in 30 days
+[2025-08-18 17:06:26] Processing 381/1106: microsoft/mscclpp
+[2025-08-18 17:06:27] OK microsoft/mscclpp: 0 merges in 30 days
+[2025-08-18 17:06:27] Processing 382/1106: microsoft/verus-proof-synthesis
+[2025-08-18 17:06:28] OK microsoft/verus-proof-synthesis: 3 merges in 30 days
+[2025-08-18 17:06:28] Processing 383/1106: microsoft/kiota-samples
+[2025-08-18 17:06:30] OK microsoft/kiota-samples: 50 merges in 30 days
+[2025-08-18 17:06:30] Processing 384/1106: microsoft/vscode-cpptools
+[2025-08-18 17:06:31] OK microsoft/vscode-cpptools: 0 merges in 30 days
+[2025-08-18 17:06:31] Processing 385/1106: microsoft/durabletask-python
+[2025-08-18 17:06:32] OK microsoft/durabletask-python: 0 merges in 30 days
+[2025-08-18 17:06:32] Processing 386/1106: microsoft/copilot-studio-mcp
+[2025-08-18 17:06:33] OK microsoft/copilot-studio-mcp: 6 merges in 30 days
+[2025-08-18 17:06:33] Processing 387/1106: microsoft/accessibility-insights-web
+[2025-08-18 17:06:34] OK microsoft/accessibility-insights-web: 0 merges in 30 days
+[2025-08-18 17:06:34] Processing 388/1106: microsoft/Tools-for-Health-Data-Anonymization
+[2025-08-18 17:06:35] OK microsoft/Tools-for-Health-Data-Anonymization: 0 merges in 30 days
+[2025-08-18 17:06:35] Processing 389/1106: microsoft/azure-pipelines-extensions
+[2025-08-18 17:06:36] OK microsoft/azure-pipelines-extensions: 0 merges in 30 days
+[2025-08-18 17:06:36] Processing 390/1106: microsoft/PackageUploader
+[2025-08-18 17:06:37] OK microsoft/PackageUploader: 0 merges in 30 days
+[2025-08-18 17:06:37] Processing 391/1106: microsoft/mu_silicon_arm_tiano
+[2025-08-18 17:06:38] OK microsoft/mu_silicon_arm_tiano: 0 merges in 30 days
+[2025-08-18 17:06:38] Processing 392/1106: microsoft/retina
+[2025-08-18 17:06:39] OK microsoft/retina: 0 merges in 30 days
+[2025-08-18 17:06:39] Processing 393/1106: microsoft/mu_silicon_intel_tiano
+[2025-08-18 17:06:40] OK microsoft/mu_silicon_intel_tiano: 0 merges in 30 days
+[2025-08-18 17:06:40] Processing 394/1106: microsoft/fluentui-apple
+[2025-08-18 17:06:42] OK microsoft/fluentui-apple: 0 merges in 30 days
+[2025-08-18 17:06:42] Processing 395/1106: microsoft/lepton_jpeg_rust
+[2025-08-18 17:06:43] OK microsoft/lepton_jpeg_rust: 0 merges in 30 days
+[2025-08-18 17:06:43] Processing 396/1106: microsoft/MHA
+[2025-08-18 17:06:44] OK microsoft/MHA: 0 merges in 30 days
+[2025-08-18 17:06:44] Processing 397/1106: microsoft/go-infra
+[2025-08-18 17:06:45] OK microsoft/go-infra: 7 merges in 30 days
+[2025-08-18 17:06:45] Processing 398/1106: microsoft/teams-agent-accelerator-templates
+[2025-08-18 17:06:45] OK microsoft/teams-agent-accelerator-templates: 0 merges in 30 days
+[2025-08-18 17:06:46] Processing 399/1106: microsoft/roosterjs
+[2025-08-18 17:06:46] OK microsoft/roosterjs: 0 merges in 30 days
+[2025-08-18 17:06:46] Processing 400/1106: microsoft/mu_devops
+[2025-08-18 17:06:47] OK microsoft/mu_devops: 0 merges in 30 days
+[2025-08-18 17:06:47] Processing 401/1106: microsoft/omnichannel-chat-widget
+[2025-08-18 17:06:48] OK microsoft/omnichannel-chat-widget: 34 merges in 30 days
+[2025-08-18 17:06:48] Processing 402/1106: microsoft/D3D9On12
+[2025-08-18 17:06:49] OK microsoft/D3D9On12: 1 merges in 30 days
+[2025-08-18 17:06:49] Processing 403/1106: microsoft/lisa
+[2025-08-18 17:06:50] OK microsoft/lisa: 0 merges in 30 days
+[2025-08-18 17:06:50] Processing 404/1106: microsoft/qsharp
+[2025-08-18 17:06:51] OK microsoft/qsharp: 0 merges in 30 days
+[2025-08-18 17:06:51] Processing 405/1106: microsoft/tyger
+[2025-08-18 17:06:52] OK microsoft/tyger: 0 merges in 30 days
+[2025-08-18 17:06:52] Processing 406/1106: microsoft/azure-linux-image-tools
+[2025-08-18 17:06:53] OK microsoft/azure-linux-image-tools: 0 merges in 30 days
+[2025-08-18 17:06:53] Processing 407/1106: microsoft/fabric-user-data-functions-samples
+[2025-08-18 17:06:54] OK microsoft/fabric-user-data-functions-samples: 1 merges in 30 days
+[2025-08-18 17:06:55] Processing 408/1106: microsoft/kata-containers
+[2025-08-18 17:06:56] OK microsoft/kata-containers: 0 merges in 30 days
+[2025-08-18 17:06:56] Processing 409/1106: microsoft/griffel
+[2025-08-18 17:06:57] OK microsoft/griffel: 0 merges in 30 days
+[2025-08-18 17:06:57] Processing 410/1106: microsoft/avml
+[2025-08-18 17:06:58] OK microsoft/avml: 0 merges in 30 days
+[2025-08-18 17:06:58] Processing 411/1106: microsoft/Nonprofits
+[2025-08-18 17:06:59] OK microsoft/Nonprofits: 0 merges in 30 days
+[2025-08-18 17:06:59] Processing 412/1106: microsoft/vcpkg-tool
+[2025-08-18 17:07:00] OK microsoft/vcpkg-tool: 0 merges in 30 days
+[2025-08-18 17:07:00] Processing 413/1106: microsoft/automated-brain-explanations
+[2025-08-18 17:07:01] OK microsoft/automated-brain-explanations: 0 merges in 30 days
+[2025-08-18 17:07:01] Processing 414/1106: microsoft/BoltzFormer
+[2025-08-18 17:07:02] OK microsoft/BoltzFormer: 0 merges in 30 days
+[2025-08-18 17:07:02] Processing 415/1106: microsoft/Agents-for-js
+[2025-08-18 17:07:03] OK microsoft/Agents-for-js: 0 merges in 30 days
+[2025-08-18 17:07:03] Processing 416/1106: microsoft/azure_arc
+[2025-08-18 17:07:04] OK microsoft/azure_arc: 3 merges in 30 days
+[2025-08-18 17:07:04] Processing 417/1106: microsoft/react-native-gallery
+[2025-08-18 17:07:05] OK microsoft/react-native-gallery: 0 merges in 30 days
+[2025-08-18 17:07:05] Processing 418/1106: microsoft/vscode-livepreview
+[2025-08-18 17:07:06] OK microsoft/vscode-livepreview: 0 merges in 30 days
+[2025-08-18 17:07:06] Processing 419/1106: microsoft/UVAtlas
+[2025-08-18 17:07:07] OK microsoft/UVAtlas: 0 merges in 30 days
+[2025-08-18 17:07:07] Processing 420/1106: microsoft/binskim
+[2025-08-18 17:07:08] OK microsoft/binskim: 4 merges in 30 days
+[2025-08-18 17:07:08] Processing 421/1106: microsoft/kiota-typescript
+[2025-08-18 17:07:09] OK microsoft/kiota-typescript: 16 merges in 30 days
+[2025-08-18 17:07:09] Processing 422/1106: microsoft/CSS-SystemCenter
+[2025-08-18 17:07:10] OK microsoft/CSS-SystemCenter: 0 merges in 30 days
+[2025-08-18 17:07:10] Processing 423/1106: microsoft/macos-cookbook
+[2025-08-18 17:07:11] OK microsoft/macos-cookbook: 0 merges in 30 days
+[2025-08-18 17:07:11] Processing 424/1106: microsoft/simplechat
+[2025-08-18 17:07:12] OK microsoft/simplechat: 0 merges in 30 days
+[2025-08-18 17:07:12] Processing 425/1106: microsoft/Windows-universal-samples
+[2025-08-18 17:07:13] OK microsoft/Windows-universal-samples: 1 merges in 30 days
+[2025-08-18 17:07:13] Processing 426/1106: microsoft/vscode-proxy-agent
+[2025-08-18 17:07:13] OK microsoft/vscode-proxy-agent: 0 merges in 30 days
+[2025-08-18 17:07:14] Processing 427/1106: microsoft/winget-dsc
+[2025-08-18 17:07:14] OK microsoft/winget-dsc: 0 merges in 30 days
+[2025-08-18 17:07:14] Processing 428/1106: microsoft/ArchScale
+[2025-08-18 17:07:15] OK microsoft/ArchScale: 1 merges in 30 days
+[2025-08-18 17:07:15] Processing 429/1106: microsoft/onnxscript
+[2025-08-18 17:07:16] OK microsoft/onnxscript: 0 merges in 30 days
+[2025-08-18 17:07:16] Processing 430/1106: microsoft/ai-tour-26-zava-diy-dataset-plus-mcp
+[2025-08-18 17:07:17] OK microsoft/ai-tour-26-zava-diy-dataset-plus-mcp: 1 merges in 30 days
+[2025-08-18 17:07:17] Processing 431/1106: microsoft/kiota-java
+[2025-08-18 17:07:18] OK microsoft/kiota-java: 12 merges in 30 days
+[2025-08-18 17:07:18] Processing 432/1106: microsoft/clarity
+[2025-08-18 17:07:19] OK microsoft/clarity: 0 merges in 30 days
+[2025-08-18 17:07:19] Processing 433/1106: microsoft/powerquery-language-services
+[2025-08-18 17:07:20] OK microsoft/powerquery-language-services: 0 merges in 30 days
+[2025-08-18 17:07:20] Processing 434/1106: microsoft/AzureDevOps-WSJF-Extension
+[2025-08-18 17:07:21] OK microsoft/AzureDevOps-WSJF-Extension: 0 merges in 30 days
+[2025-08-18 17:07:21] Processing 435/1106: microsoft/typechat.net
+[2025-08-18 17:07:22] OK microsoft/typechat.net: 0 merges in 30 days
+[2025-08-18 17:07:22] Processing 436/1106: microsoft/linux-package-repositories
+[2025-08-18 17:07:22] OK microsoft/linux-package-repositories: 0 merges in 30 days
+[2025-08-18 17:07:23] Processing 437/1106: microsoft/Agents-for-python
+[2025-08-18 17:07:23] OK microsoft/Agents-for-python: 0 merges in 30 days
+[2025-08-18 17:07:23] Processing 438/1106: microsoft/vs-threading
+[2025-08-18 17:07:24] OK microsoft/vs-threading: 0 merges in 30 days
+[2025-08-18 17:07:24] Processing 439/1106: microsoft/PTVS
+[2025-08-18 17:07:25] OK microsoft/PTVS: 0 merges in 30 days
+[2025-08-18 17:07:25] Processing 440/1106: microsoft/lets-learn-mcp-java
+[2025-08-18 17:07:26] OK microsoft/lets-learn-mcp-java: 4 merges in 30 days
+[2025-08-18 17:07:26] Processing 441/1106: microsoft/tale-suite
+[2025-08-18 17:07:27] OK microsoft/tale-suite: 1 merges in 30 days
+[2025-08-18 17:07:27] Processing 442/1106: microsoft/dromedary
+[2025-08-18 17:07:28] OK microsoft/dromedary: 1 merges in 30 days
+[2025-08-18 17:07:28] Processing 443/1106: microsoft/olive-recipes
+[2025-08-18 17:07:29] OK microsoft/olive-recipes: 0 merges in 30 days
+[2025-08-18 17:07:29] Processing 444/1106: microsoft/vscode-azureresourcegroups
+[2025-08-18 17:07:30] OK microsoft/vscode-azureresourcegroups: 0 merges in 30 days
+[2025-08-18 17:07:30] Processing 445/1106: microsoft/outlook-pst-rs
+[2025-08-18 17:07:31] OK microsoft/outlook-pst-rs: 1 merges in 30 days
+[2025-08-18 17:07:31] Processing 446/1106: microsoft/cordova-simulate
+[2025-08-18 17:07:32] OK microsoft/cordova-simulate: 0 merges in 30 days
+[2025-08-18 17:07:32] Processing 447/1106: microsoft/nnscaler
+[2025-08-18 17:07:33] OK microsoft/nnscaler: 0 merges in 30 days
+[2025-08-18 17:07:33] Processing 448/1106: microsoft/copilot-metrics-dashboard
+[2025-08-18 17:07:33] OK microsoft/copilot-metrics-dashboard: 1 merges in 30 days
+[2025-08-18 17:07:34] Processing 449/1106: microsoft/healthcare-shared-components
+[2025-08-18 17:07:34] OK microsoft/healthcare-shared-components: 0 merges in 30 days
+[2025-08-18 17:07:34] Processing 450/1106: microsoft/RecAI
+[2025-08-18 17:07:35] OK microsoft/RecAI: 0 merges in 30 days
+[2025-08-18 17:07:35] Processing 451/1106: microsoft/ApplicationInspector
+[2025-08-18 17:07:36] OK microsoft/ApplicationInspector: 0 merges in 30 days
+[2025-08-18 17:07:36] Processing 452/1106: microsoft/AIFluency
+[2025-08-18 17:07:37] OK microsoft/AIFluency: 0 merges in 30 days
+[2025-08-18 17:07:37] Processing 453/1106: microsoft/Dynamics-365-FastTrack-Implementation-Assets
+[2025-08-18 17:07:38] OK microsoft/Dynamics-365-FastTrack-Implementation-Assets: 0 merges in 30 days
+[2025-08-18 17:07:38] Processing 454/1106: microsoft/vscode-docker
+[2025-08-18 17:07:39] OK microsoft/vscode-docker: 0 merges in 30 days
+[2025-08-18 17:07:39] Processing 455/1106: microsoft/codetour
+[2025-08-18 17:07:40] OK microsoft/codetour: 1 merges in 30 days
+[2025-08-18 17:07:40] Processing 456/1106: microsoft/log_analyzer
+[2025-08-18 17:07:41] OK microsoft/log_analyzer: 0 merges in 30 days
+[2025-08-18 17:07:41] Processing 457/1106: microsoft/debug-gym
+[2025-08-18 17:07:42] OK microsoft/debug-gym: 0 merges in 30 days
+[2025-08-18 17:07:42] Processing 458/1106: microsoft/terraform-provider-fabric
+[2025-08-18 17:07:43] OK microsoft/terraform-provider-fabric: 0 merges in 30 days
+[2025-08-18 17:07:43] Processing 459/1106: microsoft/vscode-copilot-vision
+[2025-08-18 17:07:44] OK microsoft/vscode-copilot-vision: 1 merges in 30 days
+[2025-08-18 17:07:44] Processing 460/1106: microsoft/vscode-mermAId
+[2025-08-18 17:07:45] OK microsoft/vscode-mermAId: 0 merges in 30 days
+[2025-08-18 17:07:45] Processing 461/1106: microsoft/powerplatform-actions
+[2025-08-18 17:07:46] OK microsoft/powerplatform-actions: 0 merges in 30 days
+[2025-08-18 17:07:46] Processing 462/1106: microsoft/PowerApps-TestEngine
+[2025-08-18 17:07:46] OK microsoft/PowerApps-TestEngine: 0 merges in 30 days
+[2025-08-18 17:07:47] Processing 463/1106: microsoft/PowerApps-Tooling
+[2025-08-18 17:07:47] OK microsoft/PowerApps-Tooling: 0 merges in 30 days
+[2025-08-18 17:07:47] Processing 464/1106: microsoft/vscode-prompt-tsx
+[2025-08-18 17:07:48] OK microsoft/vscode-prompt-tsx: 0 merges in 30 days
+[2025-08-18 17:07:48] Processing 465/1106: microsoft/controllable-safety-alignment
+[2025-08-18 17:07:49] OK microsoft/controllable-safety-alignment: 1 merges in 30 days
+[2025-08-18 17:07:49] Processing 466/1106: microsoft/lora_lab
+[2025-08-18 17:07:50] OK microsoft/lora_lab: 1 merges in 30 days
+[2025-08-18 17:07:50] Processing 467/1106: microsoft/cyrusj_dotfiles
+[2025-08-18 17:07:51] OK microsoft/cyrusj_dotfiles: 1 merges in 30 days
+[2025-08-18 17:07:51] Processing 468/1106: microsoft/go-images
+[2025-08-18 17:07:52] OK microsoft/go-images: 0 merges in 30 days
+[2025-08-18 17:07:52] Processing 469/1106: microsoft/vscode-powerquery-sdk
+[2025-08-18 17:07:53] OK microsoft/vscode-powerquery-sdk: 0 merges in 30 days
+[2025-08-18 17:07:53] Processing 470/1106: microsoft/fhir-server
+[2025-08-18 17:07:54] OK microsoft/fhir-server: 0 merges in 30 days
+[2025-08-18 17:07:54] Processing 471/1106: microsoft/lets-learn-mcp-csharp
+[2025-08-18 17:07:55] OK microsoft/lets-learn-mcp-csharp: 0 merges in 30 days
+[2025-08-18 17:07:55] Processing 472/1106: microsoft/SLG-Business-Applications
+[2025-08-18 17:07:56] OK microsoft/SLG-Business-Applications: 2 merges in 30 days
+[2025-08-18 17:07:56] Processing 473/1106: microsoft/fabric-terraform-quickstart
+[2025-08-18 17:07:57] OK microsoft/fabric-terraform-quickstart: 0 merges in 30 days
+[2025-08-18 17:07:58] Processing 474/1106: microsoft/vscode-azurefunctions
+[2025-08-18 17:07:58] OK microsoft/vscode-azurefunctions: 0 merges in 30 days
+[2025-08-18 17:07:59] Processing 475/1106: microsoft/xbox-live-developer-tools
+[2025-08-18 17:07:59] OK microsoft/xbox-live-developer-tools: 0 merges in 30 days
+[2025-08-18 17:07:59] Processing 476/1106: microsoft/Trace
+[2025-08-18 17:08:00] OK microsoft/Trace: 0 merges in 30 days
+[2025-08-18 17:08:00] Processing 477/1106: microsoft/SimpleL7Proxy
+[2025-08-18 17:08:01] OK microsoft/SimpleL7Proxy: 4 merges in 30 days
+[2025-08-18 17:08:01] Processing 478/1106: microsoft/github-copilot-vibe-coding-workshop
+[2025-08-18 17:08:02] OK microsoft/github-copilot-vibe-coding-workshop: 0 merges in 30 days
+[2025-08-18 17:08:02] Processing 479/1106: microsoft/MMdnn
+[2025-08-18 17:08:03] OK microsoft/MMdnn: 0 merges in 30 days
+[2025-08-18 17:08:03] Processing 480/1106: microsoft/sarif-azuredevops-extension
+[2025-08-18 17:08:04] OK microsoft/sarif-azuredevops-extension: 0 merges in 30 days
+[2025-08-18 17:08:04] Processing 481/1106: microsoft/fabric-cicd
+[2025-08-18 17:08:05] OK microsoft/fabric-cicd: 0 merges in 30 days
+[2025-08-18 17:08:05] Processing 482/1106: microsoft/sqltoolsservice
+[2025-08-18 17:08:06] OK microsoft/sqltoolsservice: 0 merges in 30 days
+[2025-08-18 17:08:06] Processing 483/1106: microsoft/electron-gallery
+[2025-08-18 17:08:07] OK microsoft/electron-gallery: 1 merges in 30 days
+[2025-08-18 17:08:07] Processing 484/1106: microsoft/Oryx
+[2025-08-18 17:08:08] OK microsoft/Oryx: 0 merges in 30 days
+[2025-08-18 17:08:08] Processing 485/1106: microsoft/VFSForGit
+[2025-08-18 17:08:09] OK microsoft/VFSForGit: 0 merges in 30 days
+[2025-08-18 17:08:09] Processing 486/1106: microsoft/netperf
+[2025-08-18 17:08:10] OK microsoft/netperf: 0 merges in 30 days
+[2025-08-18 17:08:10] Processing 487/1106: microsoft/Application-Insights-Workbooks
+[2025-08-18 17:08:10] OK microsoft/Application-Insights-Workbooks: 0 merges in 30 days
+[2025-08-18 17:08:11] Processing 488/1106: microsoft/msticpy
+[2025-08-18 17:08:11] OK microsoft/msticpy: 0 merges in 30 days
+[2025-08-18 17:08:11] Processing 489/1106: microsoft/WinDbg-Samples
+[2025-08-18 17:08:12] OK microsoft/WinDbg-Samples: 0 merges in 30 days
+[2025-08-18 17:08:12] Processing 490/1106: microsoft/GHCP-Lab
+[2025-08-18 17:08:13] OK microsoft/GHCP-Lab: 0 merges in 30 days
+[2025-08-18 17:08:13] Processing 491/1106: microsoft/SandDance
+[2025-08-18 17:08:14] OK microsoft/SandDance: 0 merges in 30 days
+[2025-08-18 17:08:14] Processing 492/1106: microsoft/vscode-azurestorage
+[2025-08-18 17:08:15] OK microsoft/vscode-azurestorage: 0 merges in 30 days
+[2025-08-18 17:08:15] Processing 493/1106: microsoft/open-source-discord
+[2025-08-18 17:08:16] OK microsoft/open-source-discord: 0 merges in 30 days
+[2025-08-18 17:08:16] Processing 494/1106: microsoft/webnn-developer-preview
+[2025-08-18 17:08:17] OK microsoft/webnn-developer-preview: 5 merges in 30 days
+[2025-08-18 17:08:17] Processing 495/1106: microsoft/botbuilder-js
+[2025-08-18 17:08:18] OK microsoft/botbuilder-js: 0 merges in 30 days
+[2025-08-18 17:08:18] Processing 496/1106: microsoft/vscode-cosmosdb
+[2025-08-18 17:08:19] OK microsoft/vscode-cosmosdb: 14 merges in 30 days
+[2025-08-18 17:08:19] Processing 497/1106: microsoft/ifc
+[2025-08-18 17:08:20] OK microsoft/ifc: 0 merges in 30 days
+[2025-08-18 17:08:20] Processing 498/1106: microsoft/vstest
+[2025-08-18 17:08:20] OK microsoft/vstest: 0 merges in 30 days
+[2025-08-18 17:08:21] Processing 499/1106: microsoft/sarif-tools
+[2025-08-18 17:08:21] OK microsoft/sarif-tools: 0 merges in 30 days
+[2025-08-18 17:08:21] Processing 500/1106: microsoft/confidential-sidecar-containers
+[2025-08-18 17:08:22] OK microsoft/confidential-sidecar-containers: 0 merges in 30 days
+[2025-08-18 17:08:22] Processing 501/1106: microsoft/vs-solutionpersistence
+[2025-08-18 17:08:23] OK microsoft/vs-solutionpersistence: 0 merges in 30 days
+[2025-08-18 17:08:23] Processing 502/1106: microsoft/TableLoRA
+[2025-08-18 17:08:24] OK microsoft/TableLoRA: 2 merges in 30 days
+[2025-08-18 17:08:24] Processing 503/1106: microsoft/service-fabric-services-and-actors-dotnet
+[2025-08-18 17:08:25] OK microsoft/service-fabric-services-and-actors-dotnet: 0 merges in 30 days
+[2025-08-18 17:08:25] Processing 504/1106: microsoft/Forge
+[2025-08-18 17:08:26] OK microsoft/Forge: 0 merges in 30 days
+[2025-08-18 17:08:26] Processing 505/1106: microsoft/hcsshim
+[2025-08-18 17:08:27] OK microsoft/hcsshim: 1 merges in 30 days
+[2025-08-18 17:08:27] Processing 506/1106: microsoft/Microsoft-Fabric-workload-development-sample
+[2025-08-18 17:08:28] OK microsoft/Microsoft-Fabric-workload-development-sample: 2 merges in 30 days
+[2025-08-18 17:08:28] Processing 507/1106: microsoft/Deploy-Your-AI-Application-In-Production
+[2025-08-18 17:08:29] OK microsoft/Deploy-Your-AI-Application-In-Production: 1 merges in 30 days
+[2025-08-18 17:08:29] Processing 508/1106: microsoft/mystikos
+[2025-08-18 17:08:30] OK microsoft/mystikos: 0 merges in 30 days
+[2025-08-18 17:08:30] Processing 509/1106: microsoft/go-sqlcmd
+[2025-08-18 17:08:30] OK microsoft/go-sqlcmd: 0 merges in 30 days
+[2025-08-18 17:08:30] Processing 510/1106: microsoft/zerotrustassessment
+[2025-08-18 17:08:31] OK microsoft/zerotrustassessment: 1 merges in 30 days
+[2025-08-18 17:08:31] Processing 511/1106: microsoft/Migrate2GSA
+[2025-08-18 17:08:32] OK microsoft/Migrate2GSA: 8 merges in 30 days
+[2025-08-18 17:08:32] Processing 512/1106: microsoft/PowerBI-visuals-PowerKPI
+[2025-08-18 17:08:33] OK microsoft/PowerBI-visuals-PowerKPI: 0 merges in 30 days
+[2025-08-18 17:08:33] Processing 513/1106: microsoft/node-jsonc-parser
+[2025-08-18 17:08:34] OK microsoft/node-jsonc-parser: 0 merges in 30 days
+[2025-08-18 17:08:34] Processing 514/1106: microsoft/vscode-data-analysis-for-copilot
+[2025-08-18 17:08:35] OK microsoft/vscode-data-analysis-for-copilot: 1 merges in 30 days
+[2025-08-18 17:08:35] Processing 515/1106: microsoft/graphitation
+[2025-08-18 17:08:36] OK microsoft/graphitation: 0 merges in 30 days
+[2025-08-18 17:08:36] Processing 516/1106: microsoft/go-crypto-openssl
+[2025-08-18 17:08:37] OK microsoft/go-crypto-openssl: 0 merges in 30 days
+[2025-08-18 17:08:37] Processing 517/1106: microsoft/gctoolkit
+[2025-08-18 17:08:37] OK microsoft/gctoolkit: 0 merges in 30 days
+[2025-08-18 17:08:38] Processing 518/1106: microsoft/tfs-cli
+[2025-08-18 17:08:38] OK microsoft/tfs-cli: 0 merges in 30 days
+[2025-08-18 17:08:38] Processing 519/1106: microsoft/vsts-extension-multivalue-control
+[2025-08-18 17:08:39] OK microsoft/vsts-extension-multivalue-control: 0 merges in 30 days
+[2025-08-18 17:08:39] Processing 520/1106: microsoft/vsts-open-in-excel
+[2025-08-18 17:08:40] OK microsoft/vsts-open-in-excel: 0 merges in 30 days
+[2025-08-18 17:08:40] Processing 521/1106: microsoft/wiql-editor
+[2025-08-18 17:08:41] OK microsoft/wiql-editor: 0 merges in 30 days
+[2025-08-18 17:08:41] Processing 522/1106: microsoft/azure-boards-split
+[2025-08-18 17:08:42] OK microsoft/azure-boards-split: 0 merges in 30 days
+[2025-08-18 17:08:42] Processing 523/1106: microsoft/vsts-extension-integer-control
+[2025-08-18 17:08:43] OK microsoft/vsts-extension-integer-control: 0 merges in 30 days
+[2025-08-18 17:08:43] Processing 524/1106: microsoft/superbenchmark
+[2025-08-18 17:08:44] OK microsoft/superbenchmark: 0 merges in 30 days
+[2025-08-18 17:08:44] Processing 525/1106: microsoft/MSLab
+[2025-08-18 17:08:45] OK microsoft/MSLab: 0 merges in 30 days
+[2025-08-18 17:08:45] Processing 526/1106: microsoft/confidential-aci-attestation
+[2025-08-18 17:08:46] OK microsoft/confidential-aci-attestation: 0 merges in 30 days
+[2025-08-18 17:08:46] Processing 527/1106: microsoft/powerplatform-vscode
+[2025-08-18 17:08:46] OK microsoft/powerplatform-vscode: 0 merges in 30 days
+[2025-08-18 17:08:47] Processing 528/1106: microsoft/art-msra
+[2025-08-18 17:08:47] OK microsoft/art-msra: 0 merges in 30 days
+[2025-08-18 17:08:47] Processing 529/1106: microsoft/durabletask-go
+[2025-08-18 17:08:48] OK microsoft/durabletask-go: 0 merges in 30 days
+[2025-08-18 17:08:48] Processing 530/1106: microsoft/pdblister
+[2025-08-18 17:08:49] OK microsoft/pdblister: 1 merges in 30 days
+[2025-08-18 17:08:49] Processing 531/1106: microsoft/ExeCoder
+[2025-08-18 17:08:50] OK microsoft/ExeCoder: 0 merges in 30 days
+[2025-08-18 17:08:50] Processing 532/1106: microsoft/farmvibes-ai
+[2025-08-18 17:08:51] OK microsoft/farmvibes-ai: 0 merges in 30 days
+[2025-08-18 17:08:51] Processing 533/1106: microsoft/DirectX-Headers
+[2025-08-18 17:08:52] OK microsoft/DirectX-Headers: 0 merges in 30 days
+[2025-08-18 17:08:52] Processing 534/1106: microsoft/sip-ai-workshop
+[2025-08-18 17:08:53] OK microsoft/sip-ai-workshop: 3 merges in 30 days
+[2025-08-18 17:08:53] Processing 535/1106: microsoft/fabric-sdk-go
+[2025-08-18 17:08:54] OK microsoft/fabric-sdk-go: 0 merges in 30 days
+[2025-08-18 17:08:54] Processing 536/1106: microsoft/PartnerResources
+[2025-08-18 17:08:55] OK microsoft/PartnerResources: 0 merges in 30 days
+[2025-08-18 17:08:55] Processing 537/1106: microsoft/ada
+[2025-08-18 17:08:56] OK microsoft/ada: 1 merges in 30 days
+[2025-08-18 17:08:56] Processing 538/1106: microsoft/vscode-explorer-command
+[2025-08-18 17:08:56] OK microsoft/vscode-explorer-command: 0 merges in 30 days
+[2025-08-18 17:08:56] Processing 539/1106: microsoft/dayhoff
+[2025-08-18 17:08:57] OK microsoft/dayhoff: 0 merges in 30 days
+[2025-08-18 17:08:57] Processing 540/1106: microsoft/SqlScriptDOM
+[2025-08-18 17:08:58] OK microsoft/SqlScriptDOM: 0 merges in 30 days
+[2025-08-18 17:08:58] Processing 541/1106: microsoft/jacdac-dotnet
+[2025-08-18 17:08:59] OK microsoft/jacdac-dotnet: 0 merges in 30 days
+[2025-08-18 17:08:59] Processing 542/1106: microsoft/vscode-edge-devtools
+[2025-08-18 17:09:00] OK microsoft/vscode-edge-devtools: 0 merges in 30 days
+[2025-08-18 17:09:00] Processing 543/1106: microsoft/codal-jacdac
+[2025-08-18 17:09:01] OK microsoft/codal-jacdac: 1 merges in 30 days
+[2025-08-18 17:09:01] Processing 544/1106: microsoft/jacdac-msr-modules
+[2025-08-18 17:09:02] OK microsoft/jacdac-msr-modules: 1 merges in 30 days
+[2025-08-18 17:09:02] Processing 545/1106: microsoft/react-jacdac
+[2025-08-18 17:09:03] OK microsoft/react-jacdac: 0 merges in 30 days
+[2025-08-18 17:09:03] Processing 546/1106: microsoft/git
+[2025-08-18 17:09:04] OK microsoft/git: 0 merges in 30 days
+[2025-08-18 17:09:04] Processing 547/1106: microsoft/jacdac-module-template
+[2025-08-18 17:09:05] OK microsoft/jacdac-module-template: 0 merges in 30 days
+[2025-08-18 17:09:05] Processing 548/1106: microsoft/vscode-azuretools
+[2025-08-18 17:09:06] OK microsoft/vscode-azuretools: 0 merges in 30 days
+[2025-08-18 17:09:06] Processing 549/1106: microsoft/jacdac-padauk
+[2025-08-18 17:09:07] OK microsoft/jacdac-padauk: 1 merges in 30 days
+[2025-08-18 17:09:07] Processing 550/1106: microsoft/jacdac-stm32x0
+[2025-08-18 17:09:08] OK microsoft/jacdac-stm32x0: 1 merges in 30 days
+[2025-08-18 17:09:08] Processing 551/1106: microsoft/jacdac-ddk
+[2025-08-18 17:09:09] OK microsoft/jacdac-ddk: 1 merges in 30 days
+[2025-08-18 17:09:09] Processing 552/1106: microsoft/jacdac-cli
+[2025-08-18 17:09:10] OK microsoft/jacdac-cli: 0 merges in 30 days
+[2025-08-18 17:09:10] Processing 553/1106: microsoft/jacdac-c
+[2025-08-18 17:09:10] OK microsoft/jacdac-c: 1 merges in 30 days
+[2025-08-18 17:09:11] Processing 554/1106: microsoft/jacdac-ts
+[2025-08-18 17:09:11] OK microsoft/jacdac-ts: 0 merges in 30 days
+[2025-08-18 17:09:12] Processing 555/1106: microsoft/jacdac
+[2025-08-18 17:09:12] OK microsoft/jacdac: 0 merges in 30 days
+[2025-08-18 17:09:12] Processing 556/1106: microsoft/azure-devops-node-api
+[2025-08-18 17:09:13] OK microsoft/azure-devops-node-api: 0 merges in 30 days
+[2025-08-18 17:09:13] Processing 557/1106: microsoft/argos
+[2025-08-18 17:09:14] OK microsoft/argos: 0 merges in 30 days
+[2025-08-18 17:09:14] Processing 558/1106: microsoft/TF-Codec
+[2025-08-18 17:09:15] OK microsoft/TF-Codec: 0 merges in 30 days
+[2025-08-18 17:09:15] Processing 559/1106: microsoft/gov-datamodels
+[2025-08-18 17:09:16] OK microsoft/gov-datamodels: 0 merges in 30 days
+[2025-08-18 17:09:16] Processing 560/1106: microsoft/vscode-mock-debug
+[2025-08-18 17:09:17] OK microsoft/vscode-mock-debug: 2 merges in 30 days
+[2025-08-18 17:09:17] Processing 561/1106: microsoft/essex-toolkit
+[2025-08-18 17:09:18] OK microsoft/essex-toolkit: 0 merges in 30 days
+[2025-08-18 17:09:18] Processing 562/1106: microsoft/FluidExamples
+[2025-08-18 17:09:19] OK microsoft/FluidExamples: 0 merges in 30 days
+[2025-08-18 17:09:19] Processing 563/1106: microsoft/ApplicationInsights-Kubernetes
+[2025-08-18 17:09:20] OK microsoft/ApplicationInsights-Kubernetes: 1 merges in 30 days
+[2025-08-18 17:09:20] Processing 564/1106: microsoft/FluidHelloWorld
+[2025-08-18 17:09:21] OK microsoft/FluidHelloWorld: 0 merges in 30 days
+[2025-08-18 17:09:21] Processing 565/1106: microsoft/OSPO
+[2025-08-18 17:09:21] OK microsoft/OSPO: 3 merges in 30 days
+[2025-08-18 17:09:22] Processing 566/1106: microsoft/azureml-inference-server
+[2025-08-18 17:09:22] OK microsoft/azureml-inference-server: 6 merges in 30 days
+[2025-08-18 17:09:23] Processing 567/1106: microsoft/planetary-computer-apis
+[2025-08-18 17:09:23] OK microsoft/planetary-computer-apis: 0 merges in 30 days
+[2025-08-18 17:09:23] Processing 568/1106: microsoft/powerbi-client-react
+[2025-08-18 17:09:24] OK microsoft/powerbi-client-react: 0 merges in 30 days
+[2025-08-18 17:09:24] Processing 569/1106: microsoft/minecraft-samples
+[2025-08-18 17:09:25] OK microsoft/minecraft-samples: 2 merges in 30 days
+[2025-08-18 17:09:25] Processing 570/1106: microsoft/omnichannel-chat-sdk
+[2025-08-18 17:09:26] OK microsoft/omnichannel-chat-sdk: 13 merges in 30 days
+[2025-08-18 17:09:26] Processing 571/1106: microsoft/MAPIStubLibrary
+[2025-08-18 17:09:27] OK microsoft/MAPIStubLibrary: 9 merges in 30 days
+[2025-08-18 17:09:27] Processing 572/1106: microsoft/azure-devops-extension-tasks
+[2025-08-18 17:09:28] OK microsoft/azure-devops-extension-tasks: 0 merges in 30 days
+[2025-08-18 17:09:28] Processing 573/1106: microsoft/LLM-Fine-Tuning-Azure
+[2025-08-18 17:09:29] OK microsoft/LLM-Fine-Tuning-Azure: 4 merges in 30 days
+[2025-08-18 17:09:29] Processing 574/1106: microsoft/m365advocacy-templates
+[2025-08-18 17:09:30] OK microsoft/m365advocacy-templates: 0 merges in 30 days
+[2025-08-18 17:09:30] Processing 575/1106: microsoft/alguidelines
+[2025-08-18 17:09:31] OK microsoft/alguidelines: 4 merges in 30 days
+[2025-08-18 17:09:31] Processing 576/1106: microsoft/LLaVA-Rad
+[2025-08-18 17:09:32] OK microsoft/LLaVA-Rad: 0 merges in 30 days
+[2025-08-18 17:09:32] Processing 577/1106: microsoft/node-api-dotnet
+[2025-08-18 17:09:35] OK microsoft/node-api-dotnet: 0 merges in 30 days
+[2025-08-18 17:09:35] Processing 578/1106: microsoft/vscode-extension-telemetry
+[2025-08-18 17:09:36] OK microsoft/vscode-extension-telemetry: 0 merges in 30 days
+[2025-08-18 17:09:36] Processing 579/1106: microsoft/WhatTheHack
+[2025-08-18 17:09:36] OK microsoft/WhatTheHack: 0 merges in 30 days
+[2025-08-18 17:09:37] Processing 580/1106: microsoft/AdaptiveCards
+[2025-08-18 17:09:38] OK microsoft/AdaptiveCards: 0 merges in 30 days
+[2025-08-18 17:09:38] Processing 581/1106: microsoft/SharePoint-Embedded-Samples
+[2025-08-18 17:09:39] OK microsoft/SharePoint-Embedded-Samples: 1 merges in 30 days
+[2025-08-18 17:09:39] Processing 582/1106: microsoft/azure-pipelines-tool-lib
+[2025-08-18 17:09:40] OK microsoft/azure-pipelines-tool-lib: 0 merges in 30 days
+[2025-08-18 17:09:40] Processing 583/1106: microsoft/lst-bench
+[2025-08-18 17:09:41] OK microsoft/lst-bench: 0 merges in 30 days
+[2025-08-18 17:09:41] Processing 584/1106: microsoft/build-server-for-gradle
+[2025-08-18 17:09:42] OK microsoft/build-server-for-gradle: 0 merges in 30 days
+[2025-08-18 17:09:42] Processing 585/1106: microsoft/durabletask-java
+[2025-08-18 17:09:43] OK microsoft/durabletask-java: 0 merges in 30 days
+[2025-08-18 17:09:43] Processing 586/1106: microsoft/fluentui-android
+[2025-08-18 17:09:44] OK microsoft/fluentui-android: 0 merges in 30 days
+[2025-08-18 17:09:44] Processing 587/1106: microsoft/vscode-java-test
+[2025-08-18 17:09:44] OK microsoft/vscode-java-test: 0 merges in 30 days
+[2025-08-18 17:09:45] Processing 588/1106: microsoft/azure-maven-plugins
+[2025-08-18 17:09:45] OK microsoft/azure-maven-plugins: 0 merges in 30 days
+[2025-08-18 17:09:45] Processing 589/1106: microsoft/azure-tools-for-java
+[2025-08-18 17:09:46] OK microsoft/azure-tools-for-java: 0 merges in 30 days
+[2025-08-18 17:09:46] Processing 590/1106: microsoft/ApplicationInsights-Java
+[2025-08-18 17:09:47] OK microsoft/ApplicationInsights-Java: 0 merges in 30 days
+[2025-08-18 17:09:47] Processing 591/1106: microsoft/azure-devops-extension-api
+[2025-08-18 17:09:48] OK microsoft/azure-devops-extension-api: 0 merges in 30 days
+[2025-08-18 17:09:48] Processing 592/1106: microsoft/Mu-Protein
+[2025-08-18 17:09:49] OK microsoft/Mu-Protein: 1 merges in 30 days
+[2025-08-18 17:09:49] Processing 593/1106: microsoft/ograg2
+[2025-08-18 17:09:50] OK microsoft/ograg2: 0 merges in 30 days
+[2025-08-18 17:09:50] Processing 594/1106: microsoft/profile-explorer
+[2025-08-18 17:09:51] OK microsoft/profile-explorer: 1 merges in 30 days
+[2025-08-18 17:09:51] Processing 595/1106: microsoft/DirectXTex
+[2025-08-18 17:09:52] OK microsoft/DirectXTex: 0 merges in 30 days
+[2025-08-18 17:09:52] Processing 596/1106: microsoft/FHIR-Converter
+[2025-08-18 17:09:52] OK microsoft/FHIR-Converter: 0 merges in 30 days
+[2025-08-18 17:09:52] Processing 597/1106: microsoft/ALAppExtensions
+[2025-08-18 17:09:53] OK microsoft/ALAppExtensions: 0 merges in 30 days
+[2025-08-18 17:09:53] Processing 598/1106: microsoft/vscode-bisect
+[2025-08-18 17:09:54] OK microsoft/vscode-bisect: 0 merges in 30 days
+[2025-08-18 17:09:54] Processing 599/1106: microsoft/vscode-tools-for-ai
+[2025-08-18 17:09:55] OK microsoft/vscode-tools-for-ai: 0 merges in 30 days
+[2025-08-18 17:09:55] Processing 600/1106: microsoft/durabletask-dotnet
+[2025-08-18 17:09:56] OK microsoft/durabletask-dotnet: 0 merges in 30 days
+[2025-08-18 17:09:56] Processing 601/1106: microsoft/vscode-documentdb
+[2025-08-18 17:09:57] OK microsoft/vscode-documentdb: 16 merges in 30 days
+[2025-08-18 17:09:57] Processing 602/1106: microsoft/openjdk-jdk21u
+[2025-08-18 17:09:58] OK microsoft/openjdk-jdk21u: 0 merges in 30 days
+[2025-08-18 17:09:58] Processing 603/1106: microsoft/openjdk-jdk17u
+[2025-08-18 17:09:59] OK microsoft/openjdk-jdk17u: 0 merges in 30 days
+[2025-08-18 17:09:59] Processing 604/1106: microsoft/geo-vision-labeler
+[2025-08-18 17:10:00] OK microsoft/geo-vision-labeler: 0 merges in 30 days
+[2025-08-18 17:10:00] Processing 605/1106: microsoft/winget-pkgs-automation-staging
+[2025-08-18 17:10:01] OK microsoft/winget-pkgs-automation-staging: 0 merges in 30 days
+[2025-08-18 17:10:01] Processing 606/1106: microsoft/CollabLLM
+[2025-08-18 17:10:02] OK microsoft/CollabLLM: 1 merges in 30 days
+[2025-08-18 17:10:02] Processing 607/1106: microsoft/FEA-Bench
+[2025-08-18 17:10:03] OK microsoft/FEA-Bench: 1 merges in 30 days
+[2025-08-18 17:10:03] Processing 608/1106: microsoft/vscode-gradle
+[2025-08-18 17:10:03] OK microsoft/vscode-gradle: 0 merges in 30 days
+[2025-08-18 17:10:04] Processing 609/1106: microsoft/GUI-Agent-RL
+[2025-08-18 17:10:04] OK microsoft/GUI-Agent-RL: 0 merges in 30 days
+[2025-08-18 17:10:04] Processing 610/1106: microsoft/ApplicationInsights-JS
+[2025-08-18 17:10:05] OK microsoft/ApplicationInsights-JS: 0 merges in 30 days
+[2025-08-18 17:10:05] Processing 611/1106: microsoft/ApplicationInsights-node.js
+[2025-08-18 17:10:06] OK microsoft/ApplicationInsights-node.js: 0 merges in 30 days
+[2025-08-18 17:10:06] Processing 612/1106: microsoft/cognitive-services-speech-sdk-js
+[2025-08-18 17:10:07] OK microsoft/cognitive-services-speech-sdk-js: 0 merges in 30 days
+[2025-08-18 17:10:07] Processing 613/1106: microsoft/finops-toolkit
+[2025-08-18 17:10:08] OK microsoft/finops-toolkit: 0 merges in 30 days
+[2025-08-18 17:10:08] Processing 614/1106: microsoft/winget-create
+[2025-08-18 17:10:09] OK microsoft/winget-create: 0 merges in 30 days
+[2025-08-18 17:10:09] Processing 615/1106: microsoft/CADFusion
+[2025-08-18 17:10:10] OK microsoft/CADFusion: 0 merges in 30 days
+[2025-08-18 17:10:10] Processing 616/1106: microsoft/dev-tunnels-ssh
+[2025-08-18 17:10:11] OK microsoft/dev-tunnels-ssh: 0 merges in 30 days
+[2025-08-18 17:10:11] Processing 617/1106: microsoft/vscode-wasm
+[2025-08-18 17:10:12] OK microsoft/vscode-wasm: 1 merges in 30 days
+[2025-08-18 17:10:12] Processing 618/1106: microsoft/cpp_client_telemetry
+[2025-08-18 17:10:13] OK microsoft/cpp_client_telemetry: 0 merges in 30 days
+[2025-08-18 17:10:13] Processing 619/1106: microsoft/EntraSuite-Training
+[2025-08-18 17:10:13] OK microsoft/EntraSuite-Training: 2 merges in 30 days
+[2025-08-18 17:10:14] Processing 620/1106: microsoft/fabric-rest-api-specs
+[2025-08-18 17:10:14] OK microsoft/fabric-rest-api-specs: 0 merges in 30 days
+[2025-08-18 17:10:14] Processing 621/1106: microsoft/dotnet-framework-docker
+[2025-08-18 17:10:15] OK microsoft/dotnet-framework-docker: 1 merges in 30 days
+[2025-08-18 17:10:15] Processing 622/1106: microsoft/wil
+[2025-08-18 17:10:16] OK microsoft/wil: 0 merges in 30 days
+[2025-08-18 17:10:16] Processing 623/1106: microsoft/libHttpClient
+[2025-08-18 17:10:17] OK microsoft/libHttpClient: 0 merges in 30 days
+[2025-08-18 17:10:17] Processing 624/1106: microsoft/verified-storage
+[2025-08-18 17:10:18] OK microsoft/verified-storage: 3 merges in 30 days
+[2025-08-18 17:10:18] Processing 625/1106: microsoft/kiota-bundle-go
+[2025-08-18 17:10:19] OK microsoft/kiota-bundle-go: 1 merges in 30 days
+[2025-08-18 17:10:19] Processing 626/1106: microsoft/kiota-http-go
+[2025-08-18 17:10:20] OK microsoft/kiota-http-go: 1 merges in 30 days
+[2025-08-18 17:10:20] Processing 627/1106: microsoft/shell-intune-samples
+[2025-08-18 17:10:21] OK microsoft/shell-intune-samples: 0 merges in 30 days
+[2025-08-18 17:10:21] Processing 628/1106: microsoft/SymCrypt-OpenSSL
+[2025-08-18 17:10:21] OK microsoft/SymCrypt-OpenSSL: 0 merges in 30 days
+[2025-08-18 17:10:22] Processing 629/1106: microsoft/Vipr
+[2025-08-18 17:10:22] OK microsoft/Vipr: 0 merges in 30 days
+[2025-08-18 17:10:22] Processing 630/1106: microsoft/powercat
+[2025-08-18 17:10:23] OK microsoft/powercat: 0 merges in 30 days
+[2025-08-18 17:10:23] Processing 631/1106: microsoft/SWE-bench-Live
+[2025-08-18 17:10:24] OK microsoft/SWE-bench-Live: 0 merges in 30 days
+[2025-08-18 17:10:24] Processing 632/1106: microsoft/powerquery-formatter
+[2025-08-18 17:10:25] OK microsoft/powerquery-formatter: 0 merges in 30 days
+[2025-08-18 17:10:25] Processing 633/1106: microsoft/ProtocolTestFramework
+[2025-08-18 17:10:26] OK microsoft/ProtocolTestFramework: 1 merges in 30 days
+[2025-08-18 17:10:26] Processing 634/1106: microsoft/WindowsProtocolTestSuites
+[2025-08-18 17:10:27] OK microsoft/WindowsProtocolTestSuites: 2 merges in 30 days
+[2025-08-18 17:10:27] Processing 635/1106: microsoft/powerquery-parser
+[2025-08-18 17:10:28] OK microsoft/powerquery-parser: 0 merges in 30 days
+[2025-08-18 17:10:28] Processing 636/1106: microsoft/FabricBQSync
+[2025-08-18 17:10:28] OK microsoft/FabricBQSync: 2 merges in 30 days
+[2025-08-18 17:10:29] Processing 637/1106: microsoft/terraform-provider-power-platform
+[2025-08-18 17:10:29] OK microsoft/terraform-provider-power-platform: 0 merges in 30 days
+[2025-08-18 17:10:30] Processing 638/1106: microsoft/typespec-mcp
+[2025-08-18 17:10:30] OK microsoft/typespec-mcp: 0 merges in 30 days
+[2025-08-18 17:10:30] Processing 639/1106: microsoft/DefinitelyTyped-tools
+[2025-08-18 17:10:31] OK microsoft/DefinitelyTyped-tools: 0 merges in 30 days
+[2025-08-18 17:10:31] Processing 640/1106: microsoft/TypeScript-Make-Monaco-Builds
+[2025-08-18 17:10:32] OK microsoft/TypeScript-Make-Monaco-Builds: 0 merges in 30 days
+[2025-08-18 17:10:32] Processing 641/1106: microsoft/GDK
+[2025-08-18 17:10:33] OK microsoft/GDK: 0 merges in 30 days
+[2025-08-18 17:10:33] Processing 642/1106: microsoft/vscode-test-cli
+[2025-08-18 17:10:34] OK microsoft/vscode-test-cli: 0 merges in 30 days
+[2025-08-18 17:10:34] Processing 643/1106: microsoft/kiota-serialization-json-ruby
+[2025-08-18 17:10:35] OK microsoft/kiota-serialization-json-ruby: 1 merges in 30 days
+[2025-08-18 17:10:35] Processing 644/1106: microsoft/security-devops-azdevops
+[2025-08-18 17:10:36] OK microsoft/security-devops-azdevops: 1 merges in 30 days
+[2025-08-18 17:10:36] Processing 645/1106: microsoft/kiota-abstractions-go
+[2025-08-18 17:10:37] OK microsoft/kiota-abstractions-go: 1 merges in 30 days
+[2025-08-18 17:10:37] Processing 646/1106: microsoft/kiota-authentication-azure-go
+[2025-08-18 17:10:37] OK microsoft/kiota-authentication-azure-go: 2 merges in 30 days
+[2025-08-18 17:10:38] Processing 647/1106: microsoft/kiota-serialization-form-go
+[2025-08-18 17:10:38] OK microsoft/kiota-serialization-form-go: 2 merges in 30 days
+[2025-08-18 17:10:38] Processing 648/1106: microsoft/codeql
+[2025-08-18 17:10:39] OK microsoft/codeql: 31 merges in 30 days
+[2025-08-18 17:10:39] Processing 649/1106: microsoft/kiota-serialization-json-go
+[2025-08-18 17:10:40] OK microsoft/kiota-serialization-json-go: 1 merges in 30 days
+[2025-08-18 17:10:40] Processing 650/1106: microsoft/kiota-serialization-multipart-go
+[2025-08-18 17:10:41] OK microsoft/kiota-serialization-multipart-go: 2 merges in 30 days
+[2025-08-18 17:10:41] Processing 651/1106: microsoft/kiota-serialization-text-go
+[2025-08-18 17:10:42] OK microsoft/kiota-serialization-text-go: 2 merges in 30 days
+[2025-08-18 17:10:42] Processing 652/1106: microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio
+[2025-08-18 17:10:43] OK microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio: 0 merges in 30 days
+[2025-08-18 17:10:43] Processing 653/1106: microsoft/windows-container-tools
+[2025-08-18 17:10:44] OK microsoft/windows-container-tools: 0 merges in 30 days
+[2025-08-18 17:10:44] Processing 654/1106: microsoft/go-crypto-darwin
+[2025-08-18 17:10:45] OK microsoft/go-crypto-darwin: 0 merges in 30 days
+[2025-08-18 17:10:45] Processing 655/1106: microsoft/vs-validation
+[2025-08-18 17:10:46] OK microsoft/vs-validation: 6 merges in 30 days
+[2025-08-18 17:10:46] Processing 656/1106: microsoft/vs-servicehub
+[2025-08-18 17:10:47] OK microsoft/vs-servicehub: 8 merges in 30 days
+[2025-08-18 17:10:47] Processing 657/1106: microsoft/go-infra-images
+[2025-08-18 17:10:48] OK microsoft/go-infra-images: 0 merges in 30 days
+[2025-08-18 17:10:48] Processing 658/1106: microsoft/kiota-python
+[2025-08-18 17:10:49] OK microsoft/kiota-python: 1 merges in 30 days
+[2025-08-18 17:10:49] Processing 659/1106: microsoft/kiota-dart
+[2025-08-18 17:10:50] OK microsoft/kiota-dart: 5 merges in 30 days
+[2025-08-18 17:10:50] Processing 660/1106: microsoft/kiota-dotnet
+[2025-08-18 17:10:50] OK microsoft/kiota-dotnet: 1 merges in 30 days
+[2025-08-18 17:10:51] Processing 661/1106: microsoft/ProbTS
+[2025-08-18 17:10:51] OK microsoft/ProbTS: 0 merges in 30 days
+[2025-08-18 17:10:51] Processing 662/1106: microsoft/backfill
+[2025-08-18 17:10:52] OK microsoft/backfill: 0 merges in 30 days
+[2025-08-18 17:10:52] Processing 663/1106: microsoft/Dynamics-365-FastTrack-FSCM-Telemetry-Samples
+[2025-08-18 17:10:53] OK microsoft/Dynamics-365-FastTrack-FSCM-Telemetry-Samples: 0 merges in 30 days
+[2025-08-18 17:10:53] Processing 664/1106: microsoft/busiotools
+[2025-08-18 17:10:54] OK microsoft/busiotools: 0 merges in 30 days
+[2025-08-18 17:10:54] Processing 665/1106: microsoft/nova-facade
+[2025-08-18 17:10:55] OK microsoft/nova-facade: 0 merges in 30 days
+[2025-08-18 17:10:55] Processing 666/1106: microsoft/vscode-makefile-tools
+[2025-08-18 17:10:56] OK microsoft/vscode-makefile-tools: 0 merges in 30 days
+[2025-08-18 17:10:56] Processing 667/1106: microsoft/eureka-ml-insights
+[2025-08-18 17:10:57] OK microsoft/eureka-ml-insights: 0 merges in 30 days
+[2025-08-18 17:10:57] Processing 668/1106: microsoft/vscode-cordova
+[2025-08-18 17:10:58] OK microsoft/vscode-cordova: 0 merges in 30 days
+[2025-08-18 17:10:58] Processing 669/1106: microsoft/vscode-l10n
+[2025-08-18 17:10:59] OK microsoft/vscode-l10n: 0 merges in 30 days
+[2025-08-18 17:10:59] Processing 670/1106: microsoft/openjdk-jdk11u
+[2025-08-18 17:10:59] OK microsoft/openjdk-jdk11u: 0 merges in 30 days
+[2025-08-18 17:11:00] Processing 671/1106: microsoft/powerplatform-build-tools
+[2025-08-18 17:11:00] OK microsoft/powerplatform-build-tools: 0 merges in 30 days
+[2025-08-18 17:11:00] Processing 672/1106: microsoft/typescript-benchmarking
+[2025-08-18 17:11:01] OK microsoft/typescript-benchmarking: 0 merges in 30 days
+[2025-08-18 17:11:01] Processing 673/1106: microsoft/dusseldorf
+[2025-08-18 17:11:02] OK microsoft/dusseldorf: 4 merges in 30 days
+[2025-08-18 17:11:02] Processing 674/1106: microsoft/DxCapsViewer
+[2025-08-18 17:11:03] OK microsoft/DxCapsViewer: 0 merges in 30 days
+[2025-08-18 17:11:03] Processing 675/1106: microsoft/vscode-app-mod-pack
+[2025-08-18 17:11:04] OK microsoft/vscode-app-mod-pack: 0 merges in 30 days
+[2025-08-18 17:11:04] Processing 676/1106: microsoft/teams.ts
+[2025-08-18 17:11:05] OK microsoft/teams.ts: 0 merges in 30 days
+[2025-08-18 17:11:05] Processing 677/1106: microsoft/FeatureManagement-JavaScript
+[2025-08-18 17:11:06] OK microsoft/FeatureManagement-JavaScript: 0 merges in 30 days
+[2025-08-18 17:11:06] Processing 678/1106: microsoft/devfactory
+[2025-08-18 17:11:07] OK microsoft/devfactory: 2 merges in 30 days
+[2025-08-18 17:11:07] Processing 679/1106: microsoft/OpenAIWorkshop
+[2025-08-18 17:11:08] OK microsoft/OpenAIWorkshop: 10 merges in 30 days
+[2025-08-18 17:11:08] Processing 680/1106: microsoft/vscode-spring-boot-dashboard
+[2025-08-18 17:11:09] OK microsoft/vscode-spring-boot-dashboard: 0 merges in 30 days
+[2025-08-18 17:11:09] Processing 681/1106: microsoft/vscode-powerquery
+[2025-08-18 17:11:10] OK microsoft/vscode-powerquery: 0 merges in 30 days
+[2025-08-18 17:11:10] Processing 682/1106: microsoft/vscode-css-languageservice
+[2025-08-18 17:11:11] OK microsoft/vscode-css-languageservice: 0 merges in 30 days
+[2025-08-18 17:11:11] Processing 683/1106: microsoft/mwkorea
+[2025-08-18 17:11:12] OK microsoft/mwkorea: 0 merges in 30 days
+[2025-08-18 17:11:12] Processing 684/1106: microsoft/FX11
+[2025-08-18 17:11:12] OK microsoft/FX11: 0 merges in 30 days
+[2025-08-18 17:11:13] Processing 685/1106: microsoft/rats
+[2025-08-18 17:11:13] OK microsoft/rats: 0 merges in 30 days
+[2025-08-18 17:11:14] Processing 686/1106: microsoft/mcs-labs
+[2025-08-18 17:11:14] OK microsoft/mcs-labs: 2 merges in 30 days
+[2025-08-18 17:11:15] Processing 687/1106: microsoft/openjdk-docker
+[2025-08-18 17:11:15] OK microsoft/openjdk-docker: 0 merges in 30 days
+[2025-08-18 17:11:16] Processing 688/1106: microsoft/usersim
+[2025-08-18 17:11:17] OK microsoft/usersim: 0 merges in 30 days
+[2025-08-18 17:11:17] Processing 689/1106: microsoft/OpenApi.ApiManifest
+[2025-08-18 17:11:17] OK microsoft/OpenApi.ApiManifest: 1 merges in 30 days
+[2025-08-18 17:11:18] Processing 690/1106: microsoft/Power-Fx-Dataverse
+[2025-08-18 17:11:18] OK microsoft/Power-Fx-Dataverse: 0 merges in 30 days
+[2025-08-18 17:11:18] Processing 691/1106: microsoft/artifacts-keyring
+[2025-08-18 17:11:19] OK microsoft/artifacts-keyring: 0 merges in 30 days
+[2025-08-18 17:11:19] Processing 692/1106: microsoft/rust_debugger_test
+[2025-08-18 17:11:20] OK microsoft/rust_debugger_test: 0 merges in 30 days
+[2025-08-18 17:11:20] Processing 693/1106: microsoft/TypeScript-repos-automation
+[2025-08-18 17:11:21] OK microsoft/TypeScript-repos-automation: 0 merges in 30 days
+[2025-08-18 17:11:21] Processing 694/1106: microsoft/Data-AI-Design-SMB
+[2025-08-18 17:11:22] OK microsoft/Data-AI-Design-SMB: 0 merges in 30 days
+[2025-08-18 17:11:22] Processing 695/1106: microsoft/teams.net
+[2025-08-18 17:11:23] OK microsoft/teams.net: 0 merges in 30 days
+[2025-08-18 17:11:23] Processing 696/1106: microsoft/typescript-bot-test-triggerer
+[2025-08-18 17:11:23] OK microsoft/typescript-bot-test-triggerer: 0 merges in 30 days
+[2025-08-18 17:11:24] Processing 697/1106: microsoft/mpss
+[2025-08-18 17:11:24] OK microsoft/mpss: 2 merges in 30 days
+[2025-08-18 17:11:24] Processing 698/1106: microsoft/Kerberos-Crypto
+[2025-08-18 17:11:25] OK microsoft/Kerberos-Crypto: 1 merges in 30 days
+[2025-08-18 17:11:26] Processing 699/1106: microsoft/injectorppforrust
+[2025-08-18 17:11:26] OK microsoft/injectorppforrust: 0 merges in 30 days
+[2025-08-18 17:11:27] Processing 700/1106: microsoft/signature-marking-detector
+[2025-08-18 17:11:27] OK microsoft/signature-marking-detector: 0 merges in 30 days
+[2025-08-18 17:11:27] Processing 701/1106: microsoft/ContactCenterMessagingSDK-ios
+[2025-08-18 17:11:28] OK microsoft/ContactCenterMessagingSDK-ios: 3 merges in 30 days
+[2025-08-18 17:11:28] Processing 702/1106: microsoft/quicreach
+[2025-08-18 17:11:29] OK microsoft/quicreach: 0 merges in 30 days
+[2025-08-18 17:11:29] Processing 703/1106: microsoft/vs-renovate-presets
+[2025-08-18 17:11:30] OK microsoft/vs-renovate-presets: 0 merges in 30 days
+[2025-08-18 17:11:30] Processing 704/1106: microsoft/accessibility-insights-service
+[2025-08-18 17:11:31] OK microsoft/accessibility-insights-service: 0 merges in 30 days
+[2025-08-18 17:11:31] Processing 705/1106: microsoft/ntosebpfext
+[2025-08-18 17:11:32] OK microsoft/ntosebpfext: 0 merges in 30 days
+[2025-08-18 17:11:32] Processing 706/1106: microsoft/Windows365-PSScripts
+[2025-08-18 17:11:33] OK microsoft/Windows365-PSScripts: 0 merges in 30 days
+[2025-08-18 17:11:33] Processing 707/1106: microsoft/service-fabric-explorer
+[2025-08-18 17:11:34] OK microsoft/service-fabric-explorer: 0 merges in 30 days
+[2025-08-18 17:11:34] Processing 708/1106: microsoft/vs-extension-testing
+[2025-08-18 17:11:35] OK microsoft/vs-extension-testing: 2 merges in 30 days
+[2025-08-18 17:11:35] Processing 709/1106: microsoft/Azure-Analytics-and-AI-Engagement
+[2025-08-18 17:11:36] OK microsoft/Azure-Analytics-and-AI-Engagement: 1 merges in 30 days
+[2025-08-18 17:11:36] Processing 710/1106: microsoft/Build25-LAB329
+[2025-08-18 17:11:36] OK microsoft/Build25-LAB329: 0 merges in 30 days
+[2025-08-18 17:11:37] Processing 711/1106: microsoft/multimodal-ai
+[2025-08-18 17:11:37] OK microsoft/multimodal-ai: 0 merges in 30 days
+[2025-08-18 17:11:38] Processing 712/1106: microsoft/hlsl-specs
+[2025-08-18 17:11:38] OK microsoft/hlsl-specs: 0 merges in 30 days
+[2025-08-18 17:11:39] Processing 713/1106: microsoft/elem2design
+[2025-08-18 17:11:39] OK microsoft/elem2design: 1 merges in 30 days
+[2025-08-18 17:11:39] Processing 714/1106: microsoft/teams-ai
+[2025-08-18 17:11:40] OK microsoft/teams-ai: 0 merges in 30 days
+[2025-08-18 17:11:40] Processing 715/1106: microsoft/dbt-fabricspark
+[2025-08-18 17:11:41] OK microsoft/dbt-fabricspark: 0 merges in 30 days
+[2025-08-18 17:11:41] Processing 716/1106: microsoft/Agents-M365Copilot
+[2025-08-18 17:11:42] OK microsoft/Agents-M365Copilot: 5 merges in 30 days
+[2025-08-18 17:11:42] Processing 717/1106: microsoft/vscode-notebook-renderers
+[2025-08-18 17:11:43] OK microsoft/vscode-notebook-renderers: 0 merges in 30 days
+[2025-08-18 17:11:43] Processing 718/1106: microsoft/accessibility-insights-action
+[2025-08-18 17:11:44] OK microsoft/accessibility-insights-action: 0 merges in 30 days
+[2025-08-18 17:11:44] Processing 719/1106: microsoft/beachball
+[2025-08-18 17:11:45] OK microsoft/beachball: 0 merges in 30 days
+[2025-08-18 17:11:45] Processing 720/1106: microsoft/agdebugger
+[2025-08-18 17:11:46] OK microsoft/agdebugger: 0 merges in 30 days
+[2025-08-18 17:11:46] Processing 721/1106: microsoft/azurekorea
+[2025-08-18 17:11:47] OK microsoft/azurekorea: 21 merges in 30 days
+[2025-08-18 17:11:47] Processing 722/1106: microsoft/dbt-fabric
+[2025-08-18 17:11:48] OK microsoft/dbt-fabric: 0 merges in 30 days
+[2025-08-18 17:11:48] Processing 723/1106: microsoft/vs-ng-language-service
+[2025-08-18 17:11:49] OK microsoft/vs-ng-language-service: 2 merges in 30 days
+[2025-08-18 17:11:49] Processing 724/1106: microsoft/vscode-websearchforcopilot
+[2025-08-18 17:11:50] OK microsoft/vscode-websearchforcopilot: 0 merges in 30 days
+[2025-08-18 17:11:50] Processing 725/1106: microsoft/minecraft-scripting-samples
+[2025-08-18 17:11:51] OK microsoft/minecraft-scripting-samples: 0 merges in 30 days
+[2025-08-18 17:11:51] Processing 726/1106: microsoft/RecursiveExtractor
+[2025-08-18 17:11:52] OK microsoft/RecursiveExtractor: 0 merges in 30 days
+[2025-08-18 17:11:52] Processing 727/1106: microsoft/o365-moodle
+[2025-08-18 17:11:53] OK microsoft/o365-moodle: 0 merges in 30 days
+[2025-08-18 17:11:53] Processing 728/1106: microsoft/highlight-summarize
+[2025-08-18 17:11:54] OK microsoft/highlight-summarize: 0 merges in 30 days
+[2025-08-18 17:11:54] Processing 729/1106: microsoft/presidio-research
+[2025-08-18 17:11:55] OK microsoft/presidio-research: 0 merges in 30 days
+[2025-08-18 17:11:55] Processing 730/1106: microsoft/MicrosoftEdge-Extensions
+[2025-08-18 17:11:56] OK microsoft/MicrosoftEdge-Extensions: 0 merges in 30 days
+[2025-08-18 17:11:56] Processing 731/1106: microsoft/llm-steer-instruct
+[2025-08-18 17:11:57] OK microsoft/llm-steer-instruct: 0 merges in 30 days
+[2025-08-18 17:11:57] Processing 732/1106: microsoft/Windows-rust-driver-samples
+[2025-08-18 17:11:57] OK microsoft/Windows-rust-driver-samples: 0 merges in 30 days
+[2025-08-18 17:11:58] Processing 733/1106: microsoft/azure-devops-rust-api
+[2025-08-18 17:11:58] OK microsoft/azure-devops-rust-api: 0 merges in 30 days
+[2025-08-18 17:11:59] Processing 734/1106: microsoft/dstoolkit-devcontainers
+[2025-08-18 17:11:59] OK microsoft/dstoolkit-devcontainers: 0 merges in 30 days
+[2025-08-18 17:11:59] Processing 735/1106: microsoft/PSRule-vscode
+[2025-08-18 17:12:00] OK microsoft/PSRule-vscode: 0 merges in 30 days
+[2025-08-18 17:12:00] Processing 736/1106: microsoft/PSRule.Monitor
+[2025-08-18 17:12:02] OK microsoft/PSRule.Monitor: 0 merges in 30 days
+[2025-08-18 17:12:02] Processing 737/1106: microsoft/confidential-container-demos
+[2025-08-18 17:12:03] OK microsoft/confidential-container-demos: 0 merges in 30 days
+[2025-08-18 17:12:03] Processing 738/1106: microsoft/asconnect
+[2025-08-18 17:12:04] OK microsoft/asconnect: 6 merges in 30 days
+[2025-08-18 17:12:04] Processing 739/1106: microsoft/Dynamics365Commerce.ScaleUnit
+[2025-08-18 17:12:04] OK microsoft/Dynamics365Commerce.ScaleUnit: 0 merges in 30 days
+[2025-08-18 17:12:05] Processing 740/1106: microsoft/pxt-arcade
+[2025-08-18 17:12:05] OK microsoft/pxt-arcade: 0 merges in 30 days
+[2025-08-18 17:12:05] Processing 741/1106: microsoft/sfs-client
+[2025-08-18 17:12:06] OK microsoft/sfs-client: 0 merges in 30 days
+[2025-08-18 17:12:06] Processing 742/1106: microsoft/security-devops-azdevops-task-lib
+[2025-08-18 17:12:07] OK microsoft/security-devops-azdevops-task-lib: 1 merges in 30 days
+[2025-08-18 17:12:07] Processing 743/1106: microsoft/moc
+[2025-08-18 17:12:08] OK microsoft/moc: 0 merges in 30 days
+[2025-08-18 17:12:08] Processing 744/1106: microsoft/TypeScript-wiki
+[2025-08-18 17:12:09] OK microsoft/TypeScript-wiki: 0 merges in 30 days
+[2025-08-18 17:12:09] Processing 745/1106: microsoft/opensource-management-portal
+[2025-08-18 17:12:10] OK microsoft/opensource-management-portal: 0 merges in 30 days
+[2025-08-18 17:12:10] Processing 746/1106: microsoft/vsts-extension-retrospectives
+[2025-08-18 17:12:11] OK microsoft/vsts-extension-retrospectives: 0 merges in 30 days
+[2025-08-18 17:12:11] Processing 747/1106: microsoft/Docker-Provider
+[2025-08-18 17:12:12] OK microsoft/Docker-Provider: 0 merges in 30 days
+[2025-08-18 17:12:12] Processing 748/1106: microsoft/Adversarial-Chatter
+[2025-08-18 17:12:13] OK microsoft/Adversarial-Chatter: 1 merges in 30 days
+[2025-08-18 17:12:13] Processing 749/1106: microsoft/dbt-synapse
+[2025-08-18 17:12:13] OK microsoft/dbt-synapse: 0 merges in 30 days
+[2025-08-18 17:12:13] Processing 750/1106: microsoft/lage
+[2025-08-18 17:12:14] OK microsoft/lage: 0 merges in 30 days
+[2025-08-18 17:12:14] Processing 751/1106: microsoft/sarif-vscode-extension
+[2025-08-18 17:12:15] OK microsoft/sarif-vscode-extension: 0 merges in 30 days
+[2025-08-18 17:12:15] Processing 752/1106: microsoft/Teams-AdaptiveCards-Mobile
+[2025-08-18 17:12:16] OK microsoft/Teams-AdaptiveCards-Mobile: 16 merges in 30 days
+[2025-08-18 17:12:16] Processing 753/1106: microsoft/DacFx
+[2025-08-18 17:12:17] OK microsoft/DacFx: 0 merges in 30 days
+[2025-08-18 17:12:17] Processing 754/1106: microsoft/durabletask-protobuf
+[2025-08-18 17:12:19] OK microsoft/durabletask-protobuf: 0 merges in 30 days
+[2025-08-18 17:12:19] Processing 755/1106: microsoft/Windows-Driver-Developer-Supplemental-Tools
+[2025-08-18 17:12:20] OK microsoft/Windows-Driver-Developer-Supplemental-Tools: 6 merges in 30 days
+[2025-08-18 17:12:20] Processing 756/1106: microsoft/vs-mef
+[2025-08-18 17:12:21] OK microsoft/vs-mef: 6 merges in 30 days
+[2025-08-18 17:12:21] Processing 757/1106: microsoft/SqlNexus
+[2025-08-18 17:12:22] OK microsoft/SqlNexus: 0 merges in 30 days
+[2025-08-18 17:12:22] Processing 758/1106: microsoft/UTCM-ControlPanel
+[2025-08-18 17:12:23] OK microsoft/UTCM-ControlPanel: 0 merges in 30 days
+[2025-08-18 17:12:23] Processing 759/1106: microsoft/purview
+[2025-08-18 17:12:24] OK microsoft/purview: 0 merges in 30 days
+[2025-08-18 17:12:24] Processing 760/1106: microsoft/OpenAPI.NET.OData
+[2025-08-18 17:12:25] OK microsoft/OpenAPI.NET.OData: 0 merges in 30 days
+[2025-08-18 17:12:25] Processing 761/1106: microsoft/terraform-provider-azuredevops
+[2025-08-18 17:12:26] OK microsoft/terraform-provider-azuredevops: 3 merges in 30 days
+[2025-08-18 17:12:26] Processing 762/1106: microsoft/AzureTRE-Deployment
+[2025-08-18 17:12:27] OK microsoft/AzureTRE-Deployment: 0 merges in 30 days
+[2025-08-18 17:12:27] Processing 763/1106: microsoft/VoluMe
+[2025-08-18 17:12:28] OK microsoft/VoluMe: 0 merges in 30 days
+[2025-08-18 17:12:28] Processing 764/1106: microsoft/python-type-stubs
+[2025-08-18 17:12:29] OK microsoft/python-type-stubs: 0 merges in 30 days
+[2025-08-18 17:12:29] Processing 765/1106: microsoft/azurelinux-tutorials
+[2025-08-18 17:12:30] OK microsoft/azurelinux-tutorials: 0 merges in 30 days
+[2025-08-18 17:12:30] Processing 766/1106: microsoft/ai-foundry-for-vscode
+[2025-08-18 17:12:31] OK microsoft/ai-foundry-for-vscode: 0 merges in 30 days
+[2025-08-18 17:12:31] Processing 767/1106: microsoft/oneqmc
+[2025-08-18 17:12:32] OK microsoft/oneqmc: 0 merges in 30 days
+[2025-08-18 17:12:32] Processing 768/1106: microsoft/just
+[2025-08-18 17:12:33] OK microsoft/just: 0 merges in 30 days
+[2025-08-18 17:12:33] Processing 769/1106: microsoft/vscode-markdown-tm-grammar
+[2025-08-18 17:12:34] OK microsoft/vscode-markdown-tm-grammar: 7 merges in 30 days
+[2025-08-18 17:12:34] Processing 770/1106: microsoft/Windows-Containers
+[2025-08-18 17:12:34] OK microsoft/Windows-Containers: 0 merges in 30 days
+[2025-08-18 17:12:34] Processing 771/1106: microsoft/omnichannel-amsclient
+[2025-08-18 17:12:35] OK microsoft/omnichannel-amsclient: 1 merges in 30 days
+[2025-08-18 17:12:35] Processing 772/1106: microsoft/kalypso
+[2025-08-18 17:12:36] OK microsoft/kalypso: 10 merges in 30 days
+[2025-08-18 17:12:36] Processing 773/1106: microsoft/unity-asset-graph-rs
+[2025-08-18 17:12:37] OK microsoft/unity-asset-graph-rs: 1 merges in 30 days
+[2025-08-18 17:12:37] Processing 774/1106: microsoft/service-fabric-healer
+[2025-08-18 17:12:38] OK microsoft/service-fabric-healer: 0 merges in 30 days
+[2025-08-18 17:12:38] Processing 775/1106: microsoft/vscode-azureappservice
+[2025-08-18 17:12:39] OK microsoft/vscode-azureappservice: 0 merges in 30 days
+[2025-08-18 17:12:39] Processing 776/1106: microsoft/vscode-azurevirtualmachines
+[2025-08-18 17:12:40] OK microsoft/vscode-azurevirtualmachines: 0 merges in 30 days
+[2025-08-18 17:12:40] Processing 777/1106: microsoft/vscode-azurecontainerapps
+[2025-08-18 17:12:41] OK microsoft/vscode-azurecontainerapps: 0 merges in 30 days
+[2025-08-18 17:12:41] Processing 778/1106: microsoft/PSRule-pipelines
+[2025-08-18 17:12:42] OK microsoft/PSRule-pipelines: 0 merges in 30 days
+[2025-08-18 17:12:42] Processing 779/1106: microsoft/Omex
+[2025-08-18 17:12:43] OK microsoft/Omex: 0 merges in 30 days
+[2025-08-18 17:12:43] Processing 780/1106: microsoft/wpa
+[2025-08-18 17:12:44] OK microsoft/wpa: 4 merges in 30 days
+[2025-08-18 17:12:44] Processing 781/1106: microsoft/YOLaT-VectorGraphicsRecognition
+[2025-08-18 17:12:45] OK microsoft/YOLaT-VectorGraphicsRecognition: 0 merges in 30 days
+[2025-08-18 17:12:45] Processing 782/1106: microsoft/amlFilesystem-lustre
+[2025-08-18 17:12:45] OK microsoft/amlFilesystem-lustre: 0 merges in 30 days
+[2025-08-18 17:12:45] Processing 783/1106: microsoft/SPTAG
+[2025-08-18 17:12:46] OK microsoft/SPTAG: 0 merges in 30 days
+[2025-08-18 17:12:46] Processing 784/1106: microsoft/data-factory-testing-framework
+[2025-08-18 17:12:47] OK microsoft/data-factory-testing-framework: 0 merges in 30 days
+[2025-08-18 17:12:47] Processing 785/1106: microsoft/woodgrove-groceries
+[2025-08-18 17:12:48] OK microsoft/woodgrove-groceries: 0 merges in 30 days
+[2025-08-18 17:12:48] Processing 786/1106: microsoft/homebrew-foundrylocal
+[2025-08-18 17:12:49] OK microsoft/homebrew-foundrylocal: 0 merges in 30 days
+[2025-08-18 17:12:49] Processing 787/1106: microsoft/hands-on-lab-azure-managed-redis
+[2025-08-18 17:12:50] OK microsoft/hands-on-lab-azure-managed-redis: 0 merges in 30 days
+[2025-08-18 17:12:50] Processing 788/1106: microsoft/react-dag-editor
+[2025-08-18 17:12:50] OK microsoft/react-dag-editor: 0 merges in 30 days
+[2025-08-18 17:12:50] Processing 789/1106: microsoft/codecoverage
+[2025-08-18 17:12:51] OK microsoft/codecoverage: 0 merges in 30 days
+[2025-08-18 17:12:51] Processing 790/1106: microsoft/BCTech
+[2025-08-18 17:12:52] OK microsoft/BCTech: 0 merges in 30 days
+[2025-08-18 17:12:52] Processing 791/1106: microsoft/mttl
+[2025-08-18 17:12:53] OK microsoft/mttl: 0 merges in 30 days
+[2025-08-18 17:12:53] Processing 792/1106: microsoft/windows-container-networking
+[2025-08-18 17:12:54] OK microsoft/windows-container-networking: 0 merges in 30 days
+[2025-08-18 17:12:54] Processing 793/1106: microsoft/hermes-windows
+[2025-08-18 17:12:55] OK microsoft/hermes-windows: 0 merges in 30 days
+[2025-08-18 17:12:55] Processing 794/1106: microsoft/power-pages-samples
+[2025-08-18 17:12:56] OK microsoft/power-pages-samples: 0 merges in 30 days
+[2025-08-18 17:12:56] Processing 795/1106: microsoft/adaptive_cloud_community
+[2025-08-18 17:12:57] OK microsoft/adaptive_cloud_community: 1 merges in 30 days
+[2025-08-18 17:12:57] Processing 796/1106: microsoft/Skeena-Indigenous-Typeface
+[2025-08-18 17:12:57] OK microsoft/Skeena-Indigenous-Typeface: 0 merges in 30 days
+[2025-08-18 17:12:58] Processing 797/1106: microsoft/msstore-cli
+[2025-08-18 17:12:58] OK microsoft/msstore-cli: 1 merges in 30 days
+[2025-08-18 17:12:59] Processing 798/1106: microsoft/FastTrack
+[2025-08-18 17:12:59] OK microsoft/FastTrack: 0 merges in 30 days
+[2025-08-18 17:12:59] Processing 799/1106: microsoft/jailbreak-distillation
+[2025-08-18 17:13:00] OK microsoft/jailbreak-distillation: 0 merges in 30 days
+[2025-08-18 17:13:00] Processing 800/1106: microsoft/vscode-remote-wsl-recommender
+[2025-08-18 17:13:01] OK microsoft/vscode-remote-wsl-recommender: 1 merges in 30 days
+[2025-08-18 17:13:01] Processing 801/1106: microsoft/fhir-loader
+[2025-08-18 17:13:02] OK microsoft/fhir-loader: 0 merges in 30 days
+[2025-08-18 17:13:02] Processing 802/1106: microsoft/custom-monaco-copilot-demo
+[2025-08-18 17:13:03] OK microsoft/custom-monaco-copilot-demo: 0 merges in 30 days
+[2025-08-18 17:13:03] Processing 803/1106: microsoft/anomaly-detector
+[2025-08-18 17:13:04] OK microsoft/anomaly-detector: 3 merges in 30 days
+[2025-08-18 17:13:04] Processing 804/1106: microsoft/vscode-node-azure-pack
+[2025-08-18 17:13:05] OK microsoft/vscode-node-azure-pack: 0 merges in 30 days
+[2025-08-18 17:13:05] Processing 805/1106: microsoft/pxt-mkc
+[2025-08-18 17:13:06] OK microsoft/pxt-mkc: 0 merges in 30 days
+[2025-08-18 17:13:06] Processing 806/1106: microsoft/documentdb-kubernetes-operator
+[2025-08-18 17:13:07] OK microsoft/documentdb-kubernetes-operator: 0 merges in 30 days
+[2025-08-18 17:13:07] Processing 807/1106: microsoft/mu_feature_ffa
+[2025-08-18 17:13:08] OK microsoft/mu_feature_ffa: 0 merges in 30 days
+[2025-08-18 17:13:08] Processing 808/1106: microsoft/DecodingSuperUsage
+[2025-08-18 17:13:08] OK microsoft/DecodingSuperUsage: 0 merges in 30 days
+[2025-08-18 17:13:08] Processing 809/1106: microsoft/AI-Pex-for-SDC
+[2025-08-18 17:13:09] OK microsoft/AI-Pex-for-SDC: 0 merges in 30 days
+[2025-08-18 17:13:09] Processing 810/1106: microsoft/Analysis-Services
+[2025-08-18 17:13:10] OK microsoft/Analysis-Services: 0 merges in 30 days
+[2025-08-18 17:13:10] Processing 811/1106: microsoft/Test_Awareness_Steering
+[2025-08-18 17:13:11] OK microsoft/Test_Awareness_Steering: 0 merges in 30 days
+[2025-08-18 17:13:11] Processing 812/1106: microsoft/simple_ado
+[2025-08-18 17:13:12] OK microsoft/simple_ado: 0 merges in 30 days
+[2025-08-18 17:13:12] Processing 813/1106: microsoft/ifc-spec
+[2025-08-18 17:13:13] OK microsoft/ifc-spec: 0 merges in 30 days
+[2025-08-18 17:13:13] Processing 814/1106: microsoft/vscode-test-web
+[2025-08-18 17:13:14] OK microsoft/vscode-test-web: 0 merges in 30 days
+[2025-08-18 17:13:14] Processing 815/1106: microsoft/google-play-vsts-extension
+[2025-08-18 17:13:15] OK microsoft/google-play-vsts-extension: 0 merges in 30 days
+[2025-08-18 17:13:15] Processing 816/1106: microsoft/jbpf
+[2025-08-18 17:13:16] OK microsoft/jbpf: 0 merges in 30 days
+[2025-08-18 17:13:16] Processing 817/1106: microsoft/DXUT
+[2025-08-18 17:13:17] OK microsoft/DXUT: 0 merges in 30 days
+[2025-08-18 17:13:17] Processing 818/1106: microsoft/D3D11On12
+[2025-08-18 17:13:18] OK microsoft/D3D11On12: 0 merges in 30 days
+[2025-08-18 17:13:18] Processing 819/1106: microsoft/aad_b2c_webview
+[2025-08-18 17:13:19] OK microsoft/aad_b2c_webview: 1 merges in 30 days
+[2025-08-18 17:13:19] Processing 820/1106: microsoft/CoseSignTool
+[2025-08-18 17:13:20] OK microsoft/CoseSignTool: 3 merges in 30 days
+[2025-08-18 17:13:20] Processing 821/1106: microsoft/openjdk-adoptium-marketplace-data
+[2025-08-18 17:13:21] OK microsoft/openjdk-adoptium-marketplace-data: 1 merges in 30 days
+[2025-08-18 17:13:21] Processing 822/1106: microsoft/arc-switch
+[2025-08-18 17:13:22] OK microsoft/arc-switch: 0 merges in 30 days
+[2025-08-18 17:13:22] Processing 823/1106: microsoft/github-scaled-agent-mode-webinar
+[2025-08-18 17:13:22] OK microsoft/github-scaled-agent-mode-webinar: 0 merges in 30 days
+[2025-08-18 17:13:23] Processing 824/1106: microsoft/NetPerfTest
+[2025-08-18 17:13:23] OK microsoft/NetPerfTest: 0 merges in 30 days
+[2025-08-18 17:13:23] Processing 825/1106: microsoft/vscode-docker-extensibility
+[2025-08-18 17:13:24] OK microsoft/vscode-docker-extensibility: 0 merges in 30 days
+[2025-08-18 17:13:24] Processing 826/1106: microsoft/ccfdns
+[2025-08-18 17:13:25] OK microsoft/ccfdns: 0 merges in 30 days
+[2025-08-18 17:13:25] Processing 827/1106: microsoft/viva-insights-sample-code
+[2025-08-18 17:13:26] OK microsoft/viva-insights-sample-code: 0 merges in 30 days
+[2025-08-18 17:13:26] Processing 828/1106: microsoft/vscode-cpptools-api
+[2025-08-18 17:13:27] OK microsoft/vscode-cpptools-api: 0 merges in 30 days
+[2025-08-18 17:13:27] Processing 829/1106: microsoft/vscode-azureapicenter
+[2025-08-18 17:13:28] OK microsoft/vscode-azureapicenter: 1 merges in 30 days
+[2025-08-18 17:13:28] Processing 830/1106: microsoft/botframework-webchat-adapter-azure-communication-chat
+[2025-08-18 17:13:29] OK microsoft/botframework-webchat-adapter-azure-communication-chat: 6 merges in 30 days
+[2025-08-18 17:13:29] Processing 831/1106: microsoft/security-utilities
+[2025-08-18 17:13:30] OK microsoft/security-utilities: 0 merges in 30 days
+[2025-08-18 17:13:30] Processing 832/1106: microsoft/adme-samples
+[2025-08-18 17:13:31] OK microsoft/adme-samples: 2 merges in 30 days
+[2025-08-18 17:13:31] Processing 833/1106: microsoft/BotFunctionalTestingService
+[2025-08-18 17:13:31] OK microsoft/BotFunctionalTestingService: 0 merges in 30 days
+[2025-08-18 17:13:32] Processing 834/1106: microsoft/ReverseDSC
+[2025-08-18 17:13:32] OK microsoft/ReverseDSC: 0 merges in 30 days
+[2025-08-18 17:13:32] Processing 835/1106: microsoft/TablePilot
+[2025-08-18 17:13:33] OK microsoft/TablePilot: 1 merges in 30 days
+[2025-08-18 17:13:33] Processing 836/1106: microsoft/HealthBotContainerSample
+[2025-08-18 17:13:34] OK microsoft/HealthBotContainerSample: 0 merges in 30 days
+[2025-08-18 17:13:34] Processing 837/1106: microsoft/PR-Metrics
+[2025-08-18 17:13:35] OK microsoft/PR-Metrics: 0 merges in 30 days
+[2025-08-18 17:13:35] Processing 838/1106: microsoft/ApplicationInsights-dotnet
+[2025-08-18 17:13:36] OK microsoft/ApplicationInsights-dotnet: 0 merges in 30 days
+[2025-08-18 17:13:36] Processing 839/1106: microsoft/lamar-benchmark
+[2025-08-18 17:13:37] OK microsoft/lamar-benchmark: 0 merges in 30 days
+[2025-08-18 17:13:37] Processing 840/1106: microsoft/vscode-custom-data
+[2025-08-18 17:13:38] OK microsoft/vscode-custom-data: 0 merges in 30 days
+[2025-08-18 17:13:38] Processing 841/1106: microsoft/PowerBI-visuals-ChicletSlicer
+[2025-08-18 17:13:39] OK microsoft/PowerBI-visuals-ChicletSlicer: 0 merges in 30 days
+[2025-08-18 17:13:39] Processing 842/1106: microsoft/app-store-vsts-extension
+[2025-08-18 17:13:39] OK microsoft/app-store-vsts-extension: 0 merges in 30 days
+[2025-08-18 17:13:39] Processing 843/1106: microsoft/preflate-rs
+[2025-08-18 17:13:40] OK microsoft/preflate-rs: 0 merges in 30 days
+[2025-08-18 17:13:40] Processing 844/1106: microsoft/prose
+[2025-08-18 17:13:42] OK microsoft/prose: 0 merges in 30 days
+[2025-08-18 17:13:42] Processing 845/1106: microsoft/ChatIntelligence
+[2025-08-18 17:13:45] OK microsoft/ChatIntelligence: 0 merges in 30 days
+[2025-08-18 17:13:45] Processing 846/1106: microsoft/Test-NetHLK
+[2025-08-18 17:13:45] OK microsoft/Test-NetHLK: 0 merges in 30 days
+[2025-08-18 17:13:45] Processing 847/1106: microsoft/dynamics-365-contact-center
+[2025-08-18 17:13:46] OK microsoft/dynamics-365-contact-center: 0 merges in 30 days
+[2025-08-18 17:13:46] Processing 848/1106: microsoft/WindowsCloudAcademy
+[2025-08-18 17:13:47] OK microsoft/WindowsCloudAcademy: 0 merges in 30 days
+[2025-08-18 17:13:47] Processing 849/1106: microsoft/python-environment-tools
+[2025-08-18 17:13:48] OK microsoft/python-environment-tools: 0 merges in 30 days
+[2025-08-18 17:13:48] Processing 850/1106: microsoft/AzureAISpeechToolKit
+[2025-08-18 17:13:49] OK microsoft/AzureAISpeechToolKit: 0 merges in 30 days
+[2025-08-18 17:13:49] Processing 851/1106: microsoft/vscode-serial-monitor
+[2025-08-18 17:13:50] OK microsoft/vscode-serial-monitor: 1 merges in 30 days
+[2025-08-18 17:13:50] Processing 852/1106: microsoft/vscode-cmake-tools-api
+[2025-08-18 17:13:51] OK microsoft/vscode-cmake-tools-api: 2 merges in 30 days
+[2025-08-18 17:13:51] Processing 853/1106: microsoft/ACV
+[2025-08-18 17:13:52] OK microsoft/ACV: 0 merges in 30 days
+[2025-08-18 17:13:52] Processing 854/1106: microsoft/vscode-perf
+[2025-08-18 17:13:53] OK microsoft/vscode-perf: 0 merges in 30 days
+[2025-08-18 17:13:53] Processing 855/1106: microsoft/vscode-chat-extension-utils
+[2025-08-18 17:13:54] OK microsoft/vscode-chat-extension-utils: 0 merges in 30 days
+[2025-08-18 17:13:54] Processing 856/1106: microsoft/ai-sentry
+[2025-08-18 17:13:55] OK microsoft/ai-sentry: 1 merges in 30 days
+[2025-08-18 17:13:55] Processing 857/1106: microsoft/vsm-bot-testing
+[2025-08-18 17:13:56] OK microsoft/vsm-bot-testing: 0 merges in 30 days
+[2025-08-18 17:13:56] Processing 858/1106: microsoft/Dynamics365Commerce.Solutions
+[2025-08-18 17:13:57] OK microsoft/Dynamics365Commerce.Solutions: 0 merges in 30 days
+[2025-08-18 17:13:57] Processing 859/1106: microsoft/p4vfs
+[2025-08-18 17:13:58] OK microsoft/p4vfs: 0 merges in 30 days
+[2025-08-18 17:13:58] Processing 860/1106: microsoft/AOCoptimizer.jl
+[2025-08-18 17:13:59] OK microsoft/AOCoptimizer.jl: 0 merges in 30 days
+[2025-08-18 17:13:59] Processing 861/1106: microsoft/nanovppo
+[2025-08-18 17:14:00] OK microsoft/nanovppo: 0 merges in 30 days
+[2025-08-18 17:14:00] Processing 862/1106: microsoft/vscode-markdown-languageservice
+[2025-08-18 17:14:01] OK microsoft/vscode-markdown-languageservice: 0 merges in 30 days
+[2025-08-18 17:14:01] Processing 863/1106: microsoft/bobsql
+[2025-08-18 17:14:01] OK microsoft/bobsql: 0 merges in 30 days
+[2025-08-18 17:14:02] Processing 864/1106: microsoft/Yatesbury
+[2025-08-18 17:14:02] OK microsoft/Yatesbury: 0 merges in 30 days
+[2025-08-18 17:14:02] Processing 865/1106: microsoft/glTF-SDK
+[2025-08-18 17:14:03] OK microsoft/glTF-SDK: 0 merges in 30 days
+[2025-08-18 17:14:03] Processing 866/1106: microsoft/eventtracing-processing-samples
+[2025-08-18 17:14:05] OK microsoft/eventtracing-processing-samples: 0 merges in 30 days
+[2025-08-18 17:14:05] Processing 867/1106: microsoft/assent-app
+[2025-08-18 17:14:06] OK microsoft/assent-app: 2 merges in 30 days
+[2025-08-18 17:14:06] Processing 868/1106: microsoft/msfs-avionics-mirror
+[2025-08-18 17:14:07] OK microsoft/msfs-avionics-mirror: 0 merges in 30 days
+[2025-08-18 17:14:07] Processing 869/1106: microsoft/windows-dev-center-vsts-extension
+[2025-08-18 17:14:08] OK microsoft/windows-dev-center-vsts-extension: 0 merges in 30 days
+[2025-08-18 17:14:08] Processing 870/1106: microsoft/InteractiveTextGeneration
+[2025-08-18 17:14:09] OK microsoft/InteractiveTextGeneration: 0 merges in 30 days
+[2025-08-18 17:14:09] Processing 871/1106: microsoft/datamations
+[2025-08-18 17:14:10] OK microsoft/datamations: 0 merges in 30 days
+[2025-08-18 17:14:10] Processing 872/1106: microsoft/best-route-llm
+[2025-08-18 17:14:11] OK microsoft/best-route-llm: 0 merges in 30 days
+[2025-08-18 17:14:11] Processing 873/1106: microsoft/jrtc-apps
+[2025-08-18 17:14:12] OK microsoft/jrtc-apps: 7 merges in 30 days
+[2025-08-18 17:14:12] Processing 874/1106: microsoft/DurableFunctionsMonitor
+[2025-08-18 17:14:13] OK microsoft/DurableFunctionsMonitor: 0 merges in 30 days
+[2025-08-18 17:14:13] Processing 875/1106: microsoft/pbiworkshops
+[2025-08-18 17:14:14] OK microsoft/pbiworkshops: 0 merges in 30 days
+[2025-08-18 17:14:14] Processing 876/1106: microsoft/PowerBI-visuals-AsterPlot
+[2025-08-18 17:14:15] OK microsoft/PowerBI-visuals-AsterPlot: 0 merges in 30 days
+[2025-08-18 17:14:15] Processing 877/1106: microsoft/woodgrove-groceries-light
+[2025-08-18 17:14:16] OK microsoft/woodgrove-groceries-light: 0 merges in 30 days
+[2025-08-18 17:14:16] Processing 878/1106: microsoft/axe-windows
+[2025-08-18 17:14:17] OK microsoft/axe-windows: 0 merges in 30 days
+[2025-08-18 17:14:17] Processing 879/1106: microsoft/FeatureManagement-Go
+[2025-08-18 17:14:18] OK microsoft/FeatureManagement-Go: 2 merges in 30 days
+[2025-08-18 17:14:18] Processing 880/1106: microsoft/GlobalSecureAccess
+[2025-08-18 17:14:19] OK microsoft/GlobalSecureAccess: 1 merges in 30 days
+[2025-08-18 17:14:19] Processing 881/1106: microsoft/FabricRTIWorkshop
+[2025-08-18 17:14:19] OK microsoft/FabricRTIWorkshop: 0 merges in 30 days
+[2025-08-18 17:14:20] Processing 882/1106: microsoft/rego-cpp
+[2025-08-18 17:14:20] OK microsoft/rego-cpp: 0 merges in 30 days
+[2025-08-18 17:14:20] Processing 883/1106: microsoft/axe-pipelines-samples
+[2025-08-18 17:14:21] OK microsoft/axe-pipelines-samples: 0 merges in 30 days
+[2025-08-18 17:14:21] Processing 884/1106: microsoft/DynamicTelemetry
+[2025-08-18 17:14:22] OK microsoft/DynamicTelemetry: 0 merges in 30 days
+[2025-08-18 17:14:22] Processing 885/1106: microsoft/Validation-OS
+[2025-08-18 17:14:23] OK microsoft/Validation-OS: 1 merges in 30 days
+[2025-08-18 17:14:23] Processing 886/1106: microsoft/semantic-link-functions
+[2025-08-18 17:14:24] OK microsoft/semantic-link-functions: 0 merges in 30 days
+[2025-08-18 17:14:24] Processing 887/1106: microsoft/PlanetaryComputerDataCatalog
+[2025-08-18 17:14:25] OK microsoft/PlanetaryComputerDataCatalog: 0 merges in 30 days
+[2025-08-18 17:14:25] Processing 888/1106: microsoft/LinuxBrokerForAVDAccess
+[2025-08-18 17:14:26] OK microsoft/LinuxBrokerForAVDAccess: 2 merges in 30 days
+[2025-08-18 17:14:26] Processing 889/1106: microsoft/cheriot-ibex
+[2025-08-18 17:14:27] OK microsoft/cheriot-ibex: 0 merges in 30 days
+[2025-08-18 17:14:27] Processing 890/1106: microsoft/vscode-dwarf-debugging-ext
+[2025-08-18 17:14:28] OK microsoft/vscode-dwarf-debugging-ext: 1 merges in 30 days
+[2025-08-18 17:14:28] Processing 891/1106: microsoft/vscode-dwarf-debugging
+[2025-08-18 17:14:29] OK microsoft/vscode-dwarf-debugging: 1 merges in 30 days
+[2025-08-18 17:14:29] Processing 892/1106: microsoft/vscode-python-tools-extension-template
+[2025-08-18 17:14:30] OK microsoft/vscode-python-tools-extension-template: 0 merges in 30 days
+[2025-08-18 17:14:30] Processing 893/1106: microsoft/dicom-server
+[2025-08-18 17:14:30] OK microsoft/dicom-server: 0 merges in 30 days
+[2025-08-18 17:14:30] Processing 894/1106: microsoft/Build25-BRK117
+[2025-08-18 17:14:32] OK microsoft/Build25-BRK117: 0 merges in 30 days
+[2025-08-18 17:14:32] Processing 895/1106: microsoft/virtualnodesOnAzureContainerInstances
+[2025-08-18 17:14:33] OK microsoft/virtualnodesOnAzureContainerInstances: 0 merges in 30 days
+[2025-08-18 17:14:33] Processing 896/1106: microsoft/Build25-BRK122
+[2025-08-18 17:14:34] OK microsoft/Build25-BRK122: 0 merges in 30 days
+[2025-08-18 17:14:34] Processing 897/1106: microsoft/msrgamut
+[2025-08-18 17:14:35] OK microsoft/msrgamut: 1 merges in 30 days
+[2025-08-18 17:14:35] Processing 898/1106: microsoft/vscode-tree-sitter-wasm
+[2025-08-18 17:14:35] OK microsoft/vscode-tree-sitter-wasm: 0 merges in 30 days
+[2025-08-18 17:14:35] Processing 899/1106: microsoft/OAT
+[2025-08-18 17:14:36] OK microsoft/OAT: 0 merges in 30 days
+[2025-08-18 17:14:36] Processing 900/1106: microsoft/Dual-write-automations
+[2025-08-18 17:14:37] OK microsoft/Dual-write-automations: 1 merges in 30 days
+[2025-08-18 17:14:37] Processing 901/1106: microsoft/pxt-calliope
+[2025-08-18 17:14:38] OK microsoft/pxt-calliope: 0 merges in 30 days
+[2025-08-18 17:14:38] Processing 902/1106: microsoft/SynTrail
+[2025-08-18 17:14:39] OK microsoft/SynTrail: 0 merges in 30 days
+[2025-08-18 17:14:39] Processing 903/1106: microsoft/fhir-codegen
+[2025-08-18 17:14:40] OK microsoft/fhir-codegen: 0 merges in 30 days
+[2025-08-18 17:14:40] Processing 904/1106: microsoft/OSSGadget
+[2025-08-18 17:14:41] OK microsoft/OSSGadget: 0 merges in 30 days
+[2025-08-18 17:14:41] Processing 905/1106: microsoft/pipelines-appservice-lib
+[2025-08-18 17:14:41] OK microsoft/pipelines-appservice-lib: 0 merges in 30 days
+[2025-08-18 17:14:42] Processing 906/1106: microsoft/powerbi-visuals-sunburst
+[2025-08-18 17:14:42] OK microsoft/powerbi-visuals-sunburst: 0 merges in 30 days
+[2025-08-18 17:14:42] Processing 907/1106: microsoft/vscode-jupyter-hub
+[2025-08-18 17:14:43] OK microsoft/vscode-jupyter-hub: 0 merges in 30 days
+[2025-08-18 17:14:43] Processing 908/1106: microsoft/vscode-gather
+[2025-08-18 17:14:44] OK microsoft/vscode-gather: 3 merges in 30 days
+[2025-08-18 17:14:44] Processing 909/1106: microsoft/sarif-pattern-matcher
+[2025-08-18 17:14:45] OK microsoft/sarif-pattern-matcher: 0 merges in 30 days
+[2025-08-18 17:14:45] Processing 910/1106: microsoft/jcd
+[2025-08-18 17:14:46] OK microsoft/jcd: 5 merges in 30 days
+[2025-08-18 17:14:46] Processing 911/1106: microsoft/OHCL-Linux-Kernel
+[2025-08-18 17:14:47] OK microsoft/OHCL-Linux-Kernel: 0 merges in 30 days
+[2025-08-18 17:14:47] Processing 912/1106: microsoft/vscode-automated-sanity-checker
+[2025-08-18 17:14:48] OK microsoft/vscode-automated-sanity-checker: 1 merges in 30 days
+[2025-08-18 17:14:48] Processing 913/1106: microsoft/vscode-tensorboard
+[2025-08-18 17:14:49] OK microsoft/vscode-tensorboard: 0 merges in 30 days
+[2025-08-18 17:14:49] Processing 914/1106: microsoft/durabletask-netherite
+[2025-08-18 17:14:49] OK microsoft/durabletask-netherite: 1 merges in 30 days
+[2025-08-18 17:14:50] Processing 915/1106: microsoft/sql-server-language-extensions
+[2025-08-18 17:14:50] OK microsoft/sql-server-language-extensions: 0 merges in 30 days
+[2025-08-18 17:14:51] Processing 916/1106: microsoft/nodejstools
+[2025-08-18 17:14:51] OK microsoft/nodejstools: 0 merges in 30 days
+[2025-08-18 17:14:51] Processing 917/1106: microsoft/winforms-designer-extensibility
+[2025-08-18 17:14:52] OK microsoft/winforms-designer-extensibility: 0 merges in 30 days
+[2025-08-18 17:14:52] Processing 918/1106: microsoft/wina
+[2025-08-18 17:14:53] OK microsoft/wina: 0 merges in 30 days
+[2025-08-18 17:14:53] Processing 919/1106: microsoft/attested-ohttp-server
+[2025-08-18 17:14:54] OK microsoft/attested-ohttp-server: 1 merges in 30 days
+[2025-08-18 17:14:54] Processing 920/1106: microsoft/multifield-adaptive-retrieval
+[2025-08-18 17:14:55] OK microsoft/multifield-adaptive-retrieval: 0 merges in 30 days
+[2025-08-18 17:14:55] Processing 921/1106: microsoft/playwright-testing-service
+[2025-08-18 17:14:56] OK microsoft/playwright-testing-service: 0 merges in 30 days
+[2025-08-18 17:14:56] Processing 922/1106: microsoft/Surface_BMRTools
+[2025-08-18 17:14:57] OK microsoft/Surface_BMRTools: 0 merges in 30 days
+[2025-08-18 17:14:57] Processing 923/1106: microsoft/Game-Control-Puzzle-Event-Administration-Tools
+[2025-08-18 17:14:58] OK microsoft/Game-Control-Puzzle-Event-Administration-Tools: 0 merges in 30 days
+[2025-08-18 17:14:58] Processing 924/1106: microsoft/sarif-sdk
+[2025-08-18 17:14:58] OK microsoft/sarif-sdk: 0 merges in 30 days
+[2025-08-18 17:14:59] Processing 925/1106: microsoft/pxt-common-packages
+[2025-08-18 17:14:59] OK microsoft/pxt-common-packages: 0 merges in 30 days
+[2025-08-18 17:14:59] Processing 926/1106: microsoft/webauthntest
+[2025-08-18 17:15:00] OK microsoft/webauthntest: 0 merges in 30 days
+[2025-08-18 17:15:00] Processing 927/1106: microsoft/PurviewDataMapMetadata
+[2025-08-18 17:15:01] OK microsoft/PurviewDataMapMetadata: 0 merges in 30 days
+[2025-08-18 17:15:01] Processing 928/1106: microsoft/live-share-sdk
+[2025-08-18 17:15:02] OK microsoft/live-share-sdk: 0 merges in 30 days
+[2025-08-18 17:15:02] Processing 929/1106: microsoft/project-furly
+[2025-08-18 17:15:03] OK microsoft/project-furly: 0 merges in 30 days
+[2025-08-18 17:15:03] Processing 930/1106: microsoft/finnts
+[2025-08-18 17:15:04] OK microsoft/finnts: 0 merges in 30 days
+[2025-08-18 17:15:04] Processing 931/1106: microsoft/AgentsClientSDK.Android
+[2025-08-18 17:15:05] OK microsoft/AgentsClientSDK.Android: 0 merges in 30 days
+[2025-08-18 17:15:05] Processing 932/1106: microsoft/mu_feature_mm_supv
+[2025-08-18 17:15:06] OK microsoft/mu_feature_mm_supv: 0 merges in 30 days
+[2025-08-18 17:15:06] Processing 933/1106: microsoft/vscode-markdown-languageserver
+[2025-08-18 17:15:06] OK microsoft/vscode-markdown-languageserver: 1 merges in 30 days
+[2025-08-18 17:15:07] Processing 934/1106: microsoft/winget-pkgs-submission-test
+[2025-08-18 17:15:07] OK microsoft/winget-pkgs-submission-test: 0 merges in 30 days
+[2025-08-18 17:15:07] Processing 935/1106: microsoft/AL-Go-AppSource
+[2025-08-18 17:15:08] OK microsoft/AL-Go-AppSource: 0 merges in 30 days
+[2025-08-18 17:15:08] Processing 936/1106: microsoft/prose-benchmarks
+[2025-08-18 17:15:09] OK microsoft/prose-benchmarks: 1 merges in 30 days
+[2025-08-18 17:15:09] Processing 937/1106: microsoft/aoai-logging-with-apim
+[2025-08-18 17:15:10] OK microsoft/aoai-logging-with-apim: 0 merges in 30 days
+[2025-08-18 17:15:10] Processing 938/1106: microsoft/MSBuildPrediction
+[2025-08-18 17:15:11] OK microsoft/MSBuildPrediction: 0 merges in 30 days
+[2025-08-18 17:15:11] Processing 939/1106: microsoft/entra-apps-identifier-uri-protection
+[2025-08-18 17:15:12] OK microsoft/entra-apps-identifier-uri-protection: 1 merges in 30 days
+[2025-08-18 17:15:12] Processing 940/1106: microsoft/go-crypto-winnative
+[2025-08-18 17:15:13] OK microsoft/go-crypto-winnative: 1 merges in 30 days
+[2025-08-18 17:15:13] Processing 941/1106: microsoft/bbs-node-reference
+[2025-08-18 17:15:14] OK microsoft/bbs-node-reference: 1 merges in 30 days
+[2025-08-18 17:15:14] Processing 942/1106: microsoft/vivainsights
+[2025-08-18 17:15:15] OK microsoft/vivainsights: 2 merges in 30 days
+[2025-08-18 17:15:15] Processing 943/1106: microsoft/CodeWith-Installment-Advisor
+[2025-08-18 17:15:16] OK microsoft/CodeWith-Installment-Advisor: 3 merges in 30 days
+[2025-08-18 17:15:16] Processing 944/1106: microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector
+[2025-08-18 17:15:17] OK microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector: 1 merges in 30 days
+[2025-08-18 17:15:17] Processing 945/1106: microsoft/autorl-research
+[2025-08-18 17:15:18] OK microsoft/autorl-research: 0 merges in 30 days
+[2025-08-18 17:15:18] Processing 946/1106: microsoft/WindowsHelloFaceTraceLog
+[2025-08-18 17:15:19] OK microsoft/WindowsHelloFaceTraceLog: 0 merges in 30 days
+[2025-08-18 17:15:19] Processing 947/1106: microsoft/vscode-apimanagement
+[2025-08-18 17:15:20] OK microsoft/vscode-apimanagement: 1 merges in 30 days
+[2025-08-18 17:15:20] Processing 948/1106: microsoft/Build25-BRK233
+[2025-08-18 17:15:20] OK microsoft/Build25-BRK233: 0 merges in 30 days
+[2025-08-18 17:15:20] Processing 949/1106: microsoft/Build25-Developer-Actions
+[2025-08-18 17:15:21] OK microsoft/Build25-Developer-Actions: 0 merges in 30 days
+[2025-08-18 17:15:21] Processing 950/1106: microsoft/vssdktestfx
+[2025-08-18 17:15:22] OK microsoft/vssdktestfx: 3 merges in 30 days
+[2025-08-18 17:15:22] Processing 951/1106: microsoft/Tyche
+[2025-08-18 17:15:23] OK microsoft/Tyche: 3 merges in 30 days
+[2025-08-18 17:15:23] Processing 952/1106: microsoft/context-window
+[2025-08-18 17:15:24] OK microsoft/context-window: 2 merges in 30 days
+[2025-08-18 17:15:24] Processing 953/1106: microsoft/supply-chain-linters
+[2025-08-18 17:15:25] OK microsoft/supply-chain-linters: 0 merges in 30 days
+[2025-08-18 17:15:25] Processing 954/1106: microsoft/nav-arm-templates
+[2025-08-18 17:15:26] OK microsoft/nav-arm-templates: 0 merges in 30 days
+[2025-08-18 17:15:26] Processing 955/1106: microsoft/applicationinsights-angularplugin-js
+[2025-08-18 17:15:27] OK microsoft/applicationinsights-angularplugin-js: 0 merges in 30 days
+[2025-08-18 17:15:27] Processing 956/1106: microsoft/powerbi-visuals-sankey
+[2025-08-18 17:15:28] OK microsoft/powerbi-visuals-sankey: 0 merges in 30 days
+[2025-08-18 17:15:28] Processing 957/1106: microsoft/dstoolkit-data-rafting-kit
+[2025-08-18 17:15:29] OK microsoft/dstoolkit-data-rafting-kit: 0 merges in 30 days
+[2025-08-18 17:15:29] Processing 958/1106: microsoft/applicationinsights-react-native
+[2025-08-18 17:15:30] OK microsoft/applicationinsights-react-native: 0 merges in 30 days
+[2025-08-18 17:15:30] Processing 959/1106: microsoft/ardiffact
+[2025-08-18 17:15:32] OK microsoft/ardiffact: 1 merges in 30 days
+[2025-08-18 17:15:32] Processing 960/1106: microsoft/iot-cardboard-js
+[2025-08-18 17:15:32] OK microsoft/iot-cardboard-js: 0 merges in 30 days
+[2025-08-18 17:15:33] Processing 961/1106: microsoft/SlickGrid.ADS
+[2025-08-18 17:15:33] OK microsoft/SlickGrid.ADS: 0 merges in 30 days
+[2025-08-18 17:15:33] Processing 962/1106: microsoft/abledom
+[2025-08-18 17:15:34] OK microsoft/abledom: 0 merges in 30 days
+[2025-08-18 17:15:34] Processing 964/1106: microsoft/bioinformagus
+[2025-08-18 17:15:35] OK microsoft/bioinformagus: 0 merges in 30 days
+[2025-08-18 17:15:35] Processing 965/1106: microsoft/aibuilder-labs
+[2025-08-18 17:15:36] OK microsoft/aibuilder-labs: 1 merges in 30 days
+[2025-08-18 17:15:36] Processing 966/1106: microsoft/TSS.MSR
+[2025-08-18 17:15:37] OK microsoft/TSS.MSR: 0 merges in 30 days
+[2025-08-18 17:15:37] Processing 967/1106: microsoft/vscode-flake8
+[2025-08-18 17:15:38] OK microsoft/vscode-flake8: 0 merges in 30 days
+[2025-08-18 17:15:38] Processing 968/1106: microsoft/vscode-autopep8
+[2025-08-18 17:15:39] OK microsoft/vscode-autopep8: 0 merges in 30 days
+[2025-08-18 17:15:39] Processing 969/1106: microsoft/yardl
+[2025-08-18 17:15:40] OK microsoft/yardl: 0 merges in 30 days
+[2025-08-18 17:15:40] Processing 970/1106: microsoft/hnslib
+[2025-08-18 17:15:40] OK microsoft/hnslib: 1 merges in 30 days
+[2025-08-18 17:15:41] Processing 971/1106: microsoft/scmsamples-EnterpriseAssetManagement
+[2025-08-18 17:15:41] OK microsoft/scmsamples-EnterpriseAssetManagement: 0 merges in 30 days
+[2025-08-18 17:15:41] Processing 972/1106: microsoft/PSDocs-vscode
+[2025-08-18 17:15:43] OK microsoft/PSDocs-vscode: 0 merges in 30 days
+[2025-08-18 17:15:43] Processing 973/1106: microsoft/vscode-test-adapter-converter
+[2025-08-18 17:15:43] OK microsoft/vscode-test-adapter-converter: 0 merges in 30 days
+[2025-08-18 17:15:44] Processing 974/1106: microsoft/SharePoint-Embedded-VS-Code-Extension
+[2025-08-18 17:15:44] OK microsoft/SharePoint-Embedded-VS-Code-Extension: 0 merges in 30 days
+[2025-08-18 17:15:44] Processing 975/1106: microsoft/cluster-api-provider-azurestackhci
+[2025-08-18 17:15:45] OK microsoft/cluster-api-provider-azurestackhci: 0 merges in 30 days
+[2025-08-18 17:15:45] Processing 976/1106: microsoft/eir
+[2025-08-18 17:15:46] OK microsoft/eir: 1 merges in 30 days
+[2025-08-18 17:15:46] Processing 977/1106: microsoft/axe-sarif-converter
+[2025-08-18 17:15:47] OK microsoft/axe-sarif-converter: 0 merges in 30 days
+[2025-08-18 17:15:47] Processing 978/1106: microsoft/PSDocs
+[2025-08-18 17:15:48] OK microsoft/PSDocs: 0 merges in 30 days
+[2025-08-18 17:15:48] Processing 979/1106: microsoft/vscode-pwa-analyzer
+[2025-08-18 17:15:49] OK microsoft/vscode-pwa-analyzer: 0 merges in 30 days
+[2025-08-18 17:15:49] Processing 980/1106: microsoft/integrity-vhd
+[2025-08-18 17:15:49] OK microsoft/integrity-vhd: 0 merges in 30 days
+[2025-08-18 17:15:50] Processing 981/1106: microsoft/assemblyline-service-dotnet
+[2025-08-18 17:15:50] OK microsoft/assemblyline-service-dotnet: 1 merges in 30 days
+[2025-08-18 17:15:50] Processing 982/1106: microsoft/Trieste
+[2025-08-18 17:15:51] OK microsoft/Trieste: 0 merges in 30 days
+[2025-08-18 17:15:51] Processing 983/1106: microsoft/CoR
+[2025-08-18 17:15:52] OK microsoft/CoR: 0 merges in 30 days
+[2025-08-18 17:15:52] Processing 984/1106: microsoft/vscode-ext-kusto
+[2025-08-18 17:15:53] OK microsoft/vscode-ext-kusto: 0 merges in 30 days
+[2025-08-18 17:15:53] Processing 985/1106: microsoft/healthfutures-evagg
+[2025-08-18 17:15:54] OK microsoft/healthfutures-evagg: 0 merges in 30 days
+[2025-08-18 17:15:54] Processing 986/1106: microsoft/MSCloudLoginAssistant
+[2025-08-18 17:15:55] OK microsoft/MSCloudLoginAssistant: 0 merges in 30 days
+[2025-08-18 17:15:55] Processing 987/1106: microsoft/vscode-extension-test-runner
+[2025-08-18 17:15:55] OK microsoft/vscode-extension-test-runner: 0 merges in 30 days
+[2025-08-18 17:15:56] Processing 988/1106: microsoft/vscode-js-debug-companion
+[2025-08-18 17:15:56] OK microsoft/vscode-js-debug-companion: 0 merges in 30 days
+[2025-08-18 17:15:56] Processing 989/1106: microsoft/objc-guide
+[2025-08-18 17:15:57] OK microsoft/objc-guide: 0 merges in 30 days
+[2025-08-18 17:15:57] Processing 990/1106: microsoft/m5b
+[2025-08-18 17:15:58] OK microsoft/m5b: 0 merges in 30 days
+[2025-08-18 17:15:58] Processing 991/1106: microsoft/Inventory-Visibility-Add-in-Examples
+[2025-08-18 17:15:59] OK microsoft/Inventory-Visibility-Add-in-Examples: 1 merges in 30 days
+[2025-08-18 17:15:59] Processing 992/1106: microsoft/Build25-BRK234
+[2025-08-18 17:16:00] OK microsoft/Build25-BRK234: 0 merges in 30 days
+[2025-08-18 17:16:00] Processing 993/1106: microsoft/AgentsClientSDK.Windows
+[2025-08-18 17:16:01] OK microsoft/AgentsClientSDK.Windows: 0 merges in 30 days
+[2025-08-18 17:16:01] Processing 994/1106: microsoft/PHIDeIDPortal
+[2025-08-18 17:16:02] OK microsoft/PHIDeIDPortal: 1 merges in 30 days
+[2025-08-18 17:16:02] Processing 995/1106: microsoft/mu_rust_pi
+[2025-08-18 17:16:03] OK microsoft/mu_rust_pi: 0 merges in 30 days
+[2025-08-18 17:16:03] Processing 996/1106: microsoft/mu_rust_helpers
+[2025-08-18 17:16:04] OK microsoft/mu_rust_helpers: 0 merges in 30 days
+[2025-08-18 17:16:04] Processing 997/1106: microsoft/mu_rust_hid
+[2025-08-18 17:16:05] OK microsoft/mu_rust_hid: 0 merges in 30 days
+[2025-08-18 17:16:05] Processing 998/1106: microsoft/AgentsClientSDK.iOS
+[2025-08-18 17:16:06] OK microsoft/AgentsClientSDK.iOS: 1 merges in 30 days
+[2025-08-18 17:16:06] Processing 999/1106: microsoft/tabster
+[2025-08-18 17:16:07] OK microsoft/tabster: 0 merges in 30 days
+[2025-08-18 17:16:07] Processing 1000/1106: microsoft/DeepGNN
+[2025-08-18 17:16:07] OK microsoft/DeepGNN: 0 merges in 30 days
+[2025-08-18 17:16:08] Processing 1001/1106: microsoft/cloudlab
+[2025-08-18 17:16:08] OK microsoft/cloudlab: 0 merges in 30 days
+[2025-08-18 17:16:08] Processing 1003/1106: microsoft/PowerBI-visuals-ForceGraph
+[2025-08-18 17:16:09] OK microsoft/PowerBI-visuals-ForceGraph: 0 merges in 30 days
+[2025-08-18 17:16:09] Processing 1004/1106: microsoft/applicationinsights-react-js
+[2025-08-18 17:16:10] OK microsoft/applicationinsights-react-js: 0 merges in 30 days
+[2025-08-18 17:16:10] Processing 1005/1106: microsoft/verus-copilot-vscode
+[2025-08-18 17:16:11] OK microsoft/verus-copilot-vscode: 0 merges in 30 days
+[2025-08-18 17:16:11] Processing 1006/1106: microsoft/ado-codespaces-auth
+[2025-08-18 17:16:12] OK microsoft/ado-codespaces-auth: 0 merges in 30 days
+[2025-08-18 17:16:12] Processing 1007/1106: microsoft/vscode-azurestaticwebapps
+[2025-08-18 17:16:13] OK microsoft/vscode-azurestaticwebapps: 0 merges in 30 days
+[2025-08-18 17:16:13] Processing 1008/1106: microsoft/vscode-azurearmtools
+[2025-08-18 17:16:14] OK microsoft/vscode-azurearmtools: 0 merges in 30 days
+[2025-08-18 17:16:14] Processing 1009/1106: microsoft/contractor
+[2025-08-18 17:16:14] OK microsoft/contractor: 0 merges in 30 days
+[2025-08-18 17:16:15] Processing 1010/1106: microsoft/PullRequestQuantifier
+[2025-08-18 17:16:15] OK microsoft/PullRequestQuantifier: 0 merges in 30 days
+[2025-08-18 17:16:15] Processing 1011/1106: microsoft/Msdyn365.Commerce.Online
+[2025-08-18 17:16:16] OK microsoft/Msdyn365.Commerce.Online: 0 merges in 30 days
+[2025-08-18 17:16:16] Processing 1012/1106: microsoft/mu_crypto_release
+[2025-08-18 17:16:17] OK microsoft/mu_crypto_release: 0 merges in 30 days
+[2025-08-18 17:16:17] Processing 1013/1106: microsoft/setup-msstore-cli
+[2025-08-18 17:16:18] OK microsoft/setup-msstore-cli: 0 merges in 30 days
+[2025-08-18 17:16:18] Processing 1014/1106: microsoft/jrt-controller
+[2025-08-18 17:16:19] OK microsoft/jrt-controller: 0 merges in 30 days
+[2025-08-18 17:16:19] Processing 1015/1106: microsoft/vscode-github-triage-actions
+[2025-08-18 17:16:20] OK microsoft/vscode-github-triage-actions: 0 merges in 30 days
+[2025-08-18 17:16:20] Processing 1016/1106: microsoft/power-fx-enhanced-connector
+[2025-08-18 17:16:20] OK microsoft/power-fx-enhanced-connector: 0 merges in 30 days
+[2025-08-18 17:16:21] Processing 1017/1106: microsoft/ContactCenterMessagingSDK-android
+[2025-08-18 17:16:21] OK microsoft/ContactCenterMessagingSDK-android: 0 merges in 30 days
+[2025-08-18 17:16:21] Processing 1019/1106: microsoft/entra-verifiedid-wallet-library-ios
+[2025-08-18 17:16:22] OK microsoft/entra-verifiedid-wallet-library-ios: 0 merges in 30 days
+[2025-08-18 17:16:22] Processing 1021/1106: microsoft/VSSDK-Analyzers
+[2025-08-18 17:16:23] OK microsoft/VSSDK-Analyzers: 0 merges in 30 days
+[2025-08-18 17:16:23] Processing 1022/1106: microsoft/azure-devops-extension-cascading-picklist
+[2025-08-18 17:16:24] OK microsoft/azure-devops-extension-cascading-picklist: 0 merges in 30 days
+[2025-08-18 17:16:24] Processing 1023/1106: microsoft/AL-Go-PTE
+[2025-08-18 17:16:25] OK microsoft/AL-Go-PTE: 0 merges in 30 days
+[2025-08-18 17:16:25] Processing 1024/1106: microsoft/attested-ohttp-client
+[2025-08-18 17:16:26] OK microsoft/attested-ohttp-client: 0 merges in 30 days
+[2025-08-18 17:16:26] Processing 1025/1106: microsoft/scFM-dataselection
+[2025-08-18 17:16:26] OK microsoft/scFM-dataselection: 0 merges in 30 days
+[2025-08-18 17:16:26] Processing 1026/1106: microsoft/ai-gallery-extension
+[2025-08-18 17:16:27] OK microsoft/ai-gallery-extension: 0 merges in 30 days
+[2025-08-18 17:16:27] Processing 1027/1106: microsoft/airflow-providers-microsoft-fabric
+[2025-08-18 17:16:28] OK microsoft/airflow-providers-microsoft-fabric: 0 merges in 30 days
+[2025-08-18 17:16:28] Processing 1028/1106: microsoft/openjdk-jdk24u
+[2025-08-18 17:16:29] OK microsoft/openjdk-jdk24u: 0 merges in 30 days
+[2025-08-18 17:16:29] Processing 1029/1106: microsoft/kalypso-observability-hub
+[2025-08-18 17:16:30] OK microsoft/kalypso-observability-hub: 0 merges in 30 days
+[2025-08-18 17:16:30] Processing 1030/1106: microsoft/github-copilot-advanced-hackathon
+[2025-08-18 17:16:31] OK microsoft/github-copilot-advanced-hackathon: 0 merges in 30 days
+[2025-08-18 17:16:31] Processing 1031/1106: microsoft/jl-glove
+[2025-08-18 17:16:32] OK microsoft/jl-glove: 0 merges in 30 days
+[2025-08-18 17:16:32] Processing 1032/1106: microsoft/m365-renovate-config
+[2025-08-18 17:16:32] OK microsoft/m365-renovate-config: 0 merges in 30 days
+[2025-08-18 17:16:32] Processing 1033/1106: microsoft/process-migrator
+[2025-08-18 17:16:33] OK microsoft/process-migrator: 0 merges in 30 days
+[2025-08-18 17:16:33] Processing 1034/1106: microsoft/AzureManagedHsmTLSOffload
+[2025-08-18 17:16:34] OK microsoft/AzureManagedHsmTLSOffload: 0 merges in 30 days
+[2025-08-18 17:16:34] Processing 1035/1106: microsoft/CLOG
+[2025-08-18 17:16:35] OK microsoft/CLOG: 0 merges in 30 days
+[2025-08-18 17:16:35] Processing 1036/1106: microsoft/vivainsights-py
+[2025-08-18 17:16:36] OK microsoft/vivainsights-py: 0 merges in 30 days
+[2025-08-18 17:16:36] Processing 1037/1106: microsoft/moc-sdk-for-go
+[2025-08-18 17:16:37] OK microsoft/moc-sdk-for-go: 0 merges in 30 days
+[2025-08-18 17:16:37] Processing 1038/1106: microsoft/PSRule.Rules.GitHub
+[2025-08-18 17:16:37] OK microsoft/PSRule.Rules.GitHub: 0 merges in 30 days
+[2025-08-18 17:16:37] Processing 1039/1106: microsoft/ps-rule
+[2025-08-18 17:16:38] OK microsoft/ps-rule: 0 merges in 30 days
+[2025-08-18 17:16:38] Processing 1040/1106: microsoft/CBL-Mariner-Linux-Kernel
+[2025-08-18 17:16:39] OK microsoft/CBL-Mariner-Linux-Kernel: 0 merges in 30 days
+[2025-08-18 17:16:39] Processing 1041/1106: microsoft/service-fabric-client-dotnet
+[2025-08-18 17:16:40] OK microsoft/service-fabric-client-dotnet: 0 merges in 30 days
+[2025-08-18 17:16:40] Processing 1042/1106: microsoft/go-otel-audit
+[2025-08-18 17:16:41] OK microsoft/go-otel-audit: 0 merges in 30 days
+[2025-08-18 17:16:41] Processing 1043/1106: microsoft/mapi-rs
+[2025-08-18 17:16:42] OK microsoft/mapi-rs: 0 merges in 30 days
+[2025-08-18 17:16:42] Processing 1044/1106: microsoft/vscode-isort
+[2025-08-18 17:16:42] OK microsoft/vscode-isort: 0 merges in 30 days
+[2025-08-18 17:16:43] Processing 1045/1106: microsoft/azure-health-data-services-toolkit
+[2025-08-18 17:16:43] OK microsoft/azure-health-data-services-toolkit: 0 merges in 30 days
+[2025-08-18 17:16:43] Processing 1046/1106: microsoft/workspace-tools
+[2025-08-18 17:16:44] OK microsoft/workspace-tools: 0 merges in 30 days
+[2025-08-18 17:16:44] Processing 1047/1106: microsoft/TestAdapterForGoogleTest
+[2025-08-18 17:16:45] OK microsoft/TestAdapterForGoogleTest: 0 merges in 30 days
+[2025-08-18 17:16:45] Processing 1048/1106: microsoft/pgsql-tools
+[2025-08-18 17:16:46] OK microsoft/pgsql-tools: 0 merges in 30 days
+[2025-08-18 17:16:46] Processing 1049/1106: microsoft/kalypso-scheduler
+[2025-08-18 17:16:47] OK microsoft/kalypso-scheduler: 0 merges in 30 days
+[2025-08-18 17:16:47] Processing 1050/1106: microsoft/FabricCAT
+[2025-08-18 17:16:48] OK microsoft/FabricCAT: 0 merges in 30 days
+[2025-08-18 17:16:48] Processing 1051/1106: microsoft/azure-rest-api-specs_2024-03-01
+[2025-08-18 17:16:49] OK microsoft/azure-rest-api-specs_2024-03-01: 0 merges in 30 days
+[2025-08-18 17:16:49] Processing 1052/1106: microsoft/SAIMOpt.jl
+[2025-08-18 17:16:49] OK microsoft/SAIMOpt.jl: 0 merges in 30 days
+[2025-08-18 17:16:49] Processing 1053/1106: microsoft/AIMFGIgnited
+[2025-08-18 17:16:50] OK microsoft/AIMFGIgnited: 0 merges in 30 days
+[2025-08-18 17:16:50] Processing 1054/1106: microsoft/Azure-DCAP-Client
+[2025-08-18 17:16:51] OK microsoft/Azure-DCAP-Client: 0 merges in 30 days
+[2025-08-18 17:16:51] Processing 1055/1106: microsoft/contoso-real-estate-power-platform
+[2025-08-18 17:16:52] OK microsoft/contoso-real-estate-power-platform: 0 merges in 30 days
+[2025-08-18 17:16:52] Processing 1056/1106: microsoft/azure-privacy-sandbox-kms
+[2025-08-18 17:16:53] OK microsoft/azure-privacy-sandbox-kms: 0 merges in 30 days
+[2025-08-18 17:16:53] Processing 1057/1106: microsoft/EASIER
+[2025-08-18 17:16:54] OK microsoft/EASIER: 0 merges in 30 days
+[2025-08-18 17:16:54] Processing 1058/1106: microsoft/ado-npm-auth
+[2025-08-18 17:16:54] OK microsoft/ado-npm-auth: 0 merges in 30 days
+[2025-08-18 17:16:55] Processing 1059/1106: microsoft/BA-CSA-Assets
+[2025-08-18 17:16:55] OK microsoft/BA-CSA-Assets: 0 merges in 30 days
+[2025-08-18 17:16:55] Processing 1060/1106: microsoft/jpwebapps
+[2025-08-18 17:16:56] OK microsoft/jpwebapps: 0 merges in 30 days
+[2025-08-18 17:16:56] Processing 1061/1106: microsoft/powerbi-visuals-pulsechart
+[2025-08-18 17:16:57] OK microsoft/powerbi-visuals-pulsechart: 0 merges in 30 days
+[2025-08-18 17:16:57] Processing 1062/1106: microsoft/win-net-test
+[2025-08-18 17:16:58] OK microsoft/win-net-test: 0 merges in 30 days
+[2025-08-18 17:16:58] Processing 1063/1106: microsoft/foresight
+[2025-08-18 17:16:59] OK microsoft/foresight: 0 merges in 30 days
+[2025-08-18 17:16:59] Processing 1064/1106: microsoft/immersive-reader-sdk
+[2025-08-18 17:17:00] OK microsoft/immersive-reader-sdk: 0 merges in 30 days
+[2025-08-18 17:17:00] Processing 1065/1106: microsoft/kubevirt
+[2025-08-18 17:17:01] OK microsoft/kubevirt: 0 merges in 30 days
+[2025-08-18 17:17:01] Processing 1066/1106: microsoft/WSEAutomationTests
+[2025-08-18 17:17:02] OK microsoft/WSEAutomationTests: 0 merges in 30 days
+[2025-08-18 17:17:02] Processing 1067/1106: microsoft/e8c22
+[2025-08-18 17:17:02] OK microsoft/e8c22: 0 merges in 30 days
+[2025-08-18 17:17:02] Processing 1068/1106: microsoft/bcsamples-bingmaps.pte
+[2025-08-18 17:17:03] OK microsoft/bcsamples-bingmaps.pte: 0 merges in 30 days
+[2025-08-18 17:17:03] Processing 1069/1106: microsoft/PowerBI-visuals-RadarChart
+[2025-08-18 17:17:04] OK microsoft/PowerBI-visuals-RadarChart: 0 merges in 30 days
+[2025-08-18 17:17:04] Processing 1070/1106: microsoft/powerbi-visuals-timeline
+[2025-08-18 17:17:05] OK microsoft/powerbi-visuals-timeline: 0 merges in 30 days
+[2025-08-18 17:17:05] Processing 1071/1106: microsoft/PSRule.Rules.MSFT.OSS
+[2025-08-18 17:17:06] OK microsoft/PSRule.Rules.MSFT.OSS: 0 merges in 30 days
+[2025-08-18 17:17:06] Processing 1072/1106: microsoft/PowerBI-visuals-Tornado
+[2025-08-18 17:17:07] OK microsoft/PowerBI-visuals-Tornado: 0 merges in 30 days
+[2025-08-18 17:17:07] Processing 1073/1106: microsoft/Obliviate-Unmemorization
+[2025-08-18 17:17:08] OK microsoft/Obliviate-Unmemorization: 0 merges in 30 days
+[2025-08-18 17:17:08] Processing 1074/1106: microsoft/PowerShell-FeatureFlags
+[2025-08-18 17:17:08] OK microsoft/PowerShell-FeatureFlags: 0 merges in 30 days
+[2025-08-18 17:17:08] Processing 1075/1106: microsoft/UnifiedRedisPlatform.Core
+[2025-08-18 17:17:09] OK microsoft/UnifiedRedisPlatform.Core: 0 merges in 30 days
+[2025-08-18 17:17:09] Processing 1076/1106: microsoft/Dynamics365Commerce.InStore
+[2025-08-18 17:17:10] OK microsoft/Dynamics365Commerce.InStore: 0 merges in 30 days
+[2025-08-18 17:17:10] Processing 1077/1106: microsoft/undocked
+[2025-08-18 17:17:11] OK microsoft/undocked: 0 merges in 30 days
+[2025-08-18 17:17:11] Processing 1078/1106: microsoft/cookie-doh
+[2025-08-18 17:17:12] OK microsoft/cookie-doh: 0 merges in 30 days
+[2025-08-18 17:17:12] Processing 1079/1106: microsoft/azure-boards-estimate
+[2025-08-18 17:17:13] OK microsoft/azure-boards-estimate: 0 merges in 30 days
+[2025-08-18 17:17:13] Processing 1080/1106: microsoft/skill-slice-insights
+[2025-08-18 17:17:13] OK microsoft/skill-slice-insights: 0 merges in 30 days
+[2025-08-18 17:17:13] Processing 1081/1106: microsoft/kiota-php
+[2025-08-18 17:17:14] OK microsoft/kiota-php: 0 merges in 30 days
+[2025-08-18 17:17:14] Processing 1082/1106: microsoft/swift-guide
+[2025-08-18 17:17:15] OK microsoft/swift-guide: 0 merges in 30 days
+[2025-08-18 17:17:15] Processing 1083/1106: microsoft/PowerBI-visuals-sampleBarChart-react
+[2025-08-18 17:17:16] OK microsoft/PowerBI-visuals-sampleBarChart-react: 0 merges in 30 days
+[2025-08-18 17:17:16] Processing 1084/1106: microsoft/Apache-Provider
+[2025-08-18 17:17:17] OK microsoft/Apache-Provider: 0 merges in 30 days
+[2025-08-18 17:17:17] Processing 1085/1106: microsoft/Build-Apache-Provider
+[2025-08-18 17:17:18] OK microsoft/Build-Apache-Provider: 0 merges in 30 days
+[2025-08-18 17:17:18] Processing 1086/1106: microsoft/omi-kits
+[2025-08-18 17:17:18] OK microsoft/omi-kits: 0 merges in 30 days
+[2025-08-18 17:17:19] Processing 1087/1106: microsoft/json-document-transforms
+[2025-08-18 17:17:19] OK microsoft/json-document-transforms: 0 merges in 30 days
+[2025-08-18 17:17:19] Processing 1088/1106: microsoft/appcenter-cli
+[2025-08-18 17:17:20] OK microsoft/appcenter-cli: 0 merges in 30 days
+[2025-08-18 17:17:20] Processing 1089/1106: microsoft/powerplatformconnect
+[2025-08-18 17:17:21] OK microsoft/powerplatformconnect: 0 merges in 30 days
+[2025-08-18 17:17:21] Processing 1090/1106: microsoft/azure_pg_dev_workshop
+[2025-08-18 17:17:22] OK microsoft/azure_pg_dev_workshop: 0 merges in 30 days
+[2025-08-18 17:17:22] Processing 1091/1106: microsoft/responsible-ai-toolbox-privacy
+[2025-08-18 17:17:23] OK microsoft/responsible-ai-toolbox-privacy: 0 merges in 30 days
+[2025-08-18 17:17:23] Processing 1092/1106: microsoft/gulp-vinyl-zip
+[2025-08-18 17:17:24] OK microsoft/gulp-vinyl-zip: 0 merges in 30 days
+[2025-08-18 17:17:24] Processing 1093/1106: microsoft/powerbi-visuals-linedotchart
+[2025-08-18 17:17:24] OK microsoft/powerbi-visuals-linedotchart: 0 merges in 30 days
+[2025-08-18 17:17:25] Processing 1094/1106: microsoft/vscode-azurearcenabledmachines
+[2025-08-18 17:17:25] OK microsoft/vscode-azurearcenabledmachines: 0 merges in 30 days
+[2025-08-18 17:17:25] Processing 1096/1106: microsoft/powerbi-visuals-heatmap
+[2025-08-18 17:17:26] OK microsoft/powerbi-visuals-heatmap: 0 merges in 30 days
+[2025-08-18 17:17:26] Processing 1097/1106: microsoft/powerbi-visuals-chord
+[2025-08-18 17:17:27] OK microsoft/powerbi-visuals-chord: 0 merges in 30 days
+[2025-08-18 17:17:27] Processing 1098/1106: microsoft/powerbi-visuals-bulletchart
+[2025-08-18 17:17:28] OK microsoft/powerbi-visuals-bulletchart: 0 merges in 30 days
+[2025-08-18 17:17:28] Processing 1099/1106: microsoft/powerbi-visuals-dualkpi
+[2025-08-18 17:17:29] OK microsoft/powerbi-visuals-dualkpi: 0 merges in 30 days
+[2025-08-18 17:17:29] Processing 1100/1106: microsoft/polonius
+[2025-08-18 17:17:29] OK microsoft/polonius: 0 merges in 30 days
+[2025-08-18 17:17:29] Processing 1101/1106: microsoft/ohttp
+[2025-08-18 17:17:30] OK microsoft/ohttp: 0 merges in 30 days
+[2025-08-18 17:17:30] Processing 1102/1106: microsoft/graph-drilldown
+[2025-08-18 17:17:31] OK microsoft/graph-drilldown: 0 merges in 30 days
+[2025-08-18 17:17:31] Processing 1103/1106: microsoft/cloud-hypervisor
+[2025-08-18 17:17:32] OK microsoft/cloud-hypervisor: 0 merges in 30 days
+[2025-08-18 17:17:32] Processing 1104/1106: microsoft/azuredatastudio-mysql
+[2025-08-18 17:17:33] OK microsoft/azuredatastudio-mysql: 0 merges in 30 days
+[2025-08-18 17:17:33] Processing 1105/1106: microsoft/azure-rest-api-specs-meja
+[2025-08-18 17:17:34] OK microsoft/azure-rest-api-specs-meja: 0 merges in 30 days
+[2025-08-18 17:17:34] Processing 1106/1106: microsoft/azure-devops-symbols
+[2025-08-18 17:17:35] OK microsoft/azure-devops-symbols: 0 merges in 30 days
+[2025-08-18 17:17:35] Processing 1107/1106: microsoft/StatisticsTool
+[2025-08-18 17:17:35] OK microsoft/StatisticsTool: 0 merges in 30 days
+[2025-08-18 17:17:35] Processing 1108/1106: microsoft/GitHub-Copilot-Cobol-Extension-Sample
+[2025-08-18 17:17:36] OK microsoft/GitHub-Copilot-Cobol-Extension-Sample: 0 merges in 30 days
+[2025-08-18 17:17:36] Processing 1109/1106: microsoft/FluidIgniteCodeLab
+[2025-08-18 17:17:37] OK microsoft/FluidIgniteCodeLab: 0 merges in 30 days
+[2025-08-18 17:17:37] Processing 1110/1106: microsoft/AzureStack_Network_Switch_Config_Generator
+[2025-08-18 17:17:38] OK microsoft/AzureStack_Network_Switch_Config_Generator: 0 merges in 30 days
+[2025-08-18 17:17:38] Processing 1111/1106: microsoft/cmd-call-graph
+[2025-08-18 17:17:39] OK microsoft/cmd-call-graph: 0 merges in 30 days
+[2025-08-18 17:17:39] Processing 1112/1106: microsoft/hands-on-lab-redis
+[2025-08-18 17:17:40] OK microsoft/hands-on-lab-redis: 0 merges in 30 days
+[2025-08-18 17:17:40] Collection completed successfully!

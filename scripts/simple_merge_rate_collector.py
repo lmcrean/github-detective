@@ -99,11 +99,18 @@ class SimpleMergeRateCollector:
     def _log_progress(self, message: str):
         """Log progress to file and print to console."""
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        log_message = f"[{timestamp}] {message}"
+        # Replace checkmark with OK for Windows compatibility
+        safe_message = message.replace('✓', 'OK')
+        log_message = f"[{timestamp}] {safe_message}"
         
         print(log_message)
-        with open(self.progress_file, 'a', encoding='utf-8') as f:
-            f.write(log_message + '\n')
+        try:
+            with open(self.progress_file, 'a', encoding='utf-8') as f:
+                f.write(log_message + '\n')
+        except UnicodeEncodeError:
+            # Fallback to ascii if utf-8 fails
+            with open(self.progress_file, 'a', encoding='ascii', errors='replace') as f:
+                f.write(log_message + '\n')
     
     def collect_from_existing_data(self, csv_file: str, company_filter: Optional[str] = None):
         """
