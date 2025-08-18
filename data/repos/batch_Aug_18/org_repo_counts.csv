@@ -3,15 +3,11 @@ Walmart;walmartlabs;151;$648.13B
 Amazon;aws;501;$638B
 Amazon;amzn;161;$638B
 Apple;apple;340;$391.04B
-Google;google;2787;$350B
-Microsoft;microsoft;5100;$245.12B
 Samsung;samsung;179;$218.9B
 Samsung;samsungds;26;$218.9B
 General Motors;generalmotors;42;$187.44B
 JPMorgan Chase;jpmorganchase;74;$177.56B
 Ford;ford;4;$176B
-Meta;facebook;150;$164.50B
-Meta;facebookresearch;1229;$164.50B
 ByteDance;bytedance;367;$155B
 Verizon;verizon;38;$134.8B
 Verizon;verizonconnect;6;$134.8B
@@ -34,7 +30,6 @@ Dell;dellhpc;2;$88.4B
 Siemens;siemens;200;$82.37B
 Deutsche Telekom;telekom;207;$81.7B
 Deutsche Telekom;telekom-mms;109;$81.7B
-IBM;ibm;3638;$62.8B
 HP;hpinc;47;$53.6B
 Cisco;cisco;84;$53.8B
 Goldman Sachs;goldmansachs;69;$53.51B
