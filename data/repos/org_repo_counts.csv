@@ -1,0 +1,116 @@
+org;github_org;repo_count;revenue
+Walmart;walmartlabs;151;$648.13B
+Amazon;aws;501;$638B
+Amazon;amzn;161;$638B
+Apple;apple;340;$391.04B
+Google;google;2787;$350B
+Microsoft;microsoft;5100;$245.12B
+Samsung;samsung;179;$218.9B
+Samsung;samsungds;26;$218.9B
+General Motors;generalmotors;42;$187.44B
+JPMorgan Chase;jpmorganchase;74;$177.56B
+Ford;ford;4;$176B
+Meta;facebook;150;$164.50B
+Meta;facebookresearch;1229;$164.50B
+ByteDance;bytedance;367;$155B
+Verizon;verizon;38;$134.8B
+Verizon;verizonconnect;6;$134.8B
+Alibaba;alibaba;455;$130.35B
+Alibaba;aliyun;588;$130.35B
+Nvidia;nvidia;589;$130.5B
+AT&T;att;102;$122.3B
+AT&T;att-comdev;49;$122.3B
+Comcast;comcast;231;$121B
+Tesla;teslamotors;62;$97.69B
+Bosch;boschresearch;351;$97.84B
+Tencent;tencent;217;$91.9B
+Tencent;tencent-hunyuan;28;$91.9B
+Disney;disney;20;$91B
+Disney;disneystreaming;21;$91B
+Sony;sony;110;$89.8B
+Sony;sonymobile;8;$89.8B
+Dell;dell;163;$88.4B
+Dell;dellhpc;2;$88.4B
+Siemens;siemens;200;$82.37B
+Deutsche Telekom;telekom;207;$81.7B
+Deutsche Telekom;telekom-mms;109;$81.7B
+IBM;ibm;3638;$62.8B
+HP;hpinc;47;$53.6B
+Cisco;cisco;84;$53.8B
+Goldman Sachs;goldmansachs;69;$53.51B
+Oracle;oracle;297;$53B
+Intel;intel;1318;$53.1B
+Intel;intellabs;176;$53.1B
+Broadcom;broadcom;99;$51.6B
+Broadcom;vmware;157;$51.6B
+Vodafone;vodafone;19;$49B
+Uber;uber;167;$43.98B
+Schneider Electric;schneider-electric;10;$41.29B
+Netflix;netflix;232;$39B
+GE;generalelectric;41;$38.7B
+Honeywell;N/A;0;$38.5B
+SAP;sap;298;$37.4B
+Salesforce;salesforce;403;$34.86B
+Qualcomm;qualcomm;30;$33.19B
+Qualcomm;quic;90;$33.19B
+ABB;abb-iss;16;$32.85B
+PayPal;paypal;160;$31.8B
+ASML;asml-labs;21;$30.7B
+HPE;hewlettpackard;469;$30.13B
+HPE;hpenetworking;50;$30.13B
+Mastercard;mastercard;141;$28.2B
+BT Group;bt-opensource;14;$26B
+AMD;amd;84;$25.8B
+Block;square;296;$24B
+Block;block;59;$24B
+Adobe;adobe;1030;$21.5B
+Nokia;nokia;563;$20.8B
+Infineon;infineon;1798;$16.2B
+Spotify;spotify;278;$14.4B
+STMicroelectronics;stmicroelectronics;693;$13.27B
+Western Digital;N/A;0;$13B
+Airbnb;airbnb;196;$11B
+ServiceNow;servicenow;235;$10.98B
+DoorDash;doordash;62;$10.72B
+Analog Devices;analogdevicesinc;297;$9.4B
+Shopify;shopify;1124;$8.88B
+Workday;workday;43;$7.3B
+NetApp;netapp;101;$6.27B
+Lyft;lyft;294;$5.7B
+Marvell;marvellembeddedprocessors;57;$5.51B
+Stripe;stripe;74;$5.1B
+Zoom;zoom;112;$4.53B
+Twilio;twilio;224;$4.46B
+Atlassian;atlassian;382;$4.36B
+Pinterest;pinterest;94;$3.65B
+CrowdStrike;crowdstrike;237;$3.06B
+Palantir;palantir;254;$2.87B
+Datadog;datadog;1097;$2.68B
+Snowflake;snowflakedb;58;$2.67B
+Databricks;databricks;245;$2.4B
+HSBC;hsbc;18;$65.9B
+London Stock Exchange Group;lseg;1;$8.7B
+Barclays;barclays;1;$33.6B
+Lloyds Banking Group;lloyds-banking-group;7;$23.8B
+NatWest Group;N/A;0;$14.6B
+Standard Chartered;standard-chartered;1;$16.7B
+Hargreaves Lansdown;N/A;0;$0.8B
+AstraZeneca;astrazeneca;88;$45.8B
+AstraZeneca;astrazeneca-ngs;15;$45.8B
+GlaxoSmithKline;gsk;1;$38.3B
+The Sage Group;sage;126;$2.3B
+AVEVA;aveva;88;$1.2B
+Ocado Group;ocadotechnology;85;$3.2B
+Auto Trader Group;autotraderuk;62;$0.6B
+Rightmove;rightmove;15;$0.5B
+Just Eat Takeaway.com;justeattakeaway;21;$5.9B
+Just Eat Takeaway.com;justeat;68;$5.9B
+RELX;N/A;0;$11.0B
+Experian;experianplc;23;$6.6B
+BAE Systems;baesystemsdigital;1;$33.0B
+Rolls-Royce;rolls-royce;1;$23.7B
+Rolls-Royce;rropen;13;$23.7B
+National Grid;national-grid;4;$25.4B
+SSE;N/A;0;$12.5B
+Pearson;pearsondevelopersnetwork;20;$5.2B
+WPP;N/A;0;$18.9B

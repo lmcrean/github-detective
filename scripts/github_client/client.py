@@ -283,3 +283,61 @@ class GitHubClient:
         except Exception as e:
             print(f"Error fetching issue {owner}/{repo}#{issue_number}: {str(e)}")
             return None
+    
+    def get_org_repositories(self, org: str, per_page: int = 100) -> List[Dict[str, Any]]:
+        """
+        Fetch all public repositories for an organization.
+        
+        Args:
+            org: Organization name
+            per_page: Number of repositories per page (max 100)
+        
+        Returns:
+            List of repository data dictionaries
+        """
+        repositories = []
+        page = 1
+        
+        while True:
+            org_repos_url = f'{self.base_url}/orgs/{org}/repos'
+            params = {
+                'type': 'public',  # Only public repositories
+                'sort': 'updated',
+                'direction': 'desc',
+                'per_page': per_page,
+                'page': page
+            }
+            
+            try:
+                response = self._make_request(org_repos_url, params)
+                
+                if response.status_code == 404:
+                    print(f"Organization {org} not found (404)")
+                    break
+                elif response.status_code != 200:
+                    print(f"Error fetching repositories for org {org}: Status {response.status_code}")
+                    break
+                
+                page_repos = response.json()
+                
+                if not page_repos:
+                    break  # No more repositories
+                
+                repositories.extend(page_repos)
+                
+                # If we got fewer results than per_page, we've reached the end
+                if len(page_repos) < per_page:
+                    break
+                
+                page += 1
+                
+                # Safety limit to prevent infinite loops
+                if len(repositories) > 5000:
+                    print(f"Warning: Reached safety limit of 5000 repositories for {org}")
+                    break
+                    
+            except Exception as e:
+                print(f"Error fetching repositories for org {org} page {page}: {str(e)}")
+                break
+        
+        return repositories
