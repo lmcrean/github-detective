@@ -1421,3 +1421,7 @@
 [2025-08-18 17:20:00]   OK vmware/terraform-provider-vsphere: 0 merges
 [2025-08-18 17:20:01]   OK vmware/build-tools-for-vmware-aria: 41 merges
 [2025-08-18 17:20:02]   OK vmware/cloud-network-setup: 0 merges
+[2025-08-18 17:20:04]   OK vmware/pinniped: 9 merges
+[2025-08-18 17:20:04]   OK vmware/terraform-provider-nsxt: 0 merges
+[2025-08-18 17:20:05]   OK vmware/terraform-provider-avi: 0 merges
+[2025-08-18 17:20:06]   OK vmware/alb-sdk: 0 merges

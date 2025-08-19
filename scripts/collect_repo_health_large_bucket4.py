@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge rate collection for Microsoft repositories."""
+"""Repo health collection for large organizations bucket 4."""
 
 import os
 import sys
@@ -10,24 +10,24 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from simple_merge_rate_collector import SimpleMergeRateCollector
 
 def main():
-    """Collect merge rates for Microsoft repositories."""
+    """Collect repo health metrics for large organization bucket 4."""
     
     # File paths
-    input_file = "data/repos/batch_Aug_18/big_three_recent_commits.csv"
-    progress_file = ".notes/progress_microsoft.txt"
-    output_file = "data/output/repo_health_microsoft.csv"
+    input_file = "data/repos/batch_Aug_18/org_repo_counts_large_bucket4.csv"
+    progress_file = ".notes/progress_large_bucket4.txt"
+    output_file = "data/output/repo_health_large_bucket4.csv"
     
     # Initialize collector
     collector = SimpleMergeRateCollector(progress_file, output_file)
     
     # Start collection
-    collector._log_progress("=== Starting Microsoft Repo Health Collection ===")
+    collector._log_progress("=== Starting Large Orgs Bucket 4 Repo Health Collection ===")
     collector._log_progress("Collecting: commits_last_30d + PRs_closed_30d")
     collector._log_progress("Input file: " + input_file)
     collector._log_progress("Output file: " + output_file)
     
     try:
-        collector.collect_from_existing_data(input_file, company_filter="Microsoft")
+        collector.collect_from_org_list(input_file)
     except KeyboardInterrupt:
         collector._log_progress("Collection interrupted by user")
     except Exception as e:

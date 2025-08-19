@@ -873,3 +873,883 @@
 [2025-08-18 17:05:59] Processing 1549/435: google/hrx-ruby
 [2025-08-18 17:05:59] OK google/hrx-ruby: 0 merges in 30 days
 [2025-08-18 17:06:00] Collection completed successfully!
+[2025-08-18 17:24:01] === Starting Google Repo Health Collection ===
+[2025-08-18 17:24:01] Collecting: commits_last_30d + PRs_closed_30d
+[2025-08-18 17:24:01] Input file: data/repos/batch_Aug_18/big_three_recent_commits.csv
+[2025-08-18 17:24:01] Output file: data/output/repo_health_google.csv
+[2025-08-18 17:24:01] Starting collection for 435 repositories from company Google
+[2025-08-18 17:24:01] Processing 1113/435: google/oss-fuzz
+[2025-08-18 17:24:04] OK google/oss-fuzz: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 17:24:04] Processing 1114/435: google/aarch64-paging
+[2025-08-18 17:24:06] OK google/aarch64-paging: 3 commits, 76 PRs merged in 30 days
+[2025-08-18 17:24:06] Processing 1115/435: google/langextract
+[2025-08-18 17:24:09] OK google/langextract: 83 commits, 39 PRs merged in 30 days
+[2025-08-18 17:24:09] Processing 1116/435: google/koladata
+[2025-08-18 17:24:11] OK google/koladata: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:11] Processing 1117/435: google/angle
+[2025-08-18 17:24:14] OK google/angle: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:14] Processing 1118/435: google/dawn
+[2025-08-18 17:24:17] OK google/dawn: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:17] Processing 1119/435: google/security-research
+[2025-08-18 17:24:19] OK google/security-research: 0 commits, 71 PRs merged in 30 days
+[2025-08-18 17:24:19] Processing 1120/435: google/sec-gemini
+[2025-08-18 17:24:21] OK google/sec-gemini: 25 commits, 64 PRs merged in 30 days
+[2025-08-18 17:24:22] Processing 1121/435: google/closure-compiler
+[2025-08-18 17:24:25] OK google/closure-compiler: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 17:24:25] Processing 1122/435: google/j2cl
+[2025-08-18 17:24:28] OK google/j2cl: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 17:24:28] Processing 1123/435: google/longfellow-zk
+[2025-08-18 17:24:30] OK google/longfellow-zk: 7 commits, 3 PRs merged in 30 days
+[2025-08-18 17:24:30] Processing 1124/435: google/compile-testing
+[2025-08-18 17:24:32] OK google/compile-testing: 5 commits, 20 PRs merged in 30 days
+[2025-08-18 17:24:33] Processing 1125/435: google/XNNPACK
+[2025-08-18 17:24:35] OK google/XNNPACK: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 17:24:35] Processing 1126/435: google/gemma.cpp
+[2025-08-18 17:24:38] OK google/gemma.cpp: 25 commits, 91 PRs merged in 30 days
+[2025-08-18 17:24:38] Processing 1127/435: google/mangle
+[2025-08-18 17:24:40] OK google/mangle: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:40] Processing 1128/435: google/python-fire
+[2025-08-18 17:24:42] OK google/python-fire: 0 commits, 58 PRs merged in 30 days
+[2025-08-18 17:24:43] Processing 1129/435: google/zx
+[2025-08-18 17:24:45] OK google/zx: 41 commits, 92 PRs merged in 30 days
+[2025-08-18 17:24:45] Processing 1130/435: google/adk-samples
+[2025-08-18 17:24:48] OK google/adk-samples: 26 commits, 58 PRs merged in 30 days
+[2025-08-18 17:24:48] Processing 1131/435: google/adk-python
+[2025-08-18 17:24:50] OK google/adk-python: 100 commits, 83 PRs merged in 30 days
+[2025-08-18 17:24:51] Processing 1132/435: google/caliper
+[2025-08-18 17:24:53] OK google/caliper: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 17:24:53] Processing 1133/435: google/jimfs
+[2025-08-18 17:24:56] OK google/jimfs: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 17:24:56] Processing 1134/435: google/perfetto
+[2025-08-18 17:24:58] OK google/perfetto: 100 commits, 93 PRs merged in 30 days
+[2025-08-18 17:24:58] Processing 1135/435: google/grain
+[2025-08-18 17:25:01] OK google/grain: 23 commits, 72 PRs merged in 30 days
+[2025-08-18 17:25:01] Processing 1136/435: google/proto-task-queue
+[2025-08-18 17:25:03] OK google/proto-task-queue: 3 commits, 14 PRs merged in 30 days
+[2025-08-18 17:25:03] Processing 1137/435: google/dagger
+[2025-08-18 17:25:05] OK google/dagger: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 17:25:05] Processing 1138/435: google/boringssl
+[2025-08-18 17:25:07] OK google/boringssl: 39 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:08] Processing 1139/435: google/crubit
+[2025-08-18 17:25:10] OK google/crubit: 91 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:10] Processing 1140/435: google/gvisor
+[2025-08-18 17:25:14] OK google/gvisor: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:25:14] Processing 1141/435: google/ink
+[2025-08-18 17:25:17] OK google/ink: 16 commits, 67 PRs merged in 30 days
+[2025-08-18 17:25:17] Processing 1142/435: google/facade
+[2025-08-18 17:25:19] OK google/facade: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:19] Processing 1143/435: google/skia
+[2025-08-18 17:25:22] OK google/skia: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:22] Processing 1144/435: google/material-design-icons
+[2025-08-18 17:25:25] OK google/material-design-icons: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 17:25:26] Processing 1145/435: google/go-github
+[2025-08-18 17:25:29] OK google/go-github: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 17:25:29] Processing 1146/435: google/digitalbuildings
+[2025-08-18 17:25:31] OK google/digitalbuildings: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 17:25:31] Processing 1147/435: google/oss-fuzz-vulns
+[2025-08-18 17:25:33] OK google/oss-fuzz-vulns: 90 commits, 24 PRs merged in 30 days
+[2025-08-18 17:25:33] Processing 1148/435: google/xls
+[2025-08-18 17:25:35] OK google/xls: 100 commits, 94 PRs merged in 30 days
+[2025-08-18 17:25:36] Processing 1149/435: google/jscin
+[2025-08-18 17:25:37] OK google/jscin: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 17:25:37] Processing 1150/435: google/arm-gic
+[2025-08-18 17:25:40] OK google/arm-gic: 10 commits, 65 PRs merged in 30 days
+[2025-08-18 17:25:40] Processing 1151/435: google/yggdrasil-decision-forests
+[2025-08-18 17:25:42] OK google/yggdrasil-decision-forests: 30 commits, 29 PRs merged in 30 days
+[2025-08-18 17:25:42] Processing 1152/435: google/dwh-migration-tools
+[2025-08-18 17:25:45] OK google/dwh-migration-tools: 2 commits, 75 PRs merged in 30 days
+[2025-08-18 17:25:45] Processing 1153/435: google/styleguide
+[2025-08-18 17:25:48] OK google/styleguide: 0 commits, 51 PRs merged in 30 days
+[2025-08-18 17:25:48] Processing 1154/435: google/capslock
+[2025-08-18 17:25:51] OK google/capslock: 4 commits, 87 PRs merged in 30 days
+[2025-08-18 17:25:51] Processing 1155/435: google/filament
+[2025-08-18 17:25:53] OK google/filament: 100 commits, 96 PRs merged in 30 days
+[2025-08-18 17:25:53] Processing 1156/435: google/osv-scalibr
+[2025-08-18 17:25:56] OK google/osv-scalibr: 100 commits, 89 PRs merged in 30 days
+[2025-08-18 17:25:56] Processing 1157/435: google/oboe
+[2025-08-18 17:25:58] OK google/oboe: 37 commits, 91 PRs merged in 30 days
+[2025-08-18 17:25:58] Processing 1158/435: google/orbax
+[2025-08-18 17:26:01] OK google/orbax: 100 commits, 88 PRs merged in 30 days
+[2025-08-18 17:26:01] Processing 1159/435: google/gops
+[2025-08-18 17:26:03] OK google/gops: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 17:26:04] Processing 1160/435: google/mcp-security
+[2025-08-18 17:26:06] OK google/mcp-security: 9 commits, 85 PRs merged in 30 days
+[2025-08-18 17:26:06] Processing 1161/435: google/googletest
+[2025-08-18 17:26:09] OK google/googletest: 4 commits, 28 PRs merged in 30 days
+[2025-08-18 17:26:09] Processing 1162/435: google/quiche
+[2025-08-18 17:26:11] OK google/quiche: 53 commits, 1 PRs merged in 30 days
+[2025-08-18 17:26:11] Processing 1163/435: google/gtm-session-fetcher
+[2025-08-18 17:26:13] OK google/gtm-session-fetcher: 6 commits, 97 PRs merged in 30 days
+[2025-08-18 17:26:13] Processing 1164/435: google/fonts
+[2025-08-18 17:26:16] OK google/fonts: 99 commits, 92 PRs merged in 30 days
+[2025-08-18 17:26:16] Processing 1165/435: google/wasefire
+[2025-08-18 17:26:19] OK google/wasefire: 41 commits, 95 PRs merged in 30 days
+[2025-08-18 17:26:19] Processing 1166/435: google/comprehensive-rust
+[2025-08-18 17:26:22] OK google/comprehensive-rust: 24 commits, 97 PRs merged in 30 days
+[2025-08-18 17:26:22] Processing 1167/435: google/cpu_features
+[2025-08-18 17:26:25] OK google/cpu_features: 2 commits, 89 PRs merged in 30 days
+[2025-08-18 17:26:25] Processing 1168/435: google/highway
+[2025-08-18 17:26:29] OK google/highway: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:26:29] Processing 1169/435: google/wuffs
+[2025-08-18 17:26:32] OK google/wuffs: 0 commits, 18 PRs merged in 30 days
+[2025-08-18 17:26:32] Processing 1170/435: google/skia-buildbot
+[2025-08-18 17:26:34] OK google/skia-buildbot: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:26:35] Processing 1171/435: google/tunix
+[2025-08-18 17:26:37] OK google/tunix: 73 commits, 92 PRs merged in 30 days
+[2025-08-18 17:26:37] Processing 1172/435: google/flatbuffers
+[2025-08-18 17:26:40] OK google/flatbuffers: 0 commits, 72 PRs merged in 30 days
+[2025-08-18 17:26:41] Processing 1173/435: google/truth
+[2025-08-18 17:26:43] OK google/truth: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 17:26:43] Processing 1174/435: google/jetpack-camera-app
+[2025-08-18 17:26:46] OK google/jetpack-camera-app: 13 commits, 86 PRs merged in 30 days
+[2025-08-18 17:26:46] Processing 1175/435: google/timesketch
+[2025-08-18 17:26:49] OK google/timesketch: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:26:49] Processing 1176/435: google/re2
+[2025-08-18 17:26:53] OK google/re2: 26 commits, 0 PRs merged in 30 days
+[2025-08-18 17:26:53] Processing 1177/435: google/auto
+[2025-08-18 17:26:56] OK google/auto: 3 commits, 29 PRs merged in 30 days
+[2025-08-18 17:26:56] Processing 1178/435: google/sanitizers
+[2025-08-18 17:26:58] OK google/sanitizers: 0 commits, 44 PRs merged in 30 days
+[2025-08-18 17:26:59] Processing 1179/435: google/clusterfuzz
+[2025-08-18 17:27:01] OK google/clusterfuzz: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 17:27:01] Processing 1180/435: google/pigweed
+[2025-08-18 17:27:04] OK google/pigweed: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:04] Processing 1181/435: google/or-tools
+[2025-08-18 17:27:07] OK google/or-tools: 65 commits, 63 PRs merged in 30 days
+[2025-08-18 17:27:07] Processing 1182/435: google/safe-mmio
+[2025-08-18 17:27:09] OK google/safe-mmio: 1 commits, 21 PRs merged in 30 days
+[2025-08-18 17:27:09] Processing 1183/435: google/virtual-broadcast-production-assistant
+[2025-08-18 17:27:11] OK google/virtual-broadcast-production-assistant: 100 commits, 77 PRs merged in 30 days
+[2025-08-18 17:27:11] Processing 1184/435: google/aarch64-rt
+[2025-08-18 17:27:13] OK google/aarch64-rt: 1 commits, 19 PRs merged in 30 days
+[2025-08-18 17:27:13] Processing 1185/435: google/percore
+[2025-08-18 17:27:15] OK google/percore: 5 commits, 7 PRs merged in 30 days
+[2025-08-18 17:27:15] Processing 1186/435: google/command-fds
+[2025-08-18 17:27:17] OK google/command-fds: 4 commits, 37 PRs merged in 30 days
+[2025-08-18 17:27:17] Processing 1187/435: google/ksp
+[2025-08-18 17:27:19] OK google/ksp: 9 commits, 87 PRs merged in 30 days
+[2025-08-18 17:27:20] Processing 1188/435: google/tsunami-security-scanner-callback-server
+[2025-08-18 17:27:21] OK google/tsunami-security-scanner-callback-server: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:21] Processing 1189/435: google/clasp
+[2025-08-18 17:27:24] OK google/clasp: 0 commits, 74 PRs merged in 30 days
+[2025-08-18 17:27:24] Processing 1190/435: google/vizier
+[2025-08-18 17:27:26] OK google/vizier: 7 commits, 74 PRs merged in 30 days
+[2025-08-18 17:27:26] Processing 1191/435: google/earthengine-api
+[2025-08-18 17:27:28] OK google/earthengine-api: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:27:28] Processing 1192/435: google/scaaml
+[2025-08-18 17:27:31] OK google/scaaml: 8 commits, 92 PRs merged in 30 days
+[2025-08-18 17:27:31] Processing 1193/435: google/horologist
+[2025-08-18 17:27:34] OK google/horologist: 16 commits, 86 PRs merged in 30 days
+[2025-08-18 17:27:34] Processing 1194/435: google/generative-ai-docs
+[2025-08-18 17:27:37] OK google/generative-ai-docs: 2 commits, 68 PRs merged in 30 days
+[2025-08-18 17:27:37] Processing 1195/435: google/secops-wrapper
+[2025-08-18 17:27:39] OK google/secops-wrapper: 100 commits, 60 PRs merged in 30 days
+[2025-08-18 17:27:39] Processing 1196/435: google/tsunami-security-scanner
+[2025-08-18 17:27:41] OK google/tsunami-security-scanner: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 17:27:41] Processing 1197/435: google/blockly
+[2025-08-18 17:27:44] OK google/blockly: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 17:27:44] Processing 1198/435: google/tsunami-security-scanner-plugins
+[2025-08-18 17:27:46] OK google/tsunami-security-scanner-plugins: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 17:27:47] Processing 1199/435: google/alioth
+[2025-08-18 17:27:49] OK google/alioth: 24 commits, 95 PRs merged in 30 days
+[2025-08-18 17:27:49] Processing 1200/435: google/guava
+[2025-08-18 17:27:51] OK google/guava: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:27:51] Processing 1201/435: google/cluster-data
+[2025-08-18 17:27:53] OK google/cluster-data: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 17:27:53] Processing 1202/435: google/sentencepiece
+[2025-08-18 17:27:56] OK google/sentencepiece: 0 commits, 54 PRs merged in 30 days
+[2025-08-18 17:27:56] Processing 1203/435: google/fuzztest
+[2025-08-18 17:27:58] OK google/fuzztest: 43 commits, 82 PRs merged in 30 days
+[2025-08-18 17:27:58] Processing 1204/435: google/sedpack
+[2025-08-18 17:28:01] OK google/sedpack: 19 commits, 93 PRs merged in 30 days
+[2025-08-18 17:28:01] Processing 1205/435: google/benchmark
+[2025-08-18 17:28:04] OK google/benchmark: 20 commits, 94 PRs merged in 30 days
+[2025-08-18 17:28:04] Processing 1206/435: google/copybara
+[2025-08-18 17:28:07] OK google/copybara: 21 commits, 10 PRs merged in 30 days
+[2025-08-18 17:28:07] Processing 1207/435: google/merchant-api-samples
+[2025-08-18 17:28:08] OK google/merchant-api-samples: 29 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:08] Processing 1208/435: google/device-infra
+[2025-08-18 17:28:11] OK google/device-infra: 98 commits, 82 PRs merged in 30 days
+[2025-08-18 17:28:11] Processing 1209/435: google/osv-scanner
+[2025-08-18 17:28:14] OK google/osv-scanner: 75 commits, 89 PRs merged in 30 days
+[2025-08-18 17:28:14] Processing 1210/435: google/model-viewer
+[2025-08-18 17:28:17] OK google/model-viewer: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 17:28:17] Processing 1211/435: google/adk-java
+[2025-08-18 17:28:19] OK google/adk-java: 74 commits, 86 PRs merged in 30 days
+[2025-08-18 17:28:19] Processing 1212/435: google/mount-zip
+[2025-08-18 17:28:20] OK google/mount-zip: 16 commits, 2 PRs merged in 30 days
+[2025-08-18 17:28:21] Processing 1213/435: google/adk-web
+[2025-08-18 17:28:22] OK google/adk-web: 3 commits, 12 PRs merged in 30 days
+[2025-08-18 17:28:22] Processing 1214/435: google/gsocguides
+[2025-08-18 17:28:25] OK google/gsocguides: 0 commits, 60 PRs merged in 30 days
+[2025-08-18 17:28:26] Processing 1215/435: google/libphonenumber
+[2025-08-18 17:28:28] OK google/libphonenumber: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 17:28:28] Processing 1216/435: google/osv.dev
+[2025-08-18 17:28:30] OK google/osv.dev: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 17:28:30] Processing 1217/435: google/certificate-transparency-go
+[2025-08-18 17:28:33] OK google/certificate-transparency-go: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 17:28:34] Processing 1218/435: google/crosvm
+[2025-08-18 17:28:35] OK google/crosvm: 66 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:35] Processing 1219/435: google/cel-spec
+[2025-08-18 17:28:37] OK google/cel-spec: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:28:38] Processing 1220/435: google/GoogleSignIn-iOS
+[2025-08-18 17:28:40] OK google/GoogleSignIn-iOS: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:28:40] Processing 1221/435: google/gn-language-server
+[2025-08-18 17:28:42] OK google/gn-language-server: 81 commits, 24 PRs merged in 30 days
+[2025-08-18 17:28:42] Processing 1222/435: google/gson
+[2025-08-18 17:28:45] OK google/gson: 7 commits, 85 PRs merged in 30 days
+[2025-08-18 17:28:45] Processing 1223/435: google/oss-rebuild
+[2025-08-18 17:28:47] OK google/oss-rebuild: 31 commits, 99 PRs merged in 30 days
+[2025-08-18 17:28:47] Processing 1224/435: google/go-querystring
+[2025-08-18 17:28:49] OK google/go-querystring: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 17:28:49] Processing 1225/435: google/bughunters
+[2025-08-18 17:28:51] OK google/bughunters: 5 commits, 13 PRs merged in 30 days
+[2025-08-18 17:28:51] Processing 1226/435: google/shaderc
+[2025-08-18 17:28:54] OK google/shaderc: 2 commits, 88 PRs merged in 30 days
+[2025-08-18 17:28:54] Processing 1227/435: google/project-voice
+[2025-08-18 17:28:56] OK google/project-voice: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 17:28:56] Processing 1228/435: google/draco
+[2025-08-18 17:28:59] OK google/draco: 6 commits, 77 PRs merged in 30 days
+[2025-08-18 17:28:59] Processing 1229/435: google/graph-mining
+[2025-08-18 17:29:01] OK google/graph-mining: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:01] Processing 1230/435: google/flax
+[2025-08-18 17:29:03] OK google/flax: 66 commits, 86 PRs merged in 30 days
+[2025-08-18 17:29:03] Processing 1231/435: google/ml-compiler-opt
+[2025-08-18 17:29:05] OK google/ml-compiler-opt: 6 commits, 90 PRs merged in 30 days
+[2025-08-18 17:29:05] Processing 1232/435: google/guice
+[2025-08-18 17:29:08] OK google/guice: 0 commits, 56 PRs merged in 30 days
+[2025-08-18 17:29:08] Processing 1233/435: google/google-toolbox-for-mac
+[2025-08-18 17:29:10] OK google/google-toolbox-for-mac: 10 commits, 98 PRs merged in 30 days
+[2025-08-18 17:29:10] Processing 1234/435: google/cctz
+[2025-08-18 17:29:13] OK google/cctz: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:29:13] Processing 1235/435: google/fuse-archive
+[2025-08-18 17:29:15] OK google/fuse-archive: 7 commits, 5 PRs merged in 30 days
+[2025-08-18 17:29:15] Processing 1236/435: google/generative-ai-go
+[2025-08-18 17:29:17] OK google/generative-ai-go: 1 commits, 91 PRs merged in 30 days
+[2025-08-18 17:29:17] Processing 1237/435: google/open-dice
+[2025-08-18 17:29:19] OK google/open-dice: 7 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:19] Processing 1238/435: google/chromium-policy-vulnfeed
+[2025-08-18 17:29:21] OK google/chromium-policy-vulnfeed: 28 commits, 5 PRs merged in 30 days
+[2025-08-18 17:29:21] Processing 1239/435: google/assertor
+[2025-08-18 17:29:23] OK google/assertor: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 17:29:23] Processing 1240/435: google/bindiff
+[2025-08-18 17:29:25] OK google/bindiff: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 17:29:25] Processing 1241/435: google/ARC-GEN
+[2025-08-18 17:29:27] OK google/ARC-GEN: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:27] Processing 1242/435: google/jsonnet
+[2025-08-18 17:29:30] OK google/jsonnet: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:29:30] Processing 1243/435: google/security-testbeds
+[2025-08-18 17:29:33] OK google/security-testbeds: 42 commits, 65 PRs merged in 30 days
+[2025-08-18 17:29:33] Processing 1244/435: google/cloud-forensics-utils
+[2025-08-18 17:29:36] OK google/cloud-forensics-utils: 1 commits, 92 PRs merged in 30 days
+[2025-08-18 17:29:36] Processing 1245/435: google/magika
+[2025-08-18 17:29:38] OK google/magika: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 17:29:39] Processing 1246/435: google/llvm-propeller
+[2025-08-18 17:29:41] OK google/llvm-propeller: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 17:29:41] Processing 1247/435: google/gke-policy-automation
+[2025-08-18 17:29:44] OK google/gke-policy-automation: 3 commits, 93 PRs merged in 30 days
+[2025-08-18 17:29:44] Processing 1248/435: google/google-api-objectivec-client-for-rest
+[2025-08-18 17:29:48] OK google/google-api-objectivec-client-for-rest: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 17:29:48] Processing 1249/435: google/jaxloop
+[2025-08-18 17:29:50] OK google/jaxloop: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 17:29:50] Processing 1250/435: google/zerocopy
+[2025-08-18 17:29:53] OK google/zerocopy: 30 commits, 80 PRs merged in 30 days
+[2025-08-18 17:29:53] Processing 1251/435: google/error-prone
+[2025-08-18 17:29:56] OK google/error-prone: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:29:56] Processing 1252/435: google/android-cuttlefish
+[2025-08-18 17:29:59] OK google/android-cuttlefish: 100 commits, 95 PRs merged in 30 days
+[2025-08-18 17:29:59] Processing 1253/435: google/xarray-beam
+[2025-08-18 17:30:02] OK google/xarray-beam: 11 commits, 45 PRs merged in 30 days
+[2025-08-18 17:30:02] Processing 1254/435: google/meridian
+[2025-08-18 17:30:04] OK google/meridian: 26 commits, 77 PRs merged in 30 days
+[2025-08-18 17:30:04] Processing 1255/435: google/tcmalloc
+[2025-08-18 17:30:07] OK google/tcmalloc: 0 commits, 30 PRs merged in 30 days
+[2025-08-18 17:30:07] Processing 1256/435: google/go-containerregistry
+[2025-08-18 17:30:10] OK google/go-containerregistry: 0 commits, 29 PRs merged in 30 days
+[2025-08-18 17:30:11] Processing 1257/435: google/syzkaller
+[2025-08-18 17:30:13] OK google/syzkaller: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 17:30:13] Processing 1258/435: google/mozc
+[2025-08-18 17:30:16] OK google/mozc: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:30:16] Processing 1259/435: google/google-java-format
+[2025-08-18 17:30:19] OK google/google-java-format: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 17:30:19] Processing 1260/435: google/docsy
+[2025-08-18 17:30:22] OK google/docsy: 3 commits, 94 PRs merged in 30 days
+[2025-08-18 17:30:22] Processing 1261/435: google/cameratrapai
+[2025-08-18 17:30:24] OK google/cameratrapai: 13 commits, 12 PRs merged in 30 days
+[2025-08-18 17:30:24] Processing 1262/435: google/go-cloud
+[2025-08-18 17:30:27] OK google/go-cloud: 0 commits, 79 PRs merged in 30 days
+[2025-08-18 17:30:28] Processing 1263/435: google/clspv
+[2025-08-18 17:30:30] OK google/clspv: 10 commits, 94 PRs merged in 30 days
+[2025-08-18 17:30:31] Processing 1264/435: google/jpegli
+[2025-08-18 17:30:33] OK google/jpegli: 0 commits, 49 PRs merged in 30 days
+[2025-08-18 17:30:34] Processing 1265/435: google/s2geometry
+[2025-08-18 17:30:36] OK google/s2geometry: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:30:36] Processing 1266/435: google/fleetspeak
+[2025-08-18 17:30:39] OK google/fleetspeak: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 17:30:39] Processing 1267/435: google/brotli
+[2025-08-18 17:30:42] OK google/brotli: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 17:30:42] Processing 1268/435: google/conscrypt
+[2025-08-18 17:30:45] OK google/conscrypt: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 17:30:45] Processing 1269/435: google/osdfir-infrastructure
+[2025-08-18 17:30:47] OK google/osdfir-infrastructure: 3 commits, 89 PRs merged in 30 days
+[2025-08-18 17:30:47] Processing 1270/435: google/paxml
+[2025-08-18 17:30:50] OK google/paxml: 6 commits, 40 PRs merged in 30 days
+[2025-08-18 17:30:50] Processing 1271/435: google/brax
+[2025-08-18 17:30:54] OK google/brax: 9 commits, 70 PRs merged in 30 days
+[2025-08-18 17:30:54] Processing 1272/435: google/cel-go
+[2025-08-18 17:30:56] OK google/cel-go: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 17:30:56] Processing 1273/435: google/langfun
+[2025-08-18 17:30:59] OK google/langfun: 6 commits, 91 PRs merged in 30 days
+[2025-08-18 17:30:59] Processing 1274/435: google/oss-fuzz-gen
+[2025-08-18 17:31:01] OK google/oss-fuzz-gen: 5 commits, 80 PRs merged in 30 days
+[2025-08-18 17:31:02] Processing 1275/435: google/adk-python-community
+[2025-08-18 17:31:03] OK google/adk-python-community: 10 commits, 1 PRs merged in 30 days
+[2025-08-18 17:31:04] Processing 1276/435: google/sandboxed-api
+[2025-08-18 17:31:06] OK google/sandboxed-api: 32 commits, 67 PRs merged in 30 days
+[2025-08-18 17:31:06] Processing 1277/435: google/starlark-go
+[2025-08-18 17:31:09] OK google/starlark-go: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:31:09] Processing 1278/435: google/EarlGrey
+[2025-08-18 17:31:12] OK google/EarlGrey: 0 commits, 63 PRs merged in 30 days
+[2025-08-18 17:31:12] Processing 1279/435: google/adk-docs
+[2025-08-18 17:31:15] OK google/adk-docs: 73 commits, 86 PRs merged in 30 days
+[2025-08-18 17:31:16] Processing 1280/435: google/jsir
+[2025-08-18 17:31:17] OK google/jsir: 9 commits, 12 PRs merged in 30 days
+[2025-08-18 17:31:17] Processing 1281/435: google/site-kit-wp
+[2025-08-18 17:31:20] OK google/site-kit-wp: 100 commits, 89 PRs merged in 30 days
+[2025-08-18 17:31:20] Processing 1282/435: google/yapf
+[2025-08-18 17:31:23] OK google/yapf: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 17:31:23] Processing 1283/435: google/bumble
+[2025-08-18 17:31:26] OK google/bumble: 46 commits, 87 PRs merged in 30 days
+[2025-08-18 17:31:26] Processing 1284/435: google/inverting-proxy
+[2025-08-18 17:31:29] OK google/inverting-proxy: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 17:31:29] Processing 1285/435: google/nearby
+[2025-08-18 17:31:32] OK google/nearby: 69 commits, 88 PRs merged in 30 days
+[2025-08-18 17:31:32] Processing 1286/435: google/aarch64-esr-decoder
+[2025-08-18 17:31:35] OK google/aarch64-esr-decoder: 15 commits, 99 PRs merged in 30 days
+[2025-08-18 17:31:35] Processing 1287/435: google/mobly-bundled-snippets
+[2025-08-18 17:31:38] OK google/mobly-bundled-snippets: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 17:31:38] Processing 1288/435: google/cel-cpp
+[2025-08-18 17:31:41] OK google/cel-cpp: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 17:31:41] Processing 1289/435: google/blockly-samples
+[2025-08-18 17:31:44] OK google/blockly-samples: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 17:31:44] Processing 1290/435: google/snappy
+[2025-08-18 17:31:48] OK google/snappy: 4 commits, 28 PRs merged in 30 days
+[2025-08-18 17:31:48] Processing 1291/435: google/dranet
+[2025-08-18 17:31:50] OK google/dranet: 20 commits, 88 PRs merged in 30 days
+[2025-08-18 17:31:51] Processing 1292/435: google/gmail-oauth2-tools
+[2025-08-18 17:31:53] OK google/gmail-oauth2-tools: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 17:31:53] Processing 1293/435: google/OpenSK
+[2025-08-18 17:31:56] OK google/OpenSK: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:31:56] Processing 1294/435: google/osv-scanner-action
+[2025-08-18 17:31:59] OK google/osv-scanner-action: 22 commits, 61 PRs merged in 30 days
+[2025-08-18 17:31:59] Processing 1295/435: google/cel-java
+[2025-08-18 17:32:01] OK google/cel-java: 31 commits, 86 PRs merged in 30 days
+[2025-08-18 17:32:01] Processing 1296/435: google/GTMAppAuth
+[2025-08-18 17:32:04] OK google/GTMAppAuth: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 17:32:04] Processing 1297/435: google/openhtf
+[2025-08-18 17:32:07] OK google/openhtf: 0 commits, 57 PRs merged in 30 days
+[2025-08-18 17:32:07] Processing 1298/435: google/ml-metrics
+[2025-08-18 17:32:10] OK google/ml-metrics: 4 commits, 75 PRs merged in 30 days
+[2025-08-18 17:32:10] Processing 1299/435: google/fleetbench
+[2025-08-18 17:32:11] OK google/fleetbench: 10 commits, 1 PRs merged in 30 days
+[2025-08-18 17:32:12] Processing 1300/435: google/closure-templates
+[2025-08-18 17:32:14] OK google/closure-templates: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 17:32:15] Processing 1301/435: google/dive
+[2025-08-18 17:32:17] OK google/dive: 32 commits, 94 PRs merged in 30 days
+[2025-08-18 17:32:17] Processing 1302/435: google/test-server
+[2025-08-18 17:32:20] OK google/test-server: 9 commits, 24 PRs merged in 30 days
+[2025-08-18 17:32:20] Processing 1303/435: google/j2objc
+[2025-08-18 17:32:22] OK google/j2objc: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 17:32:22] Processing 1304/435: google/tarpc
+[2025-08-18 17:32:25] OK google/tarpc: 0 commits, 46 PRs merged in 30 days
+[2025-08-18 17:32:25] Processing 1305/435: google/deps.dev
+[2025-08-18 17:32:28] OK google/deps.dev: 1 commits, 86 PRs merged in 30 days
+[2025-08-18 17:32:28] Processing 1306/435: google/slo-generator
+[2025-08-18 17:32:30] OK google/slo-generator: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 17:32:30] Processing 1307/435: google/metrax
+[2025-08-18 17:32:32] OK google/metrax: 3 commits, 57 PRs merged in 30 days
+[2025-08-18 17:32:32] Processing 1308/435: google/multichase
+[2025-08-18 17:32:35] OK google/multichase: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 17:32:35] Processing 1309/435: google/netkat
+[2025-08-18 17:32:36] OK google/netkat: 7 commits, 52 PRs merged in 30 days
+[2025-08-18 17:32:37] Processing 1310/435: google/kube-startup-cpu-boost
+[2025-08-18 17:32:39] OK google/kube-startup-cpu-boost: 6 commits, 80 PRs merged in 30 days
+[2025-08-18 17:32:39] Processing 1311/435: google/riegeli
+[2025-08-18 17:32:41] OK google/riegeli: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:41] Processing 1312/435: google/keep-sorted
+[2025-08-18 17:32:43] OK google/keep-sorted: 9 commits, 68 PRs merged in 30 days
+[2025-08-18 17:32:43] Processing 1313/435: google/arolla
+[2025-08-18 17:32:45] OK google/arolla: 18 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:45] Processing 1314/435: google/neuroglancer
+[2025-08-18 17:32:48] OK google/neuroglancer: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 17:32:48] Processing 1315/435: google/heir
+[2025-08-18 17:32:51] OK google/heir: 77 commits, 77 PRs merged in 30 days
+[2025-08-18 17:32:51] Processing 1316/435: google/earthengine-community
+[2025-08-18 17:32:54] OK google/earthengine-community: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 17:32:54] Processing 1317/435: google/eclipsa-audio-plugin
+[2025-08-18 17:32:56] OK google/eclipsa-audio-plugin: 4 commits, 26 PRs merged in 30 days
+[2025-08-18 17:32:56] Processing 1318/435: google/kotlin-fhir
+[2025-08-18 17:32:58] OK google/kotlin-fhir: 4 commits, 19 PRs merged in 30 days
+[2025-08-18 17:32:58] Processing 1319/435: google/double-conversion
+[2025-08-18 17:33:01] OK google/double-conversion: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 17:33:01] Processing 1320/435: google/kernel-research
+[2025-08-18 17:33:03] OK google/kernel-research: 61 commits, 76 PRs merged in 30 days
+[2025-08-18 17:33:03] Processing 1321/435: google/executor.nvim
+[2025-08-18 17:33:05] OK google/executor.nvim: 3 commits, 16 PRs merged in 30 days
+[2025-08-18 17:33:05] Processing 1322/435: google/saxml
+[2025-08-18 17:33:07] OK google/saxml: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:07] Processing 1323/435: google/docsy-example
+[2025-08-18 17:33:09] OK google/docsy-example: 2 commits, 69 PRs merged in 30 days
+[2025-08-18 17:33:10] Processing 1324/435: google/jsonschema-go
+[2025-08-18 17:33:11] OK google/jsonschema-go: 15 commits, 2 PRs merged in 30 days
+[2025-08-18 17:33:11] Processing 1325/435: google/oracle-toolkit
+[2025-08-18 17:33:14] OK google/oracle-toolkit: 0 commits, 99 PRs merged in 30 days
+[2025-08-18 17:33:14] Processing 1326/435: google/play-services-plugins
+[2025-08-18 17:33:17] OK google/play-services-plugins: 8 commits, 80 PRs merged in 30 days
+[2025-08-18 17:33:17] Processing 1327/435: google/closure-compiler-npm
+[2025-08-18 17:33:20] OK google/closure-compiler-npm: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 17:33:20] Processing 1328/435: google/go-tpm-tools
+[2025-08-18 17:33:22] OK google/go-tpm-tools: 1 commits, 84 PRs merged in 30 days
+[2025-08-18 17:33:22] Processing 1329/435: google/differential-privacy
+[2025-08-18 17:33:25] OK google/differential-privacy: 4 commits, 40 PRs merged in 30 days
+[2025-08-18 17:33:25] Processing 1330/435: google/dotprompt
+[2025-08-18 17:33:27] OK google/dotprompt: 3 commits, 97 PRs merged in 30 days
+[2025-08-18 17:33:27] Processing 1331/435: google/fhir-data-pipes
+[2025-08-18 17:33:30] OK google/fhir-data-pipes: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 17:33:30] Processing 1332/435: google/fhir-gateway
+[2025-08-18 17:33:33] OK google/fhir-gateway: 1 commits, 70 PRs merged in 30 days
+[2025-08-18 17:33:33] Processing 1333/435: google/android-fhir
+[2025-08-18 17:33:36] OK google/android-fhir: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:33:36] Processing 1334/435: google/s2-geometry-library-java
+[2025-08-18 17:33:38] OK google/s2-geometry-library-java: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 17:33:38] Processing 1335/435: google/practical-inverse-rendering-of-textured-and-translucent-appearance
+[2025-08-18 17:33:40] OK google/practical-inverse-rendering-of-textured-and-translucent-appearance: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:40] Processing 1336/435: google/gnostic
+[2025-08-18 17:33:44] OK google/gnostic: 2 commits, 68 PRs merged in 30 days
+[2025-08-18 17:33:44] Processing 1337/435: google/protobuf.dart
+[2025-08-18 17:33:46] OK google/protobuf.dart: 0 commits, 79 PRs merged in 30 days
+[2025-08-18 17:33:46] Processing 1338/435: google/tensorstore
+[2025-08-18 17:33:49] OK google/tensorstore: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 17:33:49] Processing 1339/435: google/sequence-layers
+[2025-08-18 17:33:50] OK google/sequence-layers: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:50] Processing 1340/435: google/fiddle
+[2025-08-18 17:33:53] OK google/fiddle: 3 commits, 53 PRs merged in 30 days
+[2025-08-18 17:33:53] Processing 1341/435: google/mtail
+[2025-08-18 17:33:56] OK google/mtail: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 17:33:56] Processing 1342/435: google/googet
+[2025-08-18 17:33:58] OK google/googet: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:33:58] Processing 1343/435: google/qwix
+[2025-08-18 17:34:00] OK google/qwix: 37 commits, 68 PRs merged in 30 days
+[2025-08-18 17:34:00] Processing 1344/435: google/meterstick
+[2025-08-18 17:34:03] OK google/meterstick: 0 commits, 54 PRs merged in 30 days
+[2025-08-18 17:34:03] Processing 1345/435: google/opendocs
+[2025-08-18 17:34:05] OK google/opendocs: 4 commits, 32 PRs merged in 30 days
+[2025-08-18 17:34:06] Processing 1346/435: google/googletest-rust
+[2025-08-18 17:34:09] OK google/googletest-rust: 18 commits, 89 PRs merged in 30 days
+[2025-08-18 17:34:09] Processing 1347/435: google/xarray-tensorstore
+[2025-08-18 17:34:11] OK google/xarray-tensorstore: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 17:34:11] Processing 1348/435: google/gnxi
+[2025-08-18 17:34:13] OK google/gnxi: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 17:34:13] Processing 1349/435: google/anonymous-tokens
+[2025-08-18 17:34:15] OK google/anonymous-tokens: 19 commits, 33 PRs merged in 30 days
+[2025-08-18 17:34:15] Processing 1350/435: google/wireit
+[2025-08-18 17:34:20] OK google/wireit: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 17:34:20] Processing 1351/435: google/trillian
+[2025-08-18 17:34:23] OK google/trillian: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:34:23] Processing 1352/435: google/silifuzz
+[2025-08-18 17:34:25] OK google/silifuzz: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:25] Processing 1353/435: google/array_record
+[2025-08-18 17:34:27] OK google/array_record: 2 commits, 47 PRs merged in 30 days
+[2025-08-18 17:34:27] Processing 1354/435: google/nomulus
+[2025-08-18 17:34:30] OK google/nomulus: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:34:30] Processing 1355/435: google/webview-ads
+[2025-08-18 17:34:32] OK google/webview-ads: 4 commits, 3 PRs merged in 30 days
+[2025-08-18 17:34:32] Processing 1356/435: google/mug
+[2025-08-18 17:34:34] OK google/mug: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 17:34:34] Processing 1357/435: google/trillian-website
+[2025-08-18 17:34:37] OK google/trillian-website: 12 commits, 98 PRs merged in 30 days
+[2025-08-18 17:34:37] Processing 1358/435: google/evolve-forms
+[2025-08-18 17:34:39] OK google/evolve-forms: 2 commits, 15 PRs merged in 30 days
+[2025-08-18 17:34:39] Processing 1359/435: google/workflow-graph
+[2025-08-18 17:34:41] OK google/workflow-graph: 1 commits, 57 PRs merged in 30 days
+[2025-08-18 17:34:41] Processing 1360/435: google/cloud-android-orchestration
+[2025-08-18 17:34:44] OK google/cloud-android-orchestration: 20 commits, 88 PRs merged in 30 days
+[2025-08-18 17:34:44] Processing 1361/435: google/ads-api-report-fetcher
+[2025-08-18 17:34:47] OK google/ads-api-report-fetcher: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:47] Processing 1362/435: google/trillian-examples
+[2025-08-18 17:34:49] OK google/trillian-examples: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:34:49] Processing 1363/435: google/tsec
+[2025-08-18 17:34:51] OK google/tsec: 7 commits, 12 PRs merged in 30 days
+[2025-08-18 17:34:51] Processing 1364/435: google/budoux
+[2025-08-18 17:34:54] OK google/budoux: 11 commits, 41 PRs merged in 30 days
+[2025-08-18 17:34:54] Processing 1365/435: google/snippet-uiautomator
+[2025-08-18 17:34:57] OK google/snippet-uiautomator: 4 commits, 72 PRs merged in 30 days
+[2025-08-18 17:34:57] Processing 1366/435: google/addlicense
+[2025-08-18 17:35:00] OK google/addlicense: 0 commits, 71 PRs merged in 30 days
+[2025-08-18 17:35:00] Processing 1367/435: google/go-tdx-guest
+[2025-08-18 17:35:03] OK google/go-tdx-guest: 5 commits, 54 PRs merged in 30 days
+[2025-08-18 17:35:03] Processing 1368/435: google/s2a-proto
+[2025-08-18 17:35:05] OK google/s2a-proto: 2 commits, 9 PRs merged in 30 days
+[2025-08-18 17:35:05] Processing 1369/435: google/blockly-keyboard-experimentation
+[2025-08-18 17:35:08] OK google/blockly-keyboard-experimentation: 12 commits, 93 PRs merged in 30 days
+[2025-08-18 17:35:08] Processing 1370/435: google/toucan
+[2025-08-18 17:35:10] OK google/toucan: 6 commits, 1 PRs merged in 30 days
+[2025-08-18 17:35:10] Processing 1371/435: google/earthengine-catalog
+[2025-08-18 17:35:12] OK google/earthengine-catalog: 32 commits, 89 PRs merged in 30 days
+[2025-08-18 17:35:13] Processing 1372/435: google/bigwheels
+[2025-08-18 17:35:15] OK google/bigwheels: 6 commits, 96 PRs merged in 30 days
+[2025-08-18 17:35:15] Processing 1373/435: google/esamplusplus
+[2025-08-18 17:35:17] OK google/esamplusplus: 3 commits, 1 PRs merged in 30 days
+[2025-08-18 17:35:17] Processing 1374/435: google/howtodiv
+[2025-08-18 17:35:19] OK google/howtodiv: 12 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:19] Processing 1375/435: google/nccl-plugin-gpudirect-tcpxo
+[2025-08-18 17:35:21] OK google/nccl-plugin-gpudirect-tcpxo: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:21] Processing 1376/435: google/pathways-job
+[2025-08-18 17:35:23] OK google/pathways-job: 1 commits, 24 PRs merged in 30 days
+[2025-08-18 17:35:23] Processing 1377/435: google/swiftshader
+[2025-08-18 17:35:25] OK google/swiftshader: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:25] Processing 1378/435: google/fully-homomorphic-encryption
+[2025-08-18 17:35:28] OK google/fully-homomorphic-encryption: 3 commits, 14 PRs merged in 30 days
+[2025-08-18 17:35:28] Processing 1379/435: google/watchface
+[2025-08-18 17:35:30] OK google/watchface: 1 commits, 75 PRs merged in 30 days
+[2025-08-18 17:35:30] Processing 1380/435: google/xplat
+[2025-08-18 17:35:32] OK google/xplat: 6 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:32] Processing 1381/435: google/polymorphicDSL
+[2025-08-18 17:35:34] OK google/polymorphicDSL: 2 commits, 83 PRs merged in 30 days
+[2025-08-18 17:35:34] Processing 1382/435: google/TestParameterInjector
+[2025-08-18 17:35:36] Rate limit hit, stopping collection
+[2025-08-18 17:35:36] Error getting metrics for google/TestParameterInjector: Rate limit exceeded
+[2025-08-18 17:35:36] Rate limit reached. Waiting 1 hour before retrying...
+[2025-08-18 18:35:36] Resuming collection after 1 hour wait
+[2025-08-18 18:35:37] OK google/TestParameterInjector: 0 commits, 17 PRs merged in 30 days
+[2025-08-18 18:35:37] Processing 1383/435: google/jsinterop-annotations
+[2025-08-18 18:35:39] OK google/jsinterop-annotations: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:39] Processing 1384/435: google/escapevelocity
+[2025-08-18 18:35:41] OK google/escapevelocity: 1 commits, 46 PRs merged in 30 days
+[2025-08-18 18:35:41] Processing 1385/435: google/flogger
+[2025-08-18 18:35:43] OK google/flogger: 0 commits, 63 PRs merged in 30 days
+[2025-08-18 18:35:43] Processing 1386/435: google/jsinterop-base
+[2025-08-18 18:35:45] OK google/jsinterop-base: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 18:35:45] Processing 1387/435: google/guava-beta-checker
+[2025-08-18 18:35:47] OK google/guava-beta-checker: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 18:35:47] Processing 1388/435: google/elemental2
+[2025-08-18 18:35:49] OK google/elemental2: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:49] Processing 1389/435: google/jsinterop-generator
+[2025-08-18 18:35:51] OK google/jsinterop-generator: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 18:35:51] Processing 1390/435: google/turbine
+[2025-08-18 18:35:53] OK google/turbine: 1 commits, 53 PRs merged in 30 days
+[2025-08-18 18:35:53] Processing 1391/435: google/ground-android
+[2025-08-18 18:35:56] OK google/ground-android: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 18:35:56] Processing 1392/435: google/weather-tools
+[2025-08-18 18:35:59] OK google/weather-tools: 3 commits, 93 PRs merged in 30 days
+[2025-08-18 18:35:59] Processing 1393/435: google/fhir
+[2025-08-18 18:36:01] OK google/fhir: 0 commits, 30 PRs merged in 30 days
+[2025-08-18 18:36:01] Processing 1394/435: google/kati
+[2025-08-18 18:36:04] OK google/kati: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 18:36:04] Processing 1395/435: google/vanir
+[2025-08-18 18:36:06] OK google/vanir: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:36:06] Processing 1396/435: google/argh
+[2025-08-18 18:36:09] OK google/argh: 0 commits, 71 PRs merged in 30 days
+[2025-08-18 18:36:09] Processing 1397/435: google/minja
+[2025-08-18 18:36:11] OK google/minja: 5 commits, 61 PRs merged in 30 days
+[2025-08-18 18:36:11] Processing 1398/435: google/pyglove
+[2025-08-18 18:36:14] OK google/pyglove: 1 commits, 75 PRs merged in 30 days
+[2025-08-18 18:36:14] Processing 1399/435: google/libnss-cache
+[2025-08-18 18:36:17] OK google/libnss-cache: 2 commits, 72 PRs merged in 30 days
+[2025-08-18 18:36:17] Processing 1400/435: google/cassowary.dart
+[2025-08-18 18:36:19] OK google/cassowary.dart: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:36:19] Processing 1401/435: google/init2winit
+[2025-08-18 18:36:22] OK google/init2winit: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 18:36:22] Processing 1402/435: google/ink-stroke-modeler
+[2025-08-18 18:36:24] OK google/ink-stroke-modeler: 1 commits, 45 PRs merged in 30 days
+[2025-08-18 18:36:24] Processing 1403/435: google/speaker-id
+[2025-08-18 18:36:26] OK google/speaker-id: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 18:36:26] Processing 1404/435: google/zimtohrli
+[2025-08-18 18:36:28] OK google/zimtohrli: 19 commits, 95 PRs merged in 30 days
+[2025-08-18 18:36:28] Processing 1405/435: google/gfxstream
+[2025-08-18 18:36:31] OK google/gfxstream: 16 commits, 53 PRs merged in 30 days
+[2025-08-18 18:36:31] Processing 1406/435: google/struct2tensor
+[2025-08-18 18:36:32] OK google/struct2tensor: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:36:33] Processing 1407/435: google/localtoast
+[2025-08-18 18:36:34] OK google/localtoast: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 18:36:35] Processing 1408/435: google/jaxonnxruntime
+[2025-08-18 18:36:37] OK google/jaxonnxruntime: 2 commits, 48 PRs merged in 30 days
+[2025-08-18 18:36:37] Processing 1409/435: google/python-spanner-orm
+[2025-08-18 18:36:39] OK google/python-spanner-orm: 1 commits, 90 PRs merged in 30 days
+[2025-08-18 18:36:39] Processing 1410/435: google/pthreadpool
+[2025-08-18 18:36:41] OK google/pthreadpool: 1 commits, 25 PRs merged in 30 days
+[2025-08-18 18:36:41] Processing 1411/435: google/nsscache
+[2025-08-18 18:36:44] OK google/nsscache: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 18:36:44] Processing 1412/435: google/selinux-policy-languages
+[2025-08-18 18:36:46] OK google/selinux-policy-languages: 1 commits, 5 PRs merged in 30 days
+[2025-08-18 18:36:46] Processing 1413/435: google/pdl-language
+[2025-08-18 18:36:47] OK google/pdl-language: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 18:36:47] Processing 1414/435: google/aidl-language
+[2025-08-18 18:36:49] OK google/aidl-language: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 18:36:49] Processing 1415/435: google/tacotron
+[2025-08-18 18:36:51] OK google/tacotron: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:36:51] Processing 1416/435: google/if-this-then-ad
+[2025-08-18 18:36:53] OK google/if-this-then-ad: 5 commits, 88 PRs merged in 30 days
+[2025-08-18 18:36:53] Processing 1417/435: google/minijail
+[2025-08-18 18:36:55] OK google/minijail: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:36:55] Processing 1418/435: google/native-pkcs11
+[2025-08-18 18:36:58] OK google/native-pkcs11: 4 commits, 85 PRs merged in 30 days
+[2025-08-18 18:36:58] Processing 1419/435: google/osdemo
+[2025-08-18 18:37:00] OK google/osdemo: 4 commits, 24 PRs merged in 30 days
+[2025-08-18 18:37:00] Processing 1420/435: google/kotlin
+[2025-08-18 18:37:02] OK google/kotlin: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:37:02] Processing 1421/435: google/json_serializable.dart
+[2025-08-18 18:37:05] OK google/json_serializable.dart: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 18:37:05] Processing 1422/435: google/source_helper.dart
+[2025-08-18 18:37:07] OK google/source_helper.dart: 1 commits, 43 PRs merged in 30 days
+[2025-08-18 18:37:07] Processing 1423/435: google/seqio
+[2025-08-18 18:37:09] OK google/seqio: 2 commits, 48 PRs merged in 30 days
+[2025-08-18 18:37:09] Processing 1424/435: google/etils
+[2025-08-18 18:37:12] OK google/etils: 3 commits, 60 PRs merged in 30 days
+[2025-08-18 18:37:12] Processing 1425/435: google/effcee
+[2025-08-18 18:37:14] OK google/effcee: 1 commits, 62 PRs merged in 30 days
+[2025-08-18 18:37:14] Processing 1426/435: google/budoux-extension
+[2025-08-18 18:37:17] OK google/budoux-extension: 16 commits, 72 PRs merged in 30 days
+[2025-08-18 18:37:17] Processing 1427/435: google/genc
+[2025-08-18 18:37:19] OK google/genc: 0 commits, 57 PRs merged in 30 days
+[2025-08-18 18:37:19] Processing 1428/435: google/gematria
+[2025-08-18 18:37:21] OK google/gematria: 1 commits, 97 PRs merged in 30 days
+[2025-08-18 18:37:22] Processing 1429/435: google/mobly
+[2025-08-18 18:37:25] OK google/mobly: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 18:37:25] Processing 1430/435: google/Xee
+[2025-08-18 18:37:27] OK google/Xee: 0 commits, 55 PRs merged in 30 days
+[2025-08-18 18:37:27] Processing 1431/435: google/go-units
+[2025-08-18 18:37:29] OK google/go-units: 2 commits, 2 PRs merged in 30 days
+[2025-08-18 18:37:29] Processing 1432/435: google/rax
+[2025-08-18 18:37:31] OK google/rax: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 18:37:31] Processing 1433/435: google/ChromeBrowserEnterprise
+[2025-08-18 18:37:33] OK google/ChromeBrowserEnterprise: 1 commits, 16 PRs merged in 30 days
+[2025-08-18 18:37:33] Processing 1434/435: google/automotive-design-compose
+[2025-08-18 18:37:35] OK google/automotive-design-compose: 18 commits, 61 PRs merged in 30 days
+[2025-08-18 18:37:35] Processing 1435/435: google/github-sandbox
+[2025-08-18 18:37:39] OK google/github-sandbox: 6 commits, 74 PRs merged in 30 days
+[2025-08-18 18:37:39] Processing 1436/435: google/praxis
+[2025-08-18 18:37:41] OK google/praxis: 1 commits, 29 PRs merged in 30 days
+[2025-08-18 18:37:41] Processing 1437/435: google/mozc-devices
+[2025-08-18 18:37:43] OK google/mozc-devices: 1 commits, 29 PRs merged in 30 days
+[2025-08-18 18:37:43] Processing 1438/435: google/amber
+[2025-08-18 18:37:46] OK google/amber: 2 commits, 83 PRs merged in 30 days
+[2025-08-18 18:37:46] Processing 1439/435: google/partner-ads-experience
+[2025-08-18 18:37:48] OK google/partner-ads-experience: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:48] Processing 1440/435: google/ecclesia-machine-management
+[2025-08-18 18:37:50] OK google/ecclesia-machine-management: 0 commits, 78 PRs merged in 30 days
+[2025-08-18 18:37:50] Processing 1441/435: google/breakpad
+[2025-08-18 18:37:53] OK google/breakpad: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:53] Processing 1442/435: google/pdl
+[2025-08-18 18:37:55] OK google/pdl: 1 commits, 97 PRs merged in 30 days
+[2025-08-18 18:37:55] Processing 1443/435: google/web-game-samples
+[2025-08-18 18:37:57] OK google/web-game-samples: 1 commits, 28 PRs merged in 30 days
+[2025-08-18 18:37:57] Processing 1444/435: google/p4-infra
+[2025-08-18 18:37:59] OK google/p4-infra: 1 commits, 9 PRs merged in 30 days
+[2025-08-18 18:37:59] Processing 1445/435: google/tsl
+[2025-08-18 18:38:02] OK google/tsl: 6 commits, 46 PRs merged in 30 days
+[2025-08-18 18:38:02] Processing 1446/435: google/triage-party
+[2025-08-18 18:38:04] OK google/triage-party: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 18:38:04] Processing 1447/435: google/autofdo
+[2025-08-18 18:38:07] OK google/autofdo: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 18:38:07] Processing 1448/435: google/pcie_lmt
+[2025-08-18 18:38:09] OK google/pcie_lmt: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:38:09] Processing 1449/435: google/dynamicworld
+[2025-08-18 18:38:10] OK google/dynamicworld: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:38:10] Processing 1450/435: google/gwpsan
+[2025-08-18 18:38:12] OK google/gwpsan: 0 commits, 18 PRs merged in 30 days
+[2025-08-18 18:38:12] Processing 1451/435: google/ground-platform
+[2025-08-18 18:38:15] OK google/ground-platform: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 18:38:15] Processing 1452/435: google/civics_cdf_validator
+[2025-08-18 18:38:17] OK google/civics_cdf_validator: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 18:38:17] Processing 1453/435: google/jaxite
+[2025-08-18 18:38:19] OK google/jaxite: 1 commits, 39 PRs merged in 30 days
+[2025-08-18 18:38:19] Processing 1454/435: google/turbinia
+[2025-08-18 18:38:22] OK google/turbinia: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 18:38:22] Processing 1455/435: google/glazier
+[2025-08-18 18:38:24] OK google/glazier: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 18:38:24] Processing 1456/435: google/mdbook-i18n-helpers
+[2025-08-18 18:38:27] OK google/mdbook-i18n-helpers: 1 commits, 81 PRs merged in 30 days
+[2025-08-18 18:38:27] Processing 1457/435: google/mpact-cheriot
+[2025-08-18 18:38:28] OK google/mpact-cheriot: 4 commits, 0 PRs merged in 30 days
+[2025-08-18 18:38:28] Processing 1458/435: google/mpact-riscv
+[2025-08-18 18:38:30] OK google/mpact-riscv: 2 commits, 4 PRs merged in 30 days
+[2025-08-18 18:38:30] Processing 1459/435: google/mpact-sim
+[2025-08-18 18:38:32] OK google/mpact-sim: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:38:32] Processing 1460/435: google/truestreet
+[2025-08-18 18:38:34] OK google/truestreet: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:38:34] Processing 1461/435: google/fedjax
+[2025-08-18 18:38:36] OK google/fedjax: 1 commits, 68 PRs merged in 30 days
+[2025-08-18 18:38:36] Processing 1462/435: google/mediapy
+[2025-08-18 18:38:38] OK google/mediapy: 1 commits, 23 PRs merged in 30 days
+[2025-08-18 18:38:38] Processing 1463/435: google/rrg
+[2025-08-18 18:38:40] OK google/rrg: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 18:38:40] Processing 1464/435: google/gpt-disk-rs
+[2025-08-18 18:38:43] OK google/gpt-disk-rs: 1 commits, 73 PRs merged in 30 days
+[2025-08-18 18:38:43] Processing 1465/435: google/slowjam
+[2025-08-18 18:38:45] OK google/slowjam: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:38:45] Processing 1466/435: google/filonov
+[2025-08-18 18:38:47] OK google/filonov: 19 commits, 0 PRs merged in 30 days
+[2025-08-18 18:38:47] Processing 1467/435: google/built_value.dart
+[2025-08-18 18:38:49] OK google/built_value.dart: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 18:38:49] Processing 1468/435: google/pullsheet
+[2025-08-18 18:38:51] OK google/pullsheet: 0 commits, 60 PRs merged in 30 days
+[2025-08-18 18:38:52] Processing 1469/435: google/aqt
+[2025-08-18 18:38:54] OK google/aqt: 1 commits, 76 PRs merged in 30 days
+[2025-08-18 18:38:54] Processing 1470/435: google/deluca
+[2025-08-18 18:38:56] OK google/deluca: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:38:56] Processing 1471/435: google/shoptimizer
+[2025-08-18 18:38:58] OK google/shoptimizer: 6 commits, 0 PRs merged in 30 days
+[2025-08-18 18:38:58] Processing 1472/435: google/safety-web
+[2025-08-18 18:38:59] OK google/safety-web: 3 commits, 3 PRs merged in 30 days
+[2025-08-18 18:39:00] Processing 1473/435: google/safevalues
+[2025-08-18 18:39:01] OK google/safevalues: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 18:39:02] Processing 1474/435: google/go-tpm
+[2025-08-18 18:39:04] OK google/go-tpm: 3 commits, 83 PRs merged in 30 days
+[2025-08-18 18:39:04] Processing 1475/435: google/bt-navi-tests
+[2025-08-18 18:39:06] OK google/bt-navi-tests: 8 commits, 11 PRs merged in 30 days
+[2025-08-18 18:39:06] Processing 1476/435: google/flink-connector-gcp
+[2025-08-18 18:39:08] OK google/flink-connector-gcp: 2 commits, 83 PRs merged in 30 days
+[2025-08-18 18:39:08] Processing 1477/435: google/ffn
+[2025-08-18 18:39:11] OK google/ffn: 0 commits, 49 PRs merged in 30 days
+[2025-08-18 18:39:11] Processing 1478/435: google/sbsim
+[2025-08-18 18:39:13] OK google/sbsim: 0 commits, 39 PRs merged in 30 days
+[2025-08-18 18:39:13] Processing 1479/435: google/devlibrary
+[2025-08-18 18:39:16] OK google/devlibrary: 2 commits, 73 PRs merged in 30 days
+[2025-08-18 18:39:16] Processing 1480/435: google/carfac
+[2025-08-18 18:39:18] OK google/carfac: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:39:18] Processing 1481/435: google/pack
+[2025-08-18 18:39:20] OK google/pack: 5 commits, 44 PRs merged in 30 days
+[2025-08-18 18:39:20] Processing 1482/435: google/certificate-transparency-community-site
+[2025-08-18 18:39:22] OK google/certificate-transparency-community-site: 0 commits, 63 PRs merged in 30 days
+[2025-08-18 18:39:22] Processing 1483/435: google/tf-shell
+[2025-08-18 18:39:24] OK google/tf-shell: 8 commits, 3 PRs merged in 30 days
+[2025-08-18 18:39:24] Processing 1484/435: google/googleapis.dart
+[2025-08-18 18:39:27] OK google/googleapis.dart: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:39:27] Processing 1485/435: google/vector_math.dart
+[2025-08-18 18:39:30] OK google/vector_math.dart: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 18:39:30] Processing 1486/435: google/safe-active-record
+[2025-08-18 18:39:31] OK google/safe-active-record: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 18:39:31] Processing 1487/435: google/authenticode-rs
+[2025-08-18 18:39:34] OK google/authenticode-rs: 4 commits, 70 PRs merged in 30 days
+[2025-08-18 18:39:34] Processing 1488/435: google/sbat-rs
+[2025-08-18 18:39:36] OK google/sbat-rs: 1 commits, 65 PRs merged in 30 days
+[2025-08-18 18:39:37] Processing 1489/435: google/GoogleAppMeasurement
+[2025-08-18 18:39:39] OK google/GoogleAppMeasurement: 3 commits, 83 PRs merged in 30 days
+[2025-08-18 18:39:39] Processing 1490/435: google/neper
+[2025-08-18 18:39:41] OK google/neper: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 18:39:41] Processing 1491/435: google/ruy
+[2025-08-18 18:39:44] OK google/ruy: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 18:39:44] Processing 1492/435: google/wci
+[2025-08-18 18:39:45] OK google/wci: 2 commits, 29 PRs merged in 30 days
+[2025-08-18 18:39:46] Processing 1493/435: google/app-check
+[2025-08-18 18:39:48] OK google/app-check: 2 commits, 78 PRs merged in 30 days
+[2025-08-18 18:39:48] Processing 1494/435: google/proto-lens
+[2025-08-18 18:39:51] OK google/proto-lens: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:39:51] Processing 1495/435: google/pdsl-xray
+[2025-08-18 18:39:52] OK google/pdsl-xray: 14 commits, 13 PRs merged in 30 days
+[2025-08-18 18:39:53] Processing 1496/435: google/rdma-unit-test
+[2025-08-18 18:39:54] OK google/rdma-unit-test: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:39:54] Processing 1497/435: google/webdriver.dart
+[2025-08-18 18:39:57] OK google/webdriver.dart: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 18:39:57] Processing 1498/435: google/ippusb
+[2025-08-18 18:39:58] OK google/ippusb: 3 commits, 8 PRs merged in 30 days
+[2025-08-18 18:39:59] Processing 1499/435: google/csv-to-firestore
+[2025-08-18 18:40:00] OK google/csv-to-firestore: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:00] Processing 1500/435: google/chrome-ssh-agent
+[2025-08-18 18:40:02] OK google/chrome-ssh-agent: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 18:40:02] Processing 1501/435: google/drjax
+[2025-08-18 18:40:04] OK google/drjax: 2 commits, 19 PRs merged in 30 days
+[2025-08-18 18:40:04] Processing 1502/435: google/sound-checker
+[2025-08-18 18:40:06] OK google/sound-checker: 12 commits, 36 PRs merged in 30 days
+[2025-08-18 18:40:06] Processing 1503/435: google/privacy-sandbox-aggregation-service
+[2025-08-18 18:40:09] OK google/privacy-sandbox-aggregation-service: 1 commits, 72 PRs merged in 30 days
+[2025-08-18 18:40:09] Processing 1504/435: google/intellij-community
+[2025-08-18 18:40:11] OK google/intellij-community: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:11] Processing 1505/435: google/openintent
+[2025-08-18 18:40:12] OK google/openintent: 1 commits, 10 PRs merged in 30 days
+[2025-08-18 18:40:13] Processing 1506/435: google/garf
+[2025-08-18 18:40:15] OK google/garf: 24 commits, 76 PRs merged in 30 days
+[2025-08-18 18:40:15] Processing 1507/435: google/eDistantObject
+[2025-08-18 18:40:17] OK google/eDistantObject: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 18:40:17] Processing 1508/435: google/bazel-common
+[2025-08-18 18:40:19] OK google/bazel-common: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 18:40:19] Processing 1509/435: google/inject-common
+[2025-08-18 18:40:21] OK google/inject-common: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 18:40:21] Processing 1510/435: google/rubik
+[2025-08-18 18:40:23] OK google/rubik: 2 commits, 13 PRs merged in 30 days
+[2025-08-18 18:40:23] Processing 1511/435: google/private-join-and-compute
+[2025-08-18 18:40:25] OK google/private-join-and-compute: 0 commits, 5 PRs merged in 30 days
+[2025-08-18 18:40:25] Processing 1512/435: google/vbootrom
+[2025-08-18 18:40:26] OK google/vbootrom: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:40:26] Processing 1513/435: google/hotels-template-library
+[2025-08-18 18:40:28] OK google/hotels-template-library: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 18:40:29] Processing 1514/435: google/rpmpack
+[2025-08-18 18:40:31] OK google/rpmpack: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 18:40:31] Processing 1515/435: google/web-hv
+[2025-08-18 18:40:33] OK google/web-hv: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 18:40:33] Processing 1516/435: google/smc-common
+[2025-08-18 18:40:34] OK google/smc-common: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:34] Processing 1517/435: google/distributed_point_functions
+[2025-08-18 18:40:36] OK google/distributed_point_functions: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 18:40:37] Processing 1518/435: google/obr
+[2025-08-18 18:40:38] OK google/obr: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:40:38] Processing 1519/435: google/symphony-gcp
+[2025-08-18 18:40:40] OK google/symphony-gcp: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:40:40] Processing 1520/435: google/libhoth
+[2025-08-18 18:40:42] OK google/libhoth: 2 commits, 91 PRs merged in 30 days
+[2025-08-18 18:40:42] Processing 1521/435: google/smc-hello-world
+[2025-08-18 18:40:44] OK google/smc-hello-world: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:44] Processing 1522/435: google/deku
+[2025-08-18 18:40:45] OK google/deku: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:46] Processing 1523/435: google/cabbie
+[2025-08-18 18:40:48] OK google/cabbie: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 18:40:48] Processing 1524/435: google/fast-isotropic-median-filter
+[2025-08-18 18:40:49] OK google/fast-isotropic-median-filter: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:49] Processing 1525/435: google/python-card-framework
+[2025-08-18 18:40:51] OK google/python-card-framework: 1 commits, 6 PRs merged in 30 days
+[2025-08-18 18:40:51] Processing 1526/435: google/payjs
+[2025-08-18 18:40:52] OK google/payjs: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:40:52] Processing 1529/435: google/filament-assets
+[2025-08-18 18:40:54] OK google/filament-assets: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:54] Processing 1530/435: google/llvm-memprof
+[2025-08-18 18:40:55] OK google/llvm-memprof: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:40:56] Processing 1531/435: google/gutil
+[2025-08-18 18:40:57] OK google/gutil: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 18:40:57] Processing 1532/435: google/peoplemath
+[2025-08-18 18:41:00] OK google/peoplemath: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 18:41:00] Processing 1533/435: google/code-review-bot
+[2025-08-18 18:41:02] OK google/code-review-bot: 0 commits, 56 PRs merged in 30 days
+[2025-08-18 18:41:02] Processing 1534/435: google/dart_cli_pkg
+[2025-08-18 18:41:04] OK google/dart_cli_pkg: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:41:05] Processing 1535/435: google/har2csv
+[2025-08-18 18:41:06] OK google/har2csv: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:41:06] Processing 1536/435: google/conversational-surveys
+[2025-08-18 18:41:08] OK google/conversational-surveys: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:41:08] Processing 1537/435: google/webcrypto.dart
+[2025-08-18 18:41:10] OK google/webcrypto.dart: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 18:41:10] Processing 1538/435: google/reflow-list
+[2025-08-18 18:41:12] OK google/reflow-list: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 18:41:12] Processing 1539/435: google/ts-bridge
+[2025-08-18 18:41:15] OK google/ts-bridge: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:41:15] Processing 1540/435: google/shifter
+[2025-08-18 18:41:17] OK google/shifter: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:41:17] Processing 1541/435: google/github_nonpublic_api
+[2025-08-18 18:41:20] OK google/github_nonpublic_api: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 18:41:20] Processing 1542/435: google/testrun
+[2025-08-18 18:41:22] OK google/testrun: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 18:41:23] Processing 1543/435: google/sbom-conformance
+[2025-08-18 18:41:24] OK google/sbom-conformance: 0 commits, 55 PRs merged in 30 days
+[2025-08-18 18:41:24] Processing 1544/435: google/web-api-gateway
+[2025-08-18 18:41:26] OK google/web-api-gateway: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 18:41:26] Processing 1545/435: google/business_intelligence_group
+[2025-08-18 18:41:28] OK google/business_intelligence_group: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 18:41:28] Processing 1546/435: google/github-webhook-pubsub-bridge
+[2025-08-18 18:41:30] OK google/github-webhook-pubsub-bridge: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 18:41:30] Processing 1547/435: google/fswalker
+[2025-08-18 18:41:32] OK google/fswalker: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 18:41:32] Processing 1548/435: google/pybind11clif
+[2025-08-18 18:41:34] OK google/pybind11clif: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 18:41:34] Processing 1549/435: google/hrx-ruby
+[2025-08-18 18:41:36] OK google/hrx-ruby: 0 commits, 5 PRs merged in 30 days
+[2025-08-18 18:41:36] Collection completed successfully!

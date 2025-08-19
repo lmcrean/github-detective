@@ -15,13 +15,14 @@ def main():
     # File paths
     input_file = "data/repos/batch_Aug_18/big_three_recent_commits.csv"
     progress_file = ".notes/progress_meta.txt"
-    output_file = "data/output/merge_rates_meta.csv"
+    output_file = "data/output/repo_health_meta.csv"
     
     # Initialize collector
     collector = SimpleMergeRateCollector(progress_file, output_file)
     
     # Start collection
-    collector._log_progress("=== Starting Meta Merge Rate Collection ===")
+    collector._log_progress("=== Starting Meta Repo Health Collection ===")
+    collector._log_progress("Collecting: commits_last_30d + PRs_closed_30d")
     collector._log_progress("Input file: " + input_file)
     collector._log_progress("Output file: " + output_file)
     

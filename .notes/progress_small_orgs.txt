@@ -424,3 +424,434 @@
 [2025-08-18 17:06:40] Processing org 60/61: Pearson (pearsondevelopersnetwork)
 [2025-08-18 17:06:42] Processing org 61/61: WPP (nan)
 [2025-08-18 17:06:43] Collection completed! Processed 360 repositories
+[2025-08-18 17:24:02] === Starting Small Orgs Repo Health Collection ===
+[2025-08-18 17:24:02] Collecting: commits_last_30d + PRs_closed_30d
+[2025-08-18 17:24:02] Input file: data/repos/batch_Aug_18/org_repo_counts_small.csv
+[2025-08-18 17:24:02] Output file: data/output/repo_health_small_orgs.csv
+[2025-08-18 17:24:03] Starting repo extraction for 61 organizations
+[2025-08-18 17:24:03] Processing org 1/61: Samsung (samsungds)
+[2025-08-18 17:24:06]   OK samsungds/unvme-cli: 29 commits, 0 PRs
+[2025-08-18 17:24:08]   OK samsungds/libvfn: 6 commits, 27 PRs
+[2025-08-18 17:24:09]   OK samsungds/vmctl: 0 commits, 25 PRs
+[2025-08-18 17:24:13]   OK samsungds/exynos-eco: 1 commits, 0 PRs
+[2025-08-18 17:24:13] Processing org 2/61: General Motors (generalmotors)
+[2025-08-18 17:24:15] Processing org 3/61: JPMorgan Chase (jpmorganchase)
+[2025-08-18 17:24:21]   OK jpmorganchase/salt-ds: 39 commits, 85 PRs
+[2025-08-18 17:24:24]   OK jpmorganchase/fusion: 0 commits, 90 PRs
+[2025-08-18 17:24:26]   OK jpmorganchase/nbcelltests: 7 commits, 89 PRs
+[2025-08-18 17:24:29]   OK jpmorganchase/jupyter-fs: 12 commits, 75 PRs
+[2025-08-18 17:24:31]   OK jpmorganchase/mosaic: 3 commits, 79 PRs
+[2025-08-18 17:24:34]   OK jpmorganchase/QOKit: 18 commits, 51 PRs
+[2025-08-18 17:24:36]   OK jpmorganchase/fusion-3.7: 28 commits, 14 PRs
+[2025-08-18 17:24:38]   OK jpmorganchase/anu: 5 commits, 83 PRs
+[2025-08-18 17:24:40]   OK jpmorganchase/fusion-java-sdk: 8 commits, 87 PRs
+[2025-08-18 17:24:41] Processing org 4/61: Ford (ford)
+[2025-08-18 17:24:44]   OK ford/hoppscotch: 37 commits, 0 PRs
+[2025-08-18 17:24:44] Processing org 5/61: Verizon (verizon)
+[2025-08-18 17:24:48]   OK verizon/verizon-geofeed: 11 commits, 98 PRs
+[2025-08-18 17:24:48] Processing org 6/61: Verizon (verizonconnect)
+[2025-08-18 17:24:50] Processing org 7/61: AT&T (att-comdev)
+[2025-08-18 17:24:54]   OK att-comdev/charts: 0 commits, 0 PRs
+[2025-08-18 17:24:56]   OK att-comdev/cicd: 0 commits, 0 PRs
+[2025-08-18 17:24:56] Processing org 8/61: Tesla (teslamotors)
+[2025-08-18 17:25:01]   OK teslamotors/zephyr: 100 commits, 0 PRs
+[2025-08-18 17:25:02]   OK teslamotors/LVCS: 5 commits, 0 PRs
+[2025-08-18 17:25:05]   OK teslamotors/vehicle-command: 3 commits, 89 PRs
+[2025-08-18 17:25:08]   OK teslamotors/fixed-containers: 0 commits, 88 PRs
+[2025-08-18 17:25:10]   OK teslamotors/fleet-telemetry: 1 commits, 81 PRs
+[2025-08-18 17:25:12]   OK teslamotors/ansible_puller: 0 commits, 42 PRs
+[2025-08-18 17:25:12] Processing org 9/61: Tencent (tencent-hunyuan)
+[2025-08-18 17:25:16]   OK tencent-hunyuan/Hunyuan-GameCraft-1.0: 29 commits, 2 PRs
+[2025-08-18 17:25:19]   OK tencent-hunyuan/Hunyuan3D-2: 7 commits, 25 PRs
+[2025-08-18 17:25:21]   OK tencent-hunyuan/HunyuanWorld-1.0: 24 commits, 2 PRs
+[2025-08-18 17:25:22]   OK tencent-hunyuan/MixGRPO: 9 commits, 0 PRs
+[2025-08-18 17:25:23]   OK tencent-hunyuan/AutoCodeBenchmark: 6 commits, 0 PRs
+[2025-08-18 17:25:25]   OK tencent-hunyuan/ArtifactsBenchmark: 9 commits, 2 PRs
+[2025-08-18 17:25:26]   OK tencent-hunyuan/Hunyuan-7B: 7 commits, 4 PRs
+[2025-08-18 17:25:28]   OK tencent-hunyuan/HunyuanVideo: 2 commits, 14 PRs
+[2025-08-18 17:25:30]   OK tencent-hunyuan/Hunyuan-4B: 2 commits, 1 PRs
+[2025-08-18 17:25:31]   OK tencent-hunyuan/Hunyuan-1.8B: 2 commits, 1 PRs
+[2025-08-18 17:25:33]   OK tencent-hunyuan/Hunyuan-0.5B: 2 commits, 1 PRs
+[2025-08-18 17:25:37]   OK tencent-hunyuan/Hunyuan3D-2.1: 7 commits, 9 PRs
+[2025-08-18 17:25:38]   OK tencent-hunyuan/bpt: 3 commits, 0 PRs
+[2025-08-18 17:25:39]   OK tencent-hunyuan/FlashVDM: 3 commits, 0 PRs
+[2025-08-18 17:25:41]   OK tencent-hunyuan/Hunyuan3D-1: 6 commits, 0 PRs
+[2025-08-18 17:25:41] Processing org 10/61: Disney (disney)
+[2025-08-18 17:25:45]   OK disney/terraform-aws-lambda-at-edge-cognito-authentication: 0 commits, 2 PRs
+[2025-08-18 17:25:45] Processing org 11/61: Disney (disneystreaming)
+[2025-08-18 17:25:48]   OK disneystreaming/aws-sdk-smithy-specs: 0 commits, 13 PRs
+[2025-08-18 17:25:51]   OK disneystreaming/smithy4s: 0 commits, 79 PRs
+[2025-08-18 17:25:53]   OK disneystreaming/smithy-translate: 3 commits, 84 PRs
+[2025-08-18 17:25:55]   OK disneystreaming/alloy: 8 commits, 81 PRs
+[2025-08-18 17:25:57]   OK disneystreaming/automated-cloud-advisor: 0 commits, 100 PRs
+[2025-08-18 17:25:57] Processing org 12/61: Sony (sonymobile)
+[2025-08-18 17:25:59] Processing org 13/61: Dell (dellhpc)
+[2025-08-18 17:26:00] Processing org 14/61: HP (hpinc)
+[2025-08-18 17:26:04]   OK hpinc/AI-Blueprints: 100 commits, 82 PRs
+[2025-08-18 17:26:06]   OK hpinc/jipp: 0 commits, 63 PRs
+[2025-08-18 17:26:08]   OK hpinc/tcli: 8 commits, 3 PRs
+[2025-08-18 17:26:09]   OK hpinc/printos-composer-api-samples: 0 commits, 0 PRs
+[2025-08-18 17:26:11]   OK hpinc/krypton-scheduler: 1 commits, 0 PRs
+[2025-08-18 17:26:12]   OK hpinc/krypton-dsts: 2 commits, 1 PRs
+[2025-08-18 17:26:14]   OK hpinc/rsc-cli: 1 commits, 2 PRs
+[2025-08-18 17:26:15]   OK hpinc/krypton-utils: 4 commits, 0 PRs
+[2025-08-18 17:26:17]   OK hpinc/krypton-iot-authorizer: 2 commits, 0 PRs
+[2025-08-18 17:26:18]   OK hpinc/Anyware-Certification: 4 commits, 6 PRs
+[2025-08-18 17:26:20]   OK hpinc/oneflow-sdk-js: 0 commits, 65 PRs
+[2025-08-18 17:26:20] Processing org 15/61: Cisco (cisco)
+[2025-08-18 17:26:25]   OK cisco/multilingual-speech-testing: 2 commits, 8 PRs
+[2025-08-18 17:26:28]   OK cisco/ChezScheme: 4 commits, 91 PRs
+[2025-08-18 17:26:31]   OK cisco/libsrtp: 5 commits, 90 PRs
+[2025-08-18 17:26:33]   OK cisco/mercury: 95 commits, 3 PRs
+[2025-08-18 17:26:36]   OK cisco/cisco-mibs: 2 commits, 78 PRs
+[2025-08-18 17:26:38]   OK cisco/hash-sigs: 0 commits, 12 PRs
+[2025-08-18 17:26:40]   OK cisco/libamvp: 9 commits, 27 PRs
+[2025-08-18 17:26:42]   OK cisco/cisco-network-chef-cookbook: 0 commits, 34 PRs
+[2025-08-18 17:26:45]   OK cisco/libacvp: 9 commits, 91 PRs
+[2025-08-18 17:26:46]   OK cisco/OpenOSC: 0 commits, 3 PRs
+[2025-08-18 17:26:46] Processing org 16/61: Goldman Sachs (goldmansachs)
+[2025-08-18 17:26:51]   OK goldmansachs/legend-studio: 0 commits, 2 PRs
+[2025-08-18 17:26:54]   OK goldmansachs/gs-quant: 0 commits, 85 PRs
+[2025-08-18 17:26:56]   OK goldmansachs/legend-engine: 0 commits, 11 PRs
+[2025-08-18 17:26:58]   OK goldmansachs/legend-depot: 0 commits, 0 PRs
+[2025-08-18 17:27:00]   OK goldmansachs/legend-pure: 0 commits, 0 PRs
+[2025-08-18 17:27:01]   OK goldmansachs/common: 3 commits, 0 PRs
+[2025-08-18 17:27:03]   OK goldmansachs/prometheus: 62 commits, 2 PRs
+[2025-08-18 17:27:05]   OK goldmansachs/jdmn: 17 commits, 91 PRs
+[2025-08-18 17:27:07]   OK goldmansachs/legend: 0 commits, 0 PRs
+[2025-08-18 17:27:08]   OK goldmansachs/gpt-codegen: 0 commits, 0 PRs
+[2025-08-18 17:27:10]   OK goldmansachs/legend-shared: 0 commits, 0 PRs
+[2025-08-18 17:27:11]   OK goldmansachs/legend-sdlc: 0 commits, 0 PRs
+[2025-08-18 17:27:13]   OK goldmansachs/thanos: 0 commits, 0 PRs
+[2025-08-18 17:27:13] Processing org 17/61: Broadcom (broadcom)
+[2025-08-18 17:27:17]   OK broadcom/HOL-2601: 38 commits, 0 PRs
+[2025-08-18 17:27:19]   OK broadcom/HOL-2602: 31 commits, 0 PRs
+[2025-08-18 17:27:20]   OK broadcom/OpenMDK: 0 commits, 0 PRs
+[2025-08-18 17:27:22]   OK broadcom/HOL-2670: 41 commits, 0 PRs
+[2025-08-18 17:27:23]   OK broadcom/HOL-2671: 51 commits, 0 PRs
+[2025-08-18 17:27:24]   OK broadcom/HOL-2637: 5 commits, 0 PRs
+[2025-08-18 17:27:26]   OK broadcom/HOL-2636: 7 commits, 0 PRs
+[2025-08-18 17:27:27]   OK broadcom/HOL-2633: 0 commits, 0 PRs
+[2025-08-18 17:27:29]   OK broadcom/HOL-2608: 11 commits, 0 PRs
+[2025-08-18 17:27:30]   OK broadcom/HOL-2634: 14 commits, 0 PRs
+[2025-08-18 17:27:32]   OK broadcom/terraform-provider-luminate: 0 commits, 89 PRs
+[2025-08-18 17:27:34]   OK broadcom/HOL-2649: 14 commits, 0 PRs
+[2025-08-18 17:27:35]   OK broadcom/HOL-2610: 3 commits, 0 PRs
+[2025-08-18 17:27:37]   OK broadcom/HOLFY26-MGR-HOLUSER: 2 commits, 0 PRs
+[2025-08-18 17:27:38]   OK broadcom/HOL-2630: 1 commits, 0 PRs
+[2025-08-18 17:27:40]   OK broadcom/stblinux: 0 commits, 0 PRs
+[2025-08-18 17:27:41]   OK broadcom/HOL-8807: 0 commits, 0 PRs
+[2025-08-18 17:27:42]   OK broadcom/HOL-8805: 0 commits, 0 PRs
+[2025-08-18 17:27:42] Processing org 18/61: Vodafone (vodafone)
+[2025-08-18 17:27:44] Processing org 19/61: Schneider Electric (schneider-electric)
+[2025-08-18 17:27:47]   OK schneider-electric/edgex-go: 8 commits, 0 PRs
+[2025-08-18 17:27:48]   OK schneider-electric/node-red-contrib-edgex-connector: 1 commits, 0 PRs
+[2025-08-18 17:27:50]   OK schneider-electric/device-sdk-go: 5 commits, 0 PRs
+[2025-08-18 17:27:50] Processing org 20/61: GE (generalelectric)
+[2025-08-18 17:27:52] Processing org 21/61: Honeywell (nan)
+[2025-08-18 17:27:53] Processing org 22/61: Qualcomm (qualcomm)
+[2025-08-18 17:27:57]   OK qualcomm/eld: 67 commits, 92 PRs
+[2025-08-18 17:28:00]   OK qualcomm/fastrpc: 13 commits, 56 PRs
+[2025-08-18 17:28:01]   OK qualcomm/kleidiai: 4 commits, 0 PRs
+[2025-08-18 17:28:03]   OK qualcomm/qcom-test-automation-controller: 15 commits, 6 PRs
+[2025-08-18 17:28:05]   OK qualcomm/PatchWise: 24 commits, 12 PRs
+[2025-08-18 17:28:07]   OK qualcomm/Startup-Demos: 20 commits, 16 PRs
+[2025-08-18 17:28:08]   OK qualcomm/XNNPACK: 0 commits, 0 PRs
+[2025-08-18 17:28:10]   OK qualcomm/fastboot.efi: 9 commits, 8 PRs
+[2025-08-18 17:28:11]   OK qualcomm/bt-rviz: 1 commits, 0 PRs
+[2025-08-18 17:28:13]   OK qualcomm/csm-utils: 11 commits, 3 PRs
+[2025-08-18 17:28:15]   OK qualcomm/fastrpc-image: 10 commits, 2 PRs
+[2025-08-18 17:28:16]   OK qualcomm/dragonwing-iot-samples: 7 commits, 3 PRs
+[2025-08-18 17:28:18]   OK qualcomm/qdlrs: 12 commits, 20 PRs
+[2025-08-18 17:28:19]   OK qualcomm/onnxruntime: 0 commits, 0 PRs
+[2025-08-18 17:28:21]   OK qualcomm/.github: 2 commits, 10 PRs
+[2025-08-18 17:28:23]   OK qualcomm/minkipc: 2 commits, 6 PRs
+[2025-08-18 17:28:24]   OK qualcomm/AvxToNeon: 0 commits, 0 PRs
+[2025-08-18 17:28:26]   OK qualcomm/snapdragon-compute-samples: 1 commits, 2 PRs
+[2025-08-18 17:28:28]   OK qualcomm/awesome-qualcomm-developer: 3 commits, 3 PRs
+[2025-08-18 17:28:28] Processing org 23/61: Qualcomm (quic)
+[2025-08-18 17:28:33]   OK quic/qemu: 0 commits, 79 PRs
+[2025-08-18 17:28:35]   OK quic/efficient-transformers: 12 commits, 74 PRs
+[2025-08-18 17:28:38]   OK quic/aimet: 0 commits, 86 PRs
+[2025-08-18 17:28:40]   OK quic/ai-hub-models: 4 commits, 6 PRs
+[2025-08-18 17:28:41]   OK quic/wos-ai-demos: 2 commits, 0 PRs
+[2025-08-18 17:28:43]   OK quic/ai-engine-direct-helper: 33 commits, 5 PRs
+[2025-08-18 17:28:44]   OK quic/qbox: 3 commits, 0 PRs
+[2025-08-18 17:28:46]   OK quic/v4l-video-test-app: 0 commits, 10 PRs
+[2025-08-18 17:28:48]   OK quic/crash-plugins: 12 commits, 27 PRs
+[2025-08-18 17:28:50]   OK quic/aimet-pages: 0 commits, 49 PRs
+[2025-08-18 17:28:52]   OK quic/ufs-tools: 1 commits, 4 PRs
+[2025-08-18 17:28:53]   OK quic/sample-apps-for-qualcomm-linux: 3 commits, 7 PRs
+[2025-08-18 17:28:55]   OK quic/cloud-ai-containers: 1 commits, 0 PRs
+[2025-08-18 17:28:56]   OK quic/aic-operator: 2 commits, 0 PRs
+[2025-08-18 17:28:58]   OK quic/cloud-ai-sdk: 0 commits, 2 PRs
+[2025-08-18 17:29:00]   OK quic/toolchain_for_hexagon: 0 commits, 45 PRs
+[2025-08-18 17:29:01]   OK quic/cloud-ai-sdk-pages: 0 commits, 0 PRs
+[2025-08-18 17:29:03]   OK quic/XNNPACK: 0 commits, 0 PRs
+[2025-08-18 17:29:04]   OK quic/OpenBLAS: 0 commits, 0 PRs
+[2025-08-18 17:29:06]   OK quic/ai-hub-apps: 1 commits, 0 PRs
+[2025-08-18 17:29:07]   OK quic/eud: 1 commits, 0 PRs
+[2025-08-18 17:29:09]   OK quic/riscv-elf-psabi-quic-extensions: 0 commits, 8 PRs
+[2025-08-18 17:29:11]   OK quic/qmi-framework: 1 commits, 4 PRs
+[2025-08-18 17:29:11] Processing org 24/61: ABB (abb-iss)
+[2025-08-18 17:29:12] Processing org 25/61: ASML (asml-labs)
+[2025-08-18 17:29:16]   OK asml-labs/MATFrost.jl: 0 commits, 38 PRs
+[2025-08-18 17:29:18]   OK asml-labs/dagster-delta: 1 commits, 23 PRs
+[2025-08-18 17:29:18] Processing org 26/61: HPE (hpenetworking)
+[2025-08-18 17:29:23]   OK hpenetworking/topology: 0 commits, 84 PRs
+[2025-08-18 17:29:23] Processing org 27/61: BT Group (bt-opensource)
+[2025-08-18 17:29:25] Processing org 28/61: AMD (amd)
+[2025-08-18 17:29:30]   OK amd/ZenDNN: 3 commits, 0 PRs
+[2025-08-18 17:29:32]   OK amd/node-scraper: 0 commits, 31 PRs
+[2025-08-18 17:29:34]   OK amd/onnxruntime: 0 commits, 0 PRs
+[2025-08-18 17:29:36]   OK amd/esmi_ib_library: 0 commits, 3 PRs
+[2025-08-18 17:29:38]   OK amd/HPCTrainingExamples: 100 commits, 97 PRs
+[2025-08-18 17:29:41]   OK amd/HPCTrainingDock: 26 commits, 9 PRs
+[2025-08-18 17:29:44]   OK amd/xdna-driver: 36 commits, 88 PRs
+[2025-08-18 17:29:47]   OK amd/RyzenAI-SW: 10 commits, 50 PRs
+[2025-08-18 17:29:49]   OK amd/ama-sdk: 0 commits, 0 PRs
+[2025-08-18 17:29:52]   OK amd/ryzen-ai-documentation: 10 commits, 95 PRs
+[2025-08-18 17:29:55]   OK amd/ADA: 8 commits, 73 PRs
+[2025-08-18 17:29:57]   OK amd/blis: 0 commits, 1 PRs
+[2025-08-18 17:29:59]   OK amd/amd_energy: 0 commits, 4 PRs
+[2025-08-18 17:30:01]   OK amd/amd_hsmp: 0 commits, 1 PRs
+[2025-08-18 17:30:03]   OK amd/ZenDNN-pytorch-plugin: 5 commits, 0 PRs
+[2025-08-18 17:30:05]   OK amd/opencv: 0 commits, 0 PRs
+[2025-08-18 17:30:06]   OK amd/virtio-npu: 9 commits, 0 PRs
+[2025-08-18 17:30:08]   OK amd/pensando-elk: 4 commits, 3 PRs
+[2025-08-18 17:30:10]   OK amd/Quark: 0 commits, 0 PRs
+[2025-08-18 17:30:10] Processing org 29/61: Block (block)
+[2025-08-18 17:30:16]   OK block/goose: 100 commits, 82 PRs
+[2025-08-18 17:30:18]   OK block/ospo: 3 commits, 41 PRs
+[2025-08-18 17:30:21]   OK block/kotlin-formatter: 18 commits, 96 PRs
+[2025-08-18 17:30:23]   OK block/example-jvm-maven: 0 commits, 47 PRs
+[2025-08-18 17:30:25]   OK block/stoic: 13 commits, 5 PRs
+[2025-08-18 17:30:27]   OK block/docs-site-kickstarter: 26 commits, 25 PRs
+[2025-08-18 17:30:29]   OK block/elasticgraph: 94 commits, 85 PRs
+[2025-08-18 17:30:32]   OK block/gradle-monorepo-ij-plugin: 5 commits, 19 PRs
+[2025-08-18 17:30:34]   OK block/scaffolder: 0 commits, 44 PRs
+[2025-08-18 17:30:36]   OK block/bitcoin-augur-reference: 7 commits, 5 PRs
+[2025-08-18 17:30:37]   OK block/.github: 1 commits, 1 PRs
+[2025-08-18 17:30:39]   OK block/oss-project-template: 1 commits, 2 PRs
+[2025-08-18 17:30:42]   OK block/kfsm: 1 commits, 82 PRs
+[2025-08-18 17:30:45]   OK block/spirit: 8 commits, 93 PRs
+[2025-08-18 17:30:46]   OK block/goose-discord: 9 commits, 0 PRs
+[2025-08-18 17:30:48]   OK block/mcp-jupyter: 8 commits, 5 PRs
+[2025-08-18 17:30:51]   OK block/quiver: 12 commits, 97 PRs
+[2025-08-18 17:30:53]   OK block/protobuf.js: 0 commits, 4 PRs
+[2025-08-18 17:30:55]   OK block/mdx-daemon-plugin: 12 commits, 5 PRs
+[2025-08-18 17:30:59]   OK block/ftl: 6 commits, 92 PRs
+[2025-08-18 17:31:01]   OK block/ftl-golang-tools: 0 commits, 24 PRs
+[2025-08-18 17:31:03]   OK block/bitcoin-treasury: 2 commits, 11 PRs
+[2025-08-18 17:31:05]   OK block/ln-invoice: 8 commits, 22 PRs
+[2025-08-18 17:31:07]   OK block/picocert: 2 commits, 3 PRs
+[2025-08-18 17:31:09]   OK block/bitcoin-augur: 5 commits, 6 PRs
+[2025-08-18 17:31:11]   OK block/etre: 0 commits, 82 PRs
+[2025-08-18 17:31:13]   OK block/bitcoin-augur-benchmarking: 5 commits, 1 PRs
+[2025-08-18 17:31:15]   OK block/blip: 6 commits, 92 PRs
+[2025-08-18 17:31:17]   OK block/finch: 2 commits, 4 PRs
+[2025-08-18 17:31:19]   OK block/goose-mobile: 2 commits, 94 PRs
+[2025-08-18 17:31:21]   OK block/homebrew-tap: 1 commits, 0 PRs
+[2025-08-18 17:31:23]   OK block/trailblaze: 12 commits, 40 PRs
+[2025-08-18 17:31:25]   OK block/xcode-index-mcp: 4 commits, 3 PRs
+[2025-08-18 17:31:27]   OK block/vscode-goose: 2 commits, 10 PRs
+[2025-08-18 17:31:27] Processing org 30/61: Western Digital (nan)
+[2025-08-18 17:31:28] Processing org 31/61: DoorDash (doordash)
+[2025-08-18 17:31:31] Processing org 32/61: Workday (workday)
+[2025-08-18 17:31:37]   OK workday/canvas-kit: 0 commits, 92 PRs
+[2025-08-18 17:31:39]   OK workday/cuestomize: 15 commits, 10 PRs
+[2025-08-18 17:31:41]   OK workday/canvas-tokens: 1 commits, 83 PRs
+[2025-08-18 17:31:43]   OK workday/canvas-tokens-studio: 0 commits, 39 PRs
+[2025-08-18 17:31:46]   OK workday/warp-core: 0 commits, 95 PRs
+[2025-08-18 17:31:46] Processing org 33/61: Marvell (marvellembeddedprocessors)
+[2025-08-18 17:31:51]   OK marvellembeddedprocessors/marvell-dpdk: 0 commits, 4 PRs
+[2025-08-18 17:31:53]   OK marvellembeddedprocessors/packages: 1 commits, 1 PRs
+[2025-08-18 17:31:55]   OK marvellembeddedprocessors/dao: 0 commits, 0 PRs
+[2025-08-18 17:31:57]   OK marvellembeddedprocessors/marvell-octeon-roc: 0 commits, 15 PRs
+[2025-08-18 17:31:59]   OK marvellembeddedprocessors/vpp: 0 commits, 33 PRs
+[2025-08-18 17:32:00]   OK marvellembeddedprocessors/pcie_ep_octeon_target: 0 commits, 3 PRs
+[2025-08-18 17:32:02]   OK marvellembeddedprocessors/marvell-openssl-engine: 4 commits, 2 PRs
+[2025-08-18 17:32:04]   OK marvellembeddedprocessors/linux-marvell: 0 commits, 1 PRs
+[2025-08-18 17:32:06]   OK marvellembeddedprocessors/marvell-dpdk-sdk: 0 commits, 0 PRs
+[2025-08-18 17:32:07]   OK marvellembeddedprocessors/pcie_ep_octeon_host: 0 commits, 0 PRs
+[2025-08-18 17:32:09]   OK marvellembeddedprocessors/marvell-firmware: 1 commits, 8 PRs
+[2025-08-18 17:32:09] Processing org 34/61: Stripe (stripe)
+[2025-08-18 17:32:15]   OK stripe/stripe-android: 0 commits, 91 PRs
+[2025-08-18 17:32:17]   OK stripe/LibreChat: 100 commits, 8 PRs
+[2025-08-18 17:32:19]   OK stripe/react-connect-js: 0 commits, 95 PRs
+[2025-08-18 17:32:22]   OK stripe/stripe-ios: 0 commits, 94 PRs
+[2025-08-18 17:32:25]   OK stripe/stripe-react-native: 0 commits, 80 PRs
+[2025-08-18 17:32:28]   OK stripe/stripe-mock: 0 commits, 100 PRs
+[2025-08-18 17:32:31]   OK stripe/openapi: 0 commits, 72 PRs
+[2025-08-18 17:32:33]   OK stripe/smokescreen: 0 commits, 81 PRs
+[2025-08-18 17:32:36]   OK stripe/stripe-terminal-react-native: 18 commits, 92 PRs
+[2025-08-18 17:32:39]   OK stripe/stripe-ruby: 0 commits, 84 PRs
+[2025-08-18 17:32:42]   OK stripe/stripe-java: 0 commits, 88 PRs
+[2025-08-18 17:32:45]   OK stripe/stripe-dotnet: 0 commits, 84 PRs
+[2025-08-18 17:32:48]   OK stripe/stripe-php: 0 commits, 87 PRs
+[2025-08-18 17:32:51]   OK stripe/stripe-python: 0 commits, 91 PRs
+[2025-08-18 17:32:55]   OK stripe/stripe-go: 0 commits, 82 PRs
+[2025-08-18 17:32:57]   OK stripe/stripe-node: 0 commits, 80 PRs
+[2025-08-18 17:33:00]   OK stripe/connect-js: 0 commits, 89 PRs
+[2025-08-18 17:33:02]   OK stripe/stripe-commercetools-connect-app: 18 commits, 16 PRs
+[2025-08-18 17:33:05]   OK stripe/react-stripe-js: 0 commits, 83 PRs
+[2025-08-18 17:33:08]   OK stripe/agent-toolkit: 3 commits, 85 PRs
+[2025-08-18 17:33:10]   OK stripe/stripe-connect-furever-demo: 0 commits, 96 PRs
+[2025-08-18 17:33:13]   OK stripe/stripe-js: 0 commits, 89 PRs
+[2025-08-18 17:33:14]   OK stripe/stripe-ios-spm: 0 commits, 1 PRs
+[2025-08-18 17:33:16]   OK stripe/salesforce-connector-examples: 1 commits, 0 PRs
+[2025-08-18 17:33:18]   OK stripe/stripe-sfcc-b2c-connector: 0 commits, 15 PRs
+[2025-08-18 17:33:20]   OK stripe/pg-schema-diff: 9 commits, 90 PRs
+[2025-08-18 17:33:23]   OK stripe/stripe-apps: 1 commits, 69 PRs
+[2025-08-18 17:33:25]   OK stripe/stripe-commercetools-checkout-app: 4 commits, 19 PRs
+[2025-08-18 17:33:27]   OK stripe/munkisrv: 3 commits, 2 PRs
+[2025-08-18 17:33:30]   OK stripe/stripe-terminal-ios: 0 commits, 87 PRs
+[2025-08-18 17:33:32]   OK stripe/terminal-connector-releases: 0 commits, 3 PRs
+[2025-08-18 17:33:34]   OK stripe/stripe-magento2-releases: 0 commits, 90 PRs
+[2025-08-18 17:33:36]   OK stripe/stripe-cli: 0 commits, 86 PRs
+[2025-08-18 17:33:39]   OK stripe/stripe-terminal-android: 0 commits, 95 PRs
+[2025-08-18 17:33:41]   OK stripe/scoop-stripe-cli: 0 commits, 2 PRs
+[2025-08-18 17:33:43]   OK stripe/homebrew-stripe-cli: 0 commits, 1 PRs
+[2025-08-18 17:33:44]   OK stripe/ft3: 0 commits, 0 PRs
+[2025-08-18 17:33:47]   OK stripe/subprocess: 0 commits, 40 PRs
+[2025-08-18 17:33:49]   OK stripe/example-terminal-backend: 0 commits, 46 PRs
+[2025-08-18 17:33:51]   OK stripe/terminal-js: 0 commits, 82 PRs
+[2025-08-18 17:33:52] Processing org 35/61: Pinterest (pinterest)
+[2025-08-18 17:33:57]   OK pinterest/thriftcheck: 16 commits, 97 PRs
+[2025-08-18 17:33:59]   OK pinterest/ws-gtm-template: 4 commits, 0 PRs
+[2025-08-18 17:34:01]   OK pinterest/mojito: 0 commits, 97 PRs
+[2025-08-18 17:34:03]   OK pinterest/gprofiler: 0 commits, 13 PRs
+[2025-08-18 17:34:06]   OK pinterest/teletraan: 0 commits, 86 PRs
+[2025-08-18 17:34:09]   OK pinterest/singer: 0 commits, 93 PRs
+[2025-08-18 17:34:12]   OK pinterest/PINRemoteImage: 0 commits, 80 PRs
+[2025-08-18 17:34:14]   OK pinterest/PINOperation: 0 commits, 33 PRs
+[2025-08-18 17:34:17]   OK pinterest/PINCache: 0 commits, 84 PRs
+[2025-08-18 17:34:19]   OK pinterest/PINFuture: 0 commits, 26 PRs
+[2025-08-18 17:34:22]   OK pinterest/ktlint: 0 commits, 97 PRs
+[2025-08-18 17:34:25]   OK pinterest/orion: 0 commits, 88 PRs
+[2025-08-18 17:34:28]   OK pinterest/pinterest-python-sdk: 1 commits, 72 PRs
+[2025-08-18 17:34:30]   OK pinterest/typespec: 47 commits, 22 PRs
+[2025-08-18 17:34:32]   OK pinterest/api-description: 4 commits, 25 PRs
+[2025-08-18 17:34:34]   OK pinterest/memq: 10 commits, 20 PRs
+[2025-08-18 17:34:37]   OK pinterest/superset: 0 commits, 71 PRs
+[2025-08-18 17:34:38]   OK pinterest/gprofiler-performance-studio: 0 commits, 6 PRs
+[2025-08-18 17:34:40]   OK pinterest/tiered-storage: 1 commits, 27 PRs
+[2025-08-18 17:34:42]   OK pinterest/alloy: 0 commits, 0 PRs
+[2025-08-18 17:34:44]   OK pinterest/psc: 7 commits, 71 PRs
+[2025-08-18 17:34:47]   OK pinterest/gestalt: 0 commits, 81 PRs
+[2025-08-18 17:34:49]   OK pinterest/starrocks: 0 commits, 42 PRs
+[2025-08-18 17:34:51]   OK pinterest/atg-research: 10 commits, 6 PRs
+[2025-08-18 17:34:53]   OK pinterest/terraform-aws-eks: 0 commits, 10 PRs
+[2025-08-18 17:34:55]   OK pinterest/ray: 0 commits, 25 PRs
+[2025-08-18 17:34:55] Processing org 36/61: Snowflake (snowflakedb)
+[2025-08-18 17:35:02]   OK snowflakedb/gosnowflake: 0 commits, 61 PRs
+[2025-08-18 17:35:05]   OK snowflakedb/snowflake-cli: 21 commits, 72 PRs
+[2025-08-18 17:35:09]   OK snowflakedb/snowflake-jdbc: 0 commits, 83 PRs
+[2025-08-18 17:35:13]   OK snowflakedb/snowflake-connector-python: 32 commits, 82 PRs
+[2025-08-18 17:35:17]   OK snowflakedb/snowpark-python: 73 commits, 91 PRs
+[2025-08-18 17:35:19]   OK snowflakedb/snowflake-cli-templates: 0 commits, 24 PRs
+[2025-08-18 17:35:23]   OK snowflakedb/snowflake-connector-nodejs: 0 commits, 72 PRs
+[2025-08-18 17:35:27]   OK snowflakedb/snowflake-connector-net: 0 commits, 87 PRs
+[2025-08-18 17:35:29]   OK snowflakedb/homebrew-snowflake-cli: 1 commits, 56 PRs
+[2025-08-18 17:35:31]   OK snowflakedb/snowflake-cli-action: 0 commits, 30 PRs
+[2025-08-18 17:35:34]   OK snowflakedb/spark-snowflake: 0 commits, 61 PRs
+[2025-08-18 17:35:36] Rate limit hit, stopping collection
+[2025-08-18 17:35:36] Error getting metrics for snowflakedb/libsnowflakeclient: Rate limit exceeded
+[2025-08-18 17:35:36] Rate limit reached. Waiting 1 hour before retrying...
+[2025-08-18 18:35:36] Resuming collection after 1 hour wait
+[2025-08-18 18:35:39]   OK snowflakedb/libsnowflakeclient: 0 commits, 81 PRs
+[2025-08-18 18:35:42]   OK snowflakedb/snowflake-ingest-java: 0 commits, 69 PRs
+[2025-08-18 18:35:44]   OK snowflakedb/snowpark-java-scala: 5 commits, 94 PRs
+[2025-08-18 18:35:47]   OK snowflakedb/terraform-provider-snowflake: 48 commits, 93 PRs
+[2025-08-18 18:35:49]   OK snowflakedb/ArcticInference: 9 commits, 91 PRs
+[2025-08-18 18:35:52]   OK snowflakedb/snowflake-kafka-connector: 0 commits, 81 PRs
+[2025-08-18 18:35:55]   OK snowflakedb/pdo_snowflake: 0 commits, 93 PRs
+[2025-08-18 18:35:57]   OK snowflakedb/snowflake-ml-python: 3 commits, 74 PRs
+[2025-08-18 18:35:58]   OK snowflakedb/ec2-plugin: 0 commits, 4 PRs
+[2025-08-18 18:36:01]   OK snowflakedb/ArcticTraining: 9 commits, 95 PRs
+[2025-08-18 18:36:03]   OK snowflakedb/snowpark-checkpoints: 2 commits, 88 PRs
+[2025-08-18 18:36:04]   OK snowflakedb/PowerPlatformConnectors: 0 commits, 8 PRs
+[2025-08-18 18:36:06]   OK snowflakedb/snowflake-telemetry-python: 5 commits, 55 PRs
+[2025-08-18 18:36:10]   OK snowflakedb/snowflake-sqlalchemy: 1 commits, 68 PRs
+[2025-08-18 18:36:12]   OK snowflakedb/reusable-workflows: 4 commits, 3 PRs
+[2025-08-18 18:36:12] Processing org 37/61: HSBC (hsbc)
+[2025-08-18 18:36:16]   OK hsbc/go-api-pagination: 0 commits, 53 PRs
+[2025-08-18 18:36:18]   OK hsbc/jdbc-inquirer: 0 commits, 23 PRs
+[2025-08-18 18:36:19]   OK hsbc/bqtools: 0 commits, 19 PRs
+[2025-08-18 18:36:21]   OK hsbc/encryption-helper-python: 0 commits, 36 PRs
+[2025-08-18 18:36:23]   OK hsbc/cost-manager: 0 commits, 42 PRs
+[2025-08-18 18:36:23] Processing org 38/61: London Stock Exchange Group (lseg)
+[2025-08-18 18:36:25] Processing org 39/61: Barclays (barclays)
+[2025-08-18 18:36:27] Processing org 40/61: Lloyds Banking Group (lloyds-banking-group)
+[2025-08-18 18:36:28] Processing org 41/61: NatWest Group (nan)
+[2025-08-18 18:36:29] Processing org 42/61: Standard Chartered (standard-chartered)
+[2025-08-18 18:36:30] Processing org 43/61: Hargreaves Lansdown (nan)
+[2025-08-18 18:36:31] Processing org 44/61: AstraZeneca (astrazeneca)
+[2025-08-18 18:36:36]   OK astrazeneca/jazzy: 0 commits, 14 PRs
+[2025-08-18 18:36:39]   OK astrazeneca/runnable: 2 commits, 93 PRs
+[2025-08-18 18:36:40]   OK astrazeneca/persist-seq-galaxy-tools-setup: 0 commits, 12 PRs
+[2025-08-18 18:36:42]   OK astrazeneca/cellatria: 57 commits, 0 PRs
+[2025-08-18 18:36:44]   OK astrazeneca/maraca: 0 commits, 68 PRs
+[2025-08-18 18:36:45]   OK astrazeneca/multimodal-python-course: 1 commits, 0 PRs
+[2025-08-18 18:36:47]   OK astrazeneca/peptide-tools: 0 commits, 2 PRs
+[2025-08-18 18:36:49]   OK astrazeneca/ToPModel: 1 commits, 0 PRs
+[2025-08-18 18:36:49] Processing org 45/61: AstraZeneca (astrazeneca-ngs)
+[2025-08-18 18:36:51] Processing org 46/61: GlaxoSmithKline (gsk)
+[2025-08-18 18:36:52] Processing org 47/61: AVEVA (aveva)
+[2025-08-18 18:36:57]   OK aveva/CONNECT-data-services-developer-docs: 12 commits, 94 PRs
+[2025-08-18 18:36:59]   OK aveva/.github: 2 commits, 21 PRs
+[2025-08-18 18:37:01]   OK aveva/sample-adh-time_series-python: 1 commits, 31 PRs
+[2025-08-18 18:37:04]   OK aveva/sample-adh-sample_libraries-python: 2 commits, 46 PRs
+[2025-08-18 18:37:06]   OK aveva/sample-adh-grafana_backend_plugin-datasource: 0 commits, 10 PRs
+[2025-08-18 18:37:07] Processing org 48/61: Ocado Group (ocadotechnology)
+[2025-08-18 18:37:12]   OK ocadotechnology/codeforlife-portal: 0 commits, 93 PRs
+[2025-08-18 18:37:15]   OK ocadotechnology/codeforlife-workspace: 100 commits, 77 PRs
+[2025-08-18 18:37:17]   OK ocadotechnology/rapid-router: 0 commits, 87 PRs
+[2025-08-18 18:37:19]   OK ocadotechnology/cmq: 4 commits, 26 PRs
+[2025-08-18 18:37:21]   OK ocadotechnology/codeforlife-portal-backend: 4 commits, 96 PRs
+[2025-08-18 18:37:23]   OK ocadotechnology/codeforlife-sso-backend: 3 commits, 17 PRs
+[2025-08-18 18:37:25]   OK ocadotechnology/codeforlife-sso-frontend: 3 commits, 1 PRs
+[2025-08-18 18:37:27]   OK ocadotechnology/codeforlife-package-python: 5 commits, 100 PRs
+[2025-08-18 18:37:28]   OK ocadotechnology/codeforlife-contributor-frontend: 7 commits, 7 PRs
+[2025-08-18 18:37:31]   OK ocadotechnology/codeforlife-package-javascript: 8 commits, 80 PRs
+[2025-08-18 18:37:33]   OK ocadotechnology/codeforlife-deploy-appengine: 0 commits, 95 PRs
+[2025-08-18 18:37:34]   OK ocadotechnology/codeforlife-rapid-router-frontend: 3 commits, 0 PRs
+[2025-08-18 18:37:36]   OK ocadotechnology/codeforlife-portal-frontend: 1 commits, 47 PRs
+[2025-08-18 18:37:38]   OK ocadotechnology/codeforlife-template-frontend: 3 commits, 1 PRs
+[2025-08-18 18:37:40]   OK ocadotechnology/Ocava: 0 commits, 3 PRs
+[2025-08-18 18:37:42]   OK ocadotechnology/pass4s: 1 commits, 31 PRs
+[2025-08-18 18:37:44]   OK ocadotechnology/codeforlife-rapid-router-backend: 1 commits, 0 PRs
+[2025-08-18 18:37:45]   OK ocadotechnology/codeforlife-scheduler-backend: 2 commits, 2 PRs
+[2025-08-18 18:37:47]   OK ocadotechnology/codeforlife-template-backend: 1 commits, 13 PRs
+[2025-08-18 18:37:49]   OK ocadotechnology/test-arranger: 0 commits, 39 PRs
+[2025-08-18 18:37:49] Processing org 49/61: Auto Trader Group (autotraderuk)
+[2025-08-18 18:37:54]   OK autotraderuk/Flowise: 0 commits, 0 PRs
+[2025-08-18 18:37:56]   OK autotraderuk/traverson4j: 0 commits, 34 PRs
+[2025-08-18 18:37:56] Processing org 50/61: Rightmove (rightmove)
+[2025-08-18 18:37:58] Processing org 51/61: Just Eat Takeaway.com (justeattakeaway)
+[2025-08-18 18:38:02]   OK justeattakeaway/pie-aperture: 3 commits, 29 PRs
+[2025-08-18 18:38:05]   OK justeattakeaway/pie: 42 commits, 91 PRs
+[2025-08-18 18:38:07]   OK justeattakeaway/LocalSqsSnsMessaging: 8 commits, 81 PRs
+[2025-08-18 18:38:09]   OK justeattakeaway/AwsWatchman: 4 commits, 100 PRs
+[2025-08-18 18:38:13]   OK justeattakeaway/JustSaying: 13 commits, 87 PRs
+[2025-08-18 18:38:16]   OK justeattakeaway/ApplePayJSSample: 3 commits, 97 PRs
+[2025-08-18 18:38:19]   OK justeattakeaway/JustEat.StatsD: 4 commits, 99 PRs
+[2025-08-18 18:38:22]   OK justeattakeaway/httpclient-interception: 5 commits, 100 PRs
+[2025-08-18 18:38:24]   OK justeattakeaway/pie-iconography: 2 commits, 32 PRs
+[2025-08-18 18:38:24] Processing org 52/61: Just Eat Takeaway.com (justeat)
+[2025-08-18 18:38:26] Processing org 53/61: RELX (nan)
+[2025-08-18 18:38:27] Processing org 54/61: Experian (experianplc)
+[2025-08-18 18:38:30]   OK experianplc/Experian-Address-Validation: 0 commits, 34 PRs
+[2025-08-18 18:38:32]   OK experianplc/edq-data-validation-sdks: 3 commits, 22 PRs
+[2025-08-18 18:38:32] Processing org 55/61: BAE Systems (baesystemsdigital)
+[2025-08-18 18:38:34] Processing org 56/61: Rolls-Royce (rolls-royce)
+[2025-08-18 18:38:35] Processing org 57/61: Rolls-Royce (rropen)
+[2025-08-18 18:38:39]   OK rropen/absense-planner: 0 commits, 90 PRs
+[2025-08-18 18:38:41]   OK rropen/terraform-provider-cscdm: 10 commits, 3 PRs
+[2025-08-18 18:38:42]   OK rropen/provider-cscdm: 2 commits, 0 PRs
+[2025-08-18 18:38:44]   OK rropen/.github: 0 commits, 0 PRs
+[2025-08-18 18:38:44] Processing org 58/61: National Grid (national-grid)
+[2025-08-18 18:38:45] Processing org 59/61: SSE (nan)
+[2025-08-18 18:38:46] Processing org 60/61: Pearson (pearsondevelopersnetwork)
+[2025-08-18 18:38:48] Processing org 61/61: WPP (nan)
+[2025-08-18 18:38:48] Collection completed! Processed 360 repositories

@@ -43,30 +43,33 @@ class SimpleMergeRateCollector:
         if not os.path.exists(self.output_file):
             with open(self.output_file, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
-                writer.writerow(['org', 'repo', 'hyperlink', '30d_merge_rate'])
+                writer.writerow(['org', 'repo', 'hyperlink', 'commits_last_30d', 'PRs_closed_30d'])
     
-    def get_merge_count(self, owner: str, repo: str) -> int:
+    def get_repo_metrics(self, owner: str, repo: str) -> tuple[int, int]:
         """
-        Get merge count for repository in last 30 days.
+        Get repository health metrics for last 30 days.
         
         Args:
             owner: Repository owner
             repo: Repository name
             
         Returns:
-            Number of merges to main branch in last 30 days
+            Tuple of (commits_last_30d, PRs_closed_30d)
         """
+        commits_count = 0
+        prs_closed_count = 0
+        
         try:
             # Get commits to main branch since start_date
-            url = f"{self.base_url}/repos/{owner}/{repo}/commits"
-            params = {
+            commits_url = f"{self.base_url}/repos/{owner}/{repo}/commits"
+            commits_params = {
                 'sha': 'main',
                 'since': self.start_date.isoformat(),
                 'per_page': 100
             }
             
             # Try main branch first
-            response = requests.get(url, headers=self.headers, params=params)
+            response = requests.get(commits_url, headers=self.headers, params=commits_params)
             
             # Handle rate limiting
             if response.status_code == 403 and 'rate limit' in response.text.lower():
@@ -74,27 +77,40 @@ class SimpleMergeRateCollector:
                 raise Exception("Rate limit exceeded")
             
             if response.status_code == 409:  # Branch doesn't exist, try master
-                params['sha'] = 'master'
-                response = requests.get(url, headers=self.headers, params=params)
+                commits_params['sha'] = 'master'
+                response = requests.get(commits_url, headers=self.headers, params=commits_params)
             
-            if response.status_code != 200:
-                return 0
+            if response.status_code == 200:
+                commits = response.json()
+                commits_count = len(commits)  # Count all commits, not just merges
             
-            commits = response.json()
+            # Get closed PRs in last 30 days
+            prs_url = f"{self.base_url}/repos/{owner}/{repo}/pulls"
+            prs_params = {
+                'state': 'closed',
+                'since': self.start_date.isoformat(),
+                'per_page': 100
+            }
             
-            # Count merge commits (have more than 1 parent)
-            merge_count = 0
-            for commit in commits:
-                if len(commit.get('parents', [])) > 1:
-                    merge_count += 1
+            response = requests.get(prs_url, headers=self.headers, params=prs_params)
             
-            return merge_count
+            # Handle rate limiting
+            if response.status_code == 403 and 'rate limit' in response.text.lower():
+                self._log_progress("Rate limit hit, stopping collection")
+                raise Exception("Rate limit exceeded")
+            
+            if response.status_code == 200:
+                prs = response.json()
+                # Count PRs that were actually merged (not just closed)
+                prs_closed_count = len([pr for pr in prs if pr.get('merged_at')])
+            
+            return commits_count, prs_closed_count
             
         except Exception as e:
-            self._log_progress(f"Error getting merge count for {owner}/{repo}: {str(e)}")
+            self._log_progress(f"Error getting metrics for {owner}/{repo}: {str(e)}")
             if "rate limit" in str(e).lower():
                 raise
-            return 0
+            return 0, 0
     
     def _log_progress(self, message: str):
         """Log progress to file and print to console."""
@@ -143,24 +159,35 @@ class SimpleMergeRateCollector:
                     
                     self._log_progress(f"Processing {idx+1}/{len(df)}: {org}/{repo}")
                     
-                    merge_count = self.get_merge_count(org, repo)
+                    commits_count, prs_closed_count = self.get_repo_metrics(org, repo)
                     
                     # Write result to CSV
                     with open(self.output_file, 'a', newline='', encoding='utf-8') as f:
                         writer = csv.writer(f)
-                        writer.writerow([org, repo, hyperlink, merge_count])
+                        writer.writerow([org, repo, hyperlink, commits_count, prs_closed_count])
                     
-                    self._log_progress(f"✓ {org}/{repo}: {merge_count} merges in 30 days")
+                    self._log_progress(f"OK {org}/{repo}: {commits_count} commits, {prs_closed_count} PRs merged in 30 days")
                     
                     # Small delay to be respectful to API
                     time.sleep(0.1)
                     
                 except Exception as e:
                     if "rate limit" in str(e).lower():
-                        self._log_progress("Rate limit reached. Stopping collection gracefully.")
-                        break
-                    self._log_progress(f"Error processing {org}/{repo}: {str(e)}")
-                    continue
+                        self._log_progress("Rate limit reached. Waiting 1 hour before retrying...")
+                        time.sleep(3600)  # Wait 1 hour (3600 seconds)
+                        self._log_progress("Resuming collection after 1 hour wait")
+                        try:
+                            commits_count, prs_closed_count = self.get_repo_metrics(org, repo)
+                            with open(self.output_file, 'a', newline='', encoding='utf-8') as f:
+                                writer = csv.writer(f)
+                                writer.writerow([org, repo, hyperlink, commits_count, prs_closed_count])
+                            self._log_progress(f"OK {org}/{repo}: {commits_count} commits, {prs_closed_count} PRs merged in 30 days")
+                        except Exception as retry_e:
+                            self._log_progress(f"Retry failed for {org}/{repo}: {str(retry_e)}")
+                            break
+                    else:
+                        self._log_progress(f"Error processing {org}/{repo}: {str(e)}")
+                        continue
             
             self._log_progress("Collection completed successfully!")
             
@@ -209,24 +236,36 @@ class SimpleMergeRateCollector:
                                 if days_since_push > 30:
                                     continue  # Skip inactive repos
                             
-                            merge_count = self.get_merge_count(github_org, repo_name)
+                            commits_count, prs_closed_count = self.get_repo_metrics(github_org, repo_name)
                             
                             # Write result to CSV
                             with open(self.output_file, 'a', newline='', encoding='utf-8') as f:
                                 writer = csv.writer(f)
-                                writer.writerow([github_org, repo_name, hyperlink, merge_count])
+                                writer.writerow([github_org, repo_name, hyperlink, commits_count, prs_closed_count])
                             
                             total_repos_processed += 1
-                            self._log_progress(f"  ✓ {github_org}/{repo_name}: {merge_count} merges")
+                            self._log_progress(f"  OK {github_org}/{repo_name}: {commits_count} commits, {prs_closed_count} PRs")
                             
                             time.sleep(0.1)  # Rate limiting courtesy
                             
                         except Exception as e:
                             if "rate limit" in str(e).lower():
-                                self._log_progress("Rate limit reached. Stopping collection gracefully.")
-                                return
-                            self._log_progress(f"Error processing repo {repo_name}: {str(e)}")
-                            continue
+                                self._log_progress("Rate limit reached. Waiting 1 hour before retrying...")
+                                time.sleep(3600)  # Wait 1 hour
+                                self._log_progress("Resuming collection after 1 hour wait")
+                                try:
+                                    commits_count, prs_closed_count = self.get_repo_metrics(github_org, repo_name)
+                                    with open(self.output_file, 'a', newline='', encoding='utf-8') as f:
+                                        writer = csv.writer(f)
+                                        writer.writerow([github_org, repo_name, hyperlink, commits_count, prs_closed_count])
+                                    total_repos_processed += 1
+                                    self._log_progress(f"  OK {github_org}/{repo_name}: {commits_count} commits, {prs_closed_count} PRs")
+                                except Exception as retry_e:
+                                    self._log_progress(f"Retry failed for {github_org}/{repo_name}: {str(retry_e)}")
+                                    return
+                            else:
+                                self._log_progress(f"Error processing repo {repo_name}: {str(e)}")
+                                continue
                     
                 except Exception as e:
                     if "rate limit" in str(e).lower():

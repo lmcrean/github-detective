@@ -1,0 +1,10 @@
+Name,Field,Stars,Forks,Contributors,Open Issues,Open Pull Requests,Date Created,Last Active,Top Languages
+tensorflow/tensorflow,AI_and_ML,191156,74768,4908,1594,709,2015-11-07,2025-08-13,"C++ (55.9%), Python (25.6%), MLIR (6.3%), HTML (4.3%), Starlark (4.1%)"
+pytorch/pytorch,AI_and_ML,92326,24939,5817,16783,1366,2016-08-13,2025-08-13,"Python (58.9%), C++ (32.9%), Cuda (2.9%), C (1.5%), Objective-C++ (1.1%)"
+scikit-learn/scikit-learn,AI_and_ML,62994,26131,3363,2153,573,2010-08-17,2025-08-13,"Python (92.6%), Cython (5.3%), C++ (1.1%), Shell (0.3%), C (0.3%)"
+facebook/react,JavaScript,238076,49113,1939,1020,219,2013-05-24,2025-08-13,"JavaScript (66.9%), TypeScript (29.6%), HTML (1.5%), CSS (1.0%), C++ (0.6%)"
+microsoft/vscode,JavaScript,175697,34330,2786,12683,677,2015-09-03,2025-08-13,"TypeScript (95.4%), CSS (1.4%), JavaScript (1.1%), Rust (0.7%), HTML (0.5%)"
+nodejs/node,JavaScript,112689,32592,4181,2341,620,2014-11-26,2025-08-13,"JavaScript (61.9%), C++ (23.2%), Python (10.4%), C (2.8%), HTML (0.7%)"
+python/cpython,Python,68342,32557,3445,9280,2029,2017-02-10,2025-08-13,"Python (62.0%), C (35.9%), C++ (0.8%), M4 (0.4%), HTML (0.3%)"
+pallets/flask,Python,70160,16520,851,16,10,2010-04-06,2025-06-12,"Python (99.9%), HTML (0.1%), Shell (0.0%), CSS (0.0%)"
+django/django,Python,84564,32789,3305,355,349,2012-04-28,2025-08-13,"Python (97.2%), Jinja (1.4%), JavaScript (0.9%), CSS (0.5%), Smarty (0.0%)"

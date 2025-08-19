@@ -35,9 +35,9 @@ ENV/
 *.swp
 *.swo
 
-# Data files
-data/output/*.csv
-data/output/*.json
+# Data files (commented out to include repo health results)
+# data/output/*.csv
+# data/output/*.json
 
 # Test outputs
 .pytest_cache/

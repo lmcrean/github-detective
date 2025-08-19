@@ -2215,3 +2215,2229 @@
 [2025-08-18 17:17:39] Processing 1112/1106: microsoft/hands-on-lab-redis
 [2025-08-18 17:17:40] OK microsoft/hands-on-lab-redis: 0 merges in 30 days
 [2025-08-18 17:17:40] Collection completed successfully!
+[2025-08-18 17:24:02] === Starting Microsoft Repo Health Collection ===
+[2025-08-18 17:24:02] Collecting: commits_last_30d + PRs_closed_30d
+[2025-08-18 17:24:02] Input file: data/repos/batch_Aug_18/big_three_recent_commits.csv
+[2025-08-18 17:24:02] Output file: data/output/repo_health_microsoft.csv
+[2025-08-18 17:24:02] Starting collection for 1106 repositories from company Microsoft
+[2025-08-18 17:24:02] Processing 1/1106: microsoft/mcp-for-beginners
+[2025-08-18 17:24:05] OK microsoft/mcp-for-beginners: 100 commits, 92 PRs merged in 30 days
+[2025-08-18 17:24:05] Processing 2/1106: microsoft/winget-pkgs
+[2025-08-18 17:24:09] OK microsoft/winget-pkgs: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 17:24:09] Processing 3/1106: microsoft/fluentui
+[2025-08-18 17:24:12] OK microsoft/fluentui: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:24:12] Processing 4/1106: microsoft/mcsmcp
+[2025-08-18 17:24:14] OK microsoft/mcsmcp: 3 commits, 2 PRs merged in 30 days
+[2025-08-18 17:24:15] Processing 5/1106: microsoft/vscode
+[2025-08-18 17:24:18] OK microsoft/vscode: 100 commits, 89 PRs merged in 30 days
+[2025-08-18 17:24:18] Processing 6/1106: microsoft/generative-ai-for-beginners
+[2025-08-18 17:24:21] OK microsoft/generative-ai-for-beginners: 11 commits, 43 PRs merged in 30 days
+[2025-08-18 17:24:21] Processing 7/1106: microsoft/PowerToys
+[2025-08-18 17:24:24] OK microsoft/PowerToys: 80 commits, 91 PRs merged in 30 days
+[2025-08-18 17:24:24] Processing 8/1106: microsoft/TypeScript
+[2025-08-18 17:24:27] OK microsoft/TypeScript: 13 commits, 59 PRs merged in 30 days
+[2025-08-18 17:24:27] Processing 9/1106: microsoft/vscode-anycode
+[2025-08-18 17:24:30] OK microsoft/vscode-anycode: 15 commits, 73 PRs merged in 30 days
+[2025-08-18 17:24:31] Processing 10/1106: microsoft/magentic-ui
+[2025-08-18 17:24:33] OK microsoft/magentic-ui: 15 commits, 67 PRs merged in 30 days
+[2025-08-18 17:24:33] Processing 11/1106: microsoft/azure-devops-mcp
+[2025-08-18 17:24:37] OK microsoft/azure-devops-mcp: 48 commits, 78 PRs merged in 30 days
+[2025-08-18 17:24:38] Processing 12/1106: microsoft/playwright-mcp
+[2025-08-18 17:24:41] OK microsoft/playwright-mcp: 86 commits, 77 PRs merged in 30 days
+[2025-08-18 17:24:41] Processing 13/1106: microsoft/confidential-aci-testing
+[2025-08-18 17:24:44] OK microsoft/confidential-aci-testing: 5 commits, 77 PRs merged in 30 days
+[2025-08-18 17:24:44] Processing 14/1106: microsoft/RIFT
+[2025-08-18 17:24:46] OK microsoft/RIFT: 4 commits, 2 PRs merged in 30 days
+[2025-08-18 17:24:46] Processing 15/1106: microsoft/ai-agents-for-beginners
+[2025-08-18 17:24:50] OK microsoft/ai-agents-for-beginners: 14 commits, 73 PRs merged in 30 days
+[2025-08-18 17:24:50] Processing 16/1106: microsoft/semantic-kernel
+[2025-08-18 17:24:53] OK microsoft/semantic-kernel: 58 commits, 94 PRs merged in 30 days
+[2025-08-18 17:24:53] Processing 17/1106: microsoft/terminal
+[2025-08-18 17:24:56] OK microsoft/terminal: 36 commits, 80 PRs merged in 30 days
+[2025-08-18 17:24:56] Processing 18/1106: microsoft/edit
+[2025-08-18 17:25:00] OK microsoft/edit: 10 commits, 65 PRs merged in 30 days
+[2025-08-18 17:25:00] Processing 19/1106: microsoft/playwright
+[2025-08-18 17:25:03] OK microsoft/playwright: 100 commits, 83 PRs merged in 30 days
+[2025-08-18 17:25:03] Processing 20/1106: microsoft/rnx-kit
+[2025-08-18 17:25:06] OK microsoft/rnx-kit: 72 commits, 95 PRs merged in 30 days
+[2025-08-18 17:25:06] Processing 21/1106: microsoft/vscode-copilot-chat
+[2025-08-18 17:25:10] OK microsoft/vscode-copilot-chat: 100 commits, 94 PRs merged in 30 days
+[2025-08-18 17:25:11] Processing 22/1106: microsoft/AI-For-Beginners
+[2025-08-18 17:25:14] OK microsoft/AI-For-Beginners: 3 commits, 59 PRs merged in 30 days
+[2025-08-18 17:25:14] Processing 23/1106: microsoft/markitdown
+[2025-08-18 17:25:17] OK microsoft/markitdown: 0 commits, 71 PRs merged in 30 days
+[2025-08-18 17:25:18] Processing 24/1106: microsoft/Web-Dev-For-Beginners
+[2025-08-18 17:25:21] OK microsoft/Web-Dev-For-Beginners: 3 commits, 46 PRs merged in 30 days
+[2025-08-18 17:25:21] Processing 25/1106: microsoft/playwright-python
+[2025-08-18 17:25:24] OK microsoft/playwright-python: 13 commits, 88 PRs merged in 30 days
+[2025-08-18 17:25:24] Processing 26/1106: microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+[2025-08-18 17:25:27] OK microsoft/Mastering-GitHub-Copilot-for-Paired-Programming: 59 commits, 35 PRs merged in 30 days
+[2025-08-18 17:25:27] Processing 27/1106: microsoft/planetary-computer-tasks
+[2025-08-18 17:25:29] OK microsoft/planetary-computer-tasks: 9 commits, 97 PRs merged in 30 days
+[2025-08-18 17:25:30] Processing 28/1106: microsoft/playwright-dotnet
+[2025-08-18 17:25:33] OK microsoft/playwright-dotnet: 20 commits, 90 PRs merged in 30 days
+[2025-08-18 17:25:33] Processing 29/1106: microsoft/playwright-java
+[2025-08-18 17:25:36] OK microsoft/playwright-java: 4 commits, 89 PRs merged in 30 days
+[2025-08-18 17:25:36] Processing 30/1106: microsoft/poml
+[2025-08-18 17:25:38] OK microsoft/poml: 36 commits, 72 PRs merged in 30 days
+[2025-08-18 17:25:38] Processing 31/1106: microsoft/playwright-pytest
+[2025-08-18 17:25:41] OK microsoft/playwright-pytest: 2 commits, 88 PRs merged in 30 days
+[2025-08-18 17:25:41] Processing 32/1106: microsoft/TimeCraft
+[2025-08-18 17:25:43] OK microsoft/TimeCraft: 3 commits, 11 PRs merged in 30 days
+[2025-08-18 17:25:43] Processing 33/1106: microsoft/winget-cli
+[2025-08-18 17:25:47] OK microsoft/winget-cli: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 17:25:47] Processing 34/1106: microsoft/playwright-vscode
+[2025-08-18 17:25:49] OK microsoft/playwright-vscode: 11 commits, 77 PRs merged in 30 days
+[2025-08-18 17:25:49] Processing 35/1106: microsoft/Security-101
+[2025-08-18 17:25:52] OK microsoft/Security-101: 2 commits, 15 PRs merged in 30 days
+[2025-08-18 17:25:52] Processing 36/1106: microsoft/clrmd
+[2025-08-18 17:25:55] OK microsoft/clrmd: 6 commits, 93 PRs merged in 30 days
+[2025-08-18 17:25:55] Processing 37/1106: microsoft/RD-Agent
+[2025-08-18 17:25:57] OK microsoft/RD-Agent: 78 commits, 92 PRs merged in 30 days
+[2025-08-18 17:25:58] Processing 38/1106: microsoft/vscode-docs
+[2025-08-18 17:26:01] OK microsoft/vscode-docs: 100 commits, 80 PRs merged in 30 days
+[2025-08-18 17:26:01] Processing 39/1106: microsoft/qlib
+[2025-08-18 17:26:04] OK microsoft/qlib: 4 commits, 62 PRs merged in 30 days
+[2025-08-18 17:26:04] Processing 40/1106: microsoft/react-native-windows
+[2025-08-18 17:26:10] OK microsoft/react-native-windows: 60 commits, 77 PRs merged in 30 days
+[2025-08-18 17:26:10] Processing 41/1106: microsoft/scitt-ccf-ledger
+[2025-08-18 17:26:12] OK microsoft/scitt-ccf-ledger: 4 commits, 86 PRs merged in 30 days
+[2025-08-18 17:26:12] Processing 42/1106: microsoft/autogen
+[2025-08-18 17:26:16] OK microsoft/autogen: 30 commits, 76 PRs merged in 30 days
+[2025-08-18 17:26:16] Processing 43/1106: microsoft/AI-Red-Teaming-Playground-Labs
+[2025-08-18 17:26:18] OK microsoft/AI-Red-Teaming-Playground-Labs: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 17:26:18] Processing 44/1106: microsoft/mssql-python
+[2025-08-18 17:26:21] OK microsoft/mssql-python: 12 commits, 78 PRs merged in 30 days
+[2025-08-18 17:26:21] Processing 45/1106: microsoft/presidio
+[2025-08-18 17:26:24] OK microsoft/presidio: 17 commits, 78 PRs merged in 30 days
+[2025-08-18 17:26:24] Processing 46/1106: microsoft/clarity-apps
+[2025-08-18 17:26:27] OK microsoft/clarity-apps: 7 commits, 12 PRs merged in 30 days
+[2025-08-18 17:26:27] Processing 47/1106: microsoft/WindowsAppSDK
+[2025-08-18 17:26:31] OK microsoft/WindowsAppSDK: 22 commits, 92 PRs merged in 30 days
+[2025-08-18 17:26:31] Processing 48/1106: microsoft/go
+[2025-08-18 17:26:34] OK microsoft/go: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:26:34] Processing 49/1106: microsoft/JARVIS
+[2025-08-18 17:26:37] OK microsoft/JARVIS: 2 commits, 23 PRs merged in 30 days
+[2025-08-18 17:26:37] Processing 50/1106: microsoft/data-formulator
+[2025-08-18 17:26:40] OK microsoft/data-formulator: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:26:40] Processing 51/1106: microsoft/ML-For-Beginners
+[2025-08-18 17:26:43] OK microsoft/ML-For-Beginners: 2 commits, 22 PRs merged in 30 days
+[2025-08-18 17:26:44] Processing 52/1106: microsoft/DirectML
+[2025-08-18 17:26:47] OK microsoft/DirectML: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:26:47] Processing 53/1106: microsoft/windows-rs
+[2025-08-18 17:26:49] OK microsoft/windows-rs: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:26:50] Processing 54/1106: microsoft/opensource.microsoft.com
+[2025-08-18 17:26:53] OK microsoft/opensource.microsoft.com: 63 commits, 89 PRs merged in 30 days
+[2025-08-18 17:26:53] Processing 55/1106: microsoft/vs-streamjsonrpc
+[2025-08-18 17:26:57] OK microsoft/vs-streamjsonrpc: 65 commits, 68 PRs merged in 30 days
+[2025-08-18 17:26:57] Processing 56/1106: microsoft/microsoft-ui-xaml
+[2025-08-18 17:27:01] OK microsoft/microsoft-ui-xaml: 2 commits, 75 PRs merged in 30 days
+[2025-08-18 17:27:01] Processing 57/1106: microsoft/windows-ai-studio-templates
+[2025-08-18 17:27:04] OK microsoft/windows-ai-studio-templates: 55 commits, 87 PRs merged in 30 days
+[2025-08-18 17:27:04] Processing 58/1106: microsoft/mu_common_intel_min_platform
+[2025-08-18 17:27:07] OK microsoft/mu_common_intel_min_platform: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:27:07] Processing 59/1106: microsoft/terraform-provider-msgraph
+[2025-08-18 17:27:09] OK microsoft/terraform-provider-msgraph: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 17:27:09] Processing 60/1106: microsoft/mu_plus
+[2025-08-18 17:27:12] OK microsoft/mu_plus: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 17:27:13] Processing 61/1106: microsoft/ai-dev-gallery
+[2025-08-18 17:27:15] OK microsoft/ai-dev-gallery: 39 commits, 95 PRs merged in 30 days
+[2025-08-18 17:27:15] Processing 62/1106: microsoft/mu_tiano_plus
+[2025-08-18 17:27:18] OK microsoft/mu_tiano_plus: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:27:18] Processing 63/1106: microsoft/mu_basecore
+[2025-08-18 17:27:21] OK microsoft/mu_basecore: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:27:21] Processing 64/1106: microsoft/onnxruntime
+[2025-08-18 17:27:24] OK microsoft/onnxruntime: 100 commits, 88 PRs merged in 30 days
+[2025-08-18 17:27:24] Processing 65/1106: microsoft/mastering-github-copilot-for-dotnet-csharp-developers
+[2025-08-18 17:27:26] OK microsoft/mastering-github-copilot-for-dotnet-csharp-developers: 3 commits, 13 PRs merged in 30 days
+[2025-08-18 17:27:26] Processing 66/1106: microsoft/CCF
+[2025-08-18 17:27:29] OK microsoft/CCF: 52 commits, 95 PRs merged in 30 days
+[2025-08-18 17:27:30] Processing 67/1106: microsoft/inshellisense
+[2025-08-18 17:27:32] OK microsoft/inshellisense: 12 commits, 97 PRs merged in 30 days
+[2025-08-18 17:27:32] Processing 68/1106: microsoft/CSS-Exchange
+[2025-08-18 17:27:36] OK microsoft/CSS-Exchange: 41 commits, 97 PRs merged in 30 days
+[2025-08-18 17:27:36] Processing 69/1106: microsoft/Microsoft365DSC
+[2025-08-18 17:27:38] OK microsoft/Microsoft365DSC: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 17:27:39] Processing 70/1106: microsoft/wslg
+[2025-08-18 17:27:42] OK microsoft/wslg: 3 commits, 90 PRs merged in 30 days
+[2025-08-18 17:27:42] Processing 71/1106: microsoft/graphrag
+[2025-08-18 17:27:44] OK microsoft/graphrag: 3 commits, 71 PRs merged in 30 days
+[2025-08-18 17:27:44] Processing 72/1106: microsoft/Policy-Weaver
+[2025-08-18 17:27:47] OK microsoft/Policy-Weaver: 26 commits, 35 PRs merged in 30 days
+[2025-08-18 17:27:47] Processing 73/1106: microsoft/homebrew-git
+[2025-08-18 17:27:49] OK microsoft/homebrew-git: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:27:49] Processing 74/1106: microsoft/typescript-go
+[2025-08-18 17:27:52] OK microsoft/typescript-go: 95 commits, 89 PRs merged in 30 days
+[2025-08-18 17:27:52] Processing 75/1106: microsoft/react-native-test-app
+[2025-08-18 17:27:55] OK microsoft/react-native-test-app: 0 commits, 99 PRs merged in 30 days
+[2025-08-18 17:27:55] Processing 76/1106: microsoft/xdp-for-windows
+[2025-08-18 17:27:58] OK microsoft/xdp-for-windows: 4 commits, 94 PRs merged in 30 days
+[2025-08-18 17:27:58] Processing 77/1106: microsoft/OpenAPI.NET
+[2025-08-18 17:28:02] OK microsoft/OpenAPI.NET: 25 commits, 87 PRs merged in 30 days
+[2025-08-18 17:28:02] Processing 78/1106: microsoft/wassette
+[2025-08-18 17:28:07] OK microsoft/wassette: 100 commits, 86 PRs merged in 30 days
+[2025-08-18 17:28:07] Processing 79/1106: microsoft/Generative-AI-for-beginners-java
+[2025-08-18 17:28:09] OK microsoft/Generative-AI-for-beginners-java: 100 commits, 22 PRs merged in 30 days
+[2025-08-18 17:28:09] Processing 80/1106: microsoft/agent-lightning
+[2025-08-18 17:28:12] OK microsoft/agent-lightning: 29 commits, 32 PRs merged in 30 days
+[2025-08-18 17:28:12] Processing 81/1106: microsoft/genaiscript
+[2025-08-18 17:28:15] OK microsoft/genaiscript: 0 commits, 52 PRs merged in 30 days
+[2025-08-18 17:28:15] Processing 82/1106: microsoft/fluentui-contrib
+[2025-08-18 17:28:18] OK microsoft/fluentui-contrib: 18 commits, 44 PRs merged in 30 days
+[2025-08-18 17:28:18] Processing 83/1106: microsoft/documentdb
+[2025-08-18 17:28:22] OK microsoft/documentdb: 82 commits, 56 PRs merged in 30 days
+[2025-08-18 17:28:22] Processing 84/1106: microsoft/semantic-kernel-java
+[2025-08-18 17:28:24] OK microsoft/semantic-kernel-java: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 17:28:24] Processing 85/1106: microsoft/UFO
+[2025-08-18 17:28:27] OK microsoft/UFO: 4 commits, 93 PRs merged in 30 days
+[2025-08-18 17:28:27] Processing 86/1106: microsoft/go-mssqldb
+[2025-08-18 17:28:30] OK microsoft/go-mssqldb: 1 commits, 84 PRs merged in 30 days
+[2025-08-18 17:28:30] Processing 87/1106: microsoft/vscode-commander
+[2025-08-18 17:28:33] OK microsoft/vscode-commander: 1 commits, 63 PRs merged in 30 days
+[2025-08-18 17:28:33] Processing 88/1106: microsoft/kiota
+[2025-08-18 17:28:36] OK microsoft/kiota: 100 commits, 94 PRs merged in 30 days
+[2025-08-18 17:28:37] Processing 89/1106: microsoft/MoGe
+[2025-08-18 17:28:39] OK microsoft/MoGe: 2 commits, 23 PRs merged in 30 days
+[2025-08-18 17:28:39] Processing 90/1106: microsoft/bioemu
+[2025-08-18 17:28:41] OK microsoft/bioemu: 4 commits, 72 PRs merged in 30 days
+[2025-08-18 17:28:41] Processing 91/1106: microsoft/OptiGuide
+[2025-08-18 17:28:45] OK microsoft/OptiGuide: 2 commits, 15 PRs merged in 30 days
+[2025-08-18 17:28:45] Processing 92/1106: microsoft/smtpoauth2
+[2025-08-18 17:28:47] OK microsoft/smtpoauth2: 7 commits, 1 PRs merged in 30 days
+[2025-08-18 17:28:47] Processing 93/1106: microsoft/language-server-protocol
+[2025-08-18 17:28:52] OK microsoft/language-server-protocol: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:28:52] Processing 94/1106: microsoft/AnthropomorphicIntelligence
+[2025-08-18 17:28:54] OK microsoft/AnthropomorphicIntelligence: 12 commits, 12 PRs merged in 30 days
+[2025-08-18 17:28:54] Processing 95/1106: microsoft/lets-learn-mcp-javascript
+[2025-08-18 17:28:56] OK microsoft/lets-learn-mcp-javascript: 18 commits, 4 PRs merged in 30 days
+[2025-08-18 17:28:56] Processing 96/1106: microsoft/lets-learn-mcp-python
+[2025-08-18 17:28:58] OK microsoft/lets-learn-mcp-python: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 17:28:58] Processing 97/1106: microsoft/BCApps
+[2025-08-18 17:29:01] OK microsoft/BCApps: 86 commits, 93 PRs merged in 30 days
+[2025-08-18 17:29:02] Processing 98/1106: microsoft/vcpkg
+[2025-08-18 17:29:11] OK microsoft/vcpkg: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 17:29:11] Processing 99/1106: microsoft/vscode-python-environments
+[2025-08-18 17:29:14] OK microsoft/vscode-python-environments: 27 commits, 85 PRs merged in 30 days
+[2025-08-18 17:29:14] Processing 100/1106: microsoft/navcontainerhelper
+[2025-08-18 17:29:19] OK microsoft/navcontainerhelper: 2 commits, 92 PRs merged in 30 days
+[2025-08-18 17:29:19] Processing 101/1106: microsoft/IoT-For-Beginners
+[2025-08-18 17:29:22] OK microsoft/IoT-For-Beginners: 2 commits, 83 PRs merged in 30 days
+[2025-08-18 17:29:23] Processing 102/1106: microsoft/monaco-editor
+[2025-08-18 17:29:27] OK microsoft/monaco-editor: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:29:27] Processing 103/1106: microsoft/Data-Science-For-Beginners
+[2025-08-18 17:29:30] OK microsoft/Data-Science-For-Beginners: 3 commits, 69 PRs merged in 30 days
+[2025-08-18 17:29:30] Processing 104/1106: microsoft/PowerApps-Samples
+[2025-08-18 17:29:33] OK microsoft/PowerApps-Samples: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 17:29:34] Processing 105/1106: microsoft/VbsEnclaveTooling
+[2025-08-18 17:29:36] OK microsoft/VbsEnclaveTooling: 12 commits, 91 PRs merged in 30 days
+[2025-08-18 17:29:36] Processing 106/1106: microsoft/WSL
+[2025-08-18 17:29:39] OK microsoft/WSL: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 17:29:39] Processing 107/1106: microsoft/vscode-extension-samples
+[2025-08-18 17:29:43] OK microsoft/vscode-extension-samples: 22 commits, 70 PRs merged in 30 days
+[2025-08-18 17:29:43] Processing 108/1106: microsoft/PowerAppsCodeApps
+[2025-08-18 17:29:45] OK microsoft/PowerAppsCodeApps: 19 commits, 20 PRs merged in 30 days
+[2025-08-18 17:29:45] Processing 109/1106: microsoft/fluentui-charting-contrib
+[2025-08-18 17:29:49] OK microsoft/fluentui-charting-contrib: 88 commits, 95 PRs merged in 30 days
+[2025-08-18 17:29:49] Processing 110/1106: microsoft/openaivec
+[2025-08-18 17:29:52] OK microsoft/openaivec: 100 commits, 57 PRs merged in 30 days
+[2025-08-18 17:29:52] Processing 111/1106: microsoft/WinUI-Gallery
+[2025-08-18 17:29:55] OK microsoft/WinUI-Gallery: 45 commits, 88 PRs merged in 30 days
+[2025-08-18 17:29:55] Processing 112/1106: microsoft/PowerPlatformConnectors
+[2025-08-18 17:29:59] OK microsoft/PowerPlatformConnectors: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 17:29:59] Processing 113/1106: microsoft/go-images-versions
+[2025-08-18 17:30:01] OK microsoft/go-images-versions: 15 commits, 1 PRs merged in 30 days
+[2025-08-18 17:30:01] Processing 114/1106: microsoft/AL-Go
+[2025-08-18 17:30:05] OK microsoft/AL-Go: 13 commits, 88 PRs merged in 30 days
+[2025-08-18 17:30:05] Processing 115/1106: microsoft/RetrievalAttention
+[2025-08-18 17:30:07] OK microsoft/RetrievalAttention: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:07] Processing 116/1106: microsoft/AzureLinuxVulnerabilityData
+[2025-08-18 17:30:09] OK microsoft/AzureLinuxVulnerabilityData: 30 commits, 1 PRs merged in 30 days
+[2025-08-18 17:30:09] Processing 117/1106: microsoft/TinyTroupe
+[2025-08-18 17:30:13] OK microsoft/TinyTroupe: 3 commits, 30 PRs merged in 30 days
+[2025-08-18 17:30:13] Processing 118/1106: microsoft/fluentui-system-icons
+[2025-08-18 17:30:16] OK microsoft/fluentui-system-icons: 16 commits, 92 PRs merged in 30 days
+[2025-08-18 17:30:16] Processing 119/1106: microsoft/.github
+[2025-08-18 17:30:20] OK microsoft/.github: 2 commits, 69 PRs merged in 30 days
+[2025-08-18 17:30:20] Processing 120/1106: microsoft/monosize
+[2025-08-18 17:30:23] OK microsoft/monosize: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 17:30:23] Processing 121/1106: microsoft/azure-pipelines-tasks
+[2025-08-18 17:30:26] OK microsoft/azure-pipelines-tasks: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 17:30:26] Processing 122/1106: microsoft/vscode-pull-request-github
+[2025-08-18 17:30:30] OK microsoft/vscode-pull-request-github: 100 commits, 56 PRs merged in 30 days
+[2025-08-18 17:30:30] Processing 123/1106: microsoft/VSExtensibility
+[2025-08-18 17:30:33] OK microsoft/VSExtensibility: 2 commits, 93 PRs merged in 30 days
+[2025-08-18 17:30:33] Processing 124/1106: microsoft/MSBuildCache
+[2025-08-18 17:30:35] OK microsoft/MSBuildCache: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:30:36] Processing 125/1106: microsoft/benchmark-qed
+[2025-08-18 17:30:40] OK microsoft/benchmark-qed: 2 commits, 26 PRs merged in 30 days
+[2025-08-18 17:30:40] Processing 126/1106: microsoft/Tutel
+[2025-08-18 17:30:44] OK microsoft/Tutel: 5 commits, 91 PRs merged in 30 days
+[2025-08-18 17:30:44] Processing 127/1106: microsoft/vscode-gulp-electron
+[2025-08-18 17:30:46] OK microsoft/vscode-gulp-electron: 3 commits, 20 PRs merged in 30 days
+[2025-08-18 17:30:47] Processing 128/1106: microsoft/regorus
+[2025-08-18 17:30:49] OK microsoft/regorus: 13 commits, 68 PRs merged in 30 days
+[2025-08-18 17:30:50] Processing 129/1106: microsoft/Build-your-own-copilot-Solution-Accelerator
+[2025-08-18 17:30:53] OK microsoft/Build-your-own-copilot-Solution-Accelerator: 24 commits, 91 PRs merged in 30 days
+[2025-08-18 17:30:53] Processing 130/1106: microsoft/amudai
+[2025-08-18 17:30:55] OK microsoft/amudai: 25 commits, 1 PRs merged in 30 days
+[2025-08-18 17:30:55] Processing 131/1106: microsoft/vscode-loc
+[2025-08-18 17:30:59] OK microsoft/vscode-loc: 32 commits, 97 PRs merged in 30 days
+[2025-08-18 17:30:59] Processing 132/1106: microsoft/FLAML
+[2025-08-18 17:31:03] OK microsoft/FLAML: 3 commits, 90 PRs merged in 30 days
+[2025-08-18 17:31:03] Processing 133/1106: microsoft/windows-drivers-rs
+[2025-08-18 17:31:06] OK microsoft/windows-drivers-rs: 12 commits, 49 PRs merged in 30 days
+[2025-08-18 17:31:06] Processing 134/1106: microsoft/MInference
+[2025-08-18 17:31:08] OK microsoft/MInference: 6 commits, 63 PRs merged in 30 days
+[2025-08-18 17:31:09] Processing 135/1106: microsoft/renderformer
+[2025-08-18 17:31:11] OK microsoft/renderformer: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:31:11] Processing 136/1106: microsoft/FIVE-UI-Evol
+[2025-08-18 17:31:13] OK microsoft/FIVE-UI-Evol: 3 commits, 1 PRs merged in 30 days
+[2025-08-18 17:31:13] Processing 137/1106: microsoft/vscode-atom-keybindings
+[2025-08-18 17:31:15] OK microsoft/vscode-atom-keybindings: 0 commits, 30 PRs merged in 30 days
+[2025-08-18 17:31:16] Processing 138/1106: microsoft/testfx
+[2025-08-18 17:31:19] OK microsoft/testfx: 100 commits, 98 PRs merged in 30 days
+[2025-08-18 17:31:19] Processing 139/1106: microsoft/msbuild-lab328-cea-agentssdk
+[2025-08-18 17:31:21] OK microsoft/msbuild-lab328-cea-agentssdk: 27 commits, 15 PRs merged in 30 days
+[2025-08-18 17:31:21] Processing 140/1106: microsoft/vscode-languageserver-node
+[2025-08-18 17:31:25] OK microsoft/vscode-languageserver-node: 4 commits, 94 PRs merged in 30 days
+[2025-08-18 17:31:25] Processing 141/1106: microsoft/vscode-eslint
+[2025-08-18 17:31:28] OK microsoft/vscode-eslint: 5 commits, 87 PRs merged in 30 days
+[2025-08-18 17:31:28] Processing 142/1106: microsoft/DeepVideoDiscovery
+[2025-08-18 17:31:30] OK microsoft/DeepVideoDiscovery: 8 commits, 5 PRs merged in 30 days
+[2025-08-18 17:31:30] Processing 143/1106: microsoft/LightGBM
+[2025-08-18 17:31:33] OK microsoft/LightGBM: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 17:31:33] Processing 144/1106: microsoft/promptflow
+[2025-08-18 17:31:38] OK microsoft/promptflow: 2 commits, 43 PRs merged in 30 days
+[2025-08-18 17:31:38] Processing 145/1106: microsoft/proxy
+[2025-08-18 17:31:41] OK microsoft/proxy: 12 commits, 89 PRs merged in 30 days
+[2025-08-18 17:31:41] Processing 146/1106: microsoft/TaskWeaver
+[2025-08-18 17:31:44] OK microsoft/TaskWeaver: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 17:31:44] Processing 147/1106: microsoft/playwright.dev
+[2025-08-18 17:31:48] OK microsoft/playwright.dev: 20 commits, 83 PRs merged in 30 days
+[2025-08-18 17:31:48] Processing 148/1106: microsoft/fluentui-blazor
+[2025-08-18 17:31:51] OK microsoft/fluentui-blazor: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:31:51] Processing 149/1106: microsoft/fabric-toolbox
+[2025-08-18 17:31:55] OK microsoft/fabric-toolbox: 85 commits, 83 PRs merged in 30 days
+[2025-08-18 17:31:55] Processing 150/1106: microsoft/DirectXMath
+[2025-08-18 17:31:58] OK microsoft/DirectXMath: 4 commits, 90 PRs merged in 30 days
+[2025-08-18 17:31:58] Processing 151/1106: microsoft/pyright
+[2025-08-18 17:32:01] OK microsoft/pyright: 13 commits, 77 PRs merged in 30 days
+[2025-08-18 17:32:01] Processing 152/1106: microsoft/CopilotChatAnalytics
+[2025-08-18 17:32:04] OK microsoft/CopilotChatAnalytics: 20 commits, 6 PRs merged in 30 days
+[2025-08-18 17:32:04] Processing 153/1106: microsoft/Generative-AI-for-beginners-dotnet
+[2025-08-18 17:32:08] OK microsoft/Generative-AI-for-beginners-dotnet: 72 commits, 79 PRs merged in 30 days
+[2025-08-18 17:32:08] Processing 154/1106: microsoft/DAViD
+[2025-08-18 17:32:10] OK microsoft/DAViD: 6 commits, 4 PRs merged in 30 days
+[2025-08-18 17:32:10] Processing 155/1106: microsoft/aurora
+[2025-08-18 17:32:13] OK microsoft/aurora: 18 commits, 61 PRs merged in 30 days
+[2025-08-18 17:32:13] Processing 156/1106: microsoft/semantic-link-labs
+[2025-08-18 17:32:17] OK microsoft/semantic-link-labs: 56 commits, 96 PRs merged in 30 days
+[2025-08-18 17:32:17] Processing 157/1106: microsoft/Detours
+[2025-08-18 17:32:20] OK microsoft/Detours: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:32:20] Processing 158/1106: microsoft/SeerAttention
+[2025-08-18 17:32:23] OK microsoft/SeerAttention: 0 commits, 21 PRs merged in 30 days
+[2025-08-18 17:32:23] Processing 159/1106: microsoft/AzureTRE
+[2025-08-18 17:32:26] OK microsoft/AzureTRE: 5 commits, 83 PRs merged in 30 days
+[2025-08-18 17:32:26] Processing 160/1106: microsoft/Windows-Cross-Device
+[2025-08-18 17:32:28] OK microsoft/Windows-Cross-Device: 8 commits, 12 PRs merged in 30 days
+[2025-08-18 17:32:29] Processing 161/1106: microsoft/GUI-Actor
+[2025-08-18 17:32:31] OK microsoft/GUI-Actor: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 17:32:31] Processing 162/1106: microsoft/react-native-windows-samples
+[2025-08-18 17:32:34] OK microsoft/react-native-windows-samples: 6 commits, 75 PRs merged in 30 days
+[2025-08-18 17:32:34] Processing 163/1106: microsoft/mimalloc
+[2025-08-18 17:32:38] OK microsoft/mimalloc: 0 commits, 39 PRs merged in 30 days
+[2025-08-18 17:32:38] Processing 164/1106: microsoft/rushstack
+[2025-08-18 17:32:42] OK microsoft/rushstack: 28 commits, 91 PRs merged in 30 days
+[2025-08-18 17:32:42] Processing 165/1106: microsoft/fluentui-react-native
+[2025-08-18 17:32:45] OK microsoft/fluentui-react-native: 16 commits, 76 PRs merged in 30 days
+[2025-08-18 17:32:45] Processing 166/1106: microsoft/Microsoft-Win32-Content-Prep-Tool
+[2025-08-18 17:32:47] OK microsoft/Microsoft-Win32-Content-Prep-Tool: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 17:32:47] Processing 167/1106: microsoft/mssql-django
+[2025-08-18 17:32:50] OK microsoft/mssql-django: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 17:32:51] Processing 168/1106: microsoft/fabric-rti-mcp
+[2025-08-18 17:32:53] OK microsoft/fabric-rti-mcp: 19 commits, 23 PRs merged in 30 days
+[2025-08-18 17:32:53] Processing 169/1106: microsoft/mattergen
+[2025-08-18 17:32:56] OK microsoft/mattergen: 7 commits, 42 PRs merged in 30 days
+[2025-08-18 17:32:56] Processing 170/1106: microsoft/PhiCookBook
+[2025-08-18 17:32:59] OK microsoft/PhiCookBook: 1 commits, 92 PRs merged in 30 days
+[2025-08-18 17:32:59] Processing 171/1106: microsoft/WPF-Samples
+[2025-08-18 17:33:02] OK microsoft/WPF-Samples: 1 commits, 86 PRs merged in 30 days
+[2025-08-18 17:33:02] Processing 172/1106: microsoft/component-detection
+[2025-08-18 17:33:07] OK microsoft/component-detection: 2 commits, 66 PRs merged in 30 days
+[2025-08-18 17:33:07] Processing 173/1106: microsoft/SCXcore-osskits
+[2025-08-18 17:33:09] OK microsoft/SCXcore-osskits: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 17:33:09] Processing 174/1106: microsoft/crescent-credentials
+[2025-08-18 17:33:12] OK microsoft/crescent-credentials: 3 commits, 89 PRs merged in 30 days
+[2025-08-18 17:33:12] Processing 175/1106: microsoft/TypeScript-DOM-lib-generator
+[2025-08-18 17:33:15] OK microsoft/TypeScript-DOM-lib-generator: 26 commits, 72 PRs merged in 30 days
+[2025-08-18 17:33:15] Processing 176/1106: microsoft/demikernel
+[2025-08-18 17:33:18] OK microsoft/demikernel: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 17:33:19] Processing 177/1106: microsoft/mcp-dotnet-samples
+[2025-08-18 17:33:21] OK microsoft/mcp-dotnet-samples: 32 commits, 22 PRs merged in 30 days
+[2025-08-18 17:33:21] Processing 178/1106: microsoft/dion
+[2025-08-18 17:33:23] OK microsoft/dion: 81 commits, 3 PRs merged in 30 days
+[2025-08-18 17:33:23] Processing 179/1106: microsoft/powerbi-desktop-samples
+[2025-08-18 17:33:26] OK microsoft/powerbi-desktop-samples: 1 commits, 52 PRs merged in 30 days
+[2025-08-18 17:33:26] Processing 180/1106: microsoft/PEACE
+[2025-08-18 17:33:28] OK microsoft/PEACE: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 17:33:28] Processing 181/1106: microsoft/vscode-ts-customized-language-service
+[2025-08-18 17:33:30] OK microsoft/vscode-ts-customized-language-service: 4 commits, 8 PRs merged in 30 days
+[2025-08-18 17:33:30] Processing 182/1106: microsoft/vscode-debug-value-editor
+[2025-08-18 17:33:33] OK microsoft/vscode-debug-value-editor: 5 commits, 19 PRs merged in 30 days
+[2025-08-18 17:33:33] Processing 183/1106: microsoft/vscode-ts-file-path-support
+[2025-08-18 17:33:35] OK microsoft/vscode-ts-file-path-support: 2 commits, 18 PRs merged in 30 days
+[2025-08-18 17:33:35] Processing 184/1106: microsoft/vscode-diagnostic-tools
+[2025-08-18 17:33:38] OK microsoft/vscode-diagnostic-tools: 3 commits, 28 PRs merged in 30 days
+[2025-08-18 17:33:38] Processing 185/1106: microsoft/vscode-python
+[2025-08-18 17:33:41] OK microsoft/vscode-python: 14 commits, 78 PRs merged in 30 days
+[2025-08-18 17:33:41] Processing 186/1106: microsoft/azuredatastudio
+[2025-08-18 17:33:48] OK microsoft/azuredatastudio: 10 commits, 91 PRs merged in 30 days
+[2025-08-18 17:33:48] Processing 187/1106: microsoft/Document-Knowledge-Mining-Solution-Accelerator
+[2025-08-18 17:33:51] OK microsoft/Document-Knowledge-Mining-Solution-Accelerator: 7 commits, 69 PRs merged in 30 days
+[2025-08-18 17:33:51] Processing 188/1106: microsoft/snmalloc
+[2025-08-18 17:33:54] OK microsoft/snmalloc: 2 commits, 94 PRs merged in 30 days
+[2025-08-18 17:33:54] Processing 189/1106: microsoft/mssql-jdbc
+[2025-08-18 17:33:57] OK microsoft/mssql-jdbc: 13 commits, 71 PRs merged in 30 days
+[2025-08-18 17:33:57] Processing 190/1106: microsoft/coe-starter-kit
+[2025-08-18 17:34:00] OK microsoft/coe-starter-kit: 3 commits, 87 PRs merged in 30 days
+[2025-08-18 17:34:00] Processing 191/1106: microsoft/HeurAgenix
+[2025-08-18 17:34:02] OK microsoft/HeurAgenix: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 17:34:02] Processing 192/1106: microsoft/Conversation-Knowledge-Mining-Solution-Accelerator
+[2025-08-18 17:34:06] OK microsoft/Conversation-Knowledge-Mining-Solution-Accelerator: 76 commits, 95 PRs merged in 30 days
+[2025-08-18 17:34:06] Processing 193/1106: microsoft/promptbench
+[2025-08-18 17:34:08] OK microsoft/promptbench: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 17:34:09] Processing 194/1106: microsoft/Nova
+[2025-08-18 17:34:11] OK microsoft/Nova: 7 commits, 81 PRs merged in 30 days
+[2025-08-18 17:34:12] Processing 195/1106: microsoft/triton-shared
+[2025-08-18 17:34:15] OK microsoft/triton-shared: 13 commits, 83 PRs merged in 30 days
+[2025-08-18 17:34:15] Processing 196/1106: microsoft/api-guidelines
+[2025-08-18 17:34:18] OK microsoft/api-guidelines: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 17:34:18] Processing 197/1106: microsoft/vscode-python-web-wasm
+[2025-08-18 17:34:21] OK microsoft/vscode-python-web-wasm: 4 commits, 46 PRs merged in 30 days
+[2025-08-18 17:34:21] Processing 198/1106: microsoft/fast
+[2025-08-18 17:34:24] OK microsoft/fast: 15 commits, 91 PRs merged in 30 days
+[2025-08-18 17:34:24] Processing 199/1106: microsoft/Foundry-Local
+[2025-08-18 17:34:26] OK microsoft/Foundry-Local: 3 commits, 47 PRs merged in 30 days
+[2025-08-18 17:34:26] Processing 200/1106: microsoft/connected-workbooks
+[2025-08-18 17:34:29] OK microsoft/connected-workbooks: 32 commits, 84 PRs merged in 30 days
+[2025-08-18 17:34:29] Processing 201/1106: microsoft/rust-guidelines
+[2025-08-18 17:34:31] OK microsoft/rust-guidelines: 23 commits, 8 PRs merged in 30 days
+[2025-08-18 17:34:31] Processing 202/1106: microsoft/SynapseML
+[2025-08-18 17:34:35] OK microsoft/SynapseML: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 17:34:35] Processing 203/1106: microsoft/openjdk-jdk
+[2025-08-18 17:34:37] OK microsoft/openjdk-jdk: 100 commits, 2 PRs merged in 30 days
+[2025-08-18 17:34:37] Processing 204/1106: microsoft/pylance-release
+[2025-08-18 17:34:40] OK microsoft/pylance-release: 7 commits, 89 PRs merged in 30 days
+[2025-08-18 17:34:40] Processing 205/1106: microsoft/TRELLIS
+[2025-08-18 17:34:42] OK microsoft/TRELLIS: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:43] Processing 206/1106: microsoft/vscode-mssql
+[2025-08-18 17:34:46] OK microsoft/vscode-mssql: 77 commits, 89 PRs merged in 30 days
+[2025-08-18 17:34:46] Processing 207/1106: microsoft/Power-CAT-Copilot-Studio-Kit
+[2025-08-18 17:34:49] OK microsoft/Power-CAT-Copilot-Studio-Kit: 13 commits, 82 PRs merged in 30 days
+[2025-08-18 17:34:49] Processing 208/1106: microsoft/VS-Code-Dev-Days
+[2025-08-18 17:34:52] OK microsoft/VS-Code-Dev-Days: 19 commits, 6 PRs merged in 30 days
+[2025-08-18 17:34:52] Processing 209/1106: microsoft/STL
+[2025-08-18 17:34:55] OK microsoft/STL: 24 commits, 89 PRs merged in 30 days
+[2025-08-18 17:34:55] Processing 210/1106: microsoft/CopilotAdventures
+[2025-08-18 17:34:57] OK microsoft/CopilotAdventures: 36 commits, 6 PRs merged in 30 days
+[2025-08-18 17:34:57] Processing 211/1106: microsoft/CopilotStudioSamples
+[2025-08-18 17:35:01] OK microsoft/CopilotStudioSamples: 7 commits, 71 PRs merged in 30 days
+[2025-08-18 17:35:01] Processing 212/1106: microsoft/copilot-camp
+[2025-08-18 17:35:04] OK microsoft/copilot-camp: 65 commits, 94 PRs merged in 30 days
+[2025-08-18 17:35:04] Processing 213/1106: microsoft/MarS
+[2025-08-18 17:35:06] OK microsoft/MarS: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 17:35:07] Processing 214/1106: microsoft/RulesEngine
+[2025-08-18 17:35:10] OK microsoft/RulesEngine: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 17:35:10] Processing 215/1106: microsoft/pxt-microbit
+[2025-08-18 17:35:13] OK microsoft/pxt-microbit: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 17:35:13] Processing 216/1106: microsoft/onnxruntime-swift-package-manager
+[2025-08-18 17:35:15] OK microsoft/onnxruntime-swift-package-manager: 1 commits, 17 PRs merged in 30 days
+[2025-08-18 17:35:16] Processing 217/1106: microsoft/DirectX-Graphics-Samples
+[2025-08-18 17:35:19] OK microsoft/DirectX-Graphics-Samples: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:35:19] Processing 218/1106: microsoft/mdatp-xplat
+[2025-08-18 17:35:23] OK microsoft/mdatp-xplat: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:35:23] Processing 219/1106: microsoft/Modernize-your-code-solution-accelerator
+[2025-08-18 17:35:25] OK microsoft/Modernize-your-code-solution-accelerator: 31 commits, 89 PRs merged in 30 days
+[2025-08-18 17:35:25] Processing 220/1106: microsoft/GitHub-Copilot-for-Azure
+[2025-08-18 17:35:28] OK microsoft/GitHub-Copilot-for-Azure: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 17:35:28] Processing 221/1106: microsoft/vscode-react-native
+[2025-08-18 17:35:31] OK microsoft/vscode-react-native: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 17:35:31] Processing 222/1106: microsoft/BiomedParse
+[2025-08-18 17:35:33] OK microsoft/BiomedParse: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 17:35:33] Processing 223/1106: microsoft/sql-server-samples
+[2025-08-18 17:35:36] OK microsoft/sql-server-samples: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:35:37] Processing 224/1106: microsoft/copilot-intellij-feedback
+[2025-08-18 17:35:37] Rate limit hit, stopping collection
+[2025-08-18 17:35:37] Error getting metrics for microsoft/copilot-intellij-feedback: Rate limit exceeded
+[2025-08-18 17:35:37] Rate limit reached. Waiting 1 hour before retrying...
+[2025-08-18 18:35:37] Resuming collection after 1 hour wait
+[2025-08-18 18:35:39] OK microsoft/copilot-intellij-feedback: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 18:35:39] Processing 225/1106: microsoft/Xbox-GDK-Samples
+[2025-08-18 18:35:41] OK microsoft/Xbox-GDK-Samples: 1 commits, 31 PRs merged in 30 days
+[2025-08-18 18:35:41] Processing 226/1106: microsoft/SQLCallStackResolver
+[2025-08-18 18:35:43] OK microsoft/SQLCallStackResolver: 1 commits, 97 PRs merged in 30 days
+[2025-08-18 18:35:43] Processing 227/1106: microsoft/Kusto-Query-Language
+[2025-08-18 18:35:46] OK microsoft/Kusto-Query-Language: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 18:35:46] Processing 228/1106: microsoft/VirtualClient
+[2025-08-18 18:35:48] OK microsoft/VirtualClient: 23 commits, 92 PRs merged in 30 days
+[2025-08-18 18:35:48] Processing 229/1106: microsoft/WindowsAppSDK-Samples
+[2025-08-18 18:35:51] OK microsoft/WindowsAppSDK-Samples: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 18:35:51] Processing 230/1106: microsoft/agenthonseoul2025
+[2025-08-18 18:35:53] OK microsoft/agenthonseoul2025: 50 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:53] Processing 231/1106: microsoft/onnxruntime-inference-examples
+[2025-08-18 18:35:56] OK microsoft/onnxruntime-inference-examples: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 18:35:56] Processing 232/1106: microsoft/DiskANN
+[2025-08-18 18:35:58] OK microsoft/DiskANN: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:35:58] Processing 233/1106: microsoft/promptpex
+[2025-08-18 18:36:01] OK microsoft/promptpex: 7 commits, 69 PRs merged in 30 days
+[2025-08-18 18:36:01] Processing 234/1106: microsoft/MIDI
+[2025-08-18 18:36:05] OK microsoft/MIDI: 100 commits, 99 PRs merged in 30 days
+[2025-08-18 18:36:05] Processing 235/1106: microsoft/vidur
+[2025-08-18 18:36:07] OK microsoft/vidur: 1 commits, 19 PRs merged in 30 days
+[2025-08-18 18:36:07] Processing 236/1106: microsoft/azure-pipelines-agent
+[2025-08-18 18:36:10] OK microsoft/azure-pipelines-agent: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:36:10] Processing 237/1106: microsoft/FeatureManagement
+[2025-08-18 18:36:12] OK microsoft/FeatureManagement: 1 commits, 25 PRs merged in 30 days
+[2025-08-18 18:36:12] Processing 238/1106: microsoft/TypeAgent
+[2025-08-18 18:36:15] OK microsoft/TypeAgent: 100 commits, 99 PRs merged in 30 days
+[2025-08-18 18:36:15] Processing 239/1106: microsoft/azurelinux
+[2025-08-18 18:36:18] OK microsoft/azurelinux: 38 commits, 69 PRs merged in 30 days
+[2025-08-18 18:36:18] Processing 240/1106: microsoft/Power-Fx
+[2025-08-18 18:36:21] OK microsoft/Power-Fx: 9 commits, 91 PRs merged in 30 days
+[2025-08-18 18:36:21] Processing 241/1106: microsoft/typespec
+[2025-08-18 18:36:24] OK microsoft/typespec: 100 commits, 87 PRs merged in 30 days
+[2025-08-18 18:36:24] Processing 242/1106: microsoft/vscode-jupyter
+[2025-08-18 18:36:27] OK microsoft/vscode-jupyter: 23 commits, 78 PRs merged in 30 days
+[2025-08-18 18:36:27] Processing 243/1106: microsoft/DirectX-SDK-Samples
+[2025-08-18 18:36:29] OK microsoft/DirectX-SDK-Samples: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:36:29] Processing 244/1106: microsoft/BitBLAS
+[2025-08-18 18:36:32] OK microsoft/BitBLAS: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 18:36:32] Processing 245/1106: microsoft/Windows-driver-samples
+[2025-08-18 18:36:35] OK microsoft/Windows-driver-samples: 6 commits, 77 PRs merged in 30 days
+[2025-08-18 18:36:35] Processing 246/1106: microsoft/vscode-java-pack
+[2025-08-18 18:36:38] OK microsoft/vscode-java-pack: 4 commits, 95 PRs merged in 30 days
+[2025-08-18 18:36:38] Processing 247/1106: microsoft/garnet
+[2025-08-18 18:36:41] OK microsoft/garnet: 37 commits, 95 PRs merged in 30 days
+[2025-08-18 18:36:41] Processing 248/1106: microsoft/Olive
+[2025-08-18 18:36:44] OK microsoft/Olive: 80 commits, 73 PRs merged in 30 days
+[2025-08-18 18:36:44] Processing 249/1106: microsoft/multilspy
+[2025-08-18 18:36:47] OK microsoft/multilspy: 4 commits, 50 PRs merged in 30 days
+[2025-08-18 18:36:47] Processing 250/1106: microsoft/vscode-java-debug
+[2025-08-18 18:36:50] OK microsoft/vscode-java-debug: 1 commits, 96 PRs merged in 30 days
+[2025-08-18 18:36:50] Processing 251/1106: microsoft/vscode-java-dependency
+[2025-08-18 18:36:53] OK microsoft/vscode-java-dependency: 7 commits, 96 PRs merged in 30 days
+[2025-08-18 18:36:53] Processing 252/1106: microsoft/perfview
+[2025-08-18 18:36:56] OK microsoft/perfview: 6 commits, 90 PRs merged in 30 days
+[2025-08-18 18:36:57] Processing 253/1106: microsoft/vscode-pgsql
+[2025-08-18 18:36:59] OK microsoft/vscode-pgsql: 2 commits, 17 PRs merged in 30 days
+[2025-08-18 18:36:59] Processing 254/1106: microsoft/prompty
+[2025-08-18 18:37:02] OK microsoft/prompty: 9 commits, 78 PRs merged in 30 days
+[2025-08-18 18:37:02] Processing 255/1106: microsoft/DKI_LLM
+[2025-08-18 18:37:04] OK microsoft/DKI_LLM: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 18:37:04] Processing 256/1106: microsoft/purview-data-governance-masterclass
+[2025-08-18 18:37:06] OK microsoft/purview-data-governance-masterclass: 7 commits, 22 PRs merged in 30 days
+[2025-08-18 18:37:06] Processing 257/1106: microsoft/Semi-supervised-learning
+[2025-08-18 18:37:09] OK microsoft/Semi-supervised-learning: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 18:37:09] Processing 258/1106: microsoft/mineworld
+[2025-08-18 18:37:11] OK microsoft/mineworld: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 18:37:11] Processing 259/1106: microsoft/azure-roles
+[2025-08-18 18:37:13] OK microsoft/azure-roles: 20 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:13] Processing 260/1106: microsoft/vscode-typescript-next
+[2025-08-18 18:37:15] OK microsoft/vscode-typescript-next: 29 commits, 15 PRs merged in 30 days
+[2025-08-18 18:37:15] Processing 261/1106: microsoft/agent-academy
+[2025-08-18 18:37:18] OK microsoft/agent-academy: 100 commits, 62 PRs merged in 30 days
+[2025-08-18 18:37:18] Processing 262/1106: microsoft/HydraLab
+[2025-08-18 18:37:22] OK microsoft/HydraLab: 4 commits, 93 PRs merged in 30 days
+[2025-08-18 18:37:22] Processing 263/1106: microsoft/mcp
+[2025-08-18 18:37:24] OK microsoft/mcp: 2 commits, 19 PRs merged in 30 days
+[2025-08-18 18:37:24] Processing 264/1106: microsoft/ai-developer
+[2025-08-18 18:37:26] OK microsoft/ai-developer: 5 commits, 3 PRs merged in 30 days
+[2025-08-18 18:37:26] Processing 265/1106: microsoft/lsprotocol
+[2025-08-18 18:37:29] OK microsoft/lsprotocol: 2 commits, 59 PRs merged in 30 days
+[2025-08-18 18:37:29] Processing 266/1106: microsoft/pdb-rs
+[2025-08-18 18:37:31] OK microsoft/pdb-rs: 2 commits, 19 PRs merged in 30 days
+[2025-08-18 18:37:31] Processing 267/1106: microsoft/Agents
+[2025-08-18 18:37:34] OK microsoft/Agents: 61 commits, 87 PRs merged in 30 days
+[2025-08-18 18:37:34] Processing 268/1106: microsoft/fabric-samples
+[2025-08-18 18:37:37] OK microsoft/fabric-samples: 13 commits, 91 PRs merged in 30 days
+[2025-08-18 18:37:37] Processing 269/1106: microsoft/vscode-ai-toolkit
+[2025-08-18 18:37:40] OK microsoft/vscode-ai-toolkit: 2 commits, 53 PRs merged in 30 days
+[2025-08-18 18:37:40] Processing 270/1106: microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator
+[2025-08-18 18:37:43] OK microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator: 36 commits, 78 PRs merged in 30 days
+[2025-08-18 18:37:43] Processing 271/1106: microsoft/xbox-live-trace-analyzer
+[2025-08-18 18:37:45] OK microsoft/xbox-live-trace-analyzer: 1 commits, 68 PRs merged in 30 days
+[2025-08-18 18:37:45] Processing 272/1106: microsoft/azure-quantum-python
+[2025-08-18 18:37:49] OK microsoft/azure-quantum-python: 2 commits, 81 PRs merged in 30 days
+[2025-08-18 18:37:49] Processing 273/1106: microsoft/generative-ai-with-javascript
+[2025-08-18 18:37:52] OK microsoft/generative-ai-with-javascript: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 18:37:52] Processing 274/1106: microsoft/onnxruntime-genai
+[2025-08-18 18:37:55] OK microsoft/onnxruntime-genai: 26 commits, 91 PRs merged in 30 days
+[2025-08-18 18:37:55] Processing 275/1106: microsoft/cheriot-safe
+[2025-08-18 18:37:57] OK microsoft/cheriot-safe: 5 commits, 16 PRs merged in 30 days
+[2025-08-18 18:37:57] Processing 276/1106: microsoft/debugpy
+[2025-08-18 18:38:00] OK microsoft/debugpy: 2 commits, 89 PRs merged in 30 days
+[2025-08-18 18:38:00] Processing 277/1106: microsoft/PromptWizard
+[2025-08-18 18:38:03] OK microsoft/PromptWizard: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:38:03] Processing 278/1106: microsoft/DevSkim
+[2025-08-18 18:38:05] OK microsoft/DevSkim: 4 commits, 78 PRs merged in 30 days
+[2025-08-18 18:38:05] Processing 279/1106: microsoft/chartifact
+[2025-08-18 18:38:08] OK microsoft/chartifact: 100 commits, 39 PRs merged in 30 days
+[2025-08-18 18:38:08] Processing 280/1106: microsoft/CsWin32
+[2025-08-18 18:38:10] OK microsoft/CsWin32: 0 commits, 54 PRs merged in 30 days
+[2025-08-18 18:38:10] Processing 281/1106: microsoft/XmlNotepad
+[2025-08-18 18:38:13] OK microsoft/XmlNotepad: 0 commits, 40 PRs merged in 30 days
+[2025-08-18 18:38:13] Processing 282/1106: microsoft/SdnDiagnostics
+[2025-08-18 18:38:16] OK microsoft/SdnDiagnostics: 8 commits, 78 PRs merged in 30 days
+[2025-08-18 18:38:16] Processing 283/1106: microsoft/sbom-tool
+[2025-08-18 18:38:19] OK microsoft/sbom-tool: 8 commits, 74 PRs merged in 30 days
+[2025-08-18 18:38:19] Processing 284/1106: microsoft/vscode-perf-bot
+[2025-08-18 18:38:21] OK microsoft/vscode-perf-bot: 5 commits, 37 PRs merged in 30 days
+[2025-08-18 18:38:21] Processing 285/1106: microsoft/igvm
+[2025-08-18 18:38:24] OK microsoft/igvm: 3 commits, 69 PRs merged in 30 days
+[2025-08-18 18:38:24] Processing 286/1106: microsoft/ebpf-for-windows
+[2025-08-18 18:38:28] OK microsoft/ebpf-for-windows: 17 commits, 81 PRs merged in 30 days
+[2025-08-18 18:38:28] Processing 287/1106: microsoft/CameraTraps
+[2025-08-18 18:38:31] OK microsoft/CameraTraps: 2 commits, 73 PRs merged in 30 days
+[2025-08-18 18:38:31] Processing 288/1106: microsoft/winget-cli-restsource
+[2025-08-18 18:38:34] OK microsoft/winget-cli-restsource: 5 commits, 89 PRs merged in 30 days
+[2025-08-18 18:38:34] Processing 289/1106: microsoft/call-center-ai
+[2025-08-18 18:38:37] OK microsoft/call-center-ai: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:38:37] Processing 290/1106: microsoft/libsyncrpc
+[2025-08-18 18:38:39] OK microsoft/libsyncrpc: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 18:38:39] Processing 291/1106: microsoft/Microsoft.Unity.Analyzers
+[2025-08-18 18:38:42] OK microsoft/Microsoft.Unity.Analyzers: 6 commits, 83 PRs merged in 30 days
+[2025-08-18 18:38:42] Processing 292/1106: microsoft/KBLaM
+[2025-08-18 18:38:44] OK microsoft/KBLaM: 1 commits, 21 PRs merged in 30 days
+[2025-08-18 18:38:44] Processing 293/1106: microsoft/GSL
+[2025-08-18 18:38:47] OK microsoft/GSL: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:38:47] Processing 294/1106: microsoft/vscode-wiki
+[2025-08-18 18:38:51] OK microsoft/vscode-wiki: 6 commits, 76 PRs merged in 30 days
+[2025-08-18 18:38:51] Processing 295/1106: microsoft/cppwinrt
+[2025-08-18 18:38:53] OK microsoft/cppwinrt: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 18:38:53] Processing 296/1106: microsoft/Windows-Machine-Learning
+[2025-08-18 18:38:56] OK microsoft/Windows-Machine-Learning: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:38:56] Processing 297/1106: microsoft/dynamics365patternspractices
+[2025-08-18 18:38:59] OK microsoft/dynamics365patternspractices: 3 commits, 18 PRs merged in 30 days
+[2025-08-18 18:38:59] Processing 298/1106: microsoft/bpf_performance
+[2025-08-18 18:39:01] OK microsoft/bpf_performance: 8 commits, 67 PRs merged in 30 days
+[2025-08-18 18:39:01] Processing 299/1106: microsoft/vsmarketplace
+[2025-08-18 18:39:03] OK microsoft/vsmarketplace: 30 commits, 37 PRs merged in 30 days
+[2025-08-18 18:39:04] Processing 300/1106: microsoft/vscode-generator-code
+[2025-08-18 18:39:07] OK microsoft/vscode-generator-code: 1 commits, 93 PRs merged in 30 days
+[2025-08-18 18:39:07] Processing 301/1106: microsoft/villa-x
+[2025-08-18 18:39:09] OK microsoft/villa-x: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:39:09] Processing 302/1106: microsoft/sample-app-aoai-chatGPT
+[2025-08-18 18:39:12] OK microsoft/sample-app-aoai-chatGPT: 0 commits, 5 PRs merged in 30 days
+[2025-08-18 18:39:12] Processing 303/1106: microsoft/livedrbench
+[2025-08-18 18:39:14] OK microsoft/livedrbench: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:39:14] Processing 304/1106: microsoft/TypeScript-Website
+[2025-08-18 18:39:18] OK microsoft/TypeScript-Website: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 18:39:18] Processing 305/1106: microsoft/onnxruntime-extensions
+[2025-08-18 18:39:20] OK microsoft/onnxruntime-extensions: 7 commits, 90 PRs merged in 30 days
+[2025-08-18 18:39:21] Processing 306/1106: microsoft/agent-for-rfp-response-solution-accelerator
+[2025-08-18 18:39:23] OK microsoft/agent-for-rfp-response-solution-accelerator: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 18:39:23] Processing 307/1106: microsoft/msquic
+[2025-08-18 18:39:25] OK microsoft/msquic: 32 commits, 79 PRs merged in 30 days
+[2025-08-18 18:39:25] Processing 308/1106: microsoft/SLiCE
+[2025-08-18 18:39:27] OK microsoft/SLiCE: 31 commits, 7 PRs merged in 30 days
+[2025-08-18 18:39:27] Processing 309/1106: microsoft/node-pty
+[2025-08-18 18:39:31] OK microsoft/node-pty: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 18:39:31] Processing 310/1106: microsoft/BotFramework-WebChat
+[2025-08-18 18:39:34] OK microsoft/BotFramework-WebChat: 24 commits, 88 PRs merged in 30 days
+[2025-08-18 18:39:34] Processing 311/1106: microsoft/symphony
+[2025-08-18 18:39:37] OK microsoft/symphony: 1 commits, 75 PRs merged in 30 days
+[2025-08-18 18:39:37] Processing 312/1106: microsoft/FluidFramework
+[2025-08-18 18:39:40] OK microsoft/FluidFramework: 100 commits, 92 PRs merged in 30 days
+[2025-08-18 18:39:40] Processing 313/1106: microsoft/codespace-features
+[2025-08-18 18:39:42] OK microsoft/codespace-features: 0 commits, 60 PRs merged in 30 days
+[2025-08-18 18:39:42] Processing 314/1106: microsoft/CMake
+[2025-08-18 18:39:45] OK microsoft/CMake: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 18:39:45] Processing 315/1106: microsoft/openvmm
+[2025-08-18 18:39:48] OK microsoft/openvmm: 63 commits, 93 PRs merged in 30 days
+[2025-08-18 18:39:48] Processing 316/1106: microsoft/AIOpsLab
+[2025-08-18 18:39:51] OK microsoft/AIOpsLab: 14 commits, 23 PRs merged in 30 days
+[2025-08-18 18:39:51] Processing 317/1106: microsoft/DirectXShaderCompiler
+[2025-08-18 18:39:54] OK microsoft/DirectXShaderCompiler: 22 commits, 92 PRs merged in 30 days
+[2025-08-18 18:39:54] Processing 318/1106: microsoft/slow-cheetah
+[2025-08-18 18:39:56] OK microsoft/slow-cheetah: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 18:39:56] Processing 319/1106: microsoft/Solution-Accelerators
+[2025-08-18 18:39:58] OK microsoft/Solution-Accelerators: 2 commits, 11 PRs merged in 30 days
+[2025-08-18 18:39:58] Processing 320/1106: microsoft/Microsoft.IO.RecyclableMemoryStream
+[2025-08-18 18:40:01] OK microsoft/Microsoft.IO.RecyclableMemoryStream: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:40:01] Processing 321/1106: microsoft/mstic
+[2025-08-18 18:40:03] OK microsoft/mstic: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 18:40:03] Processing 322/1106: microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop
+[2025-08-18 18:40:06] OK microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop: 24 commits, 25 PRs merged in 30 days
+[2025-08-18 18:40:06] Processing 323/1106: microsoft/vscode-containers
+[2025-08-18 18:40:08] OK microsoft/vscode-containers: 13 commits, 57 PRs merged in 30 days
+[2025-08-18 18:40:08] Processing 324/1106: microsoft/vscode-js-debug
+[2025-08-18 18:40:11] OK microsoft/vscode-js-debug: 6 commits, 88 PRs merged in 30 days
+[2025-08-18 18:40:11] Processing 325/1106: microsoft/ctsTraffic
+[2025-08-18 18:40:13] OK microsoft/ctsTraffic: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 18:40:14] Processing 326/1106: microsoft/maker.js
+[2025-08-18 18:40:16] OK microsoft/maker.js: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:40:16] Processing 327/1106: microsoft/react-native-macos
+[2025-08-18 18:40:19] OK microsoft/react-native-macos: 24 commits, 89 PRs merged in 30 days
+[2025-08-18 18:40:19] Processing 328/1106: microsoft/vscode-dotnettools
+[2025-08-18 18:40:21] OK microsoft/vscode-dotnettools: 15 commits, 13 PRs merged in 30 days
+[2025-08-18 18:40:22] Processing 329/1106: microsoft/Qcodes
+[2025-08-18 18:40:26] OK microsoft/Qcodes: 100 commits, 89 PRs merged in 30 days
+[2025-08-18 18:40:26] Processing 330/1106: microsoft/debug-adapter-protocol
+[2025-08-18 18:40:29] OK microsoft/debug-adapter-protocol: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 18:40:29] Processing 331/1106: microsoft/model-mondays
+[2025-08-18 18:40:31] OK microsoft/model-mondays: 57 commits, 35 PRs merged in 30 days
+[2025-08-18 18:40:32] Processing 332/1106: microsoft/document-generation-solution-accelerator
+[2025-08-18 18:40:35] OK microsoft/document-generation-solution-accelerator: 43 commits, 86 PRs merged in 30 days
+[2025-08-18 18:40:35] Processing 333/1106: microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator
+[2025-08-18 18:40:37] OK microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator: 4 commits, 9 PRs merged in 30 days
+[2025-08-18 18:40:37] Processing 334/1106: microsoft/content-processing-solution-accelerator
+[2025-08-18 18:40:40] OK microsoft/content-processing-solution-accelerator: 20 commits, 77 PRs merged in 30 days
+[2025-08-18 18:40:40] Processing 335/1106: microsoft/agent-for-hr-service-solution-accelerator
+[2025-08-18 18:40:42] OK microsoft/agent-for-hr-service-solution-accelerator: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:40:42] Processing 336/1106: microsoft/Agent-for-Contract-Processing-Solution-Accelerator
+[2025-08-18 18:40:44] OK microsoft/Agent-for-Contract-Processing-Solution-Accelerator: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 18:40:44] Processing 337/1106: microsoft/recipe-tool
+[2025-08-18 18:40:46] OK microsoft/recipe-tool: 36 commits, 79 PRs merged in 30 days
+[2025-08-18 18:40:46] Processing 338/1106: microsoft/pxt
+[2025-08-18 18:40:50] OK microsoft/pxt: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 18:40:50] Processing 339/1106: microsoft/vscode-vsce
+[2025-08-18 18:40:53] OK microsoft/vscode-vsce: 7 commits, 74 PRs merged in 30 days
+[2025-08-18 18:40:53] Processing 340/1106: microsoft/SuiGeneris
+[2025-08-18 18:40:54] OK microsoft/SuiGeneris: 9 commits, 0 PRs merged in 30 days
+[2025-08-18 18:40:55] Processing 341/1106: microsoft/Reversible-App-Sample
+[2025-08-18 18:40:57] OK microsoft/Reversible-App-Sample: 7 commits, 1 PRs merged in 30 days
+[2025-08-18 18:40:57] Processing 342/1106: microsoft/secureboot_objects
+[2025-08-18 18:41:00] OK microsoft/secureboot_objects: 3 commits, 86 PRs merged in 30 days
+[2025-08-18 18:41:00] Processing 343/1106: microsoft/moodle-local_copilot
+[2025-08-18 18:41:02] OK microsoft/moodle-local_copilot: 3 commits, 10 PRs merged in 30 days
+[2025-08-18 18:41:02] Processing 344/1106: microsoft/mu_feature_debugger
+[2025-08-18 18:41:05] OK microsoft/mu_feature_debugger: 1 commits, 87 PRs merged in 30 days
+[2025-08-18 18:41:05] Processing 345/1106: microsoft/mu_feature_dfci
+[2025-08-18 18:41:08] OK microsoft/mu_feature_dfci: 3 commits, 89 PRs merged in 30 days
+[2025-08-18 18:41:08] Processing 346/1106: microsoft/mu_tiano_platforms
+[2025-08-18 18:41:11] OK microsoft/mu_tiano_platforms: 9 commits, 71 PRs merged in 30 days
+[2025-08-18 18:41:11] Processing 347/1106: microsoft/mu_feature_config
+[2025-08-18 18:41:14] OK microsoft/mu_feature_config: 5 commits, 86 PRs merged in 30 days
+[2025-08-18 18:41:14] Processing 348/1106: microsoft/mu_oem_sample
+[2025-08-18 18:41:16] OK microsoft/mu_oem_sample: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 18:41:16] Processing 349/1106: microsoft/mu_feature_ipmi
+[2025-08-18 18:41:19] OK microsoft/mu_feature_ipmi: 3 commits, 89 PRs merged in 30 days
+[2025-08-18 18:41:19] Processing 350/1106: microsoft/clarity-mcp-server
+[2025-08-18 18:41:21] OK microsoft/clarity-mcp-server: 16 commits, 6 PRs merged in 30 days
+[2025-08-18 18:41:22] Processing 351/1106: microsoft/vscode-codicons
+[2025-08-18 18:41:24] OK microsoft/vscode-codicons: 7 commits, 87 PRs merged in 30 days
+[2025-08-18 18:41:25] Processing 352/1106: microsoft/DirectXTK
+[2025-08-18 18:41:27] OK microsoft/DirectXTK: 5 commits, 97 PRs merged in 30 days
+[2025-08-18 18:41:28] Processing 353/1106: microsoft/sca-fuzzer
+[2025-08-18 18:41:31] OK microsoft/sca-fuzzer: 2 commits, 72 PRs merged in 30 days
+[2025-08-18 18:41:31] Processing 354/1106: microsoft/mfcmapi
+[2025-08-18 18:41:33] OK microsoft/mfcmapi: 7 commits, 84 PRs merged in 30 days
+[2025-08-18 18:41:33] Processing 355/1106: microsoft/vscode-mypy
+[2025-08-18 18:41:37] OK microsoft/vscode-mypy: 0 commits, 41 PRs merged in 30 days
+[2025-08-18 18:41:37] Processing 356/1106: microsoft/java-debug
+[2025-08-18 18:41:40] OK microsoft/java-debug: 3 commits, 86 PRs merged in 30 days
+[2025-08-18 18:41:40] Processing 357/1106: microsoft/FeatureManagement-Dotnet
+[2025-08-18 18:41:42] OK microsoft/FeatureManagement-Dotnet: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 18:41:43] Processing 358/1106: microsoft/vscode-cmake-tools
+[2025-08-18 18:41:46] OK microsoft/vscode-cmake-tools: 12 commits, 95 PRs merged in 30 days
+[2025-08-18 18:41:46] Processing 359/1106: microsoft/DirectXMesh
+[2025-08-18 18:41:49] OK microsoft/DirectXMesh: 5 commits, 97 PRs merged in 30 days
+[2025-08-18 18:41:49] Processing 360/1106: microsoft/DirectXTK12
+[2025-08-18 18:41:51] OK microsoft/DirectXTK12: 5 commits, 96 PRs merged in 30 days
+[2025-08-18 18:41:51] Processing 361/1106: microsoft/synapse-spark-runtime
+[2025-08-18 18:41:53] OK microsoft/synapse-spark-runtime: 12 commits, 1 PRs merged in 30 days
+[2025-08-18 18:41:53] Processing 362/1106: microsoft/pxt-jacdac
+[2025-08-18 18:41:56] OK microsoft/pxt-jacdac: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 18:41:56] Processing 363/1106: microsoft/semanticworkbench
+[2025-08-18 18:41:58] OK microsoft/semanticworkbench: 6 commits, 98 PRs merged in 30 days
+[2025-08-18 18:41:59] Processing 364/1106: microsoft/PSRule
+[2025-08-18 18:42:02] OK microsoft/PSRule: 16 commits, 90 PRs merged in 30 days
+[2025-08-18 18:42:02] Processing 365/1106: microsoft/ai-agent-evals
+[2025-08-18 18:42:04] OK microsoft/ai-agent-evals: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 18:42:04] Processing 366/1106: microsoft/vscode-python-debugger
+[2025-08-18 18:42:07] OK microsoft/vscode-python-debugger: 4 commits, 80 PRs merged in 30 days
+[2025-08-18 18:42:07] Processing 367/1106: microsoft/CsWinRT
+[2025-08-18 18:42:10] OK microsoft/CsWinRT: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 18:42:10] Processing 368/1106: microsoft/slngen
+[2025-08-18 18:42:13] OK microsoft/slngen: 4 commits, 68 PRs merged in 30 days
+[2025-08-18 18:42:13] Processing 369/1106: microsoft/json-schemas
+[2025-08-18 18:42:16] OK microsoft/json-schemas: 33 commits, 91 PRs merged in 30 days
+[2025-08-18 18:42:16] Processing 370/1106: microsoft/jacdac-docs
+[2025-08-18 18:42:18] OK microsoft/jacdac-docs: 4 commits, 65 PRs merged in 30 days
+[2025-08-18 18:42:18] Processing 371/1106: microsoft/z3guide
+[2025-08-18 18:42:21] OK microsoft/z3guide: 1 commits, 78 PRs merged in 30 days
+[2025-08-18 18:42:21] Processing 373/1106: microsoft/TaskTracker
+[2025-08-18 18:42:23] OK microsoft/TaskTracker: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 18:42:23] Processing 374/1106: microsoft/AttackSurfaceAnalyzer
+[2025-08-18 18:42:26] OK microsoft/AttackSurfaceAnalyzer: 1 commits, 88 PRs merged in 30 days
+[2025-08-18 18:42:26] Processing 375/1106: microsoft/BuildXL
+[2025-08-18 18:42:29] OK microsoft/BuildXL: 32 commits, 62 PRs merged in 30 days
+[2025-08-18 18:42:29] Processing 376/1106: microsoft/dev-tunnels
+[2025-08-18 18:42:32] OK microsoft/dev-tunnels: 6 commits, 92 PRs merged in 30 days
+[2025-08-18 18:42:32] Processing 377/1106: microsoft/Agents-for-net
+[2025-08-18 18:42:35] OK microsoft/Agents-for-net: 31 commits, 84 PRs merged in 30 days
+[2025-08-18 18:42:35] Processing 378/1106: microsoft/SetupBench
+[2025-08-18 18:42:37] OK microsoft/SetupBench: 2 commits, 4 PRs merged in 30 days
+[2025-08-18 18:42:37] Processing 379/1106: microsoft/Spartan2
+[2025-08-18 18:42:39] OK microsoft/Spartan2: 4 commits, 44 PRs merged in 30 days
+[2025-08-18 18:42:39] Processing 380/1106: microsoft/MSBuildSdks
+[2025-08-18 18:42:42] OK microsoft/MSBuildSdks: 5 commits, 80 PRs merged in 30 days
+[2025-08-18 18:42:42] Processing 381/1106: microsoft/mscclpp
+[2025-08-18 18:42:44] OK microsoft/mscclpp: 23 commits, 96 PRs merged in 30 days
+[2025-08-18 18:42:44] Processing 382/1106: microsoft/verus-proof-synthesis
+[2025-08-18 18:42:49] OK microsoft/verus-proof-synthesis: 5 commits, 25 PRs merged in 30 days
+[2025-08-18 18:42:50] Processing 383/1106: microsoft/kiota-samples
+[2025-08-18 18:42:53] OK microsoft/kiota-samples: 100 commits, 100 PRs merged in 30 days
+[2025-08-18 18:42:53] Processing 384/1106: microsoft/vscode-cpptools
+[2025-08-18 18:42:55] OK microsoft/vscode-cpptools: 19 commits, 85 PRs merged in 30 days
+[2025-08-18 18:42:56] Processing 385/1106: microsoft/durabletask-python
+[2025-08-18 18:42:58] OK microsoft/durabletask-python: 5 commits, 38 PRs merged in 30 days
+[2025-08-18 18:42:58] Processing 386/1106: microsoft/copilot-studio-mcp
+[2025-08-18 18:43:00] OK microsoft/copilot-studio-mcp: 16 commits, 11 PRs merged in 30 days
+[2025-08-18 18:43:00] Processing 387/1106: microsoft/accessibility-insights-web
+[2025-08-18 18:43:05] OK microsoft/accessibility-insights-web: 1 commits, 16 PRs merged in 30 days
+[2025-08-18 18:43:05] Processing 388/1106: microsoft/Tools-for-Health-Data-Anonymization
+[2025-08-18 18:43:08] OK microsoft/Tools-for-Health-Data-Anonymization: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 18:43:08] Processing 389/1106: microsoft/azure-pipelines-extensions
+[2025-08-18 18:43:11] OK microsoft/azure-pipelines-extensions: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 18:43:11] Processing 390/1106: microsoft/PackageUploader
+[2025-08-18 18:43:14] OK microsoft/PackageUploader: 2 commits, 67 PRs merged in 30 days
+[2025-08-18 18:43:14] Processing 391/1106: microsoft/mu_silicon_arm_tiano
+[2025-08-18 18:43:16] OK microsoft/mu_silicon_arm_tiano: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 18:43:17] Processing 392/1106: microsoft/retina
+[2025-08-18 18:43:20] OK microsoft/retina: 29 commits, 71 PRs merged in 30 days
+[2025-08-18 18:43:20] Processing 393/1106: microsoft/mu_silicon_intel_tiano
+[2025-08-18 18:43:23] OK microsoft/mu_silicon_intel_tiano: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 18:43:23] Processing 394/1106: microsoft/fluentui-apple
+[2025-08-18 18:43:26] OK microsoft/fluentui-apple: 5 commits, 94 PRs merged in 30 days
+[2025-08-18 18:43:26] Processing 395/1106: microsoft/lepton_jpeg_rust
+[2025-08-18 18:43:29] OK microsoft/lepton_jpeg_rust: 4 commits, 88 PRs merged in 30 days
+[2025-08-18 18:43:29] Processing 396/1106: microsoft/MHA
+[2025-08-18 18:43:31] OK microsoft/MHA: 13 commits, 64 PRs merged in 30 days
+[2025-08-18 18:43:31] Processing 397/1106: microsoft/go-infra
+[2025-08-18 18:43:34] OK microsoft/go-infra: 57 commits, 88 PRs merged in 30 days
+[2025-08-18 18:43:34] Processing 398/1106: microsoft/teams-agent-accelerator-templates
+[2025-08-18 18:43:36] OK microsoft/teams-agent-accelerator-templates: 6 commits, 43 PRs merged in 30 days
+[2025-08-18 18:43:36] Processing 399/1106: microsoft/roosterjs
+[2025-08-18 18:43:39] OK microsoft/roosterjs: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:43:39] Processing 400/1106: microsoft/mu_devops
+[2025-08-18 18:43:42] OK microsoft/mu_devops: 2 commits, 86 PRs merged in 30 days
+[2025-08-18 18:43:42] Processing 401/1106: microsoft/omnichannel-chat-widget
+[2025-08-18 18:43:45] OK microsoft/omnichannel-chat-widget: 88 commits, 76 PRs merged in 30 days
+[2025-08-18 18:43:45] Processing 402/1106: microsoft/D3D9On12
+[2025-08-18 18:43:48] OK microsoft/D3D9On12: 2 commits, 61 PRs merged in 30 days
+[2025-08-18 18:43:48] Processing 403/1106: microsoft/lisa
+[2025-08-18 18:43:51] OK microsoft/lisa: 45 commits, 89 PRs merged in 30 days
+[2025-08-18 18:43:51] Processing 404/1106: microsoft/qsharp
+[2025-08-18 18:43:54] OK microsoft/qsharp: 36 commits, 95 PRs merged in 30 days
+[2025-08-18 18:43:54] Processing 405/1106: microsoft/tyger
+[2025-08-18 18:43:57] OK microsoft/tyger: 7 commits, 93 PRs merged in 30 days
+[2025-08-18 18:43:57] Processing 406/1106: microsoft/azure-linux-image-tools
+[2025-08-18 18:44:00] OK microsoft/azure-linux-image-tools: 39 commits, 88 PRs merged in 30 days
+[2025-08-18 18:44:00] Processing 407/1106: microsoft/fabric-user-data-functions-samples
+[2025-08-18 18:44:02] OK microsoft/fabric-user-data-functions-samples: 6 commits, 38 PRs merged in 30 days
+[2025-08-18 18:44:03] Processing 408/1106: microsoft/kata-containers
+[2025-08-18 18:44:05] OK microsoft/kata-containers: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 18:44:05] Processing 409/1106: microsoft/griffel
+[2025-08-18 18:44:08] OK microsoft/griffel: 8 commits, 98 PRs merged in 30 days
+[2025-08-18 18:44:08] Processing 410/1106: microsoft/avml
+[2025-08-18 18:44:10] OK microsoft/avml: 7 commits, 78 PRs merged in 30 days
+[2025-08-18 18:44:11] Processing 411/1106: microsoft/Nonprofits
+[2025-08-18 18:44:12] OK microsoft/Nonprofits: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:44:13] Processing 412/1106: microsoft/vcpkg-tool
+[2025-08-18 18:44:16] OK microsoft/vcpkg-tool: 15 commits, 85 PRs merged in 30 days
+[2025-08-18 18:44:16] Processing 413/1106: microsoft/automated-brain-explanations
+[2025-08-18 18:44:18] OK microsoft/automated-brain-explanations: 33 commits, 6 PRs merged in 30 days
+[2025-08-18 18:44:18] Processing 414/1106: microsoft/BoltzFormer
+[2025-08-18 18:44:20] OK microsoft/BoltzFormer: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:44:20] Processing 415/1106: microsoft/Agents-for-js
+[2025-08-18 18:44:23] OK microsoft/Agents-for-js: 18 commits, 51 PRs merged in 30 days
+[2025-08-18 18:44:23] Processing 416/1106: microsoft/azure_arc
+[2025-08-18 18:44:26] OK microsoft/azure_arc: 7 commits, 94 PRs merged in 30 days
+[2025-08-18 18:44:26] Processing 417/1106: microsoft/react-native-gallery
+[2025-08-18 18:44:29] OK microsoft/react-native-gallery: 3 commits, 81 PRs merged in 30 days
+[2025-08-18 18:44:29] Processing 418/1106: microsoft/vscode-livepreview
+[2025-08-18 18:44:32] OK microsoft/vscode-livepreview: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 18:44:32] Processing 419/1106: microsoft/UVAtlas
+[2025-08-18 18:44:35] OK microsoft/UVAtlas: 4 commits, 96 PRs merged in 30 days
+[2025-08-18 18:44:35] Processing 420/1106: microsoft/binskim
+[2025-08-18 18:44:38] OK microsoft/binskim: 10 commits, 55 PRs merged in 30 days
+[2025-08-18 18:44:38] Processing 421/1106: microsoft/kiota-typescript
+[2025-08-18 18:44:42] OK microsoft/kiota-typescript: 40 commits, 90 PRs merged in 30 days
+[2025-08-18 18:44:42] Processing 422/1106: microsoft/CSS-SystemCenter
+[2025-08-18 18:44:44] OK microsoft/CSS-SystemCenter: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 18:44:44] Processing 423/1106: microsoft/macos-cookbook
+[2025-08-18 18:44:47] OK microsoft/macos-cookbook: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 18:44:47] Processing 424/1106: microsoft/simplechat
+[2025-08-18 18:44:49] OK microsoft/simplechat: 2 commits, 70 PRs merged in 30 days
+[2025-08-18 18:44:50] Processing 425/1106: microsoft/Windows-universal-samples
+[2025-08-18 18:44:53] OK microsoft/Windows-universal-samples: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 18:44:53] Processing 426/1106: microsoft/vscode-proxy-agent
+[2025-08-18 18:44:56] OK microsoft/vscode-proxy-agent: 2 commits, 68 PRs merged in 30 days
+[2025-08-18 18:44:56] Processing 427/1106: microsoft/winget-dsc
+[2025-08-18 18:44:59] OK microsoft/winget-dsc: 10 commits, 90 PRs merged in 30 days
+[2025-08-18 18:44:59] Processing 428/1106: microsoft/ArchScale
+[2025-08-18 18:45:01] OK microsoft/ArchScale: 7 commits, 2 PRs merged in 30 days
+[2025-08-18 18:45:01] Processing 429/1106: microsoft/onnxscript
+[2025-08-18 18:45:04] OK microsoft/onnxscript: 20 commits, 85 PRs merged in 30 days
+[2025-08-18 18:45:04] Processing 430/1106: microsoft/ai-tour-26-zava-diy-dataset-plus-mcp
+[2025-08-18 18:45:06] OK microsoft/ai-tour-26-zava-diy-dataset-plus-mcp: 19 commits, 1 PRs merged in 30 days
+[2025-08-18 18:45:07] Processing 431/1106: microsoft/kiota-java
+[2025-08-18 18:45:10] OK microsoft/kiota-java: 26 commits, 77 PRs merged in 30 days
+[2025-08-18 18:45:10] Processing 432/1106: microsoft/clarity
+[2025-08-18 18:45:12] OK microsoft/clarity: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:45:13] Processing 433/1106: microsoft/powerquery-language-services
+[2025-08-18 18:45:15] OK microsoft/powerquery-language-services: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 18:45:15] Processing 434/1106: microsoft/AzureDevOps-WSJF-Extension
+[2025-08-18 18:45:18] OK microsoft/AzureDevOps-WSJF-Extension: 0 commits, 21 PRs merged in 30 days
+[2025-08-18 18:45:18] Processing 435/1106: microsoft/typechat.net
+[2025-08-18 18:45:21] OK microsoft/typechat.net: 0 commits, 54 PRs merged in 30 days
+[2025-08-18 18:45:21] Processing 436/1106: microsoft/linux-package-repositories
+[2025-08-18 18:45:23] OK microsoft/linux-package-repositories: 2 commits, 53 PRs merged in 30 days
+[2025-08-18 18:45:23] Processing 437/1106: microsoft/Agents-for-python
+[2025-08-18 18:45:25] OK microsoft/Agents-for-python: 14 commits, 50 PRs merged in 30 days
+[2025-08-18 18:45:26] Processing 438/1106: microsoft/vs-threading
+[2025-08-18 18:45:28] OK microsoft/vs-threading: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 18:45:28] Processing 439/1106: microsoft/PTVS
+[2025-08-18 18:45:31] OK microsoft/PTVS: 7 commits, 86 PRs merged in 30 days
+[2025-08-18 18:45:31] Processing 440/1106: microsoft/lets-learn-mcp-java
+[2025-08-18 18:45:33] OK microsoft/lets-learn-mcp-java: 14 commits, 3 PRs merged in 30 days
+[2025-08-18 18:45:33] Processing 441/1106: microsoft/tale-suite
+[2025-08-18 18:45:35] OK microsoft/tale-suite: 2 commits, 25 PRs merged in 30 days
+[2025-08-18 18:45:35] Processing 442/1106: microsoft/dromedary
+[2025-08-18 18:45:37] OK microsoft/dromedary: 4 commits, 1 PRs merged in 30 days
+[2025-08-18 18:45:38] Processing 443/1106: microsoft/olive-recipes
+[2025-08-18 18:45:40] OK microsoft/olive-recipes: 48 commits, 40 PRs merged in 30 days
+[2025-08-18 18:45:40] Processing 444/1106: microsoft/vscode-azureresourcegroups
+[2025-08-18 18:45:43] OK microsoft/vscode-azureresourcegroups: 12 commits, 93 PRs merged in 30 days
+[2025-08-18 18:45:43] Processing 445/1106: microsoft/outlook-pst-rs
+[2025-08-18 18:45:45] OK microsoft/outlook-pst-rs: 2 commits, 20 PRs merged in 30 days
+[2025-08-18 18:45:45] Processing 446/1106: microsoft/cordova-simulate
+[2025-08-18 18:45:48] OK microsoft/cordova-simulate: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 18:45:48] Processing 447/1106: microsoft/nnscaler
+[2025-08-18 18:45:50] OK microsoft/nnscaler: 1 commits, 14 PRs merged in 30 days
+[2025-08-18 18:45:50] Processing 448/1106: microsoft/copilot-metrics-dashboard
+[2025-08-18 18:45:52] OK microsoft/copilot-metrics-dashboard: 2 commits, 27 PRs merged in 30 days
+[2025-08-18 18:45:52] Processing 449/1106: microsoft/healthcare-shared-components
+[2025-08-18 18:45:55] OK microsoft/healthcare-shared-components: 12 commits, 97 PRs merged in 30 days
+[2025-08-18 18:45:55] Processing 450/1106: microsoft/RecAI
+[2025-08-18 18:45:57] OK microsoft/RecAI: 1 commits, 42 PRs merged in 30 days
+[2025-08-18 18:45:57] Processing 451/1106: microsoft/ApplicationInspector
+[2025-08-18 18:46:00] OK microsoft/ApplicationInspector: 1 commits, 92 PRs merged in 30 days
+[2025-08-18 18:46:00] Processing 452/1106: microsoft/AIFluency
+[2025-08-18 18:46:02] OK microsoft/AIFluency: 29 commits, 1 PRs merged in 30 days
+[2025-08-18 18:46:02] Processing 453/1106: microsoft/Dynamics-365-FastTrack-Implementation-Assets
+[2025-08-18 18:46:05] OK microsoft/Dynamics-365-FastTrack-Implementation-Assets: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 18:46:05] Processing 454/1106: microsoft/vscode-docker
+[2025-08-18 18:46:09] OK microsoft/vscode-docker: 2 commits, 89 PRs merged in 30 days
+[2025-08-18 18:46:09] Processing 455/1106: microsoft/codetour
+[2025-08-18 18:46:12] OK microsoft/codetour: 1 commits, 31 PRs merged in 30 days
+[2025-08-18 18:46:12] Processing 456/1106: microsoft/log_analyzer
+[2025-08-18 18:46:14] OK microsoft/log_analyzer: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 18:46:14] Processing 457/1106: microsoft/debug-gym
+[2025-08-18 18:46:19] OK microsoft/debug-gym: 14 commits, 88 PRs merged in 30 days
+[2025-08-18 18:46:19] Processing 458/1106: microsoft/terraform-provider-fabric
+[2025-08-18 18:46:22] OK microsoft/terraform-provider-fabric: 31 commits, 89 PRs merged in 30 days
+[2025-08-18 18:46:22] Processing 459/1106: microsoft/vscode-copilot-vision
+[2025-08-18 18:46:25] OK microsoft/vscode-copilot-vision: 2 commits, 64 PRs merged in 30 days
+[2025-08-18 18:46:25] Processing 460/1106: microsoft/vscode-mermAId
+[2025-08-18 18:46:28] OK microsoft/vscode-mermAId: 1 commits, 88 PRs merged in 30 days
+[2025-08-18 18:46:28] Processing 461/1106: microsoft/powerplatform-actions
+[2025-08-18 18:46:30] OK microsoft/powerplatform-actions: 1 commits, 53 PRs merged in 30 days
+[2025-08-18 18:46:30] Processing 462/1106: microsoft/PowerApps-TestEngine
+[2025-08-18 18:46:33] OK microsoft/PowerApps-TestEngine: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:46:33] Processing 463/1106: microsoft/PowerApps-Tooling
+[2025-08-18 18:46:36] OK microsoft/PowerApps-Tooling: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 18:46:36] Processing 464/1106: microsoft/vscode-prompt-tsx
+[2025-08-18 18:46:38] OK microsoft/vscode-prompt-tsx: 1 commits, 96 PRs merged in 30 days
+[2025-08-18 18:46:39] Processing 465/1106: microsoft/controllable-safety-alignment
+[2025-08-18 18:46:41] OK microsoft/controllable-safety-alignment: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 18:46:41] Processing 466/1106: microsoft/lora_lab
+[2025-08-18 18:46:43] OK microsoft/lora_lab: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:46:43] Processing 467/1106: microsoft/cyrusj_dotfiles
+[2025-08-18 18:46:45] OK microsoft/cyrusj_dotfiles: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:46:45] Processing 468/1106: microsoft/go-images
+[2025-08-18 18:46:48] OK microsoft/go-images: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 18:46:48] Processing 469/1106: microsoft/vscode-powerquery-sdk
+[2025-08-18 18:46:50] OK microsoft/vscode-powerquery-sdk: 3 commits, 82 PRs merged in 30 days
+[2025-08-18 18:46:50] Processing 470/1106: microsoft/fhir-server
+[2025-08-18 18:46:53] OK microsoft/fhir-server: 23 commits, 70 PRs merged in 30 days
+[2025-08-18 18:46:53] Processing 471/1106: microsoft/lets-learn-mcp-csharp
+[2025-08-18 18:46:55] OK microsoft/lets-learn-mcp-csharp: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:46:55] Processing 472/1106: microsoft/SLG-Business-Applications
+[2025-08-18 18:46:58] OK microsoft/SLG-Business-Applications: 39 commits, 20 PRs merged in 30 days
+[2025-08-18 18:46:58] Processing 473/1106: microsoft/fabric-terraform-quickstart
+[2025-08-18 18:47:00] OK microsoft/fabric-terraform-quickstart: 12 commits, 96 PRs merged in 30 days
+[2025-08-18 18:47:00] Processing 474/1106: microsoft/vscode-azurefunctions
+[2025-08-18 18:47:03] OK microsoft/vscode-azurefunctions: 32 commits, 85 PRs merged in 30 days
+[2025-08-18 18:47:03] Processing 475/1106: microsoft/xbox-live-developer-tools
+[2025-08-18 18:47:06] OK microsoft/xbox-live-developer-tools: 1 commits, 91 PRs merged in 30 days
+[2025-08-18 18:47:06] Processing 476/1106: microsoft/Trace
+[2025-08-18 18:47:08] OK microsoft/Trace: 3 commits, 21 PRs merged in 30 days
+[2025-08-18 18:47:08] Processing 477/1106: microsoft/SimpleL7Proxy
+[2025-08-18 18:47:11] OK microsoft/SimpleL7Proxy: 71 commits, 82 PRs merged in 30 days
+[2025-08-18 18:47:11] Processing 478/1106: microsoft/github-copilot-vibe-coding-workshop
+[2025-08-18 18:47:13] OK microsoft/github-copilot-vibe-coding-workshop: 4 commits, 32 PRs merged in 30 days
+[2025-08-18 18:47:13] Processing 479/1106: microsoft/MMdnn
+[2025-08-18 18:47:16] OK microsoft/MMdnn: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 18:47:16] Processing 480/1106: microsoft/sarif-azuredevops-extension
+[2025-08-18 18:47:19] OK microsoft/sarif-azuredevops-extension: 1 commits, 39 PRs merged in 30 days
+[2025-08-18 18:47:19] Processing 481/1106: microsoft/fabric-cicd
+[2025-08-18 18:47:24] OK microsoft/fabric-cicd: 29 commits, 82 PRs merged in 30 days
+[2025-08-18 18:47:24] Processing 482/1106: microsoft/sqltoolsservice
+[2025-08-18 18:47:27] OK microsoft/sqltoolsservice: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 18:47:27] Processing 483/1106: microsoft/electron-gallery
+[2025-08-18 18:47:29] OK microsoft/electron-gallery: 14 commits, 0 PRs merged in 30 days
+[2025-08-18 18:47:29] Processing 484/1106: microsoft/Oryx
+[2025-08-18 18:47:32] OK microsoft/Oryx: 4 commits, 65 PRs merged in 30 days
+[2025-08-18 18:47:33] Processing 485/1106: microsoft/VFSForGit
+[2025-08-18 18:47:35] OK microsoft/VFSForGit: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:47:35] Processing 486/1106: microsoft/netperf
+[2025-08-18 18:47:38] OK microsoft/netperf: 16 commits, 54 PRs merged in 30 days
+[2025-08-18 18:47:38] Processing 487/1106: microsoft/Application-Insights-Workbooks
+[2025-08-18 18:47:42] OK microsoft/Application-Insights-Workbooks: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:47:42] Processing 488/1106: microsoft/msticpy
+[2025-08-18 18:47:44] OK microsoft/msticpy: 5 commits, 91 PRs merged in 30 days
+[2025-08-18 18:47:45] Processing 489/1106: microsoft/WinDbg-Samples
+[2025-08-18 18:47:47] OK microsoft/WinDbg-Samples: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:47:47] Processing 490/1106: microsoft/GHCP-Lab
+[2025-08-18 18:47:49] OK microsoft/GHCP-Lab: 2 commits, 12 PRs merged in 30 days
+[2025-08-18 18:47:49] Processing 491/1106: microsoft/SandDance
+[2025-08-18 18:47:52] OK microsoft/SandDance: 3 commits, 87 PRs merged in 30 days
+[2025-08-18 18:47:52] Processing 492/1106: microsoft/vscode-azurestorage
+[2025-08-18 18:47:56] OK microsoft/vscode-azurestorage: 8 commits, 87 PRs merged in 30 days
+[2025-08-18 18:47:56] Processing 493/1106: microsoft/open-source-discord
+[2025-08-18 18:47:58] OK microsoft/open-source-discord: 8 commits, 3 PRs merged in 30 days
+[2025-08-18 18:47:58] Processing 494/1106: microsoft/webnn-developer-preview
+[2025-08-18 18:48:01] OK microsoft/webnn-developer-preview: 14 commits, 67 PRs merged in 30 days
+[2025-08-18 18:48:01] Processing 495/1106: microsoft/botbuilder-js
+[2025-08-18 18:48:04] OK microsoft/botbuilder-js: 10 commits, 86 PRs merged in 30 days
+[2025-08-18 18:48:04] Processing 496/1106: microsoft/vscode-cosmosdb
+[2025-08-18 18:48:06] OK microsoft/vscode-cosmosdb: 59 commits, 90 PRs merged in 30 days
+[2025-08-18 18:48:06] Processing 497/1106: microsoft/ifc
+[2025-08-18 18:48:09] OK microsoft/ifc: 1 commits, 61 PRs merged in 30 days
+[2025-08-18 18:48:09] Processing 498/1106: microsoft/vstest
+[2025-08-18 18:48:11] OK microsoft/vstest: 20 commits, 85 PRs merged in 30 days
+[2025-08-18 18:48:11] Processing 499/1106: microsoft/sarif-tools
+[2025-08-18 18:48:14] OK microsoft/sarif-tools: 1 commits, 60 PRs merged in 30 days
+[2025-08-18 18:48:14] Processing 500/1106: microsoft/confidential-sidecar-containers
+[2025-08-18 18:48:17] OK microsoft/confidential-sidecar-containers: 2 commits, 84 PRs merged in 30 days
+[2025-08-18 18:48:17] Processing 501/1106: microsoft/vs-solutionpersistence
+[2025-08-18 18:48:19] OK microsoft/vs-solutionpersistence: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 18:48:19] Processing 502/1106: microsoft/TableLoRA
+[2025-08-18 18:48:21] OK microsoft/TableLoRA: 5 commits, 1 PRs merged in 30 days
+[2025-08-18 18:48:21] Processing 503/1106: microsoft/service-fabric-services-and-actors-dotnet
+[2025-08-18 18:48:24] OK microsoft/service-fabric-services-and-actors-dotnet: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 18:48:24] Processing 504/1106: microsoft/Forge
+[2025-08-18 18:48:26] OK microsoft/Forge: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 18:48:26] Processing 505/1106: microsoft/hcsshim
+[2025-08-18 18:48:29] OK microsoft/hcsshim: 9 commits, 42 PRs merged in 30 days
+[2025-08-18 18:48:30] Processing 506/1106: microsoft/Microsoft-Fabric-workload-development-sample
+[2025-08-18 18:48:32] OK microsoft/Microsoft-Fabric-workload-development-sample: 3 commits, 43 PRs merged in 30 days
+[2025-08-18 18:48:32] Processing 507/1106: microsoft/Deploy-Your-AI-Application-In-Production
+[2025-08-18 18:48:34] OK microsoft/Deploy-Your-AI-Application-In-Production: 5 commits, 55 PRs merged in 30 days
+[2025-08-18 18:48:34] Processing 508/1106: microsoft/mystikos
+[2025-08-18 18:48:37] OK microsoft/mystikos: 2 commits, 87 PRs merged in 30 days
+[2025-08-18 18:48:37] Processing 509/1106: microsoft/go-sqlcmd
+[2025-08-18 18:48:39] OK microsoft/go-sqlcmd: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 18:48:39] Processing 510/1106: microsoft/zerotrustassessment
+[2025-08-18 18:48:42] OK microsoft/zerotrustassessment: 5 commits, 96 PRs merged in 30 days
+[2025-08-18 18:48:42] Processing 511/1106: microsoft/Migrate2GSA
+[2025-08-18 18:48:44] OK microsoft/Migrate2GSA: 51 commits, 3 PRs merged in 30 days
+[2025-08-18 18:48:44] Processing 512/1106: microsoft/PowerBI-visuals-PowerKPI
+[2025-08-18 18:48:47] OK microsoft/PowerBI-visuals-PowerKPI: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 18:48:47] Processing 513/1106: microsoft/node-jsonc-parser
+[2025-08-18 18:48:49] OK microsoft/node-jsonc-parser: 3 commits, 40 PRs merged in 30 days
+[2025-08-18 18:48:49] Processing 514/1106: microsoft/vscode-data-analysis-for-copilot
+[2025-08-18 18:48:52] OK microsoft/vscode-data-analysis-for-copilot: 2 commits, 63 PRs merged in 30 days
+[2025-08-18 18:48:52] Processing 515/1106: microsoft/graphitation
+[2025-08-18 18:48:54] OK microsoft/graphitation: 8 commits, 89 PRs merged in 30 days
+[2025-08-18 18:48:54] Processing 516/1106: microsoft/go-crypto-openssl
+[2025-08-18 18:48:56] OK microsoft/go-crypto-openssl: 1 commits, 59 PRs merged in 30 days
+[2025-08-18 18:48:56] Processing 517/1106: microsoft/gctoolkit
+[2025-08-18 18:48:59] OK microsoft/gctoolkit: 2 commits, 93 PRs merged in 30 days
+[2025-08-18 18:48:59] Processing 518/1106: microsoft/tfs-cli
+[2025-08-18 18:49:02] OK microsoft/tfs-cli: 0 commits, 67 PRs merged in 30 days
+[2025-08-18 18:49:02] Processing 519/1106: microsoft/vsts-extension-multivalue-control
+[2025-08-18 18:49:04] OK microsoft/vsts-extension-multivalue-control: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 18:49:05] Processing 520/1106: microsoft/vsts-open-in-excel
+[2025-08-18 18:49:07] OK microsoft/vsts-open-in-excel: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 18:49:07] Processing 521/1106: microsoft/wiql-editor
+[2025-08-18 18:49:09] OK microsoft/wiql-editor: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 18:49:09] Processing 522/1106: microsoft/azure-boards-split
+[2025-08-18 18:49:11] OK microsoft/azure-boards-split: 2 commits, 20 PRs merged in 30 days
+[2025-08-18 18:49:11] Processing 523/1106: microsoft/vsts-extension-integer-control
+[2025-08-18 18:49:13] OK microsoft/vsts-extension-integer-control: 0 commits, 17 PRs merged in 30 days
+[2025-08-18 18:49:13] Processing 524/1106: microsoft/superbenchmark
+[2025-08-18 18:49:16] OK microsoft/superbenchmark: 1 commits, 71 PRs merged in 30 days
+[2025-08-18 18:49:16] Processing 525/1106: microsoft/MSLab
+[2025-08-18 18:49:19] OK microsoft/MSLab: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:49:19] Processing 526/1106: microsoft/confidential-aci-attestation
+[2025-08-18 18:49:21] OK microsoft/confidential-aci-attestation: 16 commits, 10 PRs merged in 30 days
+[2025-08-18 18:49:21] Processing 527/1106: microsoft/powerplatform-vscode
+[2025-08-18 18:49:24] OK microsoft/powerplatform-vscode: 16 commits, 85 PRs merged in 30 days
+[2025-08-18 18:49:24] Processing 528/1106: microsoft/art-msra
+[2025-08-18 18:49:26] OK microsoft/art-msra: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 18:49:26] Processing 529/1106: microsoft/durabletask-go
+[2025-08-18 18:49:28] OK microsoft/durabletask-go: 2 commits, 65 PRs merged in 30 days
+[2025-08-18 18:49:28] Processing 530/1106: microsoft/pdblister
+[2025-08-18 18:49:31] OK microsoft/pdblister: 2 commits, 46 PRs merged in 30 days
+[2025-08-18 18:49:31] Processing 531/1106: microsoft/ExeCoder
+[2025-08-18 18:49:33] OK microsoft/ExeCoder: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:49:33] Processing 532/1106: microsoft/farmvibes-ai
+[2025-08-18 18:49:35] OK microsoft/farmvibes-ai: 1 commits, 51 PRs merged in 30 days
+[2025-08-18 18:49:35] Processing 533/1106: microsoft/DirectX-Headers
+[2025-08-18 18:49:38] OK microsoft/DirectX-Headers: 5 commits, 90 PRs merged in 30 days
+[2025-08-18 18:49:38] Processing 534/1106: microsoft/sip-ai-workshop
+[2025-08-18 18:49:40] OK microsoft/sip-ai-workshop: 12 commits, 1 PRs merged in 30 days
+[2025-08-18 18:49:40] Processing 535/1106: microsoft/fabric-sdk-go
+[2025-08-18 18:49:43] OK microsoft/fabric-sdk-go: 6 commits, 71 PRs merged in 30 days
+[2025-08-18 18:49:43] Processing 536/1106: microsoft/PartnerResources
+[2025-08-18 18:49:45] OK microsoft/PartnerResources: 1 commits, 97 PRs merged in 30 days
+[2025-08-18 18:49:46] Processing 537/1106: microsoft/ada
+[2025-08-18 18:49:47] OK microsoft/ada: 12 commits, 4 PRs merged in 30 days
+[2025-08-18 18:49:47] Processing 538/1106: microsoft/vscode-explorer-command
+[2025-08-18 18:49:49] OK microsoft/vscode-explorer-command: 4 commits, 16 PRs merged in 30 days
+[2025-08-18 18:49:49] Processing 539/1106: microsoft/dayhoff
+[2025-08-18 18:49:51] OK microsoft/dayhoff: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 18:49:52] Processing 540/1106: microsoft/SqlScriptDOM
+[2025-08-18 18:49:54] OK microsoft/SqlScriptDOM: 5 commits, 64 PRs merged in 30 days
+[2025-08-18 18:49:54] Processing 541/1106: microsoft/jacdac-dotnet
+[2025-08-18 18:49:56] OK microsoft/jacdac-dotnet: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 18:49:56] Processing 542/1106: microsoft/vscode-edge-devtools
+[2025-08-18 18:49:59] OK microsoft/vscode-edge-devtools: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:49:59] Processing 543/1106: microsoft/codal-jacdac
+[2025-08-18 18:50:01] OK microsoft/codal-jacdac: 2 commits, 2 PRs merged in 30 days
+[2025-08-18 18:50:01] Processing 544/1106: microsoft/jacdac-msr-modules
+[2025-08-18 18:50:04] OK microsoft/jacdac-msr-modules: 2 commits, 43 PRs merged in 30 days
+[2025-08-18 18:50:04] Processing 545/1106: microsoft/react-jacdac
+[2025-08-18 18:50:06] OK microsoft/react-jacdac: 1 commits, 4 PRs merged in 30 days
+[2025-08-18 18:50:06] Processing 546/1106: microsoft/git
+[2025-08-18 18:50:09] OK microsoft/git: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 18:50:09] Processing 547/1106: microsoft/jacdac-module-template
+[2025-08-18 18:50:11] OK microsoft/jacdac-module-template: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:50:11] Processing 548/1106: microsoft/vscode-azuretools
+[2025-08-18 18:50:14] OK microsoft/vscode-azuretools: 13 commits, 92 PRs merged in 30 days
+[2025-08-18 18:50:14] Processing 549/1106: microsoft/jacdac-padauk
+[2025-08-18 18:50:16] OK microsoft/jacdac-padauk: 2 commits, 10 PRs merged in 30 days
+[2025-08-18 18:50:16] Processing 550/1106: microsoft/jacdac-stm32x0
+[2025-08-18 18:50:19] OK microsoft/jacdac-stm32x0: 2 commits, 32 PRs merged in 30 days
+[2025-08-18 18:50:19] Processing 551/1106: microsoft/jacdac-ddk
+[2025-08-18 18:50:21] OK microsoft/jacdac-ddk: 2 commits, 9 PRs merged in 30 days
+[2025-08-18 18:50:21] Processing 552/1106: microsoft/jacdac-cli
+[2025-08-18 18:50:23] OK microsoft/jacdac-cli: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 18:50:23] Processing 553/1106: microsoft/jacdac-c
+[2025-08-18 18:50:26] OK microsoft/jacdac-c: 2 commits, 40 PRs merged in 30 days
+[2025-08-18 18:50:26] Processing 554/1106: microsoft/jacdac-ts
+[2025-08-18 18:50:29] OK microsoft/jacdac-ts: 1 commits, 83 PRs merged in 30 days
+[2025-08-18 18:50:29] Processing 555/1106: microsoft/jacdac
+[2025-08-18 18:50:33] OK microsoft/jacdac: 1 commits, 90 PRs merged in 30 days
+[2025-08-18 18:50:33] Processing 556/1106: microsoft/azure-devops-node-api
+[2025-08-18 18:50:36] OK microsoft/azure-devops-node-api: 0 commits, 78 PRs merged in 30 days
+[2025-08-18 18:50:36] Processing 557/1106: microsoft/argos
+[2025-08-18 18:50:37] OK microsoft/argos: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 18:50:37] Processing 558/1106: microsoft/TF-Codec
+[2025-08-18 18:50:39] OK microsoft/TF-Codec: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 18:50:39] Processing 559/1106: microsoft/gov-datamodels
+[2025-08-18 18:50:41] OK microsoft/gov-datamodels: 37 commits, 0 PRs merged in 30 days
+[2025-08-18 18:50:41] Processing 560/1106: microsoft/vscode-mock-debug
+[2025-08-18 18:50:43] OK microsoft/vscode-mock-debug: 2 commits, 33 PRs merged in 30 days
+[2025-08-18 18:50:44] Processing 561/1106: microsoft/essex-toolkit
+[2025-08-18 18:50:46] OK microsoft/essex-toolkit: 2 commits, 91 PRs merged in 30 days
+[2025-08-18 18:50:46] Processing 562/1106: microsoft/FluidExamples
+[2025-08-18 18:50:49] OK microsoft/FluidExamples: 27 commits, 94 PRs merged in 30 days
+[2025-08-18 18:50:49] Processing 563/1106: microsoft/ApplicationInsights-Kubernetes
+[2025-08-18 18:50:52] OK microsoft/ApplicationInsights-Kubernetes: 1 commits, 94 PRs merged in 30 days
+[2025-08-18 18:50:52] Processing 564/1106: microsoft/FluidHelloWorld
+[2025-08-18 18:50:54] OK microsoft/FluidHelloWorld: 8 commits, 87 PRs merged in 30 days
+[2025-08-18 18:50:55] Processing 565/1106: microsoft/OSPO
+[2025-08-18 18:50:57] OK microsoft/OSPO: 11 commits, 32 PRs merged in 30 days
+[2025-08-18 18:50:57] Processing 566/1106: microsoft/azureml-inference-server
+[2025-08-18 18:50:59] OK microsoft/azureml-inference-server: 7 commits, 76 PRs merged in 30 days
+[2025-08-18 18:50:59] Processing 567/1106: microsoft/planetary-computer-apis
+[2025-08-18 18:51:02] OK microsoft/planetary-computer-apis: 7 commits, 73 PRs merged in 30 days
+[2025-08-18 18:51:02] Processing 568/1106: microsoft/powerbi-client-react
+[2025-08-18 18:51:04] OK microsoft/powerbi-client-react: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 18:51:04] Processing 569/1106: microsoft/minecraft-samples
+[2025-08-18 18:51:07] OK microsoft/minecraft-samples: 7 commits, 63 PRs merged in 30 days
+[2025-08-18 18:51:07] Processing 570/1106: microsoft/omnichannel-chat-sdk
+[2025-08-18 18:51:10] OK microsoft/omnichannel-chat-sdk: 32 commits, 91 PRs merged in 30 days
+[2025-08-18 18:51:10] Processing 571/1106: microsoft/MAPIStubLibrary
+[2025-08-18 18:51:13] OK microsoft/MAPIStubLibrary: 14 commits, 86 PRs merged in 30 days
+[2025-08-18 18:51:13] Processing 572/1106: microsoft/azure-devops-extension-tasks
+[2025-08-18 18:51:16] OK microsoft/azure-devops-extension-tasks: 36 commits, 70 PRs merged in 30 days
+[2025-08-18 18:51:16] Processing 573/1106: microsoft/LLM-Fine-Tuning-Azure
+[2025-08-18 18:51:18] OK microsoft/LLM-Fine-Tuning-Azure: 8 commits, 29 PRs merged in 30 days
+[2025-08-18 18:51:18] Processing 574/1106: microsoft/m365advocacy-templates
+[2025-08-18 18:51:20] OK microsoft/m365advocacy-templates: 4 commits, 16 PRs merged in 30 days
+[2025-08-18 18:51:20] Processing 575/1106: microsoft/alguidelines
+[2025-08-18 18:51:23] OK microsoft/alguidelines: 7 commits, 95 PRs merged in 30 days
+[2025-08-18 18:51:23] Processing 576/1106: microsoft/LLaVA-Rad
+[2025-08-18 18:51:24] OK microsoft/LLaVA-Rad: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:51:25] Processing 577/1106: microsoft/node-api-dotnet
+[2025-08-18 18:51:27] OK microsoft/node-api-dotnet: 3 commits, 100 PRs merged in 30 days
+[2025-08-18 18:51:27] Processing 578/1106: microsoft/vscode-extension-telemetry
+[2025-08-18 18:51:30] OK microsoft/vscode-extension-telemetry: 1 commits, 93 PRs merged in 30 days
+[2025-08-18 18:51:30] Processing 579/1106: microsoft/WhatTheHack
+[2025-08-18 18:51:34] OK microsoft/WhatTheHack: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 18:51:34] Processing 580/1106: microsoft/AdaptiveCards
+[2025-08-18 18:51:36] OK microsoft/AdaptiveCards: 1 commits, 91 PRs merged in 30 days
+[2025-08-18 18:51:37] Processing 581/1106: microsoft/SharePoint-Embedded-Samples
+[2025-08-18 18:51:39] OK microsoft/SharePoint-Embedded-Samples: 5 commits, 94 PRs merged in 30 days
+[2025-08-18 18:51:39] Processing 582/1106: microsoft/azure-pipelines-tool-lib
+[2025-08-18 18:51:42] OK microsoft/azure-pipelines-tool-lib: 0 commits, 37 PRs merged in 30 days
+[2025-08-18 18:51:42] Processing 583/1106: microsoft/lst-bench
+[2025-08-18 18:51:44] OK microsoft/lst-bench: 1 commits, 50 PRs merged in 30 days
+[2025-08-18 18:51:44] Processing 584/1106: microsoft/build-server-for-gradle
+[2025-08-18 18:51:47] OK microsoft/build-server-for-gradle: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 18:51:47] Processing 585/1106: microsoft/durabletask-java
+[2025-08-18 18:51:50] OK microsoft/durabletask-java: 1 commits, 87 PRs merged in 30 days
+[2025-08-18 18:51:50] Processing 586/1106: microsoft/fluentui-android
+[2025-08-18 18:51:52] OK microsoft/fluentui-android: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 18:51:52] Processing 587/1106: microsoft/vscode-java-test
+[2025-08-18 18:51:55] OK microsoft/vscode-java-test: 2 commits, 92 PRs merged in 30 days
+[2025-08-18 18:51:55] Processing 588/1106: microsoft/azure-maven-plugins
+[2025-08-18 18:51:58] OK microsoft/azure-maven-plugins: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 18:51:58] Processing 589/1106: microsoft/azure-tools-for-java
+[2025-08-18 18:52:00] OK microsoft/azure-tools-for-java: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 18:52:00] Processing 590/1106: microsoft/ApplicationInsights-Java
+[2025-08-18 18:52:03] OK microsoft/ApplicationInsights-Java: 46 commits, 70 PRs merged in 30 days
+[2025-08-18 18:52:03] Processing 591/1106: microsoft/azure-devops-extension-api
+[2025-08-18 18:52:06] OK microsoft/azure-devops-extension-api: 0 commits, 54 PRs merged in 30 days
+[2025-08-18 18:52:06] Processing 592/1106: microsoft/Mu-Protein
+[2025-08-18 18:52:08] OK microsoft/Mu-Protein: 3 commits, 4 PRs merged in 30 days
+[2025-08-18 18:52:08] Processing 593/1106: microsoft/ograg2
+[2025-08-18 18:52:09] OK microsoft/ograg2: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:52:09] Processing 594/1106: microsoft/profile-explorer
+[2025-08-18 18:52:11] OK microsoft/profile-explorer: 1 commits, 3 PRs merged in 30 days
+[2025-08-18 18:52:11] Processing 595/1106: microsoft/DirectXTex
+[2025-08-18 18:52:14] OK microsoft/DirectXTex: 4 commits, 89 PRs merged in 30 days
+[2025-08-18 18:52:14] Processing 596/1106: microsoft/FHIR-Converter
+[2025-08-18 18:52:17] OK microsoft/FHIR-Converter: 0 commits, 72 PRs merged in 30 days
+[2025-08-18 18:52:17] Processing 597/1106: microsoft/ALAppExtensions
+[2025-08-18 18:52:20] OK microsoft/ALAppExtensions: 11 commits, 58 PRs merged in 30 days
+[2025-08-18 18:52:20] Processing 598/1106: microsoft/vscode-bisect
+[2025-08-18 18:52:22] OK microsoft/vscode-bisect: 3 commits, 40 PRs merged in 30 days
+[2025-08-18 18:52:23] Processing 599/1106: microsoft/vscode-tools-for-ai
+[2025-08-18 18:52:23] Rate limit hit, stopping collection
+[2025-08-18 18:52:23] Error getting metrics for microsoft/vscode-tools-for-ai: Rate limit exceeded
+[2025-08-18 18:52:23] Rate limit reached. Waiting 1 hour before retrying...
+[2025-08-18 19:52:23] Resuming collection after 1 hour wait
+[2025-08-18 19:52:26] OK microsoft/vscode-tools-for-ai: 0 commits, 47 PRs merged in 30 days
+[2025-08-18 19:52:26] Processing 600/1106: microsoft/durabletask-dotnet
+[2025-08-18 19:52:28] OK microsoft/durabletask-dotnet: 3 commits, 91 PRs merged in 30 days
+[2025-08-18 19:52:29] Processing 601/1106: microsoft/vscode-documentdb
+[2025-08-18 19:52:31] OK microsoft/vscode-documentdb: 58 commits, 59 PRs merged in 30 days
+[2025-08-18 19:52:31] Processing 602/1106: microsoft/openjdk-jdk21u
+[2025-08-18 19:52:34] OK microsoft/openjdk-jdk21u: 73 commits, 35 PRs merged in 30 days
+[2025-08-18 19:52:34] Processing 603/1106: microsoft/openjdk-jdk17u
+[2025-08-18 19:52:37] OK microsoft/openjdk-jdk17u: 66 commits, 36 PRs merged in 30 days
+[2025-08-18 19:52:37] Processing 604/1106: microsoft/geo-vision-labeler
+[2025-08-18 19:52:38] OK microsoft/geo-vision-labeler: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 19:52:38] Processing 605/1106: microsoft/winget-pkgs-automation-staging
+[2025-08-18 19:52:40] OK microsoft/winget-pkgs-automation-staging: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 19:52:40] Processing 606/1106: microsoft/CollabLLM
+[2025-08-18 19:52:42] OK microsoft/CollabLLM: 7 commits, 0 PRs merged in 30 days
+[2025-08-18 19:52:42] Processing 607/1106: microsoft/FEA-Bench
+[2025-08-18 19:52:44] OK microsoft/FEA-Bench: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 19:52:44] Processing 608/1106: microsoft/vscode-gradle
+[2025-08-18 19:52:47] OK microsoft/vscode-gradle: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 19:52:47] Processing 609/1106: microsoft/GUI-Agent-RL
+[2025-08-18 19:52:49] OK microsoft/GUI-Agent-RL: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 19:52:49] Processing 610/1106: microsoft/ApplicationInsights-JS
+[2025-08-18 19:52:52] OK microsoft/ApplicationInsights-JS: 9 commits, 80 PRs merged in 30 days
+[2025-08-18 19:52:52] Processing 611/1106: microsoft/ApplicationInsights-node.js
+[2025-08-18 19:52:55] OK microsoft/ApplicationInsights-node.js: 5 commits, 87 PRs merged in 30 days
+[2025-08-18 19:52:55] Processing 612/1106: microsoft/cognitive-services-speech-sdk-js
+[2025-08-18 19:52:58] OK microsoft/cognitive-services-speech-sdk-js: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 19:52:58] Processing 613/1106: microsoft/finops-toolkit
+[2025-08-18 19:53:01] OK microsoft/finops-toolkit: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 19:53:01] Processing 614/1106: microsoft/winget-create
+[2025-08-18 19:53:03] OK microsoft/winget-create: 3 commits, 96 PRs merged in 30 days
+[2025-08-18 19:53:03] Processing 615/1106: microsoft/CADFusion
+[2025-08-18 19:53:05] OK microsoft/CADFusion: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 19:53:05] Processing 616/1106: microsoft/dev-tunnels-ssh
+[2025-08-18 19:53:08] OK microsoft/dev-tunnels-ssh: 1 commits, 90 PRs merged in 30 days
+[2025-08-18 19:53:08] Processing 617/1106: microsoft/vscode-wasm
+[2025-08-18 19:53:11] OK microsoft/vscode-wasm: 2 commits, 78 PRs merged in 30 days
+[2025-08-18 19:53:12] Processing 618/1106: microsoft/cpp_client_telemetry
+[2025-08-18 19:53:14] OK microsoft/cpp_client_telemetry: 11 commits, 82 PRs merged in 30 days
+[2025-08-18 19:53:14] Processing 619/1106: microsoft/EntraSuite-Training
+[2025-08-18 19:53:16] OK microsoft/EntraSuite-Training: 10 commits, 14 PRs merged in 30 days
+[2025-08-18 19:53:16] Processing 620/1106: microsoft/fabric-rest-api-specs
+[2025-08-18 19:53:18] OK microsoft/fabric-rest-api-specs: 4 commits, 0 PRs merged in 30 days
+[2025-08-18 19:53:18] Processing 621/1106: microsoft/dotnet-framework-docker
+[2025-08-18 19:53:21] OK microsoft/dotnet-framework-docker: 5 commits, 92 PRs merged in 30 days
+[2025-08-18 19:53:21] Processing 622/1106: microsoft/wil
+[2025-08-18 19:53:24] OK microsoft/wil: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 19:53:24] Processing 623/1106: microsoft/libHttpClient
+[2025-08-18 19:53:27] OK microsoft/libHttpClient: 9 commits, 80 PRs merged in 30 days
+[2025-08-18 19:53:27] Processing 624/1106: microsoft/verified-storage
+[2025-08-18 19:53:29] OK microsoft/verified-storage: 21 commits, 27 PRs merged in 30 days
+[2025-08-18 19:53:29] Processing 625/1106: microsoft/kiota-bundle-go
+[2025-08-18 19:53:31] OK microsoft/kiota-bundle-go: 2 commits, 27 PRs merged in 30 days
+[2025-08-18 19:53:31] Processing 626/1106: microsoft/kiota-http-go
+[2025-08-18 19:53:34] OK microsoft/kiota-http-go: 2 commits, 94 PRs merged in 30 days
+[2025-08-18 19:53:34] Processing 627/1106: microsoft/shell-intune-samples
+[2025-08-18 19:53:37] OK microsoft/shell-intune-samples: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 19:53:37] Processing 628/1106: microsoft/SymCrypt-OpenSSL
+[2025-08-18 19:53:40] OK microsoft/SymCrypt-OpenSSL: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 19:53:40] Processing 629/1106: microsoft/Vipr
+[2025-08-18 19:53:43] OK microsoft/Vipr: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 19:53:43] Processing 630/1106: microsoft/powercat
+[2025-08-18 19:53:45] OK microsoft/powercat: 17 commits, 20 PRs merged in 30 days
+[2025-08-18 19:53:45] Processing 631/1106: microsoft/SWE-bench-Live
+[2025-08-18 19:53:47] OK microsoft/SWE-bench-Live: 1 commits, 6 PRs merged in 30 days
+[2025-08-18 19:53:47] Processing 632/1106: microsoft/powerquery-formatter
+[2025-08-18 19:53:49] OK microsoft/powerquery-formatter: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 19:53:49] Processing 633/1106: microsoft/ProtocolTestFramework
+[2025-08-18 19:53:52] OK microsoft/ProtocolTestFramework: 7 commits, 16 PRs merged in 30 days
+[2025-08-18 19:53:52] Processing 634/1106: microsoft/WindowsProtocolTestSuites
+[2025-08-18 19:53:54] OK microsoft/WindowsProtocolTestSuites: 10 commits, 50 PRs merged in 30 days
+[2025-08-18 19:53:55] Processing 635/1106: microsoft/powerquery-parser
+[2025-08-18 19:53:57] OK microsoft/powerquery-parser: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 19:53:57] Processing 636/1106: microsoft/FabricBQSync
+[2025-08-18 19:54:00] OK microsoft/FabricBQSync: 4 commits, 98 PRs merged in 30 days
+[2025-08-18 19:54:00] Processing 637/1106: microsoft/terraform-provider-power-platform
+[2025-08-18 19:54:02] OK microsoft/terraform-provider-power-platform: 6 commits, 90 PRs merged in 30 days
+[2025-08-18 19:54:02] Processing 638/1106: microsoft/typespec-mcp
+[2025-08-18 19:54:04] OK microsoft/typespec-mcp: 4 commits, 48 PRs merged in 30 days
+[2025-08-18 19:54:05] Processing 639/1106: microsoft/DefinitelyTyped-tools
+[2025-08-18 19:54:07] OK microsoft/DefinitelyTyped-tools: 4 commits, 92 PRs merged in 30 days
+[2025-08-18 19:54:08] Processing 640/1106: microsoft/TypeScript-Make-Monaco-Builds
+[2025-08-18 19:54:09] OK microsoft/TypeScript-Make-Monaco-Builds: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 19:54:10] Processing 641/1106: microsoft/GDK
+[2025-08-18 19:54:11] OK microsoft/GDK: 0 commits, 15 PRs merged in 30 days
+[2025-08-18 19:54:12] Processing 642/1106: microsoft/vscode-test-cli
+[2025-08-18 19:54:14] OK microsoft/vscode-test-cli: 1 commits, 35 PRs merged in 30 days
+[2025-08-18 19:54:14] Processing 643/1106: microsoft/kiota-serialization-json-ruby
+[2025-08-18 19:54:16] OK microsoft/kiota-serialization-json-ruby: 2 commits, 38 PRs merged in 30 days
+[2025-08-18 19:54:16] Processing 644/1106: microsoft/security-devops-azdevops
+[2025-08-18 19:54:18] OK microsoft/security-devops-azdevops: 3 commits, 31 PRs merged in 30 days
+[2025-08-18 19:54:18] Processing 645/1106: microsoft/kiota-abstractions-go
+[2025-08-18 19:54:22] OK microsoft/kiota-abstractions-go: 2 commits, 94 PRs merged in 30 days
+[2025-08-18 19:54:22] Processing 646/1106: microsoft/kiota-authentication-azure-go
+[2025-08-18 19:54:25] OK microsoft/kiota-authentication-azure-go: 4 commits, 99 PRs merged in 30 days
+[2025-08-18 19:54:25] Processing 647/1106: microsoft/kiota-serialization-form-go
+[2025-08-18 19:54:27] OK microsoft/kiota-serialization-form-go: 4 commits, 82 PRs merged in 30 days
+[2025-08-18 19:54:27] Processing 648/1106: microsoft/codeql
+[2025-08-18 19:54:30] OK microsoft/codeql: 100 commits, 87 PRs merged in 30 days
+[2025-08-18 19:54:30] Processing 649/1106: microsoft/kiota-serialization-json-go
+[2025-08-18 19:54:33] OK microsoft/kiota-serialization-json-go: 2 commits, 98 PRs merged in 30 days
+[2025-08-18 19:54:33] Processing 650/1106: microsoft/kiota-serialization-multipart-go
+[2025-08-18 19:54:36] OK microsoft/kiota-serialization-multipart-go: 3 commits, 59 PRs merged in 30 days
+[2025-08-18 19:54:36] Processing 651/1106: microsoft/kiota-serialization-text-go
+[2025-08-18 19:54:39] OK microsoft/kiota-serialization-text-go: 3 commits, 95 PRs merged in 30 days
+[2025-08-18 19:54:39] Processing 652/1106: microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio
+[2025-08-18 19:54:41] OK microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio: 8 commits, 4 PRs merged in 30 days
+[2025-08-18 19:54:41] Processing 653/1106: microsoft/windows-container-tools
+[2025-08-18 19:54:44] OK microsoft/windows-container-tools: 1 commits, 63 PRs merged in 30 days
+[2025-08-18 19:54:44] Processing 654/1106: microsoft/go-crypto-darwin
+[2025-08-18 19:54:46] OK microsoft/go-crypto-darwin: 2 commits, 53 PRs merged in 30 days
+[2025-08-18 19:54:46] Processing 655/1106: microsoft/vs-validation
+[2025-08-18 19:54:48] OK microsoft/vs-validation: 16 commits, 38 PRs merged in 30 days
+[2025-08-18 19:54:48] Processing 656/1106: microsoft/vs-servicehub
+[2025-08-18 19:54:54] OK microsoft/vs-servicehub: 20 commits, 62 PRs merged in 30 days
+[2025-08-18 19:54:54] Processing 657/1106: microsoft/go-infra-images
+[2025-08-18 19:54:56] OK microsoft/go-infra-images: 1 commits, 32 PRs merged in 30 days
+[2025-08-18 19:54:56] Processing 658/1106: microsoft/kiota-python
+[2025-08-18 19:54:59] OK microsoft/kiota-python: 2 commits, 97 PRs merged in 30 days
+[2025-08-18 19:54:59] Processing 659/1106: microsoft/kiota-dart
+[2025-08-18 19:55:02] OK microsoft/kiota-dart: 15 commits, 71 PRs merged in 30 days
+[2025-08-18 19:55:02] Processing 660/1106: microsoft/kiota-dotnet
+[2025-08-18 19:55:05] OK microsoft/kiota-dotnet: 2 commits, 57 PRs merged in 30 days
+[2025-08-18 19:55:05] Processing 661/1106: microsoft/ProbTS
+[2025-08-18 19:55:07] OK microsoft/ProbTS: 0 commits, 22 PRs merged in 30 days
+[2025-08-18 19:55:07] Processing 662/1106: microsoft/backfill
+[2025-08-18 19:55:10] OK microsoft/backfill: 11 commits, 69 PRs merged in 30 days
+[2025-08-18 19:55:11] Processing 663/1106: microsoft/Dynamics-365-FastTrack-FSCM-Telemetry-Samples
+[2025-08-18 19:55:12] OK microsoft/Dynamics-365-FastTrack-FSCM-Telemetry-Samples: 4 commits, 6 PRs merged in 30 days
+[2025-08-18 19:55:12] Processing 664/1106: microsoft/busiotools
+[2025-08-18 19:55:15] OK microsoft/busiotools: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 19:55:15] Processing 665/1106: microsoft/nova-facade
+[2025-08-18 19:55:18] OK microsoft/nova-facade: 12 commits, 85 PRs merged in 30 days
+[2025-08-18 19:55:18] Processing 666/1106: microsoft/vscode-makefile-tools
+[2025-08-18 19:55:22] OK microsoft/vscode-makefile-tools: 4 commits, 97 PRs merged in 30 days
+[2025-08-18 19:55:22] Processing 667/1106: microsoft/eureka-ml-insights
+[2025-08-18 19:55:24] OK microsoft/eureka-ml-insights: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 19:55:24] Processing 668/1106: microsoft/vscode-cordova
+[2025-08-18 19:55:27] OK microsoft/vscode-cordova: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 19:55:27] Processing 669/1106: microsoft/vscode-l10n
+[2025-08-18 19:55:30] OK microsoft/vscode-l10n: 3 commits, 97 PRs merged in 30 days
+[2025-08-18 19:55:30] Processing 670/1106: microsoft/openjdk-jdk11u
+[2025-08-18 19:55:32] OK microsoft/openjdk-jdk11u: 7 commits, 43 PRs merged in 30 days
+[2025-08-18 19:55:32] Processing 671/1106: microsoft/powerplatform-build-tools
+[2025-08-18 19:55:35] OK microsoft/powerplatform-build-tools: 3 commits, 63 PRs merged in 30 days
+[2025-08-18 19:55:35] Processing 672/1106: microsoft/typescript-benchmarking
+[2025-08-18 19:55:38] OK microsoft/typescript-benchmarking: 4 commits, 80 PRs merged in 30 days
+[2025-08-18 19:55:38] Processing 673/1106: microsoft/dusseldorf
+[2025-08-18 19:55:40] OK microsoft/dusseldorf: 7 commits, 70 PRs merged in 30 days
+[2025-08-18 19:55:40] Processing 674/1106: microsoft/DxCapsViewer
+[2025-08-18 19:55:42] OK microsoft/DxCapsViewer: 5 commits, 50 PRs merged in 30 days
+[2025-08-18 19:55:42] Processing 675/1106: microsoft/vscode-app-mod-pack
+[2025-08-18 19:55:44] OK microsoft/vscode-app-mod-pack: 3 commits, 18 PRs merged in 30 days
+[2025-08-18 19:55:44] Processing 676/1106: microsoft/teams.ts
+[2025-08-18 19:55:47] OK microsoft/teams.ts: 17 commits, 91 PRs merged in 30 days
+[2025-08-18 19:55:47] Processing 677/1106: microsoft/FeatureManagement-JavaScript
+[2025-08-18 19:55:49] OK microsoft/FeatureManagement-JavaScript: 3 commits, 94 PRs merged in 30 days
+[2025-08-18 19:55:49] Processing 678/1106: microsoft/devfactory
+[2025-08-18 19:55:51] OK microsoft/devfactory: 16 commits, 12 PRs merged in 30 days
+[2025-08-18 19:55:51] Processing 679/1106: microsoft/OpenAIWorkshop
+[2025-08-18 19:55:54] OK microsoft/OpenAIWorkshop: 23 commits, 91 PRs merged in 30 days
+[2025-08-18 19:55:54] Processing 680/1106: microsoft/vscode-spring-boot-dashboard
+[2025-08-18 19:55:57] OK microsoft/vscode-spring-boot-dashboard: 1 commits, 93 PRs merged in 30 days
+[2025-08-18 19:55:57] Processing 681/1106: microsoft/vscode-powerquery
+[2025-08-18 19:55:59] OK microsoft/vscode-powerquery: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 19:55:59] Processing 682/1106: microsoft/vscode-css-languageservice
+[2025-08-18 19:56:03] OK microsoft/vscode-css-languageservice: 1 commits, 91 PRs merged in 30 days
+[2025-08-18 19:56:03] Processing 683/1106: microsoft/mwkorea
+[2025-08-18 19:56:04] OK microsoft/mwkorea: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 19:56:04] Processing 684/1106: microsoft/FX11
+[2025-08-18 19:56:07] OK microsoft/FX11: 5 commits, 50 PRs merged in 30 days
+[2025-08-18 19:56:07] Processing 685/1106: microsoft/rats
+[2025-08-18 19:56:10] OK microsoft/rats: 8 commits, 90 PRs merged in 30 days
+[2025-08-18 19:56:10] Processing 686/1106: microsoft/mcs-labs
+[2025-08-18 19:56:12] OK microsoft/mcs-labs: 4 commits, 10 PRs merged in 30 days
+[2025-08-18 19:56:12] Processing 687/1106: microsoft/openjdk-docker
+[2025-08-18 19:56:15] OK microsoft/openjdk-docker: 3 commits, 86 PRs merged in 30 days
+[2025-08-18 19:56:15] Processing 688/1106: microsoft/usersim
+[2025-08-18 19:56:17] OK microsoft/usersim: 4 commits, 78 PRs merged in 30 days
+[2025-08-18 19:56:17] Processing 689/1106: microsoft/OpenApi.ApiManifest
+[2025-08-18 19:56:20] OK microsoft/OpenApi.ApiManifest: 2 commits, 98 PRs merged in 30 days
+[2025-08-18 19:56:20] Processing 690/1106: microsoft/Power-Fx-Dataverse
+[2025-08-18 19:56:23] OK microsoft/Power-Fx-Dataverse: 4 commits, 88 PRs merged in 30 days
+[2025-08-18 19:56:23] Processing 691/1106: microsoft/artifacts-keyring
+[2025-08-18 19:56:25] OK microsoft/artifacts-keyring: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 19:56:25] Processing 692/1106: microsoft/rust_debugger_test
+[2025-08-18 19:56:27] OK microsoft/rust_debugger_test: 1 commits, 12 PRs merged in 30 days
+[2025-08-18 19:56:27] Processing 693/1106: microsoft/TypeScript-repos-automation
+[2025-08-18 19:56:29] OK microsoft/TypeScript-repos-automation: 0 commits, 43 PRs merged in 30 days
+[2025-08-18 19:56:29] Processing 694/1106: microsoft/Data-AI-Design-SMB
+[2025-08-18 19:56:31] OK microsoft/Data-AI-Design-SMB: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 19:56:31] Processing 695/1106: microsoft/teams.net
+[2025-08-18 19:56:33] OK microsoft/teams.net: 6 commits, 42 PRs merged in 30 days
+[2025-08-18 19:56:33] Processing 696/1106: microsoft/typescript-bot-test-triggerer
+[2025-08-18 19:56:36] OK microsoft/typescript-bot-test-triggerer: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 19:56:36] Processing 697/1106: microsoft/mpss
+[2025-08-18 19:56:37] OK microsoft/mpss: 22 commits, 2 PRs merged in 30 days
+[2025-08-18 19:56:37] Processing 698/1106: microsoft/Kerberos-Crypto
+[2025-08-18 19:56:39] OK microsoft/Kerberos-Crypto: 9 commits, 4 PRs merged in 30 days
+[2025-08-18 19:56:39] Processing 699/1106: microsoft/injectorppforrust
+[2025-08-18 19:56:41] OK microsoft/injectorppforrust: 5 commits, 64 PRs merged in 30 days
+[2025-08-18 19:56:41] Processing 700/1106: microsoft/signature-marking-detector
+[2025-08-18 19:56:43] OK microsoft/signature-marking-detector: 11 commits, 0 PRs merged in 30 days
+[2025-08-18 19:56:43] Processing 701/1106: microsoft/ContactCenterMessagingSDK-ios
+[2025-08-18 19:56:45] OK microsoft/ContactCenterMessagingSDK-ios: 17 commits, 34 PRs merged in 30 days
+[2025-08-18 19:56:45] Processing 702/1106: microsoft/quicreach
+[2025-08-18 19:56:48] OK microsoft/quicreach: 6 commits, 74 PRs merged in 30 days
+[2025-08-18 19:56:48] Processing 703/1106: microsoft/vs-renovate-presets
+[2025-08-18 19:56:50] OK microsoft/vs-renovate-presets: 3 commits, 29 PRs merged in 30 days
+[2025-08-18 19:56:50] Processing 704/1106: microsoft/accessibility-insights-service
+[2025-08-18 19:56:53] OK microsoft/accessibility-insights-service: 2 commits, 25 PRs merged in 30 days
+[2025-08-18 19:56:53] Processing 705/1106: microsoft/ntosebpfext
+[2025-08-18 19:56:55] OK microsoft/ntosebpfext: 4 commits, 78 PRs merged in 30 days
+[2025-08-18 19:56:55] Processing 706/1106: microsoft/Windows365-PSScripts
+[2025-08-18 19:56:57] OK microsoft/Windows365-PSScripts: 1 commits, 29 PRs merged in 30 days
+[2025-08-18 19:56:57] Processing 707/1106: microsoft/service-fabric-explorer
+[2025-08-18 19:57:00] OK microsoft/service-fabric-explorer: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 19:57:00] Processing 708/1106: microsoft/vs-extension-testing
+[2025-08-18 19:57:02] OK microsoft/vs-extension-testing: 4 commits, 65 PRs merged in 30 days
+[2025-08-18 19:57:02] Processing 709/1106: microsoft/Azure-Analytics-and-AI-Engagement
+[2025-08-18 19:57:04] OK microsoft/Azure-Analytics-and-AI-Engagement: 2 commits, 30 PRs merged in 30 days
+[2025-08-18 19:57:04] Processing 710/1106: microsoft/Build25-LAB329
+[2025-08-18 19:57:06] OK microsoft/Build25-LAB329: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 19:57:06] Processing 711/1106: microsoft/multimodal-ai
+[2025-08-18 19:57:09] OK microsoft/multimodal-ai: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 19:57:09] Processing 712/1106: microsoft/hlsl-specs
+[2025-08-18 19:57:11] OK microsoft/hlsl-specs: 11 commits, 95 PRs merged in 30 days
+[2025-08-18 19:57:11] Processing 713/1106: microsoft/elem2design
+[2025-08-18 19:57:13] OK microsoft/elem2design: 4 commits, 4 PRs merged in 30 days
+[2025-08-18 19:57:13] Processing 714/1106: microsoft/teams-ai
+[2025-08-18 19:57:16] OK microsoft/teams-ai: 5 commits, 71 PRs merged in 30 days
+[2025-08-18 19:57:16] Processing 715/1106: microsoft/dbt-fabricspark
+[2025-08-18 19:57:18] OK microsoft/dbt-fabricspark: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 19:57:18] Processing 716/1106: microsoft/Agents-M365Copilot
+[2025-08-18 19:57:20] OK microsoft/Agents-M365Copilot: 14 commits, 90 PRs merged in 30 days
+[2025-08-18 19:57:20] Processing 717/1106: microsoft/vscode-notebook-renderers
+[2025-08-18 19:57:23] OK microsoft/vscode-notebook-renderers: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 19:57:23] Processing 718/1106: microsoft/accessibility-insights-action
+[2025-08-18 19:57:26] OK microsoft/accessibility-insights-action: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 19:57:26] Processing 719/1106: microsoft/beachball
+[2025-08-18 19:57:29] OK microsoft/beachball: 2 commits, 80 PRs merged in 30 days
+[2025-08-18 19:57:29] Processing 720/1106: microsoft/agdebugger
+[2025-08-18 19:57:31] OK microsoft/agdebugger: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 19:57:31] Processing 721/1106: microsoft/azurekorea
+[2025-08-18 19:57:34] OK microsoft/azurekorea: 55 commits, 62 PRs merged in 30 days
+[2025-08-18 19:57:34] Processing 722/1106: microsoft/dbt-fabric
+[2025-08-18 19:57:36] OK microsoft/dbt-fabric: 1 commits, 30 PRs merged in 30 days
+[2025-08-18 19:57:36] Processing 723/1106: microsoft/vs-ng-language-service
+[2025-08-18 19:57:38] OK microsoft/vs-ng-language-service: 4 commits, 37 PRs merged in 30 days
+[2025-08-18 19:57:39] Processing 724/1106: microsoft/vscode-websearchforcopilot
+[2025-08-18 19:57:40] OK microsoft/vscode-websearchforcopilot: 2 commits, 17 PRs merged in 30 days
+[2025-08-18 19:57:40] Processing 725/1106: microsoft/minecraft-scripting-samples
+[2025-08-18 19:57:43] OK microsoft/minecraft-scripting-samples: 1 commits, 26 PRs merged in 30 days
+[2025-08-18 19:57:43] Processing 726/1106: microsoft/RecursiveExtractor
+[2025-08-18 19:57:45] OK microsoft/RecursiveExtractor: 2 commits, 87 PRs merged in 30 days
+[2025-08-18 19:57:45] Processing 727/1106: microsoft/o365-moodle
+[2025-08-18 19:57:48] OK microsoft/o365-moodle: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 19:57:48] Processing 728/1106: microsoft/highlight-summarize
+[2025-08-18 19:57:50] OK microsoft/highlight-summarize: 1 commits, 13 PRs merged in 30 days
+[2025-08-18 19:57:50] Processing 729/1106: microsoft/presidio-research
+[2025-08-18 19:57:52] OK microsoft/presidio-research: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 19:57:52] Processing 730/1106: microsoft/MicrosoftEdge-Extensions
+[2025-08-18 19:57:54] OK microsoft/MicrosoftEdge-Extensions: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 19:57:54] Processing 731/1106: microsoft/llm-steer-instruct
+[2025-08-18 19:57:56] OK microsoft/llm-steer-instruct: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 19:57:56] Processing 732/1106: microsoft/Windows-rust-driver-samples
+[2025-08-18 19:57:58] OK microsoft/Windows-rust-driver-samples: 0 commits, 18 PRs merged in 30 days
+[2025-08-18 19:57:58] Processing 733/1106: microsoft/azure-devops-rust-api
+[2025-08-18 19:58:00] OK microsoft/azure-devops-rust-api: 5 commits, 87 PRs merged in 30 days
+[2025-08-18 19:58:01] Processing 734/1106: microsoft/dstoolkit-devcontainers
+[2025-08-18 19:58:03] OK microsoft/dstoolkit-devcontainers: 1 commits, 74 PRs merged in 30 days
+[2025-08-18 19:58:03] Processing 735/1106: microsoft/PSRule-vscode
+[2025-08-18 19:58:05] OK microsoft/PSRule-vscode: 0 commits, 41 PRs merged in 30 days
+[2025-08-18 19:58:06] Processing 736/1106: microsoft/PSRule.Monitor
+[2025-08-18 19:58:08] OK microsoft/PSRule.Monitor: 2 commits, 58 PRs merged in 30 days
+[2025-08-18 19:58:08] Processing 737/1106: microsoft/confidential-container-demos
+[2025-08-18 19:58:10] OK microsoft/confidential-container-demos: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 19:58:10] Processing 738/1106: microsoft/asconnect
+[2025-08-18 19:58:13] OK microsoft/asconnect: 13 commits, 54 PRs merged in 30 days
+[2025-08-18 19:58:13] Processing 739/1106: microsoft/Dynamics365Commerce.ScaleUnit
+[2025-08-18 19:58:15] OK microsoft/Dynamics365Commerce.ScaleUnit: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 19:58:15] Processing 740/1106: microsoft/pxt-arcade
+[2025-08-18 19:58:18] OK microsoft/pxt-arcade: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 19:58:18] Processing 741/1106: microsoft/sfs-client
+[2025-08-18 19:58:21] OK microsoft/sfs-client: 1 commits, 92 PRs merged in 30 days
+[2025-08-18 19:58:21] Processing 742/1106: microsoft/security-devops-azdevops-task-lib
+[2025-08-18 19:58:23] OK microsoft/security-devops-azdevops-task-lib: 2 commits, 17 PRs merged in 30 days
+[2025-08-18 19:58:23] Processing 743/1106: microsoft/moc
+[2025-08-18 19:58:25] OK microsoft/moc: 2 commits, 69 PRs merged in 30 days
+[2025-08-18 19:58:25] Processing 744/1106: microsoft/TypeScript-wiki
+[2025-08-18 19:58:28] OK microsoft/TypeScript-wiki: 4 commits, 81 PRs merged in 30 days
+[2025-08-18 19:58:28] Processing 745/1106: microsoft/opensource-management-portal
+[2025-08-18 19:58:31] OK microsoft/opensource-management-portal: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 19:58:31] Processing 746/1106: microsoft/vsts-extension-retrospectives
+[2025-08-18 19:58:34] OK microsoft/vsts-extension-retrospectives: 10 commits, 66 PRs merged in 30 days
+[2025-08-18 19:58:34] Processing 747/1106: microsoft/Docker-Provider
+[2025-08-18 19:58:36] OK microsoft/Docker-Provider: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 19:58:36] Processing 748/1106: microsoft/Adversarial-Chatter
+[2025-08-18 19:58:38] OK microsoft/Adversarial-Chatter: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 19:58:38] Processing 749/1106: microsoft/dbt-synapse
+[2025-08-18 19:58:40] OK microsoft/dbt-synapse: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 19:58:40] Processing 750/1106: microsoft/lage
+[2025-08-18 19:58:44] OK microsoft/lage: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 19:58:44] Processing 751/1106: microsoft/sarif-vscode-extension
+[2025-08-18 19:58:46] OK microsoft/sarif-vscode-extension: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 19:58:46] Processing 752/1106: microsoft/Teams-AdaptiveCards-Mobile
+[2025-08-18 19:58:49] OK microsoft/Teams-AdaptiveCards-Mobile: 43 commits, 67 PRs merged in 30 days
+[2025-08-18 19:58:49] Processing 753/1106: microsoft/DacFx
+[2025-08-18 19:58:52] OK microsoft/DacFx: 9 commits, 97 PRs merged in 30 days
+[2025-08-18 19:58:52] Processing 754/1106: microsoft/durabletask-protobuf
+[2025-08-18 19:58:54] OK microsoft/durabletask-protobuf: 1 commits, 34 PRs merged in 30 days
+[2025-08-18 19:58:54] Processing 755/1106: microsoft/Windows-Driver-Developer-Supplemental-Tools
+[2025-08-18 19:58:56] OK microsoft/Windows-Driver-Developer-Supplemental-Tools: 11 commits, 93 PRs merged in 30 days
+[2025-08-18 19:58:56] Processing 756/1106: microsoft/vs-mef
+[2025-08-18 19:58:59] OK microsoft/vs-mef: 17 commits, 48 PRs merged in 30 days
+[2025-08-18 19:58:59] Processing 757/1106: microsoft/SqlNexus
+[2025-08-18 19:59:01] OK microsoft/SqlNexus: 0 commits, 47 PRs merged in 30 days
+[2025-08-18 19:59:01] Processing 758/1106: microsoft/UTCM-ControlPanel
+[2025-08-18 19:59:03] OK microsoft/UTCM-ControlPanel: 1 commits, 100 PRs merged in 30 days
+[2025-08-18 19:59:04] Processing 759/1106: microsoft/purview
+[2025-08-18 19:59:05] OK microsoft/purview: 6 commits, 1 PRs merged in 30 days
+[2025-08-18 19:59:05] Processing 760/1106: microsoft/OpenAPI.NET.OData
+[2025-08-18 19:59:08] OK microsoft/OpenAPI.NET.OData: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 19:59:08] Processing 761/1106: microsoft/terraform-provider-azuredevops
+[2025-08-18 19:59:11] OK microsoft/terraform-provider-azuredevops: 12 commits, 99 PRs merged in 30 days
+[2025-08-18 19:59:11] Processing 762/1106: microsoft/AzureTRE-Deployment
+[2025-08-18 19:59:13] OK microsoft/AzureTRE-Deployment: 1 commits, 48 PRs merged in 30 days
+[2025-08-18 19:59:13] Processing 763/1106: microsoft/VoluMe
+[2025-08-18 19:59:15] OK microsoft/VoluMe: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 19:59:15] Processing 764/1106: microsoft/python-type-stubs
+[2025-08-18 19:59:17] OK microsoft/python-type-stubs: 1 commits, 95 PRs merged in 30 days
+[2025-08-18 19:59:17] Processing 765/1106: microsoft/azurelinux-tutorials
+[2025-08-18 19:59:19] OK microsoft/azurelinux-tutorials: 1 commits, 47 PRs merged in 30 days
+[2025-08-18 19:59:19] Processing 766/1106: microsoft/ai-foundry-for-vscode
+[2025-08-18 19:59:21] OK microsoft/ai-foundry-for-vscode: 2 commits, 13 PRs merged in 30 days
+[2025-08-18 19:59:21] Processing 767/1106: microsoft/oneqmc
+[2025-08-18 19:59:23] OK microsoft/oneqmc: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 19:59:23] Processing 768/1106: microsoft/just
+[2025-08-18 19:59:25] OK microsoft/just: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 19:59:25] Processing 769/1106: microsoft/vscode-markdown-tm-grammar
+[2025-08-18 19:59:28] OK microsoft/vscode-markdown-tm-grammar: 10 commits, 59 PRs merged in 30 days
+[2025-08-18 19:59:28] Processing 770/1106: microsoft/Windows-Containers
+[2025-08-18 19:59:30] OK microsoft/Windows-Containers: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 19:59:30] Processing 771/1106: microsoft/omnichannel-amsclient
+[2025-08-18 19:59:32] OK microsoft/omnichannel-amsclient: 11 commits, 55 PRs merged in 30 days
+[2025-08-18 19:59:32] Processing 772/1106: microsoft/kalypso
+[2025-08-18 19:59:34] OK microsoft/kalypso: 18 commits, 39 PRs merged in 30 days
+[2025-08-18 19:59:34] Processing 773/1106: microsoft/unity-asset-graph-rs
+[2025-08-18 19:59:35] OK microsoft/unity-asset-graph-rs: 10 commits, 0 PRs merged in 30 days
+[2025-08-18 19:59:36] Processing 774/1106: microsoft/service-fabric-healer
+[2025-08-18 19:59:38] OK microsoft/service-fabric-healer: 1 commits, 96 PRs merged in 30 days
+[2025-08-18 19:59:38] Processing 775/1106: microsoft/vscode-azureappservice
+[2025-08-18 19:59:41] OK microsoft/vscode-azureappservice: 2 commits, 87 PRs merged in 30 days
+[2025-08-18 19:59:41] Processing 776/1106: microsoft/vscode-azurevirtualmachines
+[2025-08-18 19:59:44] OK microsoft/vscode-azurevirtualmachines: 1 commits, 93 PRs merged in 30 days
+[2025-08-18 19:59:44] Processing 777/1106: microsoft/vscode-azurecontainerapps
+[2025-08-18 19:59:47] OK microsoft/vscode-azurecontainerapps: 19 commits, 95 PRs merged in 30 days
+[2025-08-18 19:59:47] Processing 778/1106: microsoft/PSRule-pipelines
+[2025-08-18 19:59:49] OK microsoft/PSRule-pipelines: 4 commits, 74 PRs merged in 30 days
+[2025-08-18 19:59:49] Processing 779/1106: microsoft/Omex
+[2025-08-18 19:59:52] OK microsoft/Omex: 5 commits, 94 PRs merged in 30 days
+[2025-08-18 19:59:52] Processing 780/1106: microsoft/wpa
+[2025-08-18 19:59:55] OK microsoft/wpa: 16 commits, 98 PRs merged in 30 days
+[2025-08-18 19:59:55] Processing 781/1106: microsoft/YOLaT-VectorGraphicsRecognition
+[2025-08-18 19:59:56] OK microsoft/YOLaT-VectorGraphicsRecognition: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 19:59:56] Processing 782/1106: microsoft/amlFilesystem-lustre
+[2025-08-18 19:59:58] OK microsoft/amlFilesystem-lustre: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 19:59:58] Processing 783/1106: microsoft/SPTAG
+[2025-08-18 20:00:01] OK microsoft/SPTAG: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 20:00:01] Processing 784/1106: microsoft/data-factory-testing-framework
+[2025-08-18 20:00:04] OK microsoft/data-factory-testing-framework: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 20:00:04] Processing 785/1106: microsoft/woodgrove-groceries
+[2025-08-18 20:00:06] OK microsoft/woodgrove-groceries: 1 commits, 25 PRs merged in 30 days
+[2025-08-18 20:00:06] Processing 786/1106: microsoft/homebrew-foundrylocal
+[2025-08-18 20:00:08] OK microsoft/homebrew-foundrylocal: 3 commits, 17 PRs merged in 30 days
+[2025-08-18 20:00:08] Processing 787/1106: microsoft/hands-on-lab-azure-managed-redis
+[2025-08-18 20:00:09] OK microsoft/hands-on-lab-azure-managed-redis: 9 commits, 0 PRs merged in 30 days
+[2025-08-18 20:00:09] Processing 788/1106: microsoft/react-dag-editor
+[2025-08-18 20:00:12] OK microsoft/react-dag-editor: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 20:00:12] Processing 789/1106: microsoft/codecoverage
+[2025-08-18 20:00:14] OK microsoft/codecoverage: 2 commits, 69 PRs merged in 30 days
+[2025-08-18 20:00:14] Processing 790/1106: microsoft/BCTech
+[2025-08-18 20:00:17] OK microsoft/BCTech: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 20:00:17] Processing 791/1106: microsoft/mttl
+[2025-08-18 20:00:19] OK microsoft/mttl: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 20:00:19] Processing 792/1106: microsoft/windows-container-networking
+[2025-08-18 20:00:22] OK microsoft/windows-container-networking: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 20:00:22] Processing 793/1106: microsoft/hermes-windows
+[2025-08-18 20:00:24] OK microsoft/hermes-windows: 14 commits, 74 PRs merged in 30 days
+[2025-08-18 20:00:24] Processing 794/1106: microsoft/power-pages-samples
+[2025-08-18 20:00:26] OK microsoft/power-pages-samples: 3 commits, 8 PRs merged in 30 days
+[2025-08-18 20:00:26] Processing 795/1106: microsoft/adaptive_cloud_community
+[2025-08-18 20:00:28] OK microsoft/adaptive_cloud_community: 2 commits, 54 PRs merged in 30 days
+[2025-08-18 20:00:28] Processing 796/1106: microsoft/Skeena-Indigenous-Typeface
+[2025-08-18 20:00:30] OK microsoft/Skeena-Indigenous-Typeface: 5 commits, 4 PRs merged in 30 days
+[2025-08-18 20:00:30] Processing 797/1106: microsoft/msstore-cli
+[2025-08-18 20:00:32] OK microsoft/msstore-cli: 2 commits, 33 PRs merged in 30 days
+[2025-08-18 20:00:32] Processing 798/1106: microsoft/FastTrack
+[2025-08-18 20:00:34] OK microsoft/FastTrack: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 20:00:34] Processing 799/1106: microsoft/jailbreak-distillation
+[2025-08-18 20:00:36] OK microsoft/jailbreak-distillation: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:00:36] Processing 800/1106: microsoft/vscode-remote-wsl-recommender
+[2025-08-18 20:00:38] OK microsoft/vscode-remote-wsl-recommender: 2 commits, 22 PRs merged in 30 days
+[2025-08-18 20:00:38] Processing 801/1106: microsoft/fhir-loader
+[2025-08-18 20:00:40] OK microsoft/fhir-loader: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 20:00:40] Processing 802/1106: microsoft/custom-monaco-copilot-demo
+[2025-08-18 20:00:41] OK microsoft/custom-monaco-copilot-demo: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:00:41] Processing 803/1106: microsoft/anomaly-detector
+[2025-08-18 20:00:44] OK microsoft/anomaly-detector: 8 commits, 53 PRs merged in 30 days
+[2025-08-18 20:00:44] Processing 804/1106: microsoft/vscode-node-azure-pack
+[2025-08-18 20:00:46] OK microsoft/vscode-node-azure-pack: 3 commits, 32 PRs merged in 30 days
+[2025-08-18 20:00:46] Processing 805/1106: microsoft/pxt-mkc
+[2025-08-18 20:00:48] OK microsoft/pxt-mkc: 0 commits, 78 PRs merged in 30 days
+[2025-08-18 20:00:49] Processing 806/1106: microsoft/documentdb-kubernetes-operator
+[2025-08-18 20:00:51] OK microsoft/documentdb-kubernetes-operator: 13 commits, 35 PRs merged in 30 days
+[2025-08-18 20:00:51] Processing 807/1106: microsoft/mu_feature_ffa
+[2025-08-18 20:00:53] OK microsoft/mu_feature_ffa: 5 commits, 28 PRs merged in 30 days
+[2025-08-18 20:00:53] Processing 808/1106: microsoft/DecodingSuperUsage
+[2025-08-18 20:00:54] OK microsoft/DecodingSuperUsage: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:00:54] Processing 809/1106: microsoft/AI-Pex-for-SDC
+[2025-08-18 20:00:56] OK microsoft/AI-Pex-for-SDC: 4 commits, 20 PRs merged in 30 days
+[2025-08-18 20:00:56] Processing 810/1106: microsoft/Analysis-Services
+[2025-08-18 20:00:58] OK microsoft/Analysis-Services: 0 commits, 20 PRs merged in 30 days
+[2025-08-18 20:00:58] Processing 811/1106: microsoft/Test_Awareness_Steering
+[2025-08-18 20:01:00] OK microsoft/Test_Awareness_Steering: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:01:00] Processing 812/1106: microsoft/simple_ado
+[2025-08-18 20:01:02] OK microsoft/simple_ado: 6 commits, 26 PRs merged in 30 days
+[2025-08-18 20:01:02] Processing 813/1106: microsoft/ifc-spec
+[2025-08-18 20:01:06] OK microsoft/ifc-spec: 1 commits, 68 PRs merged in 30 days
+[2025-08-18 20:01:06] Processing 814/1106: microsoft/vscode-test-web
+[2025-08-18 20:01:09] OK microsoft/vscode-test-web: 4 commits, 92 PRs merged in 30 days
+[2025-08-18 20:01:09] Processing 815/1106: microsoft/google-play-vsts-extension
+[2025-08-18 20:01:12] OK microsoft/google-play-vsts-extension: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 20:01:12] Processing 816/1106: microsoft/jbpf
+[2025-08-18 20:01:14] OK microsoft/jbpf: 0 commits, 71 PRs merged in 30 days
+[2025-08-18 20:01:14] Processing 817/1106: microsoft/DXUT
+[2025-08-18 20:01:16] OK microsoft/DXUT: 4 commits, 56 PRs merged in 30 days
+[2025-08-18 20:01:17] Processing 818/1106: microsoft/D3D11On12
+[2025-08-18 20:01:18] OK microsoft/D3D11On12: 0 commits, 29 PRs merged in 30 days
+[2025-08-18 20:01:19] Processing 819/1106: microsoft/aad_b2c_webview
+[2025-08-18 20:01:20] OK microsoft/aad_b2c_webview: 2 commits, 26 PRs merged in 30 days
+[2025-08-18 20:01:21] Processing 820/1106: microsoft/CoseSignTool
+[2025-08-18 20:01:23] OK microsoft/CoseSignTool: 14 commits, 94 PRs merged in 30 days
+[2025-08-18 20:01:23] Processing 821/1106: microsoft/openjdk-adoptium-marketplace-data
+[2025-08-18 20:01:25] OK microsoft/openjdk-adoptium-marketplace-data: 4 commits, 22 PRs merged in 30 days
+[2025-08-18 20:01:25] Processing 822/1106: microsoft/arc-switch
+[2025-08-18 20:01:27] OK microsoft/arc-switch: 1 commits, 5 PRs merged in 30 days
+[2025-08-18 20:01:27] Processing 823/1106: microsoft/github-scaled-agent-mode-webinar
+[2025-08-18 20:01:29] OK microsoft/github-scaled-agent-mode-webinar: 2 commits, 2 PRs merged in 30 days
+[2025-08-18 20:01:29] Processing 824/1106: microsoft/NetPerfTest
+[2025-08-18 20:01:31] OK microsoft/NetPerfTest: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 20:01:31] Processing 825/1106: microsoft/vscode-docker-extensibility
+[2025-08-18 20:01:33] OK microsoft/vscode-docker-extensibility: 6 commits, 96 PRs merged in 30 days
+[2025-08-18 20:01:33] Processing 826/1106: microsoft/ccfdns
+[2025-08-18 20:01:35] OK microsoft/ccfdns: 1 commits, 28 PRs merged in 30 days
+[2025-08-18 20:01:35] Processing 827/1106: microsoft/viva-insights-sample-code
+[2025-08-18 20:01:37] OK microsoft/viva-insights-sample-code: 56 commits, 2 PRs merged in 30 days
+[2025-08-18 20:01:37] Processing 828/1106: microsoft/vscode-cpptools-api
+[2025-08-18 20:01:39] OK microsoft/vscode-cpptools-api: 1 commits, 32 PRs merged in 30 days
+[2025-08-18 20:01:39] Processing 829/1106: microsoft/vscode-azureapicenter
+[2025-08-18 20:01:41] OK microsoft/vscode-azureapicenter: 9 commits, 88 PRs merged in 30 days
+[2025-08-18 20:01:42] Processing 830/1106: microsoft/botframework-webchat-adapter-azure-communication-chat
+[2025-08-18 20:01:43] OK microsoft/botframework-webchat-adapter-azure-communication-chat: 22 commits, 26 PRs merged in 30 days
+[2025-08-18 20:01:44] Processing 831/1106: microsoft/security-utilities
+[2025-08-18 20:01:46] OK microsoft/security-utilities: 2 commits, 87 PRs merged in 30 days
+[2025-08-18 20:01:46] Processing 832/1106: microsoft/adme-samples
+[2025-08-18 20:01:48] OK microsoft/adme-samples: 29 commits, 61 PRs merged in 30 days
+[2025-08-18 20:01:48] Processing 833/1106: microsoft/BotFunctionalTestingService
+[2025-08-18 20:01:50] OK microsoft/BotFunctionalTestingService: 0 commits, 59 PRs merged in 30 days
+[2025-08-18 20:01:50] Processing 834/1106: microsoft/ReverseDSC
+[2025-08-18 20:01:52] OK microsoft/ReverseDSC: 0 commits, 30 PRs merged in 30 days
+[2025-08-18 20:01:52] Processing 835/1106: microsoft/TablePilot
+[2025-08-18 20:01:54] OK microsoft/TablePilot: 4 commits, 2 PRs merged in 30 days
+[2025-08-18 20:01:54] Processing 836/1106: microsoft/HealthBotContainerSample
+[2025-08-18 20:01:56] OK microsoft/HealthBotContainerSample: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 20:01:56] Processing 837/1106: microsoft/PR-Metrics
+[2025-08-18 20:01:59] OK microsoft/PR-Metrics: 4 commits, 75 PRs merged in 30 days
+[2025-08-18 20:01:59] Processing 838/1106: microsoft/ApplicationInsights-dotnet
+[2025-08-18 20:02:03] OK microsoft/ApplicationInsights-dotnet: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 20:02:03] Processing 839/1106: microsoft/lamar-benchmark
+[2025-08-18 20:02:05] OK microsoft/lamar-benchmark: 1 commits, 32 PRs merged in 30 days
+[2025-08-18 20:02:05] Processing 840/1106: microsoft/vscode-custom-data
+[2025-08-18 20:02:07] OK microsoft/vscode-custom-data: 1 commits, 55 PRs merged in 30 days
+[2025-08-18 20:02:07] Processing 841/1106: microsoft/PowerBI-visuals-ChicletSlicer
+[2025-08-18 20:02:10] OK microsoft/PowerBI-visuals-ChicletSlicer: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 20:02:10] Processing 842/1106: microsoft/app-store-vsts-extension
+[2025-08-18 20:02:12] OK microsoft/app-store-vsts-extension: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 20:02:12] Processing 843/1106: microsoft/preflate-rs
+[2025-08-18 20:02:14] OK microsoft/preflate-rs: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 20:02:14] Processing 844/1106: microsoft/prose
+[2025-08-18 20:02:17] OK microsoft/prose: 1 commits, 39 PRs merged in 30 days
+[2025-08-18 20:02:17] Processing 845/1106: microsoft/ChatIntelligence
+[2025-08-18 20:02:18] OK microsoft/ChatIntelligence: 6 commits, 0 PRs merged in 30 days
+[2025-08-18 20:02:18] Processing 846/1106: microsoft/Test-NetHLK
+[2025-08-18 20:02:21] OK microsoft/Test-NetHLK: 2 commits, 4 PRs merged in 30 days
+[2025-08-18 20:02:21] Processing 847/1106: microsoft/dynamics-365-contact-center
+[2025-08-18 20:02:23] OK microsoft/dynamics-365-contact-center: 2 commits, 40 PRs merged in 30 days
+[2025-08-18 20:02:23] Processing 848/1106: microsoft/WindowsCloudAcademy
+[2025-08-18 20:02:25] OK microsoft/WindowsCloudAcademy: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 20:02:25] Processing 849/1106: microsoft/python-environment-tools
+[2025-08-18 20:02:27] OK microsoft/python-environment-tools: 1 commits, 84 PRs merged in 30 days
+[2025-08-18 20:02:27] Processing 850/1106: microsoft/AzureAISpeechToolKit
+[2025-08-18 20:02:30] OK microsoft/AzureAISpeechToolKit: 2 commits, 98 PRs merged in 30 days
+[2025-08-18 20:02:30] Processing 851/1106: microsoft/vscode-serial-monitor
+[2025-08-18 20:02:32] OK microsoft/vscode-serial-monitor: 1 commits, 15 PRs merged in 30 days
+[2025-08-18 20:02:32] Processing 852/1106: microsoft/vscode-cmake-tools-api
+[2025-08-18 20:02:33] OK microsoft/vscode-cmake-tools-api: 4 commits, 9 PRs merged in 30 days
+[2025-08-18 20:02:33] Processing 853/1106: microsoft/ACV
+[2025-08-18 20:02:36] OK microsoft/ACV: 3 commits, 4 PRs merged in 30 days
+[2025-08-18 20:02:36] Processing 854/1106: microsoft/vscode-perf
+[2025-08-18 20:02:39] OK microsoft/vscode-perf: 1 commits, 40 PRs merged in 30 days
+[2025-08-18 20:02:39] Processing 855/1106: microsoft/vscode-chat-extension-utils
+[2025-08-18 20:02:40] OK microsoft/vscode-chat-extension-utils: 2 commits, 21 PRs merged in 30 days
+[2025-08-18 20:02:40] Processing 856/1106: microsoft/ai-sentry
+[2025-08-18 20:02:42] OK microsoft/ai-sentry: 3 commits, 34 PRs merged in 30 days
+[2025-08-18 20:02:42] Processing 857/1106: microsoft/vsm-bot-testing
+[2025-08-18 20:02:44] OK microsoft/vsm-bot-testing: 34 commits, 1 PRs merged in 30 days
+[2025-08-18 20:02:44] Processing 858/1106: microsoft/Dynamics365Commerce.Solutions
+[2025-08-18 20:02:46] OK microsoft/Dynamics365Commerce.Solutions: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:02:46] Processing 859/1106: microsoft/p4vfs
+[2025-08-18 20:02:48] OK microsoft/p4vfs: 3 commits, 24 PRs merged in 30 days
+[2025-08-18 20:02:48] Processing 860/1106: microsoft/AOCoptimizer.jl
+[2025-08-18 20:02:51] OK microsoft/AOCoptimizer.jl: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:02:51] Processing 861/1106: microsoft/nanovppo
+[2025-08-18 20:02:53] OK microsoft/nanovppo: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 20:02:53] Processing 862/1106: microsoft/vscode-markdown-languageservice
+[2025-08-18 20:02:56] OK microsoft/vscode-markdown-languageservice: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 20:02:56] Processing 863/1106: microsoft/bobsql
+[2025-08-18 20:02:58] OK microsoft/bobsql: 0 commits, 58 PRs merged in 30 days
+[2025-08-18 20:02:58] Processing 864/1106: microsoft/Yatesbury
+[2025-08-18 20:03:00] OK microsoft/Yatesbury: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 20:03:00] Processing 865/1106: microsoft/glTF-SDK
+[2025-08-18 20:03:02] OK microsoft/glTF-SDK: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 20:03:02] Processing 866/1106: microsoft/eventtracing-processing-samples
+[2025-08-18 20:03:04] OK microsoft/eventtracing-processing-samples: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:03:04] Processing 867/1106: microsoft/assent-app
+[2025-08-18 20:03:06] OK microsoft/assent-app: 10 commits, 42 PRs merged in 30 days
+[2025-08-18 20:03:06] Processing 868/1106: microsoft/msfs-avionics-mirror
+[2025-08-18 20:03:07] OK microsoft/msfs-avionics-mirror: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:03:07] Processing 869/1106: microsoft/windows-dev-center-vsts-extension
+[2025-08-18 20:03:09] OK microsoft/windows-dev-center-vsts-extension: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 20:03:09] Processing 870/1106: microsoft/InteractiveTextGeneration
+[2025-08-18 20:03:11] OK microsoft/InteractiveTextGeneration: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 20:03:11] Processing 871/1106: microsoft/datamations
+[2025-08-18 20:03:13] OK microsoft/datamations: 1 commits, 90 PRs merged in 30 days
+[2025-08-18 20:03:13] Processing 872/1106: microsoft/best-route-llm
+[2025-08-18 20:03:16] OK microsoft/best-route-llm: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 20:03:16] Processing 873/1106: microsoft/jrtc-apps
+[2025-08-18 20:03:18] OK microsoft/jrtc-apps: 20 commits, 17 PRs merged in 30 days
+[2025-08-18 20:03:18] Processing 874/1106: microsoft/DurableFunctionsMonitor
+[2025-08-18 20:03:21] OK microsoft/DurableFunctionsMonitor: 10 commits, 79 PRs merged in 30 days
+[2025-08-18 20:03:21] Processing 875/1106: microsoft/pbiworkshops
+[2025-08-18 20:03:22] OK microsoft/pbiworkshops: 1 commits, 14 PRs merged in 30 days
+[2025-08-18 20:03:23] Processing 876/1106: microsoft/PowerBI-visuals-AsterPlot
+[2025-08-18 20:03:25] OK microsoft/PowerBI-visuals-AsterPlot: 4 commits, 19 PRs merged in 30 days
+[2025-08-18 20:03:25] Processing 877/1106: microsoft/woodgrove-groceries-light
+[2025-08-18 20:03:26] OK microsoft/woodgrove-groceries-light: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:03:27] Processing 878/1106: microsoft/axe-windows
+[2025-08-18 20:03:29] OK microsoft/axe-windows: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 20:03:29] Processing 879/1106: microsoft/FeatureManagement-Go
+[2025-08-18 20:03:31] OK microsoft/FeatureManagement-Go: 4 commits, 20 PRs merged in 30 days
+[2025-08-18 20:03:31] Processing 880/1106: microsoft/GlobalSecureAccess
+[2025-08-18 20:03:33] OK microsoft/GlobalSecureAccess: 2 commits, 4 PRs merged in 30 days
+[2025-08-18 20:03:33] Processing 881/1106: microsoft/FabricRTIWorkshop
+[2025-08-18 20:03:35] OK microsoft/FabricRTIWorkshop: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:03:35] Processing 882/1106: microsoft/rego-cpp
+[2025-08-18 20:03:37] OK microsoft/rego-cpp: 1 commits, 70 PRs merged in 30 days
+[2025-08-18 20:03:37] Processing 883/1106: microsoft/axe-pipelines-samples
+[2025-08-18 20:03:40] OK microsoft/axe-pipelines-samples: 9 commits, 50 PRs merged in 30 days
+[2025-08-18 20:03:40] Processing 884/1106: microsoft/DynamicTelemetry
+[2025-08-18 20:03:42] OK microsoft/DynamicTelemetry: 2 commits, 43 PRs merged in 30 days
+[2025-08-18 20:03:42] Processing 885/1106: microsoft/Validation-OS
+[2025-08-18 20:03:43] OK microsoft/Validation-OS: 2 commits, 13 PRs merged in 30 days
+[2025-08-18 20:03:44] Processing 886/1106: microsoft/semantic-link-functions
+[2025-08-18 20:03:45] OK microsoft/semantic-link-functions: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 20:03:45] Processing 887/1106: microsoft/PlanetaryComputerDataCatalog
+[2025-08-18 20:03:48] OK microsoft/PlanetaryComputerDataCatalog: 1 commits, 80 PRs merged in 30 days
+[2025-08-18 20:03:48] Processing 888/1106: microsoft/LinuxBrokerForAVDAccess
+[2025-08-18 20:03:50] OK microsoft/LinuxBrokerForAVDAccess: 6 commits, 5 PRs merged in 30 days
+[2025-08-18 20:03:50] Processing 889/1106: microsoft/cheriot-ibex
+[2025-08-18 20:03:52] OK microsoft/cheriot-ibex: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 20:03:52] Processing 890/1106: microsoft/vscode-dwarf-debugging-ext
+[2025-08-18 20:03:54] OK microsoft/vscode-dwarf-debugging-ext: 1 commits, 5 PRs merged in 30 days
+[2025-08-18 20:03:54] Processing 891/1106: microsoft/vscode-dwarf-debugging
+[2025-08-18 20:03:56] OK microsoft/vscode-dwarf-debugging: 1 commits, 5 PRs merged in 30 days
+[2025-08-18 20:03:56] Processing 892/1106: microsoft/vscode-python-tools-extension-template
+[2025-08-18 20:03:58] OK microsoft/vscode-python-tools-extension-template: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 20:03:58] Processing 893/1106: microsoft/dicom-server
+[2025-08-18 20:04:01] OK microsoft/dicom-server: 0 commits, 57 PRs merged in 30 days
+[2025-08-18 20:04:01] Processing 894/1106: microsoft/Build25-BRK117
+[2025-08-18 20:04:02] OK microsoft/Build25-BRK117: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 20:04:03] Processing 895/1106: microsoft/virtualnodesOnAzureContainerInstances
+[2025-08-18 20:04:04] OK microsoft/virtualnodesOnAzureContainerInstances: 1 commits, 49 PRs merged in 30 days
+[2025-08-18 20:04:05] Processing 896/1106: microsoft/Build25-BRK122
+[2025-08-18 20:04:06] OK microsoft/Build25-BRK122: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:04:06] Processing 897/1106: microsoft/msrgamut
+[2025-08-18 20:04:08] OK microsoft/msrgamut: 2 commits, 34 PRs merged in 30 days
+[2025-08-18 20:04:08] Processing 898/1106: microsoft/vscode-tree-sitter-wasm
+[2025-08-18 20:04:10] OK microsoft/vscode-tree-sitter-wasm: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 20:04:10] Processing 899/1106: microsoft/OAT
+[2025-08-18 20:04:12] OK microsoft/OAT: 4 commits, 33 PRs merged in 30 days
+[2025-08-18 20:04:12] Processing 900/1106: microsoft/Dual-write-automations
+[2025-08-18 20:04:14] OK microsoft/Dual-write-automations: 2 commits, 21 PRs merged in 30 days
+[2025-08-18 20:04:14] Processing 901/1106: microsoft/pxt-calliope
+[2025-08-18 20:04:17] OK microsoft/pxt-calliope: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 20:04:17] Processing 902/1106: microsoft/SynTrail
+[2025-08-18 20:04:18] OK microsoft/SynTrail: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:04:19] Processing 903/1106: microsoft/fhir-codegen
+[2025-08-18 20:04:21] OK microsoft/fhir-codegen: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 20:04:21] Processing 904/1106: microsoft/OSSGadget
+[2025-08-18 20:04:23] OK microsoft/OSSGadget: 5 commits, 92 PRs merged in 30 days
+[2025-08-18 20:04:24] Processing 905/1106: microsoft/pipelines-appservice-lib
+[2025-08-18 20:04:25] OK microsoft/pipelines-appservice-lib: 0 commits, 51 PRs merged in 30 days
+[2025-08-18 20:04:26] Processing 906/1106: microsoft/powerbi-visuals-sunburst
+[2025-08-18 20:04:28] OK microsoft/powerbi-visuals-sunburst: 0 commits, 17 PRs merged in 30 days
+[2025-08-18 20:04:28] Processing 907/1106: microsoft/vscode-jupyter-hub
+[2025-08-18 20:04:31] OK microsoft/vscode-jupyter-hub: 2 commits, 43 PRs merged in 30 days
+[2025-08-18 20:04:31] Processing 908/1106: microsoft/vscode-gather
+[2025-08-18 20:04:33] OK microsoft/vscode-gather: 5 commits, 70 PRs merged in 30 days
+[2025-08-18 20:04:33] Processing 909/1106: microsoft/sarif-pattern-matcher
+[2025-08-18 20:04:35] OK microsoft/sarif-pattern-matcher: 1 commits, 82 PRs merged in 30 days
+[2025-08-18 20:04:35] Processing 910/1106: microsoft/jcd
+[2025-08-18 20:04:37] OK microsoft/jcd: 16 commits, 5 PRs merged in 30 days
+[2025-08-18 20:04:37] Processing 911/1106: microsoft/OHCL-Linux-Kernel
+[2025-08-18 20:04:39] OK microsoft/OHCL-Linux-Kernel: 0 commits, 44 PRs merged in 30 days
+[2025-08-18 20:04:39] Processing 912/1106: microsoft/vscode-automated-sanity-checker
+[2025-08-18 20:04:41] OK microsoft/vscode-automated-sanity-checker: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 20:04:41] Processing 913/1106: microsoft/vscode-tensorboard
+[2025-08-18 20:04:43] OK microsoft/vscode-tensorboard: 1 commits, 17 PRs merged in 30 days
+[2025-08-18 20:04:43] Processing 914/1106: microsoft/durabletask-netherite
+[2025-08-18 20:04:45] OK microsoft/durabletask-netherite: 5 commits, 91 PRs merged in 30 days
+[2025-08-18 20:04:46] Processing 915/1106: microsoft/sql-server-language-extensions
+[2025-08-18 20:04:48] OK microsoft/sql-server-language-extensions: 1 commits, 30 PRs merged in 30 days
+[2025-08-18 20:04:48] Processing 916/1106: microsoft/nodejstools
+[2025-08-18 20:04:50] OK microsoft/nodejstools: 1 commits, 82 PRs merged in 30 days
+[2025-08-18 20:04:50] Processing 917/1106: microsoft/winforms-designer-extensibility
+[2025-08-18 20:04:52] OK microsoft/winforms-designer-extensibility: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 20:04:52] Processing 918/1106: microsoft/wina
+[2025-08-18 20:04:54] OK microsoft/wina: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:04:54] Processing 919/1106: microsoft/attested-ohttp-server
+[2025-08-18 20:04:56] OK microsoft/attested-ohttp-server: 2 commits, 37 PRs merged in 30 days
+[2025-08-18 20:04:56] Processing 920/1106: microsoft/multifield-adaptive-retrieval
+[2025-08-18 20:04:57] OK microsoft/multifield-adaptive-retrieval: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:04:57] Processing 921/1106: microsoft/playwright-testing-service
+[2025-08-18 20:04:59] OK microsoft/playwright-testing-service: 2 commits, 30 PRs merged in 30 days
+[2025-08-18 20:04:59] Processing 922/1106: microsoft/Surface_BMRTools
+[2025-08-18 20:05:01] OK microsoft/Surface_BMRTools: 6 commits, 0 PRs merged in 30 days
+[2025-08-18 20:05:01] Processing 923/1106: microsoft/Game-Control-Puzzle-Event-Administration-Tools
+[2025-08-18 20:05:03] OK microsoft/Game-Control-Puzzle-Event-Administration-Tools: 2 commits, 57 PRs merged in 30 days
+[2025-08-18 20:05:03] Processing 924/1106: microsoft/sarif-sdk
+[2025-08-18 20:05:06] OK microsoft/sarif-sdk: 1 commits, 76 PRs merged in 30 days
+[2025-08-18 20:05:06] Processing 925/1106: microsoft/pxt-common-packages
+[2025-08-18 20:05:09] OK microsoft/pxt-common-packages: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 20:05:09] Processing 926/1106: microsoft/webauthntest
+[2025-08-18 20:05:11] OK microsoft/webauthntest: 0 commits, 55 PRs merged in 30 days
+[2025-08-18 20:05:11] Processing 927/1106: microsoft/PurviewDataMapMetadata
+[2025-08-18 20:05:12] OK microsoft/PurviewDataMapMetadata: 12 commits, 0 PRs merged in 30 days
+[2025-08-18 20:05:12] Processing 928/1106: microsoft/live-share-sdk
+[2025-08-18 20:05:15] OK microsoft/live-share-sdk: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 20:05:15] Processing 929/1106: microsoft/project-furly
+[2025-08-18 20:05:17] OK microsoft/project-furly: 4 commits, 5 PRs merged in 30 days
+[2025-08-18 20:05:17] Processing 930/1106: microsoft/finnts
+[2025-08-18 20:05:19] OK microsoft/finnts: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 20:05:19] Processing 931/1106: microsoft/AgentsClientSDK.Android
+[2025-08-18 20:05:21] OK microsoft/AgentsClientSDK.Android: 1 commits, 9 PRs merged in 30 days
+[2025-08-18 20:05:21] Processing 932/1106: microsoft/mu_feature_mm_supv
+[2025-08-18 20:05:24] OK microsoft/mu_feature_mm_supv: 1 commits, 88 PRs merged in 30 days
+[2025-08-18 20:05:24] Processing 933/1106: microsoft/vscode-markdown-languageserver
+[2025-08-18 20:05:25] OK microsoft/vscode-markdown-languageserver: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 20:05:26] Processing 934/1106: microsoft/winget-pkgs-submission-test
+[2025-08-18 20:05:28] OK microsoft/winget-pkgs-submission-test: 0 commits, 41 PRs merged in 30 days
+[2025-08-18 20:05:28] Processing 935/1106: microsoft/AL-Go-AppSource
+[2025-08-18 20:05:30] OK microsoft/AL-Go-AppSource: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 20:05:30] Processing 936/1106: microsoft/prose-benchmarks
+[2025-08-18 20:05:32] OK microsoft/prose-benchmarks: 2 commits, 19 PRs merged in 30 days
+[2025-08-18 20:05:32] Processing 937/1106: microsoft/aoai-logging-with-apim
+[2025-08-18 20:05:34] OK microsoft/aoai-logging-with-apim: 0 commits, 17 PRs merged in 30 days
+[2025-08-18 20:05:34] Processing 938/1106: microsoft/MSBuildPrediction
+[2025-08-18 20:05:36] OK microsoft/MSBuildPrediction: 2 commits, 98 PRs merged in 30 days
+[2025-08-18 20:05:36] Processing 939/1106: microsoft/entra-apps-identifier-uri-protection
+[2025-08-18 20:05:38] OK microsoft/entra-apps-identifier-uri-protection: 5 commits, 4 PRs merged in 30 days
+[2025-08-18 20:05:38] Processing 940/1106: microsoft/go-crypto-winnative
+[2025-08-18 20:05:40] OK microsoft/go-crypto-winnative: 3 commits, 89 PRs merged in 30 days
+[2025-08-18 20:05:40] Processing 941/1106: microsoft/bbs-node-reference
+[2025-08-18 20:05:42] OK microsoft/bbs-node-reference: 2 commits, 30 PRs merged in 30 days
+[2025-08-18 20:05:42] Processing 942/1106: microsoft/vivainsights
+[2025-08-18 20:05:44] OK microsoft/vivainsights: 13 commits, 34 PRs merged in 30 days
+[2025-08-18 20:05:44] Processing 943/1106: microsoft/CodeWith-Installment-Advisor
+[2025-08-18 20:05:46] OK microsoft/CodeWith-Installment-Advisor: 5 commits, 29 PRs merged in 30 days
+[2025-08-18 20:05:46] Processing 944/1106: microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector
+[2025-08-18 20:05:48] OK microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 20:05:48] Processing 945/1106: microsoft/autorl-research
+[2025-08-18 20:05:50] OK microsoft/autorl-research: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 20:05:50] Processing 946/1106: microsoft/WindowsHelloFaceTraceLog
+[2025-08-18 20:05:52] OK microsoft/WindowsHelloFaceTraceLog: 1 commits, 5 PRs merged in 30 days
+[2025-08-18 20:05:52] Processing 947/1106: microsoft/vscode-apimanagement
+[2025-08-18 20:05:54] OK microsoft/vscode-apimanagement: 4 commits, 77 PRs merged in 30 days
+[2025-08-18 20:05:54] Processing 948/1106: microsoft/Build25-BRK233
+[2025-08-18 20:05:56] OK microsoft/Build25-BRK233: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 20:05:56] Processing 949/1106: microsoft/Build25-Developer-Actions
+[2025-08-18 20:05:58] OK microsoft/Build25-Developer-Actions: 1 commits, 3 PRs merged in 30 days
+[2025-08-18 20:05:58] Processing 950/1106: microsoft/vssdktestfx
+[2025-08-18 20:06:00] OK microsoft/vssdktestfx: 5 commits, 42 PRs merged in 30 days
+[2025-08-18 20:06:01] Processing 951/1106: microsoft/Tyche
+[2025-08-18 20:06:03] OK microsoft/Tyche: 6 commits, 6 PRs merged in 30 days
+[2025-08-18 20:06:03] Processing 952/1106: microsoft/context-window
+[2025-08-18 20:06:04] OK microsoft/context-window: 10 commits, 1 PRs merged in 30 days
+[2025-08-18 20:06:04] Processing 953/1106: microsoft/supply-chain-linters
+[2025-08-18 20:06:06] OK microsoft/supply-chain-linters: 7 commits, 0 PRs merged in 30 days
+[2025-08-18 20:06:07] Processing 954/1106: microsoft/nav-arm-templates
+[2025-08-18 20:06:09] OK microsoft/nav-arm-templates: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 20:06:09] Processing 955/1106: microsoft/applicationinsights-angularplugin-js
+[2025-08-18 20:06:12] OK microsoft/applicationinsights-angularplugin-js: 0 commits, 82 PRs merged in 30 days
+[2025-08-18 20:06:12] Processing 956/1106: microsoft/powerbi-visuals-sankey
+[2025-08-18 20:06:14] OK microsoft/powerbi-visuals-sankey: 1 commits, 30 PRs merged in 30 days
+[2025-08-18 20:06:14] Processing 957/1106: microsoft/dstoolkit-data-rafting-kit
+[2025-08-18 20:06:16] OK microsoft/dstoolkit-data-rafting-kit: 2 commits, 34 PRs merged in 30 days
+[2025-08-18 20:06:16] Processing 958/1106: microsoft/applicationinsights-react-native
+[2025-08-18 20:06:18] OK microsoft/applicationinsights-react-native: 2 commits, 61 PRs merged in 30 days
+[2025-08-18 20:06:18] Processing 959/1106: microsoft/ardiffact
+[2025-08-18 20:06:20] OK microsoft/ardiffact: 6 commits, 47 PRs merged in 30 days
+[2025-08-18 20:06:21] Processing 960/1106: microsoft/iot-cardboard-js
+[2025-08-18 20:06:24] OK microsoft/iot-cardboard-js: 1 commits, 87 PRs merged in 30 days
+[2025-08-18 20:06:25] Processing 961/1106: microsoft/SlickGrid.ADS
+[2025-08-18 20:06:26] OK microsoft/SlickGrid.ADS: 2 commits, 22 PRs merged in 30 days
+[2025-08-18 20:06:26] Processing 962/1106: microsoft/abledom
+[2025-08-18 20:06:28] OK microsoft/abledom: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 20:06:28] Processing 964/1106: microsoft/bioinformagus
+[2025-08-18 20:06:29] OK microsoft/bioinformagus: 16 commits, 0 PRs merged in 30 days
+[2025-08-18 20:06:30] Processing 965/1106: microsoft/aibuilder-labs
+[2025-08-18 20:06:31] OK microsoft/aibuilder-labs: 1 commits, 4 PRs merged in 30 days
+[2025-08-18 20:06:31] Processing 966/1106: microsoft/TSS.MSR
+[2025-08-18 20:06:33] OK microsoft/TSS.MSR: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 20:06:33] Processing 967/1106: microsoft/vscode-flake8
+[2025-08-18 20:06:36] OK microsoft/vscode-flake8: 0 commits, 46 PRs merged in 30 days
+[2025-08-18 20:06:36] Processing 968/1106: microsoft/vscode-autopep8
+[2025-08-18 20:06:38] OK microsoft/vscode-autopep8: 0 commits, 33 PRs merged in 30 days
+[2025-08-18 20:06:38] Processing 969/1106: microsoft/yardl
+[2025-08-18 20:06:40] OK microsoft/yardl: 2 commits, 93 PRs merged in 30 days
+[2025-08-18 20:06:40] Processing 970/1106: microsoft/hnslib
+[2025-08-18 20:06:42] OK microsoft/hnslib: 3 commits, 14 PRs merged in 30 days
+[2025-08-18 20:06:42] Processing 971/1106: microsoft/scmsamples-EnterpriseAssetManagement
+[2025-08-18 20:06:44] OK microsoft/scmsamples-EnterpriseAssetManagement: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 20:06:44] Processing 972/1106: microsoft/PSDocs-vscode
+[2025-08-18 20:06:46] OK microsoft/PSDocs-vscode: 2 commits, 23 PRs merged in 30 days
+[2025-08-18 20:06:46] Processing 973/1106: microsoft/vscode-test-adapter-converter
+[2025-08-18 20:06:48] OK microsoft/vscode-test-adapter-converter: 1 commits, 31 PRs merged in 30 days
+[2025-08-18 20:06:48] Processing 974/1106: microsoft/SharePoint-Embedded-VS-Code-Extension
+[2025-08-18 20:06:50] OK microsoft/SharePoint-Embedded-VS-Code-Extension: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 20:06:50] Processing 975/1106: microsoft/cluster-api-provider-azurestackhci
+[2025-08-18 20:06:53] OK microsoft/cluster-api-provider-azurestackhci: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 20:06:53] Processing 976/1106: microsoft/eir
+[2025-08-18 20:06:54] OK microsoft/eir: 3 commits, 2 PRs merged in 30 days
+[2025-08-18 20:06:54] Processing 977/1106: microsoft/axe-sarif-converter
+[2025-08-18 20:06:57] OK microsoft/axe-sarif-converter: 0 commits, 9 PRs merged in 30 days
+[2025-08-18 20:06:57] Processing 978/1106: microsoft/PSDocs
+[2025-08-18 20:06:59] OK microsoft/PSDocs: 0 commits, 15 PRs merged in 30 days
+[2025-08-18 20:06:59] Processing 979/1106: microsoft/vscode-pwa-analyzer
+[2025-08-18 20:07:01] OK microsoft/vscode-pwa-analyzer: 4 commits, 9 PRs merged in 30 days
+[2025-08-18 20:07:02] Processing 980/1106: microsoft/integrity-vhd
+[2025-08-18 20:07:03] OK microsoft/integrity-vhd: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 20:07:03] Processing 981/1106: microsoft/assemblyline-service-dotnet
+[2025-08-18 20:07:05] OK microsoft/assemblyline-service-dotnet: 1 commits, 3 PRs merged in 30 days
+[2025-08-18 20:07:05] Processing 982/1106: microsoft/Trieste
+[2025-08-18 20:07:07] OK microsoft/Trieste: 2 commits, 99 PRs merged in 30 days
+[2025-08-18 20:07:07] Processing 983/1106: microsoft/CoR
+[2025-08-18 20:07:09] OK microsoft/CoR: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:07:09] Processing 984/1106: microsoft/vscode-ext-kusto
+[2025-08-18 20:07:11] OK microsoft/vscode-ext-kusto: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 20:07:11] Processing 985/1106: microsoft/healthfutures-evagg
+[2025-08-18 20:07:13] OK microsoft/healthfutures-evagg: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 20:07:13] Processing 986/1106: microsoft/MSCloudLoginAssistant
+[2025-08-18 20:07:16] OK microsoft/MSCloudLoginAssistant: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 20:07:16] Processing 987/1106: microsoft/vscode-extension-test-runner
+[2025-08-18 20:07:18] OK microsoft/vscode-extension-test-runner: 2 commits, 31 PRs merged in 30 days
+[2025-08-18 20:07:18] Processing 988/1106: microsoft/vscode-js-debug-companion
+[2025-08-18 20:07:20] OK microsoft/vscode-js-debug-companion: 1 commits, 25 PRs merged in 30 days
+[2025-08-18 20:07:20] Processing 989/1106: microsoft/objc-guide
+[2025-08-18 20:07:22] OK microsoft/objc-guide: 0 commits, 43 PRs merged in 30 days
+[2025-08-18 20:07:22] Processing 990/1106: microsoft/m5b
+[2025-08-18 20:07:24] OK microsoft/m5b: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 20:07:24] Processing 991/1106: microsoft/Inventory-Visibility-Add-in-Examples
+[2025-08-18 20:07:26] OK microsoft/Inventory-Visibility-Add-in-Examples: 2 commits, 19 PRs merged in 30 days
+[2025-08-18 20:07:26] Processing 992/1106: microsoft/Build25-BRK234
+[2025-08-18 20:07:27] OK microsoft/Build25-BRK234: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 20:07:27] Processing 993/1106: microsoft/AgentsClientSDK.Windows
+[2025-08-18 20:07:29] OK microsoft/AgentsClientSDK.Windows: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:07:29] Processing 994/1106: microsoft/PHIDeIDPortal
+[2025-08-18 20:07:31] OK microsoft/PHIDeIDPortal: 2 commits, 25 PRs merged in 30 days
+[2025-08-18 20:07:31] Processing 995/1106: microsoft/mu_rust_pi
+[2025-08-18 20:07:33] OK microsoft/mu_rust_pi: 2 commits, 62 PRs merged in 30 days
+[2025-08-18 20:07:34] Processing 996/1106: microsoft/mu_rust_helpers
+[2025-08-18 20:07:36] OK microsoft/mu_rust_helpers: 2 commits, 51 PRs merged in 30 days
+[2025-08-18 20:07:36] Processing 997/1106: microsoft/mu_rust_hid
+[2025-08-18 20:07:38] OK microsoft/mu_rust_hid: 2 commits, 49 PRs merged in 30 days
+[2025-08-18 20:07:38] Processing 998/1106: microsoft/AgentsClientSDK.iOS
+[2025-08-18 20:07:39] OK microsoft/AgentsClientSDK.iOS: 4 commits, 4 PRs merged in 30 days
+[2025-08-18 20:07:40] Processing 999/1106: microsoft/tabster
+[2025-08-18 20:07:42] OK microsoft/tabster: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 20:07:42] Processing 1000/1106: microsoft/DeepGNN
+[2025-08-18 20:07:45] OK microsoft/DeepGNN: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 20:07:45] Processing 1001/1106: microsoft/cloudlab
+[2025-08-18 20:07:47] OK microsoft/cloudlab: 1 commits, 13 PRs merged in 30 days
+[2025-08-18 20:07:47] Processing 1003/1106: microsoft/PowerBI-visuals-ForceGraph
+[2025-08-18 20:07:49] OK microsoft/PowerBI-visuals-ForceGraph: 0 commits, 44 PRs merged in 30 days
+[2025-08-18 20:07:49] Processing 1004/1106: microsoft/applicationinsights-react-js
+[2025-08-18 20:07:51] OK microsoft/applicationinsights-react-js: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 20:07:51] Processing 1005/1106: microsoft/verus-copilot-vscode
+[2025-08-18 20:07:53] OK microsoft/verus-copilot-vscode: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 20:07:53] Processing 1006/1106: microsoft/ado-codespaces-auth
+[2025-08-18 20:07:55] OK microsoft/ado-codespaces-auth: 0 commits, 22 PRs merged in 30 days
+[2025-08-18 20:07:55] Processing 1007/1106: microsoft/vscode-azurestaticwebapps
+[2025-08-18 20:07:59] OK microsoft/vscode-azurestaticwebapps: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 20:07:59] Processing 1008/1106: microsoft/vscode-azurearmtools
+[2025-08-18 20:08:01] OK microsoft/vscode-azurearmtools: 0 commits, 39 PRs merged in 30 days
+[2025-08-18 20:08:01] Processing 1009/1106: microsoft/contractor
+[2025-08-18 20:08:03] OK microsoft/contractor: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:08:03] Processing 1010/1106: microsoft/PullRequestQuantifier
+[2025-08-18 20:08:06] OK microsoft/PullRequestQuantifier: 0 commits, 64 PRs merged in 30 days
+[2025-08-18 20:08:06] Processing 1011/1106: microsoft/Msdyn365.Commerce.Online
+[2025-08-18 20:08:08] OK microsoft/Msdyn365.Commerce.Online: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 20:08:08] Processing 1012/1106: microsoft/mu_crypto_release
+[2025-08-18 20:08:10] OK microsoft/mu_crypto_release: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 20:08:10] Processing 1013/1106: microsoft/setup-msstore-cli
+[2025-08-18 20:08:13] OK microsoft/setup-msstore-cli: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:08:13] Processing 1014/1106: microsoft/jrt-controller
+[2025-08-18 20:08:15] OK microsoft/jrt-controller: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 20:08:15] Processing 1015/1106: microsoft/vscode-github-triage-actions
+[2025-08-18 20:08:18] OK microsoft/vscode-github-triage-actions: 0 commits, 90 PRs merged in 30 days
+[2025-08-18 20:08:18] Processing 1016/1106: microsoft/power-fx-enhanced-connector
+[2025-08-18 20:08:20] OK microsoft/power-fx-enhanced-connector: 0 commits, 13 PRs merged in 30 days
+[2025-08-18 20:08:20] Processing 1017/1106: microsoft/ContactCenterMessagingSDK-android
+[2025-08-18 20:08:22] OK microsoft/ContactCenterMessagingSDK-android: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 20:08:22] Processing 1019/1106: microsoft/entra-verifiedid-wallet-library-ios
+[2025-08-18 20:08:24] OK microsoft/entra-verifiedid-wallet-library-ios: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 20:08:24] Processing 1021/1106: microsoft/VSSDK-Analyzers
+[2025-08-18 20:08:26] OK microsoft/VSSDK-Analyzers: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 20:08:26] Processing 1022/1106: microsoft/azure-devops-extension-cascading-picklist
+[2025-08-18 20:08:28] OK microsoft/azure-devops-extension-cascading-picklist: 0 commits, 46 PRs merged in 30 days
+[2025-08-18 20:08:29] Processing 1023/1106: microsoft/AL-Go-PTE
+[2025-08-18 20:08:31] OK microsoft/AL-Go-PTE: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 20:08:31] Processing 1024/1106: microsoft/attested-ohttp-client
+[2025-08-18 20:08:33] OK microsoft/attested-ohttp-client: 0 commits, 20 PRs merged in 30 days
+[2025-08-18 20:08:33] Processing 1025/1106: microsoft/scFM-dataselection
+[2025-08-18 20:08:35] OK microsoft/scFM-dataselection: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:08:35] Processing 1026/1106: microsoft/ai-gallery-extension
+[2025-08-18 20:08:36] OK microsoft/ai-gallery-extension: 0 commits, 13 PRs merged in 30 days
+[2025-08-18 20:08:36] Processing 1027/1106: microsoft/airflow-providers-microsoft-fabric
+[2025-08-18 20:08:38] OK microsoft/airflow-providers-microsoft-fabric: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 20:08:38] Processing 1028/1106: microsoft/openjdk-jdk24u
+[2025-08-18 20:08:40] OK microsoft/openjdk-jdk24u: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:08:40] Processing 1029/1106: microsoft/kalypso-observability-hub
+[2025-08-18 20:08:41] OK microsoft/kalypso-observability-hub: 0 commits, 62 PRs merged in 30 days
+[2025-08-18 20:08:42] Processing 1030/1106: microsoft/github-copilot-advanced-hackathon
+[2025-08-18 20:08:43] OK microsoft/github-copilot-advanced-hackathon: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:08:43] Processing 1031/1106: microsoft/jl-glove
+[2025-08-18 20:08:45] OK microsoft/jl-glove: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 20:08:45] Processing 1032/1106: microsoft/m365-renovate-config
+[2025-08-18 20:08:47] OK microsoft/m365-renovate-config: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 20:08:48] Processing 1033/1106: microsoft/process-migrator
+[2025-08-18 20:08:50] OK microsoft/process-migrator: 0 commits, 22 PRs merged in 30 days
+[2025-08-18 20:08:50] Processing 1034/1106: microsoft/AzureManagedHsmTLSOffload
+[2025-08-18 20:08:51] OK microsoft/AzureManagedHsmTLSOffload: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:08:51] Processing 1035/1106: microsoft/CLOG
+[2025-08-18 20:08:54] OK microsoft/CLOG: 0 commits, 67 PRs merged in 30 days
+[2025-08-18 20:08:54] Processing 1036/1106: microsoft/vivainsights-py
+[2025-08-18 20:08:55] OK microsoft/vivainsights-py: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 20:08:56] Processing 1037/1106: microsoft/moc-sdk-for-go
+[2025-08-18 20:08:58] OK microsoft/moc-sdk-for-go: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 20:08:58] Processing 1038/1106: microsoft/PSRule.Rules.GitHub
+[2025-08-18 20:09:00] OK microsoft/PSRule.Rules.GitHub: 0 commits, 35 PRs merged in 30 days
+[2025-08-18 20:09:01] Processing 1039/1106: microsoft/ps-rule
+[2025-08-18 20:09:03] OK microsoft/ps-rule: 1 commits, 92 PRs merged in 30 days
+[2025-08-18 20:09:03] Processing 1040/1106: microsoft/CBL-Mariner-Linux-Kernel
+[2025-08-18 20:09:05] OK microsoft/CBL-Mariner-Linux-Kernel: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:09:05] Processing 1041/1106: microsoft/service-fabric-client-dotnet
+[2025-08-18 20:09:07] OK microsoft/service-fabric-client-dotnet: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 20:09:07] Processing 1042/1106: microsoft/go-otel-audit
+[2025-08-18 20:09:09] OK microsoft/go-otel-audit: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 20:09:09] Processing 1043/1106: microsoft/mapi-rs
+[2025-08-18 20:09:11] OK microsoft/mapi-rs: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 20:09:11] Processing 1044/1106: microsoft/vscode-isort
+[2025-08-18 20:09:14] OK microsoft/vscode-isort: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 20:09:14] Processing 1045/1106: microsoft/azure-health-data-services-toolkit
+[2025-08-18 20:09:17] OK microsoft/azure-health-data-services-toolkit: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 20:09:17] Processing 1046/1106: microsoft/workspace-tools
+[2025-08-18 20:09:19] OK microsoft/workspace-tools: 0 commits, 74 PRs merged in 30 days
+[2025-08-18 20:09:19] Processing 1047/1106: microsoft/TestAdapterForGoogleTest
+[2025-08-18 20:09:22] OK microsoft/TestAdapterForGoogleTest: 0 commits, 85 PRs merged in 30 days
+[2025-08-18 20:09:22] Processing 1048/1106: microsoft/pgsql-tools
+[2025-08-18 20:09:23] OK microsoft/pgsql-tools: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:09:23] Processing 1049/1106: microsoft/kalypso-scheduler
+[2025-08-18 20:09:25] OK microsoft/kalypso-scheduler: 0 commits, 33 PRs merged in 30 days
+[2025-08-18 20:09:25] Processing 1050/1106: microsoft/FabricCAT
+[2025-08-18 20:09:27] OK microsoft/FabricCAT: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 20:09:27] Processing 1051/1106: microsoft/azure-rest-api-specs_2024-03-01
+[2025-08-18 20:09:28] OK microsoft/azure-rest-api-specs_2024-03-01: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:09:29] Processing 1052/1106: microsoft/SAIMOpt.jl
+[2025-08-18 20:09:30] OK microsoft/SAIMOpt.jl: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:09:30] Processing 1053/1106: microsoft/AIMFGIgnited
+[2025-08-18 20:09:32] OK microsoft/AIMFGIgnited: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:09:32] Processing 1054/1106: microsoft/Azure-DCAP-Client
+[2025-08-18 20:09:34] OK microsoft/Azure-DCAP-Client: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 20:09:34] Processing 1055/1106: microsoft/contoso-real-estate-power-platform
+[2025-08-18 20:09:36] OK microsoft/contoso-real-estate-power-platform: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:09:36] Processing 1056/1106: microsoft/azure-privacy-sandbox-kms
+[2025-08-18 20:09:38] OK microsoft/azure-privacy-sandbox-kms: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 20:09:38] Processing 1057/1106: microsoft/EASIER
+[2025-08-18 20:09:40] OK microsoft/EASIER: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:09:40] Processing 1058/1106: microsoft/ado-npm-auth
+[2025-08-18 20:09:42] OK microsoft/ado-npm-auth: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 20:09:42] Processing 1059/1106: microsoft/BA-CSA-Assets
+[2025-08-18 20:09:43] OK microsoft/BA-CSA-Assets: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 20:09:44] Processing 1060/1106: microsoft/jpwebapps
+[2025-08-18 20:09:45] OK microsoft/jpwebapps: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:09:45] Processing 1061/1106: microsoft/powerbi-visuals-pulsechart
+[2025-08-18 20:09:47] OK microsoft/powerbi-visuals-pulsechart: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 20:09:47] Processing 1062/1106: microsoft/win-net-test
+[2025-08-18 20:09:50] OK microsoft/win-net-test: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 20:09:50] Processing 1063/1106: microsoft/foresight
+[2025-08-18 20:09:51] OK microsoft/foresight: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:09:52] Processing 1064/1106: microsoft/immersive-reader-sdk
+[2025-08-18 20:09:54] OK microsoft/immersive-reader-sdk: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 20:09:54] Processing 1065/1106: microsoft/kubevirt
+[2025-08-18 20:09:56] OK microsoft/kubevirt: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 20:09:56] Processing 1066/1106: microsoft/WSEAutomationTests
+[2025-08-18 20:09:58] OK microsoft/WSEAutomationTests: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 20:09:58] Processing 1067/1106: microsoft/e8c22
+[2025-08-18 20:09:59] OK microsoft/e8c22: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:10:00] Processing 1068/1106: microsoft/bcsamples-bingmaps.pte
+[2025-08-18 20:10:01] OK microsoft/bcsamples-bingmaps.pte: 0 commits, 9 PRs merged in 30 days
+[2025-08-18 20:10:01] Processing 1069/1106: microsoft/PowerBI-visuals-RadarChart
+[2025-08-18 20:10:04] OK microsoft/PowerBI-visuals-RadarChart: 0 commits, 45 PRs merged in 30 days
+[2025-08-18 20:10:04] Processing 1070/1106: microsoft/powerbi-visuals-timeline
+[2025-08-18 20:10:06] OK microsoft/powerbi-visuals-timeline: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:10:06] Processing 1071/1106: microsoft/PSRule.Rules.MSFT.OSS
+[2025-08-18 20:10:08] OK microsoft/PSRule.Rules.MSFT.OSS: 0 commits, 63 PRs merged in 30 days
+[2025-08-18 20:10:08] Processing 1072/1106: microsoft/PowerBI-visuals-Tornado
+[2025-08-18 20:10:10] OK microsoft/PowerBI-visuals-Tornado: 0 commits, 18 PRs merged in 30 days
+[2025-08-18 20:10:10] Processing 1073/1106: microsoft/Obliviate-Unmemorization
+[2025-08-18 20:10:12] OK microsoft/Obliviate-Unmemorization: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:10:12] Processing 1074/1106: microsoft/PowerShell-FeatureFlags
+[2025-08-18 20:10:14] OK microsoft/PowerShell-FeatureFlags: 0 commits, 41 PRs merged in 30 days
+[2025-08-18 20:10:14] Processing 1075/1106: microsoft/UnifiedRedisPlatform.Core
+[2025-08-18 20:10:16] OK microsoft/UnifiedRedisPlatform.Core: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:10:16] Processing 1076/1106: microsoft/Dynamics365Commerce.InStore
+[2025-08-18 20:10:17] OK microsoft/Dynamics365Commerce.InStore: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:10:17] Processing 1077/1106: microsoft/undocked
+[2025-08-18 20:10:19] OK microsoft/undocked: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 20:10:19] Processing 1078/1106: microsoft/cookie-doh
+[2025-08-18 20:10:21] OK microsoft/cookie-doh: 0 commits, 34 PRs merged in 30 days
+[2025-08-18 20:10:21] Processing 1079/1106: microsoft/azure-boards-estimate
+[2025-08-18 20:10:24] OK microsoft/azure-boards-estimate: 0 commits, 69 PRs merged in 30 days
+[2025-08-18 20:10:24] Processing 1080/1106: microsoft/skill-slice-insights
+[2025-08-18 20:10:26] OK microsoft/skill-slice-insights: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 20:10:26] Processing 1081/1106: microsoft/kiota-php
+[2025-08-18 20:10:27] OK microsoft/kiota-php: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:10:28] Processing 1082/1106: microsoft/swift-guide
+[2025-08-18 20:10:30] OK microsoft/swift-guide: 0 commits, 50 PRs merged in 30 days
+[2025-08-18 20:10:30] Processing 1083/1106: microsoft/PowerBI-visuals-sampleBarChart-react
+[2025-08-18 20:10:32] OK microsoft/PowerBI-visuals-sampleBarChart-react: 0 commits, 5 PRs merged in 30 days
+[2025-08-18 20:10:32] Processing 1084/1106: microsoft/Apache-Provider
+[2025-08-18 20:10:33] OK microsoft/Apache-Provider: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 20:10:33] Processing 1085/1106: microsoft/Build-Apache-Provider
+[2025-08-18 20:10:35] OK microsoft/Build-Apache-Provider: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:10:35] Processing 1086/1106: microsoft/omi-kits
+[2025-08-18 20:10:36] OK microsoft/omi-kits: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:10:37] Processing 1087/1106: microsoft/json-document-transforms
+[2025-08-18 20:10:38] OK microsoft/json-document-transforms: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 20:10:39] Processing 1088/1106: microsoft/appcenter-cli
+[2025-08-18 20:10:41] OK microsoft/appcenter-cli: 0 commits, 31 PRs merged in 30 days
+[2025-08-18 20:10:41] Processing 1089/1106: microsoft/powerplatformconnect
+[2025-08-18 20:10:43] OK microsoft/powerplatformconnect: 0 commits, 97 PRs merged in 30 days
+[2025-08-18 20:10:43] Processing 1090/1106: microsoft/azure_pg_dev_workshop
+[2025-08-18 20:10:45] OK microsoft/azure_pg_dev_workshop: 0 commits, 60 PRs merged in 30 days
+[2025-08-18 20:10:45] Processing 1091/1106: microsoft/responsible-ai-toolbox-privacy
+[2025-08-18 20:10:47] OK microsoft/responsible-ai-toolbox-privacy: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 20:10:47] Processing 1092/1106: microsoft/gulp-vinyl-zip
+[2025-08-18 20:10:49] OK microsoft/gulp-vinyl-zip: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 20:10:49] Processing 1093/1106: microsoft/powerbi-visuals-linedotchart
+[2025-08-18 20:10:51] OK microsoft/powerbi-visuals-linedotchart: 0 commits, 20 PRs merged in 30 days
+[2025-08-18 20:10:51] Processing 1094/1106: microsoft/vscode-azurearcenabledmachines
+[2025-08-18 20:10:53] OK microsoft/vscode-azurearcenabledmachines: 0 commits, 45 PRs merged in 30 days
+[2025-08-18 20:10:53] Processing 1096/1106: microsoft/powerbi-visuals-heatmap
+[2025-08-18 20:10:56] OK microsoft/powerbi-visuals-heatmap: 0 commits, 11 PRs merged in 30 days
+[2025-08-18 20:10:56] Processing 1097/1106: microsoft/powerbi-visuals-chord
+[2025-08-18 20:10:58] OK microsoft/powerbi-visuals-chord: 0 commits, 16 PRs merged in 30 days
+[2025-08-18 20:10:58] Processing 1098/1106: microsoft/powerbi-visuals-bulletchart
+[2025-08-18 20:11:00] OK microsoft/powerbi-visuals-bulletchart: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:11:01] Processing 1099/1106: microsoft/powerbi-visuals-dualkpi
+[2025-08-18 20:11:03] OK microsoft/powerbi-visuals-dualkpi: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 20:11:03] Processing 1100/1106: microsoft/polonius
+[2025-08-18 20:11:04] OK microsoft/polonius: 0 commits, 26 PRs merged in 30 days
+[2025-08-18 20:11:04] Processing 1101/1106: microsoft/ohttp
+[2025-08-18 20:11:06] OK microsoft/ohttp: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 20:11:06] Processing 1102/1106: microsoft/graph-drilldown
+[2025-08-18 20:11:08] OK microsoft/graph-drilldown: 0 commits, 43 PRs merged in 30 days
+[2025-08-18 20:11:08] Processing 1103/1106: microsoft/cloud-hypervisor
+[2025-08-18 20:11:09] OK microsoft/cloud-hypervisor: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 20:11:10] Processing 1104/1106: microsoft/azuredatastudio-mysql
+[2025-08-18 20:11:12] OK microsoft/azuredatastudio-mysql: 0 commits, 76 PRs merged in 30 days
+[2025-08-18 20:11:12] Processing 1105/1106: microsoft/azure-rest-api-specs-meja
+[2025-08-18 20:11:14] OK microsoft/azure-rest-api-specs-meja: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 20:11:14] Processing 1106/1106: microsoft/azure-devops-symbols
+[2025-08-18 20:11:16] OK microsoft/azure-devops-symbols: 0 commits, 52 PRs merged in 30 days
+[2025-08-18 20:11:16] Processing 1107/1106: microsoft/StatisticsTool
+[2025-08-18 20:11:18] OK microsoft/StatisticsTool: 0 commits, 11 PRs merged in 30 days
+[2025-08-18 20:11:18] Processing 1108/1106: microsoft/GitHub-Copilot-Cobol-Extension-Sample
+[2025-08-18 20:11:20] OK microsoft/GitHub-Copilot-Cobol-Extension-Sample: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:11:20] Processing 1109/1106: microsoft/FluidIgniteCodeLab
+[2025-08-18 20:11:21] OK microsoft/FluidIgniteCodeLab: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 20:11:21] Processing 1110/1106: microsoft/AzureStack_Network_Switch_Config_Generator
+[2025-08-18 20:11:23] OK microsoft/AzureStack_Network_Switch_Config_Generator: 0 commits, 58 PRs merged in 30 days
+[2025-08-18 20:11:23] Processing 1111/1106: microsoft/cmd-call-graph
+[2025-08-18 20:11:25] OK microsoft/cmd-call-graph: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 20:11:25] Processing 1112/1106: microsoft/hands-on-lab-redis
+[2025-08-18 20:11:27] OK microsoft/hands-on-lab-redis: 0 commits, 39 PRs merged in 30 days
+[2025-08-18 20:11:27] Collection completed successfully!

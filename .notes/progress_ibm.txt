@@ -791,3 +791,801 @@
 [2025-08-18 17:05:23] Processing 2125/394: ibm/sql-query-go-sdk
 [2025-08-18 17:05:24] OK ibm/sql-query-go-sdk: 0 merges in 30 days
 [2025-08-18 17:05:24] Collection completed successfully!
+[2025-08-18 17:24:02] === Starting IBM Repo Health Collection ===
+[2025-08-18 17:24:02] Collecting: commits_last_30d + PRs_closed_30d
+[2025-08-18 17:24:02] Input file: data/repos/batch_Aug_18/big_three_recent_commits.csv
+[2025-08-18 17:24:02] Output file: data/output/repo_health_ibm.csv
+[2025-08-18 17:24:02] Starting collection for 394 repositories from company IBM
+[2025-08-18 17:24:02] Processing 1729/394: ibm/mcp
+[2025-08-18 17:24:04] OK ibm/mcp: 6 commits, 8 PRs merged in 30 days
+[2025-08-18 17:24:04] Processing 1730/394: ibm/spnl
+[2025-08-18 17:24:06] OK ibm/spnl: 100 commits, 99 PRs merged in 30 days
+[2025-08-18 17:24:06] Processing 1731/394: ibm/WxMCPServer
+[2025-08-18 17:24:08] OK ibm/WxMCPServer: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:08] Processing 1732/394: ibm/terratorch
+[2025-08-18 17:24:11] OK ibm/terratorch: 73 commits, 79 PRs merged in 30 days
+[2025-08-18 17:24:11] Processing 1733/394: ibm/mcp-context-forge
+[2025-08-18 17:24:15] OK ibm/mcp-context-forge: 100 commits, 94 PRs merged in 30 days
+[2025-08-18 17:24:15] Processing 1734/394: ibm/test-infra
+[2025-08-18 17:24:18] OK ibm/test-infra: 0 commits, 97 PRs merged in 30 days
+[2025-08-18 17:24:18] Processing 1735/394: ibm/storage-fusion
+[2025-08-18 17:24:20] OK ibm/storage-fusion: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 17:24:20] Processing 1736/394: ibm/kubernetes-must-gather
+[2025-08-18 17:24:22] OK ibm/kubernetes-must-gather: 21 commits, 0 PRs merged in 30 days
+[2025-08-18 17:24:22] Processing 1737/394: ibm/opensource-ai-workshop
+[2025-08-18 17:24:24] OK ibm/opensource-ai-workshop: 1 commits, 17 PRs merged in 30 days
+[2025-08-18 17:24:24] Processing 1738/394: ibm/cloudant-go-sdk
+[2025-08-18 17:24:27] OK ibm/cloudant-go-sdk: 13 commits, 98 PRs merged in 30 days
+[2025-08-18 17:24:27] Processing 1739/394: ibm/ocp4-power-workload-tools
+[2025-08-18 17:24:29] OK ibm/ocp4-power-workload-tools: 24 commits, 37 PRs merged in 30 days
+[2025-08-18 17:24:29] Processing 1740/394: ibm/ibm-iam-operator
+[2025-08-18 17:24:31] OK ibm/ibm-iam-operator: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:24:31] Processing 1741/394: ibm/pyds8k
+[2025-08-18 17:24:33] OK ibm/pyds8k: 0 commits, 37 PRs merged in 30 days
+[2025-08-18 17:24:33] Processing 1742/394: ibm/dbb
+[2025-08-18 17:24:36] OK ibm/dbb: 12 commits, 89 PRs merged in 30 days
+[2025-08-18 17:24:36] Processing 1743/394: ibm/mainframe-downloads
+[2025-08-18 17:24:39] OK ibm/mainframe-downloads: 0 commits, 99 PRs merged in 30 days
+[2025-08-18 17:24:39] Processing 1744/394: ibm/universal-connectors
+[2025-08-18 17:24:42] OK ibm/universal-connectors: 100 commits, 81 PRs merged in 30 days
+[2025-08-18 17:24:42] Processing 1745/394: ibm/eval-assist
+[2025-08-18 17:24:44] OK ibm/eval-assist: 39 commits, 73 PRs merged in 30 days
+[2025-08-18 17:24:44] Processing 1746/394: ibm/API4JSON
+[2025-08-18 17:24:46] OK ibm/API4JSON: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 17:24:46] Processing 1747/394: ibm/JSONata4Java
+[2025-08-18 17:24:49] OK ibm/JSONata4Java: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 17:24:49] Processing 1748/394: ibm/WhitelistMasker
+[2025-08-18 17:24:51] OK ibm/WhitelistMasker: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 17:24:51] Processing 1749/394: ibm/GitIgnoreZipper
+[2025-08-18 17:24:53] OK ibm/GitIgnoreZipper: 2 commits, 10 PRs merged in 30 days
+[2025-08-18 17:24:53] Processing 1750/394: ibm/risk-atlas-nexus
+[2025-08-18 17:24:55] OK ibm/risk-atlas-nexus: 13 commits, 67 PRs merged in 30 days
+[2025-08-18 17:24:55] Processing 1751/394: ibm/continuous-delivery-java-sdk
+[2025-08-18 17:24:57] OK ibm/continuous-delivery-java-sdk: 4 commits, 49 PRs merged in 30 days
+[2025-08-18 17:24:57] Processing 1752/394: ibm/ibm-watsonxdata-dl-retrieval-mcp-server
+[2025-08-18 17:24:59] OK ibm/ibm-watsonxdata-dl-retrieval-mcp-server: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 17:24:59] Processing 1753/394: ibm/sarama
+[2025-08-18 17:25:02] OK ibm/sarama: 27 commits, 54 PRs merged in 30 days
+[2025-08-18 17:25:02] Processing 1754/394: ibm/ibm-spectrum-scale-csi
+[2025-08-18 17:25:05] OK ibm/ibm-spectrum-scale-csi: 0 commits, 91 PRs merged in 30 days
+[2025-08-18 17:25:05] Processing 1755/394: ibm/ibm-storageinsights-mcpserver
+[2025-08-18 17:25:07] OK ibm/ibm-storageinsights-mcpserver: 2 commits, 6 PRs merged in 30 days
+[2025-08-18 17:25:07] Processing 1756/394: ibm/CodeEngine
+[2025-08-18 17:25:09] OK ibm/CodeEngine: 59 commits, 92 PRs merged in 30 days
+[2025-08-18 17:25:09] Processing 1757/394: ibm/fp-go
+[2025-08-18 17:25:12] OK ibm/fp-go: 1 commits, 99 PRs merged in 30 days
+[2025-08-18 17:25:12] Processing 1758/394: ibm/personas-llms-analysis
+[2025-08-18 17:25:14] OK ibm/personas-llms-analysis: 37 commits, 1 PRs merged in 30 days
+[2025-08-18 17:25:14] Processing 1759/394: ibm/japan-technology
+[2025-08-18 17:25:16] OK ibm/japan-technology: 2 commits, 17 PRs merged in 30 days
+[2025-08-18 17:25:16] Processing 1760/394: ibm/cp4d-connector-sdk
+[2025-08-18 17:25:18] OK ibm/cp4d-connector-sdk: 1 commits, 11 PRs merged in 30 days
+[2025-08-18 17:25:18] Processing 1761/394: ibm/data-product-exchange-go-sdk
+[2025-08-18 17:25:20] OK ibm/data-product-exchange-go-sdk: 30 commits, 20 PRs merged in 30 days
+[2025-08-18 17:25:20] Processing 1762/394: ibm/ibm-watsonx-orchestrate-adk
+[2025-08-18 17:25:22] OK ibm/ibm-watsonx-orchestrate-adk: 66 commits, 3 PRs merged in 30 days
+[2025-08-18 17:25:22] Processing 1763/394: ibm/zopeneditor-about
+[2025-08-18 17:25:24] OK ibm/zopeneditor-about: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 17:25:24] Processing 1764/394: ibm/activated-lora
+[2025-08-18 17:25:25] OK ibm/activated-lora: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 17:25:25] Processing 1765/394: ibm/prompt-declaration-language
+[2025-08-18 17:25:28] OK ibm/prompt-declaration-language: 63 commits, 99 PRs merged in 30 days
+[2025-08-18 17:25:28] Processing 1766/394: ibm/presto-lakehouse
+[2025-08-18 17:25:30] OK ibm/presto-lakehouse: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:30] Processing 1767/394: ibm/webspherescripts
+[2025-08-18 17:25:31] OK ibm/webspherescripts: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:31] Processing 1768/394: ibm/autopilot
+[2025-08-18 17:25:33] OK ibm/autopilot: 1 commits, 47 PRs merged in 30 days
+[2025-08-18 17:25:33] Processing 1769/394: ibm/watsonx-ai-java-sdk
+[2025-08-18 17:25:35] OK ibm/watsonx-ai-java-sdk: 62 commits, 50 PRs merged in 30 days
+[2025-08-18 17:25:35] Processing 1770/394: ibm/mac-ibm-notifications
+[2025-08-18 17:25:38] OK ibm/mac-ibm-notifications: 10 commits, 76 PRs merged in 30 days
+[2025-08-18 17:25:38] Processing 1771/394: ibm/diesel-i18n
+[2025-08-18 17:25:40] OK ibm/diesel-i18n: 2 commits, 52 PRs merged in 30 days
+[2025-08-18 17:25:40] Processing 1772/394: ibm/ibmdotcom-tutorials
+[2025-08-18 17:25:42] OK ibm/ibmdotcom-tutorials: 25 commits, 58 PRs merged in 30 days
+[2025-08-18 17:25:42] Processing 1773/394: ibm/ErrorMap
+[2025-08-18 17:25:43] OK ibm/ErrorMap: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:43] Processing 1774/394: ibm/Issue-Test-Localizer
+[2025-08-18 17:25:45] OK ibm/Issue-Test-Localizer: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:45] Processing 1775/394: ibm/CyberSkill
+[2025-08-18 17:25:47] OK ibm/CyberSkill: 55 commits, 2 PRs merged in 30 days
+[2025-08-18 17:25:47] Processing 1776/394: ibm/triton-dejavu
+[2025-08-18 17:25:49] OK ibm/triton-dejavu: 2 commits, 10 PRs merged in 30 days
+[2025-08-18 17:25:49] Processing 1777/394: ibm/MS-CLIP
+[2025-08-18 17:25:50] OK ibm/MS-CLIP: 14 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:50] Processing 1778/394: ibm/comical
+[2025-08-18 17:25:51] OK ibm/comical: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:25:52] Processing 1779/394: ibm/sdl2-gamecontroller
+[2025-08-18 17:25:54] OK ibm/sdl2-gamecontroller: 16 commits, 26 PRs merged in 30 days
+[2025-08-18 17:25:54] Processing 1780/394: ibm/IBM-Z-zOS
+[2025-08-18 17:25:56] OK ibm/IBM-Z-zOS: 4 commits, 72 PRs merged in 30 days
+[2025-08-18 17:25:56] Processing 1781/394: ibm/ibm-cos-sdk-java-config
+[2025-08-18 17:25:58] OK ibm/ibm-cos-sdk-java-config: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:25:58] Processing 1782/394: ibm/cloudant-node-sdk
+[2025-08-18 17:26:00] OK ibm/cloudant-node-sdk: 33 commits, 91 PRs merged in 30 days
+[2025-08-18 17:26:00] Processing 1783/394: ibm/cloud-pak-deployer
+[2025-08-18 17:26:02] OK ibm/cloud-pak-deployer: 9 commits, 97 PRs merged in 30 days
+[2025-08-18 17:26:02] Processing 1784/394: ibm/AutoXAI4Omics
+[2025-08-18 17:26:04] OK ibm/AutoXAI4Omics: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 17:26:04] Processing 1785/394: ibm/cop
+[2025-08-18 17:26:05] OK ibm/cop: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:26:05] Processing 1786/394: ibm/velox
+[2025-08-18 17:26:08] OK ibm/velox: 100 commits, 0 PRs merged in 30 days
+[2025-08-18 17:26:08] Processing 1787/394: ibm/beeai-workshop
+[2025-08-18 17:26:10] OK ibm/beeai-workshop: 67 commits, 73 PRs merged in 30 days
+[2025-08-18 17:26:10] Processing 1788/394: ibm/cloud-pak
+[2025-08-18 17:26:13] OK ibm/cloud-pak: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:26:13] Processing 1789/394: ibm/terratorch-iterate
+[2025-08-18 17:26:14] OK ibm/terratorch-iterate: 15 commits, 7 PRs merged in 30 days
+[2025-08-18 17:26:15] Processing 1790/394: ibm/platinum-demos
+[2025-08-18 17:26:16] OK ibm/platinum-demos: 26 commits, 2 PRs merged in 30 days
+[2025-08-18 17:26:16] Processing 1791/394: ibm/agentic-ai-cyberres
+[2025-08-18 17:26:18] OK ibm/agentic-ai-cyberres: 7 commits, 6 PRs merged in 30 days
+[2025-08-18 17:26:18] Processing 1792/394: ibm/charts
+[2025-08-18 17:26:20] OK ibm/charts: 0 commits, 86 PRs merged in 30 days
+[2025-08-18 17:26:20] Processing 1793/394: ibm/cp4waiops-samples
+[2025-08-18 17:26:23] OK ibm/cp4waiops-samples: 25 commits, 91 PRs merged in 30 days
+[2025-08-18 17:26:23] Processing 1794/394: ibm/ibm-z-oss-hub
+[2025-08-18 17:26:26] OK ibm/ibm-z-oss-hub: 14 commits, 88 PRs merged in 30 days
+[2025-08-18 17:26:26] Processing 1795/394: ibm/kif
+[2025-08-18 17:26:29] OK ibm/kif: 75 commits, 9 PRs merged in 30 days
+[2025-08-18 17:26:29] Processing 1796/394: ibm/granite-wxc
+[2025-08-18 17:26:31] OK ibm/granite-wxc: 24 commits, 10 PRs merged in 30 days
+[2025-08-18 17:26:31] Processing 1797/394: ibm/cloudant-java-sdk
+[2025-08-18 17:26:34] OK ibm/cloudant-java-sdk: 14 commits, 96 PRs merged in 30 days
+[2025-08-18 17:26:34] Processing 1798/394: ibm/AutoMLPipeline.jl
+[2025-08-18 17:26:36] OK ibm/AutoMLPipeline.jl: 0 commits, 46 PRs merged in 30 days
+[2025-08-18 17:26:36] Processing 1799/394: ibm/vscode-ibmi-testing
+[2025-08-18 17:26:38] OK ibm/vscode-ibmi-testing: 19 commits, 72 PRs merged in 30 days
+[2025-08-18 17:26:39] Processing 1800/394: ibm/power-dra-driver
+[2025-08-18 17:26:41] OK ibm/power-dra-driver: 51 commits, 87 PRs merged in 30 days
+[2025-08-18 17:26:41] Processing 1801/394: ibm/RCDP-barriers
+[2025-08-18 17:26:43] OK ibm/RCDP-barriers: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:26:43] Processing 1802/394: ibm/spark-flight-sample
+[2025-08-18 17:26:45] OK ibm/spark-flight-sample: 8 commits, 36 PRs merged in 30 days
+[2025-08-18 17:26:45] Processing 1803/394: ibm/Project_CodeNet
+[2025-08-18 17:26:47] OK ibm/Project_CodeNet: 7 commits, 8 PRs merged in 30 days
+[2025-08-18 17:26:47] Processing 1804/394: ibm/maximo-labs
+[2025-08-18 17:26:50] OK ibm/maximo-labs: 14 commits, 98 PRs merged in 30 days
+[2025-08-18 17:26:50] Processing 1805/394: ibm/openapi-validator
+[2025-08-18 17:26:52] OK ibm/openapi-validator: 3 commits, 94 PRs merged in 30 days
+[2025-08-18 17:26:53] Processing 1806/394: ibm/granite-workshop
+[2025-08-18 17:26:55] OK ibm/granite-workshop: 5 commits, 79 PRs merged in 30 days
+[2025-08-18 17:26:55] Processing 1807/394: ibm/maximo-labs-archive
+[2025-08-18 17:26:57] OK ibm/maximo-labs-archive: 9 commits, 3 PRs merged in 30 days
+[2025-08-18 17:26:57] Processing 1808/394: ibm/cloudant-python-sdk
+[2025-08-18 17:26:59] OK ibm/cloudant-python-sdk: 15 commits, 98 PRs merged in 30 days
+[2025-08-18 17:27:00] Processing 1809/394: ibm/Hestia-GOOD
+[2025-08-18 17:27:02] OK ibm/Hestia-GOOD: 23 commits, 100 PRs merged in 30 days
+[2025-08-18 17:27:02] Processing 1810/394: ibm/CLEAR
+[2025-08-18 17:27:04] OK ibm/CLEAR: 72 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:04] Processing 1811/394: ibm/ibm-satellite-storage
+[2025-08-18 17:27:06] OK ibm/ibm-satellite-storage: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 17:27:06] Processing 1812/394: ibm/ansible-power-aix
+[2025-08-18 17:27:09] OK ibm/ansible-power-aix: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 17:27:09] Processing 1813/394: ibm/ICX360
+[2025-08-18 17:27:11] OK ibm/ICX360: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:27:11] Processing 1814/394: ibm/AssetOpsBench
+[2025-08-18 17:27:12] OK ibm/AssetOpsBench: 11 commits, 10 PRs merged in 30 days
+[2025-08-18 17:27:12] Processing 1815/394: ibm/ibm-block-csi-operator
+[2025-08-18 17:27:15] OK ibm/ibm-block-csi-operator: 0 commits, 65 PRs merged in 30 days
+[2025-08-18 17:27:15] Processing 1816/394: ibm/Concert
+[2025-08-18 17:27:16] OK ibm/Concert: 8 commits, 12 PRs merged in 30 days
+[2025-08-18 17:27:16] Processing 1817/394: ibm/networking-node-sdk
+[2025-08-18 17:27:19] OK ibm/networking-node-sdk: 0 commits, 96 PRs merged in 30 days
+[2025-08-18 17:27:19] Processing 1818/394: ibm/networking-go-sdk
+[2025-08-18 17:27:21] OK ibm/networking-go-sdk: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 17:27:21] Processing 1819/394: ibm/operand-deployment-lifecycle-manager
+[2025-08-18 17:27:23] OK ibm/operand-deployment-lifecycle-manager: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 17:27:24] Processing 1820/394: ibm/terramind
+[2025-08-18 17:27:25] OK ibm/terramind: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:25] Processing 1821/394: ibm/SystemT
+[2025-08-18 17:27:27] OK ibm/SystemT: 46 commits, 37 PRs merged in 30 days
+[2025-08-18 17:27:27] Processing 1822/394: ibm/oper8
+[2025-08-18 17:27:30] OK ibm/oper8: 9 commits, 74 PRs merged in 30 days
+[2025-08-18 17:27:30] Processing 1823/394: ibm/scriptit
+[2025-08-18 17:27:32] OK ibm/scriptit: 10 commits, 17 PRs merged in 30 days
+[2025-08-18 17:27:32] Processing 1824/394: ibm/SystemT-EclipseTooling
+[2025-08-18 17:27:33] OK ibm/SystemT-EclipseTooling: 21 commits, 17 PRs merged in 30 days
+[2025-08-18 17:27:33] Processing 1825/394: ibm/contextual-privacy-LLM
+[2025-08-18 17:27:35] OK ibm/contextual-privacy-LLM: 5 commits, 1 PRs merged in 30 days
+[2025-08-18 17:27:35] Processing 1826/394: ibm/ibm-spectrum-scale-bridge-for-grafana
+[2025-08-18 17:27:37] OK ibm/ibm-spectrum-scale-bridge-for-grafana: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 17:27:37] Processing 1827/394: ibm/vscode-clle
+[2025-08-18 17:27:39] OK ibm/vscode-clle: 2 commits, 15 PRs merged in 30 days
+[2025-08-18 17:27:39] Processing 1828/394: ibm/cloudant-spring
+[2025-08-18 17:27:41] OK ibm/cloudant-spring: 13 commits, 98 PRs merged in 30 days
+[2025-08-18 17:27:41] Processing 1829/394: ibm/activation-steering
+[2025-08-18 17:27:43] OK ibm/activation-steering: 2 commits, 2 PRs merged in 30 days
+[2025-08-18 17:27:43] Processing 1830/394: ibm/watsonx-developer-hub
+[2025-08-18 17:27:45] OK ibm/watsonx-developer-hub: 26 commits, 48 PRs merged in 30 days
+[2025-08-18 17:27:45] Processing 1831/394: ibm/pandasqlite
+[2025-08-18 17:27:46] OK ibm/pandasqlite: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:46] Processing 1832/394: ibm/agentic-patterns
+[2025-08-18 17:27:48] OK ibm/agentic-patterns: 17 commits, 2 PRs merged in 30 days
+[2025-08-18 17:27:48] Processing 1833/394: ibm/continuous-delivery-python-sdk
+[2025-08-18 17:27:50] OK ibm/continuous-delivery-python-sdk: 16 commits, 56 PRs merged in 30 days
+[2025-08-18 17:27:50] Processing 1834/394: ibm/continuous-delivery-node-sdk
+[2025-08-18 17:27:52] OK ibm/continuous-delivery-node-sdk: 16 commits, 63 PRs merged in 30 days
+[2025-08-18 17:27:52] Processing 1835/394: ibm/guardium-supported-datasources
+[2025-08-18 17:27:54] OK ibm/guardium-supported-datasources: 9 commits, 89 PRs merged in 30 days
+[2025-08-18 17:27:54] Processing 1836/394: ibm/event-automation
+[2025-08-18 17:27:57] OK ibm/event-automation: 10 commits, 95 PRs merged in 30 days
+[2025-08-18 17:27:57] Processing 1837/394: ibm/ares
+[2025-08-18 17:27:58] OK ibm/ares: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:27:58] Processing 1838/394: ibm/power-device-plugin
+[2025-08-18 17:28:00] OK ibm/power-device-plugin: 12 commits, 65 PRs merged in 30 days
+[2025-08-18 17:28:00] Processing 1839/394: ibm/template-node-react
+[2025-08-18 17:28:02] OK ibm/template-node-react: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 17:28:02] Processing 1840/394: ibm/event-automation-demo
+[2025-08-18 17:28:05] OK ibm/event-automation-demo: 3 commits, 22 PRs merged in 30 days
+[2025-08-18 17:28:05] Processing 1841/394: ibm/unitxt
+[2025-08-18 17:28:07] OK ibm/unitxt: 37 commits, 93 PRs merged in 30 days
+[2025-08-18 17:28:07] Processing 1842/394: ibm/dsce-sample-apps
+[2025-08-18 17:28:09] OK ibm/dsce-sample-apps: 3 commits, 99 PRs merged in 30 days
+[2025-08-18 17:28:09] Processing 1843/394: ibm/continuous-delivery-go-sdk
+[2025-08-18 17:28:12] OK ibm/continuous-delivery-go-sdk: 20 commits, 95 PRs merged in 30 days
+[2025-08-18 17:28:12] Processing 1844/394: ibm/watsonx-ai-samples
+[2025-08-18 17:28:14] OK ibm/watsonx-ai-samples: 0 commits, 61 PRs merged in 30 days
+[2025-08-18 17:28:14] Processing 1845/394: ibm/vpc-file-storage-mount-helper
+[2025-08-18 17:28:16] OK ibm/vpc-file-storage-mount-helper: 10 commits, 63 PRs merged in 30 days
+[2025-08-18 17:28:16] Processing 1846/394: ibm/STAR
+[2025-08-18 17:28:18] OK ibm/STAR: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:18] Processing 1847/394: ibm/ibm-block-csi-driver
+[2025-08-18 17:28:20] OK ibm/ibm-block-csi-driver: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 17:28:20] Processing 1848/394: ibm/i-oic-better-together-data-ai-healthcare
+[2025-08-18 17:28:22] OK ibm/i-oic-better-together-data-ai-healthcare: 62 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:22] Processing 1849/394: ibm/apiconnect-trawler
+[2025-08-18 17:28:24] OK ibm/apiconnect-trawler: 8 commits, 87 PRs merged in 30 days
+[2025-08-18 17:28:24] Processing 1850/394: ibm/Scale_System_PRECHECK_TOOL
+[2025-08-18 17:28:26] OK ibm/Scale_System_PRECHECK_TOOL: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:26] Processing 1851/394: ibm/waiops-tech-jam
+[2025-08-18 17:28:28] OK ibm/waiops-tech-jam: 1 commits, 88 PRs merged in 30 days
+[2025-08-18 17:28:28] Processing 1852/394: ibm/opentalaria
+[2025-08-18 17:28:30] OK ibm/opentalaria: 3 commits, 48 PRs merged in 30 days
+[2025-08-18 17:28:30] Processing 1853/394: ibm/actionspz
+[2025-08-18 17:28:32] OK ibm/actionspz: 2 commits, 2 PRs merged in 30 days
+[2025-08-18 17:28:32] Processing 1854/394: ibm/secrets-manager-node-sdk
+[2025-08-18 17:28:34] OK ibm/secrets-manager-node-sdk: 7 commits, 43 PRs merged in 30 days
+[2025-08-18 17:28:34] Processing 1855/394: ibm/secrets-manager-python-sdk
+[2025-08-18 17:28:36] OK ibm/secrets-manager-python-sdk: 4 commits, 78 PRs merged in 30 days
+[2025-08-18 17:28:36] Processing 1856/394: ibm/secrets-manager-java-sdk
+[2025-08-18 17:28:38] OK ibm/secrets-manager-java-sdk: 4 commits, 90 PRs merged in 30 days
+[2025-08-18 17:28:39] Processing 1857/394: ibm/secrets-manager-go-sdk
+[2025-08-18 17:28:41] OK ibm/secrets-manager-go-sdk: 21 commits, 85 PRs merged in 30 days
+[2025-08-18 17:28:41] Processing 1858/394: ibm/aiu-trace-analyzer
+[2025-08-18 17:28:43] OK ibm/aiu-trace-analyzer: 9 commits, 15 PRs merged in 30 days
+[2025-08-18 17:28:43] Processing 1859/394: ibm/t8c-client-operator
+[2025-08-18 17:28:44] OK ibm/t8c-client-operator: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:28:44] Processing 1860/394: ibm/portieris
+[2025-08-18 17:28:46] OK ibm/portieris: 4 commits, 90 PRs merged in 30 days
+[2025-08-18 17:28:47] Processing 1861/394: ibm/diesel-core
+[2025-08-18 17:28:49] OK ibm/diesel-core: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 17:28:49] Processing 1862/394: ibm/mlca
+[2025-08-18 17:28:51] OK ibm/mlca: 1 commits, 2 PRs merged in 30 days
+[2025-08-18 17:28:51] Processing 1863/394: ibm/dbb-git-migration-modeler
+[2025-08-18 17:28:52] OK ibm/dbb-git-migration-modeler: 0 commits, 22 PRs merged in 30 days
+[2025-08-18 17:28:52] Processing 1864/394: ibm/dbb-zappbuild
+[2025-08-18 17:28:55] OK ibm/dbb-zappbuild: 0 commits, 88 PRs merged in 30 days
+[2025-08-18 17:28:55] Processing 1865/394: ibm/dotnet-s390x
+[2025-08-18 17:28:57] OK ibm/dotnet-s390x: 1 commits, 49 PRs merged in 30 days
+[2025-08-18 17:28:57] Processing 1866/394: ibm/textfile-exporter
+[2025-08-18 17:28:59] OK ibm/textfile-exporter: 13 commits, 7 PRs merged in 30 days
+[2025-08-18 17:28:59] Processing 1867/394: ibm/ibm-cloudability-governance
+[2025-08-18 17:29:00] OK ibm/ibm-cloudability-governance: 4 commits, 9 PRs merged in 30 days
+[2025-08-18 17:29:00] Processing 1868/394: ibm/oss-ecosystem-grpc
+[2025-08-18 17:29:02] OK ibm/oss-ecosystem-grpc: 2 commits, 9 PRs merged in 30 days
+[2025-08-18 17:29:02] Processing 1869/394: ibm/oss-ecosystem-gevent
+[2025-08-18 17:29:03] OK ibm/oss-ecosystem-gevent: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 17:29:04] Processing 1870/394: ibm/LNN
+[2025-08-18 17:29:05] OK ibm/LNN: 0 commits, 39 PRs merged in 30 days
+[2025-08-18 17:29:06] Processing 1871/394: ibm/aspera-sdk-js
+[2025-08-18 17:29:08] OK ibm/aspera-sdk-js: 1 commits, 64 PRs merged in 30 days
+[2025-08-18 17:29:08] Processing 1872/394: ibm/Industry-Accelerators
+[2025-08-18 17:29:09] OK ibm/Industry-Accelerators: 0 commits, 18 PRs merged in 30 days
+[2025-08-18 17:29:10] Processing 1873/394: ibm/AI-Noether
+[2025-08-18 17:29:11] OK ibm/AI-Noether: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:11] Processing 1874/394: ibm/zoc-telemetry-controller-assets
+[2025-08-18 17:29:13] OK ibm/zoc-telemetry-controller-assets: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:13] Processing 1875/394: ibm/PeptideGeneralizationBenchmarks
+[2025-08-18 17:29:14] OK ibm/PeptideGeneralizationBenchmarks: 18 commits, 7 PRs merged in 30 days
+[2025-08-18 17:29:14] Processing 1876/394: ibm/ibm-storage-odf-console
+[2025-08-18 17:29:16] OK ibm/ibm-storage-odf-console: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:29:16] Processing 1877/394: ibm/ibm-cert-manager-operator
+[2025-08-18 17:29:19] OK ibm/ibm-cert-manager-operator: 0 commits, 77 PRs merged in 30 days
+[2025-08-18 17:29:19] Processing 1878/394: ibm/gguf
+[2025-08-18 17:29:21] OK ibm/gguf: 30 commits, 3 PRs merged in 30 days
+[2025-08-18 17:29:21] Processing 1879/394: ibm/table-representation-evals
+[2025-08-18 17:29:22] OK ibm/table-representation-evals: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:29:22] Processing 1880/394: ibm/ibm-namespace-scope-operator
+[2025-08-18 17:29:25] OK ibm/ibm-namespace-scope-operator: 0 commits, 87 PRs merged in 30 days
+[2025-08-18 17:29:25] Processing 1881/394: ibm/ibm-commonui-operator
+[2025-08-18 17:29:27] OK ibm/ibm-commonui-operator: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 17:29:28] Processing 1882/394: ibm/ibm-common-service-operator
+[2025-08-18 17:29:31] OK ibm/ibm-common-service-operator: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 17:29:31] Processing 1883/394: ibm/alchemy-logging
+[2025-08-18 17:29:33] OK ibm/alchemy-logging: 13 commits, 71 PRs merged in 30 days
+[2025-08-18 17:29:33] Processing 1884/394: ibm/taxinomitis-docs
+[2025-08-18 17:29:35] OK ibm/taxinomitis-docs: 0 commits, 9 PRs merged in 30 days
+[2025-08-18 17:29:35] Processing 1885/394: ibm/ibm-user-management-operator
+[2025-08-18 17:29:40] OK ibm/ibm-user-management-operator: 0 commits, 89 PRs merged in 30 days
+[2025-08-18 17:29:40] Processing 1886/394: ibm/ACE-RISCV
+[2025-08-18 17:29:42] OK ibm/ACE-RISCV: 0 commits, 84 PRs merged in 30 days
+[2025-08-18 17:29:43] Processing 1887/394: ibm/md-enricher-for-cicd
+[2025-08-18 17:29:45] OK ibm/md-enricher-for-cicd: 2 commits, 34 PRs merged in 30 days
+[2025-08-18 17:29:45] Processing 1888/394: ibm/project-pim
+[2025-08-18 17:29:47] OK ibm/project-pim: 11 commits, 15 PRs merged in 30 days
+[2025-08-18 17:29:47] Processing 1889/394: ibm/webmethods-applinx-web-emulation
+[2025-08-18 17:29:50] OK ibm/webmethods-applinx-web-emulation: 0 commits, 51 PRs merged in 30 days
+[2025-08-18 17:29:50] Processing 1890/394: ibm/ocp4-upi-compute-powervs-ibmcloud
+[2025-08-18 17:29:52] OK ibm/ocp4-upi-compute-powervs-ibmcloud: 6 commits, 38 PRs merged in 30 days
+[2025-08-18 17:29:52] Processing 1891/394: ibm/customized-deployable-architecture
+[2025-08-18 17:29:54] OK ibm/customized-deployable-architecture: 1 commits, 8 PRs merged in 30 days
+[2025-08-18 17:29:54] Processing 1892/394: ibm/AutoPeptideML
+[2025-08-18 17:29:57] OK ibm/AutoPeptideML: 58 commits, 91 PRs merged in 30 days
+[2025-08-18 17:29:57] Processing 1893/394: ibm/mac-ibm-migration-tool
+[2025-08-18 17:29:59] OK ibm/mac-ibm-migration-tool: 4 commits, 11 PRs merged in 30 days
+[2025-08-18 17:29:59] Processing 1894/394: ibm/platform-services-java-sdk
+[2025-08-18 17:30:02] OK ibm/platform-services-java-sdk: 9 commits, 91 PRs merged in 30 days
+[2025-08-18 17:30:02] Processing 1895/394: ibm/wxo-l4-assets
+[2025-08-18 17:30:04] OK ibm/wxo-l4-assets: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:04] Processing 1896/394: ibm/lionheart
+[2025-08-18 17:30:06] OK ibm/lionheart: 2 commits, 6 PRs merged in 30 days
+[2025-08-18 17:30:06] Processing 1897/394: ibm/aspera-cli
+[2025-08-18 17:30:08] OK ibm/aspera-cli: 27 commits, 29 PRs merged in 30 days
+[2025-08-18 17:30:08] Processing 1898/394: ibm/SpectrumScaleTools
+[2025-08-18 17:30:10] OK ibm/SpectrumScaleTools: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:10] Processing 1899/394: ibm/responsible-prompting-api
+[2025-08-18 17:30:12] OK ibm/responsible-prompting-api: 2 commits, 66 PRs merged in 30 days
+[2025-08-18 17:30:12] Processing 1900/394: ibm/tnz
+[2025-08-18 17:30:15] OK ibm/tnz: 4 commits, 97 PRs merged in 30 days
+[2025-08-18 17:30:15] Processing 1901/394: ibm/powervm-tang-server-automation
+[2025-08-18 17:30:17] OK ibm/powervm-tang-server-automation: 2 commits, 34 PRs merged in 30 days
+[2025-08-18 17:30:17] Processing 1902/394: ibm/powervs-tang-server-automation
+[2025-08-18 17:30:20] OK ibm/powervs-tang-server-automation: 3 commits, 85 PRs merged in 30 days
+[2025-08-18 17:30:20] Processing 1903/394: ibm/Apptio-Tools
+[2025-08-18 17:30:22] OK ibm/Apptio-Tools: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:22] Processing 1904/394: ibm/Apptio-Tools-Lib
+[2025-08-18 17:30:23] OK ibm/Apptio-Tools-Lib: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:24] Processing 1905/394: ibm/StorageCephVagrant
+[2025-08-18 17:30:25] OK ibm/StorageCephVagrant: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:30:25] Processing 1906/394: ibm/tls-test-tools
+[2025-08-18 17:30:27] OK ibm/tls-test-tools: 2 commits, 5 PRs merged in 30 days
+[2025-08-18 17:30:27] Processing 1907/394: ibm/code-engine-java-sdk
+[2025-08-18 17:30:29] OK ibm/code-engine-java-sdk: 1 commits, 14 PRs merged in 30 days
+[2025-08-18 17:30:29] Processing 1908/394: ibm/nl2flow
+[2025-08-18 17:30:31] OK ibm/nl2flow: 6 commits, 60 PRs merged in 30 days
+[2025-08-18 17:30:32] Processing 1909/394: ibm/ocp4-upi-compute-powervs
+[2025-08-18 17:30:34] OK ibm/ocp4-upi-compute-powervs: 5 commits, 89 PRs merged in 30 days
+[2025-08-18 17:30:34] Processing 1910/394: ibm/couchbackup
+[2025-08-18 17:30:37] OK ibm/couchbackup: 15 commits, 87 PRs merged in 30 days
+[2025-08-18 17:30:37] Processing 1911/394: ibm/storage-protect-galaxy
+[2025-08-18 17:30:39] OK ibm/storage-protect-galaxy: 3 commits, 6 PRs merged in 30 days
+[2025-08-18 17:30:39] Processing 1912/394: ibm/mt-rag-benchmark
+[2025-08-18 17:30:40] OK ibm/mt-rag-benchmark: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:40] Processing 1913/394: ibm/taxinomitis
+[2025-08-18 17:30:43] OK ibm/taxinomitis: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 17:30:43] Processing 1914/394: ibm/watson-openscale-samples
+[2025-08-18 17:30:46] OK ibm/watson-openscale-samples: 2 commits, 95 PRs merged in 30 days
+[2025-08-18 17:30:46] Processing 1915/394: ibm/vllm
+[2025-08-18 17:30:49] OK ibm/vllm: 0 commits, 48 PRs merged in 30 days
+[2025-08-18 17:30:49] Processing 1916/394: ibm/ibmi-company_system
+[2025-08-18 17:30:51] OK ibm/ibmi-company_system: 0 commits, 15 PRs merged in 30 days
+[2025-08-18 17:30:51] Processing 1917/394: ibm/wca-modernize
+[2025-08-18 17:30:53] OK ibm/wca-modernize: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:30:53] Processing 1918/394: ibm/diesel-json-form
+[2025-08-18 17:30:56] OK ibm/diesel-json-form: 0 commits, 68 PRs merged in 30 days
+[2025-08-18 17:30:56] Processing 1919/394: ibm/mobx-react-router
+[2025-08-18 17:30:58] OK ibm/mobx-react-router: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:30:58] Processing 1920/394: ibm/p-kit
+[2025-08-18 17:31:00] OK ibm/p-kit: 4 commits, 69 PRs merged in 30 days
+[2025-08-18 17:31:00] Processing 1921/394: ibm/materials
+[2025-08-18 17:31:02] OK ibm/materials: 2 commits, 15 PRs merged in 30 days
+[2025-08-18 17:31:02] Processing 1922/394: ibm/OpenJCEPlus
+[2025-08-18 17:31:04] OK ibm/OpenJCEPlus: 2 commits, 99 PRs merged in 30 days
+[2025-08-18 17:31:05] Processing 1923/394: ibm/hroecalc
+[2025-08-18 17:31:06] OK ibm/hroecalc: 18 commits, 3 PRs merged in 30 days
+[2025-08-18 17:31:06] Processing 1924/394: ibm/dapcs-oso-plugins
+[2025-08-18 17:31:08] OK ibm/dapcs-oso-plugins: 1 commits, 7 PRs merged in 30 days
+[2025-08-18 17:31:08] Processing 1925/394: ibm/actions-ibmcloud-cli
+[2025-08-18 17:31:10] OK ibm/actions-ibmcloud-cli: 0 commits, 26 PRs merged in 30 days
+[2025-08-18 17:31:10] Processing 1926/394: ibm/ibm-event-automation
+[2025-08-18 17:31:13] OK ibm/ibm-event-automation: 1 commits, 64 PRs merged in 30 days
+[2025-08-18 17:31:13] Processing 1927/394: ibm/appconfiguration-go-admin-sdk
+[2025-08-18 17:31:15] OK ibm/appconfiguration-go-admin-sdk: 0 commits, 25 PRs merged in 30 days
+[2025-08-18 17:31:15] Processing 1929/394: ibm/presto-iceberg-lab
+[2025-08-18 17:31:17] OK ibm/presto-iceberg-lab: 1 commits, 6 PRs merged in 30 days
+[2025-08-18 17:31:17] Processing 1930/394: ibm/secrets-manager-custom-credentials-providers
+[2025-08-18 17:31:19] OK ibm/secrets-manager-custom-credentials-providers: 7 commits, 28 PRs merged in 30 days
+[2025-08-18 17:31:19] Processing 1931/394: ibm/HeadTailAssign
+[2025-08-18 17:31:20] OK ibm/HeadTailAssign: 10 commits, 2 PRs merged in 30 days
+[2025-08-18 17:31:21] Processing 1932/394: ibm/multimodal-3d-image-segmentation
+[2025-08-18 17:31:23] OK ibm/multimodal-3d-image-segmentation: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:31:23] Processing 1933/394: ibm/guardium-ktap
+[2025-08-18 17:31:24] OK ibm/guardium-ktap: 9 commits, 0 PRs merged in 30 days
+[2025-08-18 17:31:24] Processing 1934/394: ibm/aiopsctl
+[2025-08-18 17:31:26] OK ibm/aiopsctl: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 17:31:26] Processing 1935/394: ibm/ibmi-bob
+[2025-08-18 17:31:28] OK ibm/ibmi-bob: 0 commits, 93 PRs merged in 30 days
+[2025-08-18 17:31:29] Processing 1936/394: ibm/federated-learning-lib
+[2025-08-18 17:31:31] OK ibm/federated-learning-lib: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 17:31:31] Processing 1937/394: ibm/NL2ESQL-with-watsonx
+[2025-08-18 17:31:33] OK ibm/NL2ESQL-with-watsonx: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:31:33] Processing 1938/394: ibm/turbonomic-container-platform
+[2025-08-18 17:31:35] OK ibm/turbonomic-container-platform: 4 commits, 0 PRs merged in 30 days
+[2025-08-18 17:31:35] Processing 1939/394: ibm/t8c-operator
+[2025-08-18 17:31:37] OK ibm/t8c-operator: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 17:31:37] Processing 1940/394: ibm/ibm-spectrum-lsf-rtm-server
+[2025-08-18 17:31:39] OK ibm/ibm-spectrum-lsf-rtm-server: 1 commits, 24 PRs merged in 30 days
+[2025-08-18 17:31:39] Processing 1941/394: ibm/container-registry-go-sdk
+[2025-08-18 17:31:41] OK ibm/container-registry-go-sdk: 3 commits, 37 PRs merged in 30 days
+[2025-08-18 17:31:41] Processing 1942/394: ibm/container-registry-java-sdk
+[2025-08-18 17:31:43] OK ibm/container-registry-java-sdk: 5 commits, 20 PRs merged in 30 days
+[2025-08-18 17:31:43] Processing 1943/394: ibm/ibm-watsonx-gov
+[2025-08-18 17:31:45] OK ibm/ibm-watsonx-gov: 0 commits, 20 PRs merged in 30 days
+[2025-08-18 17:31:45] Processing 1944/394: ibm/ccs-patterns
+[2025-08-18 17:31:47] OK ibm/ccs-patterns: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:31:47] Processing 1945/394: ibm/appconfiguration-js-client-sdk
+[2025-08-18 17:31:48] OK ibm/appconfiguration-js-client-sdk: 2 commits, 12 PRs merged in 30 days
+[2025-08-18 17:31:49] Processing 1946/394: ibm/flexo
+[2025-08-18 17:31:50] OK ibm/flexo: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 17:31:51] Processing 1947/394: ibm/fmwork
+[2025-08-18 17:31:52] OK ibm/fmwork: 1 commits, 10 PRs merged in 30 days
+[2025-08-18 17:31:53] Processing 1948/394: ibm/risk-atlas-nexus-demos
+[2025-08-18 17:31:54] OK ibm/risk-atlas-nexus-demos: 2 commits, 14 PRs merged in 30 days
+[2025-08-18 17:31:54] Processing 1949/394: ibm/ACPBench
+[2025-08-18 17:31:56] OK ibm/ACPBench: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 17:31:56] Processing 1950/394: ibm/SalesEnablement-L4-watsonx-AssistantForZ
+[2025-08-18 17:31:58] OK ibm/SalesEnablement-L4-watsonx-AssistantForZ: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:31:58] Processing 1951/394: ibm/ibm-object-csi-driver-operator
+[2025-08-18 17:32:00] OK ibm/ibm-object-csi-driver-operator: 4 commits, 76 PRs merged in 30 days
+[2025-08-18 17:32:00] Processing 1952/394: ibm/ibm-object-csi-driver
+[2025-08-18 17:32:03] OK ibm/ibm-object-csi-driver: 11 commits, 78 PRs merged in 30 days
+[2025-08-18 17:32:03] Processing 1953/394: ibm/tensorlakehouse-openeo-driver
+[2025-08-18 17:32:05] OK ibm/tensorlakehouse-openeo-driver: 30 commits, 60 PRs merged in 30 days
+[2025-08-18 17:32:05] Processing 1954/394: ibm/cp4ba-labs
+[2025-08-18 17:32:07] OK ibm/cp4ba-labs: 1 commits, 15 PRs merged in 30 days
+[2025-08-18 17:32:07] Processing 1955/394: ibm/carbon-components-ember
+[2025-08-18 17:32:10] OK ibm/carbon-components-ember: 2 commits, 71 PRs merged in 30 days
+[2025-08-18 17:32:10] Processing 1956/394: ibm/networking-java-sdk
+[2025-08-18 17:32:12] OK ibm/networking-java-sdk: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:32:12] Processing 1957/394: ibm/IBM-Synthetic-Data-Sets
+[2025-08-18 17:32:14] OK ibm/IBM-Synthetic-Data-Sets: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:14] Processing 1958/394: ibm/presto-hudi-workshop
+[2025-08-18 17:32:16] OK ibm/presto-hudi-workshop: 14 commits, 12 PRs merged in 30 days
+[2025-08-18 17:32:16] Processing 1959/394: ibm/ibm-pak
+[2025-08-18 17:32:18] OK ibm/ibm-pak: 2 commits, 49 PRs merged in 30 days
+[2025-08-18 17:32:18] Processing 1960/394: ibm/QBioCode
+[2025-08-18 17:32:20] OK ibm/QBioCode: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 17:32:20] Processing 1961/394: ibm/db2forzosdeveloperextension-about
+[2025-08-18 17:32:22] OK ibm/db2forzosdeveloperextension-about: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 17:32:22] Processing 1962/394: ibm/Ansible-OpenShift-Provisioning
+[2025-08-18 17:32:25] OK ibm/Ansible-OpenShift-Provisioning: 3 commits, 88 PRs merged in 30 days
+[2025-08-18 17:32:25] Processing 1963/394: ibm/oas-overlay-java
+[2025-08-18 17:32:27] OK ibm/oas-overlay-java: 3 commits, 10 PRs merged in 30 days
+[2025-08-18 17:32:27] Processing 1964/394: ibm/CSLiS
+[2025-08-18 17:32:29] OK ibm/CSLiS: 1 commits, 15 PRs merged in 30 days
+[2025-08-18 17:32:29] Processing 1965/394: ibm/DPP
+[2025-08-18 17:32:31] OK ibm/DPP: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:31] Processing 1966/394: ibm/ba-handson-jp
+[2025-08-18 17:32:32] OK ibm/ba-handson-jp: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:32] Processing 1967/394: ibm/TDD-Bench-Verified
+[2025-08-18 17:32:34] OK ibm/TDD-Bench-Verified: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:34] Processing 1968/394: ibm/EEL-agentic-ai-bootcamp
+[2025-08-18 17:32:36] OK ibm/EEL-agentic-ai-bootcamp: 3 commits, 19 PRs merged in 30 days
+[2025-08-18 17:32:36] Processing 1969/394: ibm/aihwkit-lightning
+[2025-08-18 17:32:38] OK ibm/aihwkit-lightning: 0 commits, 15 PRs merged in 30 days
+[2025-08-18 17:32:38] Processing 1970/394: ibm/gp-molformer
+[2025-08-18 17:32:40] OK ibm/gp-molformer: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:40] Processing 1971/394: ibm/intro-ai-llm-workshop
+[2025-08-18 17:32:41] OK ibm/intro-ai-llm-workshop: 2 commits, 3 PRs merged in 30 days
+[2025-08-18 17:32:42] Processing 1972/394: ibm/sourceorbit
+[2025-08-18 17:32:44] OK ibm/sourceorbit: 54 commits, 68 PRs merged in 30 days
+[2025-08-18 17:32:44] Processing 1973/394: ibm/ELM-Python-Client
+[2025-08-18 17:32:46] OK ibm/ELM-Python-Client: 0 commits, 4 PRs merged in 30 days
+[2025-08-18 17:32:46] Processing 1974/394: ibm/ibm-cos-sdk-js-config
+[2025-08-18 17:32:47] OK ibm/ibm-cos-sdk-js-config: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:48] Processing 1975/394: ibm/ibm-cos-sdk-python-s3transfer
+[2025-08-18 17:32:49] OK ibm/ibm-cos-sdk-python-s3transfer: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:49] Processing 1976/394: ibm/ibm-cos-sdk-python-core
+[2025-08-18 17:32:51] OK ibm/ibm-cos-sdk-python-core: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:51] Processing 1977/394: ibm/ibm-cos-sdk-python
+[2025-08-18 17:32:53] OK ibm/ibm-cos-sdk-python: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:32:53] Processing 1978/394: ibm/appconfiguration-rust-sdk
+[2025-08-18 17:32:55] OK ibm/appconfiguration-rust-sdk: 8 commits, 62 PRs merged in 30 days
+[2025-08-18 17:32:55] Processing 1979/394: ibm/ibmcloud-object-storage-plugin
+[2025-08-18 17:32:58] OK ibm/ibmcloud-object-storage-plugin: 0 commits, 83 PRs merged in 30 days
+[2025-08-18 17:32:58] Processing 1980/394: ibm/ibm-spectrum-scale-install-infra
+[2025-08-18 17:33:00] OK ibm/ibm-spectrum-scale-install-infra: 4 commits, 75 PRs merged in 30 days
+[2025-08-18 17:33:00] Processing 1981/394: ibm/event-notifications-node-admin-sdk
+[2025-08-18 17:33:03] OK ibm/event-notifications-node-admin-sdk: 4 commits, 70 PRs merged in 30 days
+[2025-08-18 17:33:03] Processing 1982/394: ibm/event-notifications-python-admin-sdk
+[2025-08-18 17:33:05] OK ibm/event-notifications-python-admin-sdk: 6 commits, 69 PRs merged in 30 days
+[2025-08-18 17:33:05] Processing 1983/394: ibm/event-notifications-go-admin-sdk
+[2025-08-18 17:33:08] OK ibm/event-notifications-go-admin-sdk: 6 commits, 69 PRs merged in 30 days
+[2025-08-18 17:33:08] Processing 1984/394: ibm/fscrypt-multiuser
+[2025-08-18 17:33:10] OK ibm/fscrypt-multiuser: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:10] Processing 1985/394: ibm/event-notifications-huawei-android-sdk
+[2025-08-18 17:33:12] OK ibm/event-notifications-huawei-android-sdk: 2 commits, 7 PRs merged in 30 days
+[2025-08-18 17:33:12] Processing 1986/394: ibm/event-notifications-destination-android-sdk
+[2025-08-18 17:33:14] OK ibm/event-notifications-destination-android-sdk: 2 commits, 11 PRs merged in 30 days
+[2025-08-18 17:33:14] Processing 1987/394: ibm/event-notifications-destination-ios-sdk
+[2025-08-18 17:33:16] OK ibm/event-notifications-destination-ios-sdk: 2 commits, 13 PRs merged in 30 days
+[2025-08-18 17:33:16] Processing 1988/394: ibm/hyperprotect
+[2025-08-18 17:33:18] OK ibm/hyperprotect: 9 commits, 17 PRs merged in 30 days
+[2025-08-18 17:33:18] Processing 1989/394: ibm/IM-android
+[2025-08-18 17:33:19] OK ibm/IM-android: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 17:33:19] Processing 1991/394: ibm/z_ansible_collections_samples
+[2025-08-18 17:33:22] OK ibm/z_ansible_collections_samples: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 17:33:22] Processing 1992/394: ibm/FactReasoner
+[2025-08-18 17:33:24] OK ibm/FactReasoner: 26 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:24] Processing 1993/394: ibm/javacore-analyser
+[2025-08-18 17:33:26] OK ibm/javacore-analyser: 0 commits, 56 PRs merged in 30 days
+[2025-08-18 17:33:26] Processing 1994/394: ibm/repo-template
+[2025-08-18 17:33:28] OK ibm/repo-template: 2 commits, 13 PRs merged in 30 days
+[2025-08-18 17:33:28] Processing 1995/394: ibm/struct-text
+[2025-08-18 17:33:30] OK ibm/struct-text: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:30] Processing 1996/394: ibm/magnolia-reproducer
+[2025-08-18 17:33:32] OK ibm/magnolia-reproducer: 8 commits, 4 PRs merged in 30 days
+[2025-08-18 17:33:32] Processing 1997/394: ibm/text-generation-router
+[2025-08-18 17:33:34] OK ibm/text-generation-router: 1 commits, 21 PRs merged in 30 days
+[2025-08-18 17:33:34] Processing 1998/394: ibm/mqcloud-go-sdk
+[2025-08-18 17:33:36] OK ibm/mqcloud-go-sdk: 9 commits, 23 PRs merged in 30 days
+[2025-08-18 17:33:36] Processing 1999/394: ibm/cloudant-kafka-connector
+[2025-08-18 17:33:39] OK ibm/cloudant-kafka-connector: 4 commits, 92 PRs merged in 30 days
+[2025-08-18 17:33:39] Processing 2000/394: ibm/ciam-nextjs
+[2025-08-18 17:33:41] OK ibm/ciam-nextjs: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:41] Processing 2001/394: ibm/code-engine-node-sdk
+[2025-08-18 17:33:42] OK ibm/code-engine-node-sdk: 1 commits, 13 PRs merged in 30 days
+[2025-08-18 17:33:42] Processing 2002/394: ibm/multiscale-beep-modeling
+[2025-08-18 17:33:44] OK ibm/multiscale-beep-modeling: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:44] Processing 2003/394: ibm/fa-vs-code-extension
+[2025-08-18 17:33:46] OK ibm/fa-vs-code-extension: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:46] Processing 2004/394: ibm/fm-vs-code-extension
+[2025-08-18 17:33:47] OK ibm/fm-vs-code-extension: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:47] Processing 2005/394: ibm/data-product-exchange-python-sdk
+[2025-08-18 17:33:49] OK ibm/data-product-exchange-python-sdk: 3 commits, 20 PRs merged in 30 days
+[2025-08-18 17:33:50] Processing 2006/394: ibm/pdreport
+[2025-08-18 17:33:51] OK ibm/pdreport: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:51] Processing 2007/394: ibm/platform-services-node-sdk
+[2025-08-18 17:33:54] OK ibm/platform-services-node-sdk: 6 commits, 90 PRs merged in 30 days
+[2025-08-18 17:33:54] Processing 2008/394: ibm/csi-volume-group-operator
+[2025-08-18 17:33:56] OK ibm/csi-volume-group-operator: 0 commits, 59 PRs merged in 30 days
+[2025-08-18 17:33:57] Processing 2009/394: ibm/CRAFT
+[2025-08-18 17:33:58] OK ibm/CRAFT: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:33:58] Processing 2010/394: ibm/wca-l4
+[2025-08-18 17:34:00] OK ibm/wca-l4: 3 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:00] Processing 2011/394: ibm/AISteer360
+[2025-08-18 17:34:02] OK ibm/AISteer360: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:02] Processing 2012/394: ibm/.github
+[2025-08-18 17:34:04] OK ibm/.github: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:34:04] Processing 2013/394: ibm/zopendebug-about
+[2025-08-18 17:34:06] OK ibm/zopendebug-about: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:34:06] Processing 2014/394: ibm/watsonx-ai-node-sdk
+[2025-08-18 17:34:08] OK ibm/watsonx-ai-node-sdk: 2 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:08] Processing 2015/394: ibm/networking-python-sdk
+[2025-08-18 17:34:11] OK ibm/networking-python-sdk: 0 commits, 75 PRs merged in 30 days
+[2025-08-18 17:34:11] Processing 2016/394: ibm/terraform-provider-ode
+[2025-08-18 17:34:12] OK ibm/terraform-provider-ode: 3 commits, 4 PRs merged in 30 days
+[2025-08-18 17:34:13] Processing 2017/394: ibm/techxchange2025-lab3640-docling
+[2025-08-18 17:34:14] OK ibm/techxchange2025-lab3640-docling: 5 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:14] Processing 2018/394: ibm/event-notifications-java-admin-sdk
+[2025-08-18 17:34:17] OK ibm/event-notifications-java-admin-sdk: 1 commits, 54 PRs merged in 30 days
+[2025-08-18 17:34:17] Processing 2019/394: ibm/vpc-node-sdk
+[2025-08-18 17:34:19] OK ibm/vpc-node-sdk: 0 commits, 52 PRs merged in 30 days
+[2025-08-18 17:34:19] Processing 2020/394: ibm/data-product-exchange-java-sdk
+[2025-08-18 17:34:21] OK ibm/data-product-exchange-java-sdk: 3 commits, 23 PRs merged in 30 days
+[2025-08-18 17:34:21] Processing 2021/394: ibm/data-product-exchange-node-sdk
+[2025-08-18 17:34:23] OK ibm/data-product-exchange-node-sdk: 2 commits, 9 PRs merged in 30 days
+[2025-08-18 17:34:23] Processing 2022/394: ibm/ibm-storage-odf-block-driver
+[2025-08-18 17:34:25] OK ibm/ibm-storage-odf-block-driver: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 17:34:25] Processing 2023/394: ibm/ibm-storage-odf-operator
+[2025-08-18 17:34:28] OK ibm/ibm-storage-odf-operator: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 17:34:28] Processing 2024/394: ibm/SSSDEPLOYGUI
+[2025-08-18 17:34:30] OK ibm/SSSDEPLOYGUI: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:30] Processing 2025/394: ibm/SSSRCL
+[2025-08-18 17:34:31] OK ibm/SSSRCL: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:31] Processing 2026/394: ibm/SSSAPI
+[2025-08-18 17:34:33] OK ibm/SSSAPI: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:33] Processing 2027/394: ibm/ReActXen
+[2025-08-18 17:34:35] OK ibm/ReActXen: 0 commits, 11 PRs merged in 30 days
+[2025-08-18 17:34:35] Processing 2028/394: ibm/RMF
+[2025-08-18 17:34:38] OK ibm/RMF: 9 commits, 84 PRs merged in 30 days
+[2025-08-18 17:34:38] Processing 2029/394: ibm/spectrum-scale-policy-scripts
+[2025-08-18 17:34:39] OK ibm/spectrum-scale-policy-scripts: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:34:39] Processing 2030/394: ibm/go-sdk-core
+[2025-08-18 17:34:42] OK ibm/go-sdk-core: 3 commits, 92 PRs merged in 30 days
+[2025-08-18 17:34:42] Processing 2031/394: ibm/container-registry-node-sdk
+[2025-08-18 17:34:44] OK ibm/container-registry-node-sdk: 2 commits, 30 PRs merged in 30 days
+[2025-08-18 17:34:44] Processing 2032/394: ibm/watsonx-data
+[2025-08-18 17:34:46] OK ibm/watsonx-data: 2 commits, 25 PRs merged in 30 days
+[2025-08-18 17:34:46] Processing 2033/394: ibm/vpc-beta-go-sdk
+[2025-08-18 17:34:48] OK ibm/vpc-beta-go-sdk: 3 commits, 15 PRs merged in 30 days
+[2025-08-18 17:34:48] Processing 2034/394: ibm/cloud-pak-operations-cli
+[2025-08-18 17:34:51] OK ibm/cloud-pak-operations-cli: 0 commits, 98 PRs merged in 30 days
+[2025-08-18 17:34:51] Processing 2035/394: ibm/dbt-watsonx-presto
+[2025-08-18 17:34:53] OK ibm/dbt-watsonx-presto: 7 commits, 22 PRs merged in 30 days
+[2025-08-18 17:34:53] Processing 2036/394: ibm/cp4ba-client-onboarding-scenario
+[2025-08-18 17:34:55] OK ibm/cp4ba-client-onboarding-scenario: 1 commits, 1 PRs merged in 30 days
+[2025-08-18 17:34:55] Processing 2037/394: ibm/ibm-cloud-functions-serverless-ocr-openchecks
+[2025-08-18 17:34:57] OK ibm/ibm-cloud-functions-serverless-ocr-openchecks: 0 commits, 26 PRs merged in 30 days
+[2025-08-18 17:34:57] Processing 2038/394: ibm/node-sdk-core
+[2025-08-18 17:35:00] OK ibm/node-sdk-core: 4 commits, 90 PRs merged in 30 days
+[2025-08-18 17:35:00] Processing 2039/394: ibm/ibmpairs
+[2025-08-18 17:35:02] OK ibm/ibmpairs: 0 commits, 55 PRs merged in 30 days
+[2025-08-18 17:35:02] Processing 2040/394: ibm/csi-volume-group
+[2025-08-18 17:35:04] OK ibm/csi-volume-group: 9 commits, 10 PRs merged in 30 days
+[2025-08-18 17:35:04] Processing 2041/394: ibm/pysvc
+[2025-08-18 17:35:06] OK ibm/pysvc: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 17:35:06] Processing 2042/394: ibm/ibmcloud-cos-cli
+[2025-08-18 17:35:08] OK ibm/ibmcloud-cos-cli: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:08] Processing 2043/394: ibm/terraform-provider-turbonomic
+[2025-08-18 17:35:09] OK ibm/terraform-provider-turbonomic: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:10] Processing 2044/394: ibm/dapcs-oso-framework
+[2025-08-18 17:35:11] OK ibm/dapcs-oso-framework: 0 commits, 20 PRs merged in 30 days
+[2025-08-18 17:35:11] Processing 2045/394: ibm/project-documentation-template
+[2025-08-18 17:35:13] OK ibm/project-documentation-template: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 17:35:13] Processing 2046/394: ibm/ansible-storage-protect
+[2025-08-18 17:35:16] OK ibm/ansible-storage-protect: 1 commits, 28 PRs merged in 30 days
+[2025-08-18 17:35:16] Processing 2047/394: ibm/core-dump-operator
+[2025-08-18 17:35:18] OK ibm/core-dump-operator: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 17:35:18] Processing 2048/394: ibm/objcache
+[2025-08-18 17:35:20] OK ibm/objcache: 2 commits, 1 PRs merged in 30 days
+[2025-08-18 17:35:20] Processing 2049/394: ibm/cpd-cli
+[2025-08-18 17:35:22] OK ibm/cpd-cli: 0 commits, 62 PRs merged in 30 days
+[2025-08-18 17:35:22] Processing 2050/394: ibm/image-prune
+[2025-08-18 17:35:24] OK ibm/image-prune: 5 commits, 14 PRs merged in 30 days
+[2025-08-18 17:35:24] Processing 2051/394: ibm/cics-bundle-gradle
+[2025-08-18 17:35:27] OK ibm/cics-bundle-gradle: 6 commits, 82 PRs merged in 30 days
+[2025-08-18 17:35:27] Processing 2052/394: ibm/cics-bundle-common
+[2025-08-18 17:35:30] OK ibm/cics-bundle-common: 4 commits, 70 PRs merged in 30 days
+[2025-08-18 17:35:30] Processing 2053/394: ibm/webmethods-io-int-cicd
+[2025-08-18 17:35:31] OK ibm/webmethods-io-int-cicd: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 17:35:31] Processing 2054/394: ibm/cics-bundle-maven
+[2025-08-18 17:35:34] OK ibm/cics-bundle-maven: 14 commits, 89 PRs merged in 30 days
+[2025-08-18 17:35:34] Processing 2055/394: ibm/vpc-node-label-updater
+[2025-08-18 17:35:36] Rate limit hit, stopping collection
+[2025-08-18 17:35:36] Error getting metrics for ibm/vpc-node-label-updater: Rate limit exceeded
+[2025-08-18 17:35:36] Rate limit reached. Waiting 1 hour before retrying...
+[2025-08-18 18:35:36] Resuming collection after 1 hour wait
+[2025-08-18 18:35:37] OK ibm/vpc-node-label-updater: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:35:37] Processing 2056/394: ibm/ansible-powervc
+[2025-08-18 18:35:39] OK ibm/ansible-powervc: 12 commits, 10 PRs merged in 30 days
+[2025-08-18 18:35:39] Processing 2057/394: ibm/sangam-bank
+[2025-08-18 18:35:41] OK ibm/sangam-bank: 8 commits, 7 PRs merged in 30 days
+[2025-08-18 18:35:41] Processing 2058/394: ibm/concert-enablement
+[2025-08-18 18:35:43] OK ibm/concert-enablement: 1 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:43] Processing 2059/394: ibm/helloworldjsp
+[2025-08-18 18:35:44] OK ibm/helloworldjsp: 6 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:44] Processing 2060/394: ibm/platform-services-python-sdk
+[2025-08-18 18:35:47] OK ibm/platform-services-python-sdk: 3 commits, 92 PRs merged in 30 days
+[2025-08-18 18:35:47] Processing 2061/394: ibm/platform-services-go-sdk
+[2025-08-18 18:35:50] OK ibm/platform-services-go-sdk: 3 commits, 86 PRs merged in 30 days
+[2025-08-18 18:35:50] Processing 2062/394: ibm/WGTDA
+[2025-08-18 18:35:52] OK ibm/WGTDA: 0 commits, 2 PRs merged in 30 days
+[2025-08-18 18:35:52] Processing 2063/394: ibm/packer-plugin-ibmcloud
+[2025-08-18 18:35:54] OK ibm/packer-plugin-ibmcloud: 0 commits, 73 PRs merged in 30 days
+[2025-08-18 18:35:54] Processing 2064/394: ibm/rpg-genai-data
+[2025-08-18 18:35:56] OK ibm/rpg-genai-data: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:35:56] Processing 2065/394: ibm/ContextAwareJoin
+[2025-08-18 18:35:58] OK ibm/ContextAwareJoin: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:35:58] Processing 2066/394: ibm/mpitrace
+[2025-08-18 18:35:59] OK ibm/mpitrace: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:35:59] Processing 2067/394: ibm/sample-app-mod
+[2025-08-18 18:36:01] OK ibm/sample-app-mod: 0 commits, 32 PRs merged in 30 days
+[2025-08-18 18:36:01] Processing 2068/394: ibm/lunchpail
+[2025-08-18 18:36:03] OK ibm/lunchpail: 0 commits, 94 PRs merged in 30 days
+[2025-08-18 18:36:03] Processing 2070/394: ibm/ibm-licensing-operator
+[2025-08-18 18:36:06] OK ibm/ibm-licensing-operator: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 18:36:06] Processing 2071/394: ibm/ibm-csi-common
+[2025-08-18 18:36:08] OK ibm/ibm-csi-common: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 18:36:08] Processing 2072/394: ibm/cp4aiops-gitops
+[2025-08-18 18:36:10] OK ibm/cp4aiops-gitops: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:36:10] Processing 2073/394: ibm/FailureSensorIQ
+[2025-08-18 18:36:12] OK ibm/FailureSensorIQ: 0 commits, 66 PRs merged in 30 days
+[2025-08-18 18:36:12] Processing 2074/394: ibm/ibm-spectrum-scale-container-native
+[2025-08-18 18:36:14] OK ibm/ibm-spectrum-scale-container-native: 0 commits, 63 PRs merged in 30 days
+[2025-08-18 18:36:14] Processing 2075/394: ibm/ibm-spectrum-scale-cloud-install
+[2025-08-18 18:36:17] OK ibm/ibm-spectrum-scale-cloud-install: 0 commits, 95 PRs merged in 30 days
+[2025-08-18 18:36:17] Processing 2076/394: ibm/sds-go-sdk
+[2025-08-18 18:36:19] OK ibm/sds-go-sdk: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 18:36:19] Processing 2077/394: ibm/Kubernetes-Lite
+[2025-08-18 18:36:21] OK ibm/Kubernetes-Lite: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 18:36:21] Processing 2078/394: ibm/dbt-watsonx-spark
+[2025-08-18 18:36:22] OK ibm/dbt-watsonx-spark: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:36:23] Processing 2079/394: ibm/llvm-project
+[2025-08-18 18:36:24] OK ibm/llvm-project: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:36:24] Processing 2080/394: ibm/ibm-vpc-file-csi-driver
+[2025-08-18 18:36:26] OK ibm/ibm-vpc-file-csi-driver: 0 commits, 70 PRs merged in 30 days
+[2025-08-18 18:36:26] Processing 2081/394: ibm/OpenCryptographyKitC
+[2025-08-18 18:36:28] OK ibm/OpenCryptographyKitC: 0 commits, 11 PRs merged in 30 days
+[2025-08-18 18:36:28] Processing 2082/394: ibm/detect-secrets-stream
+[2025-08-18 18:36:30] OK ibm/detect-secrets-stream: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 18:36:30] Processing 2083/394: ibm/ibm-websphere-automation
+[2025-08-18 18:36:32] OK ibm/ibm-websphere-automation: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 18:36:32] Processing 2084/394: ibm/cp4ba-jam-in-a-box
+[2025-08-18 18:36:34] OK ibm/cp4ba-jam-in-a-box: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:36:34] Processing 2085/394: ibm/staticroute-operator
+[2025-08-18 18:36:36] OK ibm/staticroute-operator: 0 commits, 92 PRs merged in 30 days
+[2025-08-18 18:36:36] Processing 2086/394: ibm/ibmcloud-volume-file-vpc
+[2025-08-18 18:36:38] OK ibm/ibmcloud-volume-file-vpc: 0 commits, 43 PRs merged in 30 days
+[2025-08-18 18:36:38] Processing 2087/394: ibm/cpdctl
+[2025-08-18 18:36:40] OK ibm/cpdctl: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 18:36:40] Processing 2088/394: ibm/ibmcloud-volume-interface
+[2025-08-18 18:36:41] OK ibm/ibmcloud-volume-interface: 0 commits, 41 PRs merged in 30 days
+[2025-08-18 18:36:42] Processing 2089/394: ibm/cp4d-deployment
+[2025-08-18 18:36:44] OK ibm/cp4d-deployment: 0 commits, 79 PRs merged in 30 days
+[2025-08-18 18:36:44] Processing 2090/394: ibm/python-itoolkit
+[2025-08-18 18:36:46] OK ibm/python-itoolkit: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 18:36:46] Processing 2091/394: ibm/hello-carbon-vue3
+[2025-08-18 18:36:48] OK ibm/hello-carbon-vue3: 0 commits, 53 PRs merged in 30 days
+[2025-08-18 18:36:48] Processing 2092/394: ibm/application-development-accelerators
+[2025-08-18 18:36:50] OK ibm/application-development-accelerators: 3 commits, 8 PRs merged in 30 days
+[2025-08-18 18:36:50] Processing 2093/394: ibm/KCIF
+[2025-08-18 18:36:52] OK ibm/KCIF: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:36:52] Processing 2094/394: ibm/sib
+[2025-08-18 18:36:54] OK ibm/sib: 0 commits, 51 PRs merged in 30 days
+[2025-08-18 18:36:54] Processing 2095/394: ibm/zDLC
+[2025-08-18 18:36:56] OK ibm/zDLC: 0 commits, 24 PRs merged in 30 days
+[2025-08-18 18:36:56] Processing 2096/394: ibm/diesel-json
+[2025-08-18 18:36:58] OK ibm/diesel-json: 0 commits, 67 PRs merged in 30 days
+[2025-08-18 18:36:58] Processing 2097/394: ibm/openkommander
+[2025-08-18 18:37:00] OK ibm/openkommander: 0 commits, 28 PRs merged in 30 days
+[2025-08-18 18:37:00] Processing 2098/394: ibm/nz-dbt
+[2025-08-18 18:37:01] OK ibm/nz-dbt: 0 commits, 14 PRs merged in 30 days
+[2025-08-18 18:37:02] Processing 2099/394: ibm/ibmz-accelerated-serving-for-tensorflow
+[2025-08-18 18:37:03] OK ibm/ibmz-accelerated-serving-for-tensorflow: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 18:37:03] Processing 2100/394: ibm/ibmz-accelerated-for-tensorflow
+[2025-08-18 18:37:05] OK ibm/ibmz-accelerated-for-tensorflow: 0 commits, 7 PRs merged in 30 days
+[2025-08-18 18:37:05] Processing 2101/394: ibm/z_ansible_collections_doc
+[2025-08-18 18:37:07] OK ibm/z_ansible_collections_doc: 0 commits, 26 PRs merged in 30 days
+[2025-08-18 18:37:07] Processing 2102/394: ibm/k8s-enc-image-operator
+[2025-08-18 18:37:09] OK ibm/k8s-enc-image-operator: 0 commits, 27 PRs merged in 30 days
+[2025-08-18 18:37:09] Processing 2103/394: ibm/magkit-vanity-url
+[2025-08-18 18:37:11] OK ibm/magkit-vanity-url: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:37:11] Processing 2104/394: ibm/CommonLowLevelTracingKit
+[2025-08-18 18:37:12] OK ibm/CommonLowLevelTracingKit: 0 commits, 6 PRs merged in 30 days
+[2025-08-18 18:37:12] Processing 2105/394: ibm/bamoe-docs
+[2025-08-18 18:37:15] OK ibm/bamoe-docs: 0 commits, 80 PRs merged in 30 days
+[2025-08-18 18:37:15] Processing 2106/394: ibm/mac-ibm-enrollment-helper
+[2025-08-18 18:37:17] OK ibm/mac-ibm-enrollment-helper: 0 commits, 9 PRs merged in 30 days
+[2025-08-18 18:37:17] Processing 2107/394: ibm/aspera-connect-sdk-js
+[2025-08-18 18:37:19] OK ibm/aspera-connect-sdk-js: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 18:37:19] Processing 2108/394: ibm/appconfiguration-go-sdk
+[2025-08-18 18:37:21] OK ibm/appconfiguration-go-sdk: 0 commits, 38 PRs merged in 30 days
+[2025-08-18 18:37:21] Processing 2109/394: ibm/data-privacy-toolkit
+[2025-08-18 18:37:23] OK ibm/data-privacy-toolkit: 0 commits, 47 PRs merged in 30 days
+[2025-08-18 18:37:24] Processing 2110/394: ibm/dse-do-dashboard
+[2025-08-18 18:37:25] OK ibm/dse-do-dashboard: 0 commits, 8 PRs merged in 30 days
+[2025-08-18 18:37:25] Processing 2111/394: ibm/dse-decision-optimization-utilities
+[2025-08-18 18:37:27] OK ibm/dse-decision-optimization-utilities: 0 commits, 29 PRs merged in 30 days
+[2025-08-18 18:37:27] Processing 2112/394: ibm/event-notifications-destination-webpush-sdk
+[2025-08-18 18:37:28] OK ibm/event-notifications-destination-webpush-sdk: 0 commits, 10 PRs merged in 30 days
+[2025-08-18 18:37:29] Processing 2113/394: ibm/IM-ios
+[2025-08-18 18:37:30] OK ibm/IM-ios: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:30] Processing 2114/394: ibm/cp4s-car-connectors
+[2025-08-18 18:37:32] OK ibm/cp4s-car-connectors: 0 commits, 81 PRs merged in 30 days
+[2025-08-18 18:37:32] Processing 2115/394: ibm/extremal-python-dependencies
+[2025-08-18 18:37:34] OK ibm/extremal-python-dependencies: 0 commits, 23 PRs merged in 30 days
+[2025-08-18 18:37:34] Processing 2116/394: ibm/z-devops-acceleration-program
+[2025-08-18 18:37:36] OK ibm/z-devops-acceleration-program: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:36] Processing 2117/394: ibm/template-node-typescript
+[2025-08-18 18:37:38] OK ibm/template-node-typescript: 0 commits, 26 PRs merged in 30 days
+[2025-08-18 18:37:38] Processing 2118/394: ibm/Grafana-zos
+[2025-08-18 18:37:40] OK ibm/Grafana-zos: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:40] Processing 2119/394: ibm/IM-web
+[2025-08-18 18:37:42] OK ibm/IM-web: 0 commits, 0 PRs merged in 30 days
+[2025-08-18 18:37:42] Processing 2120/394: ibm/operator-collection-sdk
+[2025-08-18 18:37:43] OK ibm/operator-collection-sdk: 0 commits, 42 PRs merged in 30 days
+[2025-08-18 18:37:44] Processing 2121/394: ibm/project-go-sdk
+[2025-08-18 18:37:45] OK ibm/project-go-sdk: 0 commits, 36 PRs merged in 30 days
+[2025-08-18 18:37:45] Processing 2122/394: ibm/template-node-angular
+[2025-08-18 18:37:48] OK ibm/template-node-angular: 0 commits, 12 PRs merged in 30 days
+[2025-08-18 18:37:48] Processing 2123/394: ibm/grpc-for-Z
+[2025-08-18 18:37:49] OK ibm/grpc-for-Z: 0 commits, 1 PRs merged in 30 days
+[2025-08-18 18:37:49] Processing 2124/394: ibm/ibmix-sapcommerce-sonar-rules
+[2025-08-18 18:37:51] OK ibm/ibmix-sapcommerce-sonar-rules: 0 commits, 3 PRs merged in 30 days
+[2025-08-18 18:37:51] Processing 2125/394: ibm/sql-query-go-sdk
+[2025-08-18 18:37:53] OK ibm/sql-query-go-sdk: 0 commits, 19 PRs merged in 30 days
+[2025-08-18 18:37:53] Collection completed successfully!

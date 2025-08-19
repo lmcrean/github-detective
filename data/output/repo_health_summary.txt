@@ -1,0 +1,21 @@
+Repository Health Analysis Summary
+Generated: 2025-08-19 01:34:00
+Metrics: commits_last_30d + PRs_closed_30d (health_score = commits + PRs*2)
+
+Total repositories: 5,709
+Active repositories (health_score > 0): 5,315
+Inactive repositories (health_score = 0): 394
+Highest health score: 300
+Average health score: 97.25
+
+Top 10 Healthiest Repositories:
+  Score 300 (100c + 100p) - microsoft/kiota-samples (MICROSOFT)
+  Score 298 (100c +  99p) - ibm/spnl (IBM)
+  Score 298 (100c +  99p) - microsoft/TypeAgent (MICROSOFT)
+  Score 298 (100c +  99p) - microsoft/MIDI (MICROSOFT)
+  Score 296 (100c +  98p) - microsoft/testfx (MICROSOFT)
+  Score 294 (100c +  97p) - siemens/element (LARGE_BUCKET2)
+  Score 294 (100c +  97p) - analogdevicesinc/scopy (LARGE_BUCKET3)
+  Score 294 (100c +  97p) - nvidia/cccl (LARGE_BUCKET1)
+  Score 294 (100c +  97p) - amd/HPCTrainingExamples (SMALL_ORGS)
+  Score 292 (100c +  96p) - intel/llvm (LARGE_BUCKET2)
