@@ -1,0 +1,16 @@
+ID,Organization Name,Overview,GitHub URL
+1,Revolut,"Europe's most valuable private fintech ($45B valuation), digital banking super-app with 52.5M customers, $4B revenue in 2024, London HQ",https://github.com/revolut-engineering
+2,Monzo,"Digital challenger bank with 12.2M customers, $1.67B revenue in 2024, $5.9B valuation, 174 GitHub repos, London HQ",https://github.com/monzo
+3,Checkout.com,"Global payments infrastructure provider, $11B valuation (peak $40B), returned to profitability in 2024, London HQ",https://github.com/checkout
+4,GoCardless,"Recurring payments specialist processing £39.6B annually, $2.1B valuation, £132M revenue, 158 repos, London HQ",https://github.com/gocardless
+5,Starling Bank,"Digital bank with 4.2M accounts, £714M revenue and £280M profit in 2024, $3.57B valuation, London HQ",https://github.com/starlingbank
+6,Thought Machine,"Cloud-native banking software powering Lloyds/JPMorgan, £2.7B valuation, 48+ repos including 'please' build system, London HQ",https://github.com/thought-machine
+7,Graphcore,"AI semiconductor company developing IPUs, acquired by SoftBank for $600M, 80+ ML/AI repos, Bristol/London offices",https://github.com/graphcore
+8,Improbable,"Metaverse/simulation technology company, $3.36B valuation, £66M revenue, virtual worlds infrastructure, London HQ",https://github.com/improbable-eng
+9,Deliveroo,"Food delivery platform, £2B+ revenue, £2.9B valuation, 160+ repos (1/3 public), pending DoorDash acquisition, London HQ",https://github.com/deliveroo
+10,Paddle,"Payment infrastructure for SaaS companies, $1.4B valuation unicorn, 51+ active repos with modern tooling, London HQ",https://github.com/PaddleHQ
+11,Snyk,"Developer-first security platform for code vulnerability scanning, extensive CLI tools and GitHub Actions, London operations",https://github.com/snyk
+12,Zopa Bank,"Digital banking pioneer, unicorn status with £750M+ valuation, £15.8M profit in 2023, London HQ",https://github.com/ZopaPublic
+13,OakNorth Bank,"SME lending specialist, £214.8M profit in 2024, £12.5B lending book, 24+ repos, London/Manchester offices",https://github.com/oaknorthbank
+14,BenevolentAI,"AI-driven drug discovery, $1B valuation (reduced from peak), 14 research repos including guacamol/MolBERT, London HQ",https://github.com/BenevolentAI
+15,Wise,"Global money transfer platform, £846M revenue FY2024, $11B valuation, 60+ repos, extensive API documentation, London HQ",https://github.com/wise
