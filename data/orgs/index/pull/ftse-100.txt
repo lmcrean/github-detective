@@ -1,0 +1,500 @@
+EPIC	Name	Current price (p)	Day change	
+III	3i Group Plc	
+4,067.00
+-28.00
+-0.68%
+
+ADM	Admiral Group	
+3,614.00
+-32.00
+-0.88%
+
+AAF	Airtel Africa plc	
+221.20
+-2.00
+-0.90%
+
+ALW	Alliance Witan plc	
+1,260.00
+-8.00
+-0.63%
+
+AAL	Anglo American Plc	
+2,266.50
++66.00
++3.00%
+
+ANTO	Antofagasta plc	
+2,163.00
++25.00
++1.17%
+
+AHT	Ashtead Group plc	
+5,490.00
++6.00
++0.11%
+
+ABF	Associated British Foods plc	
+2,166.50
+-22.00
+-1.01%
+
+AZN	AstraZeneca plc	
+11,807.00
+-70.00
+-0.59%
+
+AUTO	Auto Trader Group plc	
+804.20
+-13.40
+-1.64%
+
+AV.	Aviva Plc	
+656.40
+-20.80
+-3.07%
+
+BAB	Babcock International Group	
+1,007.50
+-5.00
+-0.49%
+
+BA.	BAE Systems plc	
+1,762.25
+-4.50
+-0.25%
+
+BARC	Barclays plc	
+368.93
+-2.45
+-0.66%
+
+BTRW	Barratt Redrow Plc	
+366.40
+-3.70
+-1.00%
+
+BEZ	Beazley plc	
+787.25
+-4.00
+-0.51%
+
+BKG	Berkeley Group Holdings plc	
+3,634.00
+-46.00
+-1.25%
+
+BP.	BP Plc	
+428.65
+-0.40
+-0.09%
+
+BATS	British American Tobacco plc	
+4,134.50
+-78.00
+-1.85%
+
+BT.A	BT Group plc	
+217.00
++1.10
++0.51%
+
+BNZL	Bunzl plc	
+2,489.00
+0.00
+0.00%
+
+CNA	Centrica plc	
+161.45
+-2.35
+-1.43%
+
+CCEP	Coca-Cola Europacific Partners Plc	
+6,525.00
+-30.00
+-0.46%
+
+CCH	Coca-Cola HBC AG	
+3,745.00
+-48.00
+-1.27%
+
+CPG	Compass Group plc	
+2,533.50
+-16.00
+-0.63%
+
+CTEC	ConvaTec Group Plc	
+232.90
+-0.40
+-0.17%
+
+CRDA	Croda International plc	
+2,522.00
+-17.00
+-0.67%
+
+DCC	DCC plc	
+4,693.00
++48.00
++1.03%
+
+DGE	Diageo plc	
+2,063.50
++11.00
++0.54%
+
+DPLM	Diploma plc	
+5,425.00
++5.00
++0.09%
+
+EZJ	easyJet plc	
+495.30
++5.10
++1.04%
+
+EDV	Endeavour Mining plc	
+2,489.00
+-56.00
+-2.20%
+
+ENT	Entain plc	
+889.40
++4.00
++0.45%
+
+EXPN	Experian Plc	
+3,797.50
+-31.00
+-0.81%
+
+FCIT	F&C Investment Trust plc	
+1,167.50
+-2.00
+-0.17%
+
+FRES	Fresnillo	
+1,760.00
++3.00
++0.17%
+
+GAW	Games Workshop Group	
+15,575.00
+-170.00
+-1.08%
+
+GLEN	Glencore plc	
+295.30
++1.85
++0.63%
+
+GSK	GSK plc	
+1,461.75
+-15.50
+-1.05%
+
+HLN	Haleon plc	
+360.45
+-1.90
+-0.52%
+
+HLMA	Halma plc	
+3,303.00
++22.00
++0.67%
+
+HIK	Hikma Pharmaceuticals	
+1,812.50
+-30.00
+-1.63%
+
+HSX	Hiscox Ltd	
+1,318.50
+-14.00
+-1.05%
+
+HWDN	Howden Joinery Group Plc	
+848.25
+-3.50
+-0.41%
+
+HSBA	HSBC Holdings plc	
+955.45
++1.30
++0.14%
+
+ICG	ICG Plc	
+2,197.00
++14.00
++0.64%
+
+IMI	IMI plc	
+2,309.00
++6.00
++0.26%
+
+IMB	Imperial Brands Group	
+3,092.50
+-31.00
+-0.99%
+
+INF	Informa plc	
+875.20
+-8.40
+-0.95%
+
+IHG	InterContinental Hotels Group plc	
+9,011.00
++52.00
++0.58%
+
+IAG	International Consolidated Airlines Group SA	
+387.80
++3.20
++0.83%
+
+ITRK	Intertek Group plc	
+4,676.00
+-16.00
+-0.34%
+
+JD.	JD Sports Fashion plc	
+100.42
++3.04
++3.12%
+
+KGF	Kingfisher	
+263.45
+-2.70
+-1.01%
+
+LAND	Land Securities Group plc	
+558.25
+-13.00
+-2.27%
+
+LGEN	Legal & General Group plc	
+252.40
+-1.80
+-0.71%
+
+LLOY	Lloyds Banking Group plc	
+82.29
+-0.34
+-0.41%
+
+LSEG	London Stock Exchange Group plc	
+9,220.00
+-166.00
+-1.77%
+
+LMP	LondonMetric Property plc	
+185.90
+-4.40
+-2.31%
+
+MNG	M&G plc	
+266.50
+-2.30
+-0.86%
+
+MKS	Marks & Spencer Group plc	
+350.00
+-2.00
+-0.57%
+
+MRO	Melrose Industries plc	
+585.10
++1.20
++0.21%
+
+MNDI	Mondi plc	
+1,054.00
+-3.00
+-0.28%
+
+NG.	National Grid	
+1,049.25
+-8.50
+-0.80%
+
+NWG	NatWest Group plc	
+538.00
+-6.40
+-1.18%
+
+NXT	Next plc	
+12,010.00
+-185.00
+-1.52%
+
+PSON	Pearson plc	
+1,086.50
+-6.50
+-0.59%
+
+PSH	Pershing Square Holdings Ltd	
+4,335.00
++16.00
++0.37%
+
+PSN	Persimmon plc	
+1,081.25
+-12.50
+-1.14%
+
+PHNX	Phoenix Group Holdings Plc	
+686.75
+-5.00
+-0.72%
+
+PCT	Polar Capital Technology Trust plc	
+402.25
++1.50
++0.37%
+
+PRU	Prudential plc	
+966.90
++9.00
++0.94%
+
+RKT	Reckitt Benckiser Group Plc	
+5,517.00
+-50.00
+-0.90%
+
+REL	RELX plc	
+3,499.50
+-65.00
+-1.82%
+
+RTO	Rentokil Initial Plc	
+356.20
++2.50
++0.71%
+
+RMV	Rightmove plc	
+751.00
+-11.40
+-1.50%
+
+RIO	Rio Tinto plc	
+4,631.50
++61.00
++1.33%
+
+RR.	Rolls Royce Holdings Plc	
+1,059.75
++3.00
++0.28%
+
+SGE	Sage Group plc	
+1,085.00
+-4.00
+-0.37%
+
+SBRY	Sainsbury (J) plc	
+296.10
+-3.40
+-1.13%
+
+SDR	Schroders plc	
+386.20
+-1.40
+-0.36%
+
+SMT	Scottish Mortgage Investment Trust plc	
+1,103.75
++3.50
++0.32%
+
+SGRO	Segro Plc	
+633.30
++0.80
++0.13%
+
+SVT	Severn Trent Plc	
+2,585.50
+-28.00
+-1.07%
+
+SHEL	Shell plc	
+2,712.75
+-3.50
+-0.13%
+
+SN.	Smith & Nephew plc	
+1,380.00
+-2.00
+-0.14%
+
+SMIN	Smiths Group Plc	
+2,368.00
++4.00
++0.17%
+
+SPX	Spirax Group plc	
+7,270.00
++70.00
++0.97%
+
+SSE	SSE plc	
+1,757.25
+-23.50
+-1.32%
+
+STJ	St James's Place Plc	
+1,294.00
+-5.00
+-0.38%
+
+STAN	Standard Chartered plc	
+1,380.25
+-1.00
+-0.07%
+
+TW.	Taylor Wimpey plc	
+97.39
+-1.34
+-1.36%
+
+TSCO	Tesco plc	
+421.50
+-5.70
+-1.33%
+
+ULVR	Unilever plc	
+4,600.50
+-22.00
+-0.48%
+
+UTG	Unite Group	
+707.75
+-7.00
+-0.98%
+
+UU.	United Utilities Group Plc	
+1,151.00
+-12.50
+-1.07%
+
+VOD	Vodafone Group plc	
+87.97
+-1.38
+-1.54%
+
+WEIR	Weir Group plc	
+2,501.00
++48.00
++1.96%
+
+WTB	Whitbread plc	
+3,188.50
+-3.00
+-0.09%
+
+WPP	WPP plc	
+393.30
++1.70
++0.43%
