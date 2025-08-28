@@ -1,101 +1,1253 @@
-ID,Organization Name,GitHub URL
-1,3i Group Plc,no github presence
-2,Admiral Group,no github presence
-3,Airtel Africa plc,no github presence
-4,Alliance Witan plc,no github presence
-5,Anglo American Plc,no github presence
-6,Antofagasta plc,no github presence
-7,Ashtead Group plc,no github presence
-8,Associated British Foods plc,no github presence
-9,AstraZeneca plc,https://github.com/AstraZeneca
-10,Auto Trader Group plc,https://github.com/autotraderuk
-11,Aviva Plc,no github presence
-12,Babcock International Group,no github presence
-13,BAE Systems plc,https://github.com/baesystemsdigital
-14,Barclays plc,https://github.com/Barclays
-15,Barratt Redrow Plc,no github presence
-16,Beazley plc,https://github.com/BeazleyLabs
-17,Berkeley Group Holdings plc,no github presence
-18,BP Plc,https://github.com/bp
-19,British American Tobacco plc,no github presence
-20,BT Group plc,https://github.com/BT-OpenSource
-21,Bunzl plc,no github presence
-22,Centrica plc,https://github.com/ConnectedHomes 
-23,Coca-Cola Europacific Partners Plc,no github presence 
-24,Coca-Cola HBC AG,no github presence
-25,Compass Group plc,https://github.com/compassdigital 
-26,ConvaTec Group Plc,no github presence
-27,Croda International plc,no github presence
-28,DCC plc,no github presence
-29,Diageo plc,no github presence
-30,Diploma plc,no github presence
-31,easyJet plc,https://github.com/Easyjet
-32,Endeavour Mining plc, https://github.com/endeavourmining
-33,Entain plc, https://github.com/ladbrokescoral
-34,Experian Plc, https://github.com/experianplc
-35,F&C Investment Trust plc,no github presence
-36,Fresnillo,no github presence
-37,Games Workshop Group,https://github.com/Games-Workshop
-38,Glencore plc,no github presence
-39,GSK plc,https://github.com/GSK-Biostatistics
-40,Haleon plc,no github presence
-41,Halma plc, no github presence
-42,Hikma Pharmaceuticals,no github presence
-43,Hiscox Ltd, https://github.com/hiscox
-44,Howden Joinery Group Plc, no github presence
-45,HSBC Holdings plc, https://github.com/hsbc
-46,ICG Plc,no github presence
-47,IMI plc,no github presence
-48,Imperial Brands Group,no github presence
-49,Informa plc,no github presence
-50,InterContinental Hotels Group plc,no github presence
-51,International Consolidated Airlines Group SA,no github presence
-52,Intertek Group plc,no github presence
-53,JD Sports Fashion plc,https://github.com/JDSportsFashionPlc
-54,Kingfisher,no github presence
-55,Land Securities Group plc,https://github.com/Landsec
-56,Legal & General Group plc,https://github.com/Legal-and-General
-57,Lloyds Banking Group plc,https://github.com/lloyds-banking-group
-58,London Stock Exchange Group plc,https://github.com/LSEG
-59,LondonMetric Property plc,no github presence
-60,M&G plc,no github presence
-61,Marks & Spencer Group plc,https://github.com/Marksandspencer
-62,Melrose Industries plc,no github presence
-63,Mondi plc,no github presence
-64,National Grid,no github presence
-65,NatWest Group plc,https://github.com/natwest
-66,Next plc,no github presence
-67,Pearson plc,https://github.com/PearsonEducation
-68,Pershing Square Holdings Ltd,no github presence
-69,Persimmon plc,no github presence
-70,Phoenix Group Holdings Plc,no github presence
-71,Polar Capital Technology Trust plc,no github presence
-72,Prudential plc,https://github.com/prudential
-73,Reckitt Benckiser Group Plc,https://github.com/reckitt
-74,RELX plc,https://github.com/elsevierlabs-os
-75,Rentokil Initial Plc,no github presence
-76,Rightmove plc,https://github.com/rightmove
-77,Rio Tinto plc,https://github.com/rio-tinto
-78,Rolls Royce Holdings Plc,https://github.com/rropen
-79,Sage Group plc,https://github.com/Sage
-80,Sainsbury (J) plc,https://github.com/jsainsburyplc
-81,Schroders plc, https://github.com/Schroders
-82,Scottish Mortgage Investment Trust plc, no github presence
-83,Segro Plc, no github presence
-84,Severn Trent Plc,https://github.com/Severntrent
-85,Shell plc,no github presence
-86,Smith & Nephew plc,no github presence
-87,Smiths Group Plc,no github presence
-88,Spirax Group plc,no github presence
-89,SSE plc,no github presence
-90,St James's Place Plc,no github presence
-91,Standard Chartered plc,https://github.com/standardchartered
-92,Taylor Wimpey plc,no github presence
-93,Tesco plc,https://github.com/tesco
-94,Unilever plc,https://github.com/unilever
-95,Unite Group,https://github.com/UniteStudents
-96,United Utilities Group Plc,no github presence
-97,Vodafone Group plc,https://github.com/vodafone
-98,Weir Group plc,https://github.com/weirgroup
-99,Whitbread plc,no github presence
-100,WPP plc,https://github.com/WPP-Public3
+3IN	3i Infrastructure plc	
+343.50
+-2.00
+-0.58%
+
+FOUR	4imprint Group plc	
+3,410.00
+-15.00
+-0.44%
+
+ABDN	Aberdeen Group Plc	
+195.10
+-0.80
+-0.41%
+
+ASL	Aberforth Smaller Companies Trust plc	
+1,534.00
++8.00
++0.52%
+
+AAS	Abrdn Asia Focus Plc	
+349.00
++3.00
++0.87%
+
+AJB	AJ Bell Plc	
+513.00
+-4.00
+-0.77%
+
+ALFA	Alfa Financial Software Holdings Ltd	
+224.00
++2.50
++1.13%
+
+ATT	Allianz Technology Trust plc	
+466.00
++7.00
++1.53%
+
+ALPH	Alpha Group International plc	
+4,180.00
++5.00
++0.12%
+
+AO.	AO World plc	
+87.30
+-0.70
+-0.80%
+
+APAX	Apax Global Alpha Limited	
+163.00
++0.20
++0.12%
+
+ASHM	Ashmore Group plc	
+179.60
++0.80
++0.45%
+
+AIE	Ashoka India Equity Inv Trust Plc	
+265.50
+-0.50
+-0.19%
+
+ASC	ASOS plc	
+291.00
+-9.50
+-3.16%
+
+AML	Aston Martin Lagonda	
+76.80
++0.50
++0.66%
+
+ATYM	Atalaya Mining Copper SA	
+533.00
++8.00
++1.52%
+
+ATG	Auction Technology Group plc	
+340.00
++1.50
++0.44%
+
+AGT	AVI Global Trust plc	
+262.50
++0.50
++0.19%
+
+AVON	Avon Technologies Plc	
+1,936.00
+0.00
+0.00%
+
+BME	B&M European Value Retail SA	
+243.40
++0.30
++0.12%
+
+BGFD	Baillie Gifford Japan Trust plc	
+906.00
++10.00
++1.12%
+
+USA	Baillie Gifford US Growth Trust plc	
+269.00
++2.00
++0.75%
+
+BAKK	Bakkavor Group Plc	
+232.00
+-1.00
+-0.43%
+
+BBY	Balfour Beatty plc	
+587.00
+-2.00
+-0.34%
+
+BCG	Baltic Classifieds Group plc	
+332.00
++3.50
++1.07%
+
+BNKR	Bankers Investment Trust plc	
+124.00
++0.20
++0.16%
+
+BAG	Barr (A.G.)	
+683.00
+-1.00
+-0.15%
+
+BWY	Bellway plc	
+2,372.00
+-32.00
+-1.33%
+
+BHMG	BH Macro Ltd	
+394.00
+0.00
+0.00%
+
+BYG	Big Yellow Group	
+924.00
+-2.00
+-0.22%
+
+BRGE	BlackRock Greater Europe Investment Trust plc	
+573.00
++1.00
++0.17%
+
+BRSC	BlackRock Smaller Companies Trust plc	
+1,310.00
++10.00
++0.77%
+
+THRG	BlackRock Throgmorton Trust plc	
+592.00
++1.00
++0.17%
+
+BRWM	BlackRock World Mining Trust plc	
+565.00
+-1.00
+-0.18%
+
+BMY	Bloomsbury Publishing plc	
+492.50
++4.00
++0.82%
+
+BSIF	Bluefield Solar Income Fund Limited	
+89.70
+-2.30
+-2.50%
+
+BOY	Bodycote plc	
+638.50
++4.00
++0.63%
+
+BREE	Breedon Group plc	
+365.80
+-1.00
+-0.27%
+
+BPT	Bridgepoint Group plc	
+341.80
++7.60
++2.27%
+
+BLND	British Land Co plc	
+337.40
+-3.00
+-0.88%
+
+BUT	Brunner Investment Trust plc	
+1,430.00
++6.00
++0.42%
+
+BRBY	Burberry Group plc	
+1,315.00
++10.00
++0.77%
+
+BYIT	Bytes Technology Group plc	
+402.80
++2.80
++0.70%
+
+CCR	C & C Group plc	
+173.60
+-1.00
+-0.57%
+
+CLDN	Caledonia Investments plc	
+370.00
+0.00
+0.00%
+
+CGT	Capital Gearing Trust plc	
+4,840.00
+-20.00
+-0.41%
+
+CCL	Carnival plc	
+2,185.00
++13.00
++0.60%
+
+CHG	Chemring Group plc	
+540.00
+-2.00
+-0.37%
+
+CSN	Chesnara plc	
+282.50
+-4.50
+-1.57%
+
+CHRY	Chrysalis Investments Limited	
+116.20
+-1.40
+-1.19%
+
+CTY	City Of London Investment Trust	
+501.00
+-3.00
+-0.60%
+
+CKN	Clarkson plc	
+3,565.00
+-40.00
+-1.11%
+
+CBG	Close Brothers Group plc	
+477.00
++3.40
++0.72%
+
+CMCX	CMC Markets Plc	
+228.00
+-1.50
+-0.65%
+
+COA	Coats Group plc	
+77.60
++0.60
++0.78%
+
+CCC	Computacenter plc	
+2,310.00
+-4.00
+-0.17%
+
+CWK	Cranswick plc	
+5,120.00
+-110.00
+-2.10%
+
+CRST	Crest Nicholson Holdings plc	
+155.00
+-7.10
+-4.38%
+
+CURY	Currys plc	
+113.30
++1.50
++1.34%
+
+ROO	Deliveroo plc	
+178.60
++0.10
++0.06%
+
+DLN	Derwent London plc	
+1,714.00
+-6.00
+-0.35%
+
+DSCV	DiscoverIE Group plc	
+630.00
++8.00
++1.29%
+
+DEC	Diversified Energy Company plc	
+1,196.00
+-26.00
+-2.13%
+
+DOM	Domino's Pizza Group plc	
+200.60
+-2.80
+-1.38%
+
+DWL	Dowlais Group plc	
+79.00
+-0.10
+-0.13%
+
+DOCS	Dr Martens plc	
+89.55
+-3.35
+-3.61%
+
+DRX	Drax Group plc	
+650.50
+-53.00
+-7.53%
+
+DNLM	Dunelm Group Plc	
+1,220.00
+-5.00
+-0.41%
+
+EDIN	Edinburgh Investment Trust plc	
+805.00
+-2.00
+-0.25%
+
+EWI	Edinburgh Worldwide Investment Trust	
+193.00
+-0.20
+-0.10%
+
+ELM	Elementis plc	
+165.20
++2.20
++1.35%
+
+ESP	Empiric Student Property plc	
+91.70
+-0.30
+-0.33%
+
+ENOG	Energean	
+942.00
+-18.00
+-1.88%
+
+EOT	European Opportunities Trust plc	
+928.00
++1.00
++0.11%
+
+FCSS	Fidelity China Special Situations PLC	
+300.00
++4.00
++1.35%
+
+FEML	Fidelity Emerging Markets Limited	
+854.00
+-1.00
+-0.12%
+
+FEV	Fidelity European Trust plc	
+407.00
+0.00
+0.00%
+
+FSV	Fidelity Special Values plc	
+381.00
+-2.50
+-0.65%
+
+FGT	Finsbury Growth & Income Trust plc	
+894.00
+-8.00
+-0.89%
+
+FGP	FirstGroup plc	
+223.80
+-2.60
+-1.15%
+
+FGEN	Foresight Environmental Infrastructure Ltd	
+79.50
+0.00
+0.00%
+
+FSG	Foresight Group Holdings Ltd	
+466.00
++4.00
++0.87%
+
+FSFL	Foresight Solar Fund Ltd	
+82.00
+0.00
+0.00%
+
+FRAS	Frasers Group plc	
+686.00
++0.50
++0.07%
+
+FUTR	Future plc	
+750.50
+-6.50
+-0.86%
+
+GAMA	Gamma Communications plc	
+1,070.00
+-22.00
+-2.01%
+
+GCP	GCP Infrastructure Investments Ltd	
+73.60
+-0.10
+-0.14%
+
+GEN	Genuit Group plc	
+345.50
+-4.50
+-1.29%
+
+GNS	Genus plc	
+2,640.00
+0.00
+0.00%
+
+GDWN	Goodwin plc	
+9,600.00
++200.00
++2.13%
+
+GFTU	Grafton Group	
+873.90
+-2.70
+-0.31%
+
+GRI	Grainger Plc	
+196.80
+-1.20
+-0.61%
+
+GPE	Great Portland Estates	
+308.00
+0.00
+0.00%
+
+UKW	Greencoat UK Wind plc	
+110.40
++2.00
++1.85%
+
+GNC	Greencore Group plc	
+252.50
+-3.50
+-1.37%
+
+GRG	Greggs Plc	
+1,590.00
+-12.00
+-0.75%
+
+HMSO	Hammerson Plc	
+289.00
+-1.20
+-0.41%
+
+HBR	Harbour Energy plc	
+228.00
+-1.00
+-0.44%
+
+HVPE	Harbourvest Global Private Equity	
+2,760.00
+0.00
+0.00%
+
+HWG	Harworth Group plc	
+176.00
+-1.00
+-0.56%
+
+HAS	Hays plc	
+61.60
+-0.50
+-0.81%
+
+HTWS	Helios Towers plc	
+131.00
+-1.40
+-1.06%
+
+HET	Henderson European Trust plc	
+205.50
+-0.50
+-0.24%
+
+HSL	Henderson Smaller Cos Investment Trust plc	
+858.00
+-17.00
+-1.94%
+
+HRI	Herald Investment Trust plc	
+2,360.00
++25.00
++1.07%
+
+HGT	HG Capital Trust plc	
+502.00
+-2.00
+-0.40%
+
+HICL	HICL Infrastructure plc	
+119.80
+-0.20
+-0.17%
+
+HILS	Hill & Smith Plc	
+2,145.00
++5.00
++0.23%
+
+HFG	Hilton Food Group Plc	
+830.00
+-9.00
+-1.07%
+
+HOC	Hochschild Mining Plc	
+272.60
+-5.40
+-1.94%
+
+
+
+BOWL	Hollywood Bowl Group Plc	
+253.50
++1.50
++0.60%
+
+HTG	Hunting plc	
+322.50
+-9.50
+-2.86%
+
+IBST	Ibstock plc	
+140.00
++1.60
++1.16%
+
+ICGT	ICG Enterprise Trust plc	
+1,442.00
+-10.00
+-0.69%
+
+IGG	IG Group Holdings Plc	
+1,138.00
+-13.00
+-1.13%
+
+IEM	Impax Environmental Markets plc	
+398.00
++1.00
++0.25%
+
+INCH	Inchcape plc	
+677.00
++1.00
++0.15%
+
+IHP	Integrafin Holdings Plc	
+351.50
++2.00
++0.57%
+
+INPP	International Public Partnerships Limited	
+121.00
+-0.40
+-0.33%
+
+IWG	International Workplace Group Plc	
+203.20
+-2.80
+-1.36%
+
+IAD	Invesco Asia Dragon Trust Plc	
+374.00
++2.00
++0.54%
+
+INVP	Investec Plc	
+552.50
++9.50
++1.75%
+
+IPO	IP Group Plc	
+61.00
++0.10
++0.16%
+
+ITH	Ithaca Energy plc	
+227.50
++1.50
++0.66%
+
+ITV	ITV plc	
+82.10
++1.05
++1.30%
+
+JDW	J D Wetherspoon plc	
+710.00
+-3.50
+-0.49%
+
+JMAT	Johnson Matthey Plc	
+1,930.00
++7.00
++0.36%
+
+JAM	JPMorgan American Investment Trust plc	
+1,076.00
+-2.00
+-0.19%
+
+JMG	JPMorgan Emerging Markets Investment Trust plc	
+119.60
+-0.80
+-0.66%
+
+JEDT	JPMorgan European Discovery Trust plc	
+572.00
+0.00
+0.00%
+
+JEGI	JPMorgan European Growth & Income plc	
+127.00
+0.00
+0.00%
+
+JGGI	JPMorgan Global Growth & Income plc	
+567.00
+-4.00
+-0.70%
+
+JII	JPMorgan Indian Investment Trust plc	
+1,036.00
+-6.00
+-0.58%
+
+JFJ	JPMorgan Japanese Investment Trust plc	
+678.00
++6.00
++0.89%
+
+JTC	JTC Plc	
+980.00
++25.00
++2.62%
+
+JUP	Jupiter Fund Management PLC	
+127.80
++0.40
++0.31%
+
+JUST	Just Group plc	
+211.00
+-0.50
+-0.24%
+
+KNOS	Kainos Group plc	
+695.00
++0.50
++0.07%
+
+KLR	Keller Group	
+1,310.00
+0.00
+0.00%
+
+KIE	Kier Group plc	
+192.80
+-0.80
+-0.41%
+
+LRE	Lancashire Holdings	
+613.00
+-3.00
+-0.49%
+
+LWDB	Law Debenture Corporation plc	
+994.00
+-4.00
+-0.40%
+
+BGEO	Lion Finance Group Plc	
+7,415.00
+-5.00
+-0.07%
+
+EMG	Man Group plc	
+165.90
+-1.70
+-1.01%
+
+MSLH	Marshalls Plc	
+180.80
+-1.20
+-0.66%
+
+MEGP	ME Group International plc	
+199.80
+-1.20
+-0.60%
+
+MRC	Mercantile Investment Trust Plc	
+250.00
+0.00
+0.00%
+
+MRCH	Merchants Trust plc	
+556.00
++1.00
++0.18%
+
+MTRO	Metro Bank Holdings plc	
+127.80
+-1.80
+-1.39%
+
+MAB	Mitchells & Butlers Plc	
+263.50
+-1.50
+-0.57%
+
+MTO	Mitie Group	
+141.20
+-0.80
+-0.56%
+
+GROW	Molten Ventures plc	
+361.00
++5.20
++1.46%
+
+MNKS	Monks Investment Trust plc	
+1,416.00
++2.00
++0.14%
+
+MONY	Mony Group Plc	
+200.60
++0.60
++0.30%
+
+MOON	Moonpig Group Plc	
+205.00
++0.50
++0.24%
+
+MGAM	Morgan Advanced Materials plc	
+213.50
++1.50
++0.71%
+
+MGNS	Morgan Sindall Group Plc	
+4,230.00
+-25.00
+-0.59%
+
+MUT	Murray Income Trust plc	
+894.00
+0.00
+0.00%
+
+MYI	Murray International Trust plc	
+296.00
+-1.50
+-0.50%
+
+NBPE	NB Private Equity Partners Ltd	
+1,390.00
++10.00
++0.72%
+
+NCC	NCC Group plc	
+143.60
+-2.60
+-1.78%
+
+NESF	NextEnergy Solar Fund Ltd	
+68.00
+0.00
+0.00%
+
+N91	Ninety One plc	
+192.00
++0.90
++0.47%
+
+NAS	North Atlantic Smaller Cos Inv Tst plc	
+375.00
++1.00
++0.27%
+
+OCDO	Ocado Group plc	
+340.00
+-3.90
+-1.13%
+
+OCN	Ocean Wilsons Holdings Ltd	
+1,210.00
++10.00
++0.83%
+
+OSB	OSB Group plc	
+548.00
+-7.50
+-1.35%
+
+OXIG	Oxford Instruments plc	
+1,834.00
++24.00
++1.33%
+
+ONT	Oxford Nanopore Technologies plc	
+187.20
+-8.00
+-4.10%
+
+PHI	Pacific Horizon Investment Trust plc	
+676.00
+-1.00
+-0.15%
+
+PAGE	PageGroup plc	
+240.00
+-7.80
+-3.15%
+
+PINT	Pantheon Infrastructure Plc	
+103.50
++1.00
++0.98%
+
+PIN	Pantheon International Plc	
+327.50
+-1.50
+-0.46%
+
+PAG	Paragon Banking Group plc	
+891.00
+-2.00
+-0.22%
+
+PPET	Patria Private Equity Trust Plc	
+548.00
+0.00
+0.00%
+
+PAY	Paypoint Plc	
+715.00
+-7.00
+-0.97%
+
+PNN	Pennon Group	
+476.40
+-5.60
+-1.16%
+
+PNL	Personal Assets Trust plc	
+514.00
++1.00
++0.19%
+
+PHLL	Petershill Partners plc	
+238.00
+-1.00
+-0.42%
+
+PETS	Pets At Home Group PLC	
+227.80
+-1.20
+-0.52%
+
+PTEC	Playtech plc	
+420.00
+-1.00
+-0.24%
+
+PLUS	Plus500 Ltd	
+3,072.00
+-32.00
+-1.03%
+
+PCFT	Polar Capital Global Financials Trust plc	
+210.00
+-0.50
+-0.24%
+
+POLN	Pollen Street Group Limited	
+860.00
++4.00
++0.47%
+
+PPH	PPHE Hotel Group Ltd	
+1,370.00
+-264.00
+-16.16%
+
+PFD	Premier Foods plc	
+189.20
+-3.60
+-1.87%
+
+PHP	Primary Health Properties plc	
+92.20
+-0.95
+-1.02%
+
+PRSR	PRS REIT	
+101.80
+-2.00
+-1.93%
+
+QQ.	QinetiQ Group plc	
+477.40
+-2.60
+-0.54%
+
+QLT	Quilter plc	
+163.70
+-0.50
+-0.30%
+
+RNK	Rank Group	
+136.00
++0.40
++0.29%
+
+RPI	Raspberry Pi Holdings plc	
+440.00
++5.00
++1.15%
+
+RAT	Rathbones Group plc	
+1,852.00
+-4.00
+-0.22%
+
+RSW	Renishaw plc	
+3,280.00
++85.00
++2.66%
+
+RHIM	RHI Magnesita NV	
+2,085.00
+-80.00
+-3.70%
+
+RCP	RIT Capital Partners plc	
+1,952.00
+-12.00
+-0.61%
+
+ROR	Rotork plc	
+347.00
+-0.40
+-0.12%
+
+RS1	RS Group plc	
+570.00
++0.50
++0.09%
+
+RICA	Ruffer Investment Co Ltd	
+284.50
+0.00
+0.00%
+
+SAFE	Safestore Holdings	
+643.50
++1.50
++0.23%
+
+SVS	Savills plc	
+916.00
+-14.00
+-1.51%
+
+SDP	Schroder Asia Pacific Fund	
+612.00
+-1.00
+-0.16%
+
+SOI	Schroder Oriental Income Fund	
+304.00
+0.00
+0.00%
+
+SAIN	Scottish American Investment Co plc	
+508.00
+0.00
+0.00%
+
+SEIT	SDCL Efficiency Income Trust Plc	
+57.90
++0.10
++0.17%
+
+SNR	Senior plc	
+200.50
++3.50
++1.78%
+
+SEQI	Sequoia Economic Infrastructure Income Fund Ltd	
+78.80
+-0.60
+-0.76%
+
+SRP	Serco Group plc	
+218.80
+-3.60
+-1.62%
+
+SHC	Shaftesbury Capital Plc	
+146.20
+-1.20
+-0.81%
+
+SRE	Sirius Real Estate Limited	
+101.10
+-0.60
+-0.59%
+
+SSON	Smithson Investment Trust Plc	
+1,496.00
++2.00
++0.13%
+
+SCT	Softcat plc	
+1,624.00
++59.00
++3.77%
+
+SXS	Spectris plc	
+4,040.00
+0.00
+0.00%
+
+SPI	Spire Healthcare Group plc	
+221.00
+-2.00
+-0.90%
+
+SPT	Spirent Communications plc	
+196.40
+-0.20
+-0.10%
+
+SSPG	SSP Group plc	
+156.90
++0.90
++0.58%
+
+SUPR	Supermarket Income REIT plc	
+78.50
++0.30
++0.38%
+
+SYNC	Syncona Limited	
+95.70
+-0.60
+-0.62%
+
+THRL	Target Healthcare REIT plc	
+96.20
++0.10
++0.10%
+
+TATE	Tate & Lyle plc	
+539.50
++0.50
++0.09%
+
+TBCG	TBC Bank Group Plc	
+4,440.00
+-40.00
+-0.89%
+
+TEP	Telecom Plus plc	
+1,882.00
+-6.00
+-0.32%
+
+TMPL	Temple Bar Investment Trust plc	
+342.00
+0.00
+0.00%
+
+TEM	Templeton Emerging Markets Investment Trust plc	
+199.60
+-0.90
+-0.45%
+
+ESCT	The European Smaller Companies Trust plc	
+214.50
+0.00
+0.00%
+
+GSCT	The Global Smaller Companies Trust Plc	
+169.60
+0.00
+0.00%
+
+TRIG	The Renewables Infrastructure Group Limited	
+77.40
++0.10
++0.13%
+
+TCAP	TP ICAP Group plc	
+281.00
+-1.50
+-0.53%
+
+TRY	TR Property Investment Trust plc	
+321.00
+-1.50
+-0.47%
+
+TRN	Trainline plc	
+264.80
+-3.20
+-1.19%
+
+TPK	Travis Perkins plc	
+605.00
+-5.50
+-0.90%
+
+BBOX	Tritax Big Box REIT plc	
+140.10
+-0.70
+-0.50%
+
+TRST	Trustpilot Group plc	
+210.20
+-0.20
+-0.10%
+
+TFIF	TwentyFour Income Fund Ltd	
+112.40
++0.40
++0.36%
+
+VSVS	Vesuvius plc	
+374.80
++5.80
++1.57%
+
+VCT	Victrex	
+718.00
++9.00
++1.27%
+
+VEIL	Vietnam Enterprise Investments Ltd	
+741.00
+-1.00
+-0.13%
+
+VOF	VinaCapital Vietnam Opportunity Fund Ltd	
+495.00
++1.00
++0.20%
+
+VTY	Vistry Group Plc	
+622.20
+-3.80
+-0.61%
+
+FAN	Volution Group plc	
+627.00
+-3.00
+-0.48%
+
+WPS	WAG Payment Solutions plc	
+96.00
++1.00
++1.05%
+
+WHR	Warehouse REIT plc	
+113.40
+0.00
+0.00%
+
+WOSG	Watches Of Switzerland Group plc	
+333.40
+-0.40
+-0.12%
+
+SMWH	WH Smith Plc	
+706.50
++17.50
++2.54%
+
+WIX	Wickes Group Plc	
+201.50
+0.00
+0.00%
+
+WIZZ	Wizz Air Holdings plc	
+1,385.00
++23.00
++1.69%
+
+WKP	Workspace Group Plc	
+405.50
+-3.50
+-0.86%
+
+WWH	Worldwide Healthcare Trust plc	
+332.00
+-2.50
+-0.75%
+
+XPS	XPS Pensions Group Plc	
+349.50
+0.00
+0.00%
+
+ZIG	Zigup Plc	
+318.00
+-22.50
+-6.61%
+
+« Previous	Page: 1 2 3	
