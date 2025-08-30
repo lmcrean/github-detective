@@ -1,5 +1,5 @@
-org,repo,github_repo_url,last_committed,days_since_commit,stars,language,commits_last_30d,merges_last_30d,repo_health_score
-Sage,carbon,https://github.com/Sage/carbon ,2025-08-28,0,292,TypeScript,77,28,52.5
+org,repo,github_repo_url,last_committed,days_since_commit,stars,language,commits_last_30d,merges_last_30d, repo_health_score, note
+Sage,carbon,https://github.com/Sage/carbon ,2025-08-28,0,292,TypeScript,77,28,52.5,, REVIEWED: SKIP. Automation Risk is too high.
 rropen,terraform-provider-cscdm,https://github.com/rropen/terraform-provider-cscdm ,2025-08-15,13,0,Go,10,2,6.0
 GSK-Biostatistics,docorator,https://github.com/GSK-Biostatistics/docorator ,2025-08-28,0,0,R,10,1,5.5
 elsevierlabs-os,linked-data,https://github.com/elsevierlabs-os/linked-data ,2025-08-14,14,34,TypeScript,9,1,5.0
