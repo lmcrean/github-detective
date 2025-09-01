@@ -44,51 +44,27 @@ class FTSE100ReposByIssuesCollector:
         if not self.github_token:
             logger.warning("No GitHub token found. API rate limits will be restricted.")
         
+    def extract_org_from_url(self, github_url: str) -> Optional[str]:
+        """Extract organization name from GitHub URL."""
+        if not github_url or github_url.lower() == "no github presence":
+            return None
+        
+        # Extract from https://github.com/OrgName format
+        if "github.com/" in github_url:
+            # Split by github.com/ and take the part after it
+            org_part = github_url.split("github.com/")[-1]
+            # Remove any trailing slashes or paths
+            org_name = org_part.strip("/").split("/")[0]
+            return org_name if org_name else None
+        
+        return None
+    
     def parse_org_from_name(self, org_name: str) -> Optional[str]:
-        """Convert organization name to GitHub username."""
-        # Simple mapping for known organizations
-        # This could be enhanced with a more comprehensive mapping
-        org_mapping = {
-            '3i Group Plc': '3i',
-            'Admiral Group': 'admiralgroup',
-            'AstraZeneca plc': 'AstraZeneca',
-            'Auto Trader Group plc': 'autotraderuk',
-            'Aviva Plc': 'aviva-group',
-            'BAE Systems plc': 'baesystems',
-            'Barclays plc': 'Barclays',
-            'BP Plc': 'bp',
-            'British American Tobacco plc': 'bat',
-            'BT Group plc': 'bt',
-            'Burberry Group plc': 'Burberry',
-            'Centrica plc': 'centrica',
-            'Diageo plc': 'Diageo',
-            'GSK plc': 'GSK-Biostatistics',
-            'HSBC Holdings plc': 'hsbc',
-            'Lloyds Banking Group plc': 'LBG-Open-Source',
-            'London Stock Exchange Group plc': 'lseg',
-            'National Grid plc': 'nationalgrid',
-            'Pearson plc': 'Pearson-Higher-Ed',
-            'Prudential plc': 'Prudential',
-            'Rolls-Royce Holdings plc': 'rolls-royce',
-            'Sage Group plc': 'Sage',
-            'Shell plc': 'Shell',
-            'Standard Chartered plc': 'standard-chartered',
-            'Tesco plc': 'Tesco',
-            'Unilever plc': 'Unilever',
-            'Vodafone Group plc': 'Vodafone',
-            'Whitbread plc': 'whitbread',
-            'WPP plc': 'wpp'
-        }
-        
-        # Try direct mapping first
-        if org_name in org_mapping:
-            return org_mapping[org_name]
-        
-        # Try to extract a simple name
-        simple_name = org_name.replace(' plc', '').replace(' Plc', '').replace(' Group', '').replace(' Holdings', '')
-        simple_name = simple_name.replace(' ', '').lower()
-        
-        return simple_name if simple_name else None
+        """Convert organization name to GitHub username (DEPRECATED - kept for backward compatibility)."""
+        # This method is deprecated in favor of reading directly from CSV
+        # Keeping minimal mapping for fallback purposes
+        logger.warning(f"Using deprecated parse_org_from_name for {org_name}")
+        return None
     
     def calculate_days_since(self, date_str: str) -> int:
         """Calculate days since a given date."""
@@ -264,28 +240,34 @@ class FTSE100ReposByIssuesCollector:
             logger.error(f"Input file not found: {self.input_file}")
             return
         
-        # Read FTSE-100 organizations
+        # Read FTSE-100 organizations with GitHub URLs
         orgs_to_process = []
         with open(self.input_file, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 org_name = row.get('Organization Name', '')
-                if org_name:
-                    # Try to get GitHub org name
-                    github_org = self.parse_org_from_name(org_name)
+                github_url = row.get('GitHub URL', '')
+                
+                if org_name and github_url:
+                    # Extract GitHub org name from URL
+                    github_org = self.extract_org_from_url(github_url)
                     if github_org:
                         org_info = {
                             'company': org_name,
-                            'org_name': github_org
+                            'org_name': github_org,
+                            'github_url': github_url
                         }
                         orgs_to_process.append(org_info)
+                        logger.debug(f"Found {org_name} -> {github_org}")
         
-        logger.info(f"Found {len(orgs_to_process)} organizations to check")
+        logger.info(f"Found {len(orgs_to_process)} organizations with GitHub presence")
         
-        # Try known active organizations first
-        known_active_orgs = ['Sage', 'GSK-Biostatistics', 'LBG-Open-Source', 'Vodafone', 
-                             'baesystems', 'hsbc', 'bp', 'Shell', 'Unilever', 'Barclays',
-                             'AstraZeneca', 'Diageo', 'Pearson-Higher-Ed', 'bt', 'Tesco']
+        # Try known active organizations first (updated with correct names from CSV)
+        known_active_orgs = ['Sage', 'GSK-Biostatistics', 'lloyds-banking-group', 'vodafone', 
+                             'baesystemsdigital', 'hsbc', 'bp', 'unilever', 'Barclays',
+                             'AstraZeneca', 'PearsonEducation', 'BT-OpenSource', 'tesco',
+                             'autotraderuk', 'experianplc', 'Legal-and-General', 'elsevierlabs-os',
+                             'WPP-Public', 'rropen']
         
         processed_orgs = set()
         
@@ -295,16 +277,17 @@ class FTSE100ReposByIssuesCollector:
             repos = self.get_org_repositories_filtered(org)
             if repos:
                 self.results.extend(repos)
-                processed_orgs.add(org)
+                processed_orgs.add(org.lower())  # Store as lowercase for comparison
             logger.info(f"Total repositories collected so far: {len(self.results)}")
         
         # Process remaining organizations
         for org_info in orgs_to_process:
-            if org_info['org_name'] not in processed_orgs:
+            if org_info['org_name'].lower() not in processed_orgs:
                 logger.info(f"\nProcessing {org_info['company']} ({org_info['org_name']})")
                 repos = self.get_org_repositories_filtered(org_info['org_name'])
                 if repos:
                     self.results.extend(repos)
+                    processed_orgs.add(org_info['org_name'].lower())
                 logger.info(f"Total repositories collected so far: {len(self.results)}")
     
     def save_results(self):
