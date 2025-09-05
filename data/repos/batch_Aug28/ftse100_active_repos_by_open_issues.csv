@@ -8,7 +8,7 @@ bp,ResSimpy,https://github.com/bp/ResSimpy, 2025-08-26,5,19,Python,10,0,5.0,34,1
 GSK-Biostatistics,tfrmtbuilder,https://github.com/GSK-Biostatistics/tfrmtbuilder,2024-10-11,324,5,R,0,0,0.0,23,2
 hsbc,jdbc-inquirer,https://github.com/hsbc/jdbc-inquirer, 2025-08-19,12,2,Java,0,0,0.0,20,5
 AstraZeneca,jazzy,https://github.com/AstraZeneca/jazzy, 2025-08-21,10,84,Python,0,0,0.0,19,3
-Legal-and-General,canopy,https://github.com/Legal-and-General/canopy, 2025-08-22,8,22,TypeScript,1,0,0.5,19,51
+Legal-and-General,canopy,https://github.com/Legal-and-General/canopy, 2025-08-22,8,22,TypeScript,1,0,0.5,19,51 ## design avoid
 WPP-Public,Masdar-Freezone,https://github.com/WPP-Public/Masdar-Freezone,2024-11-01,303,0,HTML,0,0,0.0,16,3
 GSK-Biostatistics,slushy,https://github.com/GSK-Biostatistics/slushy, 2025-01-14,228,20,R,0,0,0.0,15,6
 hsbc,go-api-pagination,https://github.com/hsbc/go-api-pagination, 2025-08-27,3,5,Go,0,0,0.0,12,4
